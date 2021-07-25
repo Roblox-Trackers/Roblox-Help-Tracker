@@ -10,4 +10,4 @@ Name|URL
 [行動裝置：查看您的道具欄](./行動裝置：查看您的道具欄.html) |https://en.help.roblox.com/hc/zh-tw/articles/360000344426-%E8%A1%8C%E5%8B%95%E8%A3%9D%E7%BD%AE-%E6%9F%A5%E7%9C%8B%E6%82%A8%E7%9A%84%E9%81%93%E5%85%B7%E6%AC%84
 [行動裝置：群組](./行動裝置：群組.html) |https://en.help.roblox.com/hc/zh-tw/articles/203313490-%E8%A1%8C%E5%8B%95%E8%A3%9D%E7%BD%AE-%E7%BE%A4%E7%B5%84
 [行動裝置：好友邀請](./行動裝置：好友邀請.html) |https://en.help.roblox.com/hc/zh-tw/articles/203313480-%E8%A1%8C%E5%8B%95%E8%A3%9D%E7%BD%AE-%E5%A5%BD%E5%8F%8B%E9%82%80%E8%AB%8B
-[移動：搜索和瀏覽遊戲](./移動：搜索和瀏覽遊戲.html) |https://en.help.roblox.com/hc/zh-tw/articles/203313460-%E7%A7%BB%E5%8B%95-%E6%90%9C%E7%B4%A2%E5%92%8C%E7%80%8F%E8%A6%BD%E9%81%8A%E6%88%B2
+[行動裝置：搜尋和瀏覽遊戲](./行動裝置：搜尋和瀏覽遊戲.html) |https://en.help.roblox.com/hc/zh-tw/articles/203313460-%E8%A1%8C%E5%8B%95%E8%A3%9D%E7%BD%AE-%E6%90%9C%E5%B0%8B%E5%92%8C%E7%80%8F%E8%A6%BD%E9%81%8A%E6%88%B2
