@@ -3,7 +3,7 @@
 Name|URL
 -|-
 [我可以在 Roblox 中使用 Xbox One 来做什么？](./我可以在 Roblox 中使用 Xbox One 来做什么？.html) |https://en.help.roblox.com/hc/zh-cn/articles/207850783-%E6%88%91%E5%8F%AF%E4%BB%A5%E5%9C%A8-Roblox-%E4%B8%AD%E4%BD%BF%E7%94%A8-Xbox-One-%E6%9D%A5%E5%81%9A%E4%BB%80%E4%B9%88-
-[Xbox One应用程序：如何玩Roblox游戏](./Xbox One应用程序：如何玩Roblox游戏.html) |https://en.help.roblox.com/hc/zh-cn/articles/205091984-Xbox-One%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F-%E5%A6%82%E4%BD%95%E7%8E%A9Roblox%E6%B8%B8%E6%88%8F
+[Xbox One App：如何玩 Roblox 游戏](./Xbox One App：如何玩 Roblox 游戏.html) |https://en.help.roblox.com/hc/zh-cn/articles/205091984-Xbox-One-App-%E5%A6%82%E4%BD%95%E7%8E%A9-Roblox-%E6%B8%B8%E6%88%8F
 [Xbox One应用程序：我可以在我的国家玩Roblox吗？](./Xbox One应用程序：我可以在我的国家玩Roblox吗？.html) |https://en.help.roblox.com/hc/zh-cn/articles/360000334743-Xbox-One%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F-%E6%88%91%E5%8F%AF%E4%BB%A5%E5%9C%A8%E6%88%91%E7%9A%84%E5%9B%BD%E5%AE%B6%E7%8E%A9Roblox%E5%90%97-
 [Xbox One App：如何更改语言](./Xbox One App：如何更改语言.html) |https://en.help.roblox.com/hc/zh-cn/articles/360000273466-Xbox-One-App-%E5%A6%82%E4%BD%95%E6%9B%B4%E6%94%B9%E8%AF%AD%E8%A8%80
 [Xbox One应用程序：登录到您的Roblox帐户](./Xbox One应用程序：登录到您的Roblox帐户.html) |https://en.help.roblox.com/hc/zh-cn/articles/205662594-Xbox-One%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F-%E7%99%BB%E5%BD%95%E5%88%B0%E6%82%A8%E7%9A%84Roblox%E5%B8%90%E6%88%B7
