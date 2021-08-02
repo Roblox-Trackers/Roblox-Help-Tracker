@@ -18,4 +18,4 @@ Name|URL
 [Ciclo Infinito de "Getting Latest Roblox"](./Ciclo Infinito de -Getting Latest Roblox-.html) |https://en.help.roblox.com/hc/es/articles/203312940-Ciclo-Infinito-de-Getting-Latest-Roblox-
 [Plugin Roblox Launcher](./Plugin Roblox Launcher.html) |https://en.help.roblox.com/hc/es/articles/203313020-Plugin-Roblox-Launcher
 [Qué Hacer si Tu Antivirus ha Marcado a Roblox](./Qué Hacer si Tu Antivirus ha Marcado a Roblox.html) |https://en.help.roblox.com/hc/es/articles/203313030-Qu%C3%A9-Hacer-si-Tu-Antivirus-ha-Marcado-a-Roblox
-[Clock Reset or Failed to get URL: Httpsendrequest failed, err = 0x2f05](./Clock Reset or Failed to get URL- Httpsendrequest failed, err = 0x2f05.html) |https://en.help.roblox.com/hc/es/articles/203312830-Clock-Reset-or-Failed-to-get-URL-Httpsendrequest-failed-err-0x2f05
+[Restablecimiento del reloj o no se pudo obtener la URL: Httpsendrequest falló, err = 0x2f05](./Restablecimiento del reloj o no se pudo obtener la URL- Httpsendrequest falló, err = 0x2f05.html) |https://en.help.roblox.com/hc/es/articles/203312830-Restablecimiento-del-reloj-o-no-se-pudo-obtener-la-URL-Httpsendrequest-fall%C3%B3-err-0x2f05
