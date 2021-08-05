@@ -2,7 +2,7 @@
 ### Articles in this section
 Name|URL
 -|-
-[配置你場所的聊天風格](./配置你場所的聊天風格.html) |https://en.help.roblox.com/hc/zh-tw/articles/360019904552-%E9%85%8D%E7%BD%AE%E4%BD%A0%E5%A0%B4%E6%89%80%E7%9A%84%E8%81%8A%E5%A4%A9%E9%A2%A8%E6%A0%BC
+[設定您的地點的聊天風格](./設定您的地點的聊天風格.html) |https://en.help.roblox.com/hc/zh-tw/articles/360019904552-%E8%A8%AD%E5%AE%9A%E6%82%A8%E7%9A%84%E5%9C%B0%E9%BB%9E%E7%9A%84%E8%81%8A%E5%A4%A9%E9%A2%A8%E6%A0%BC
 [基本場所設置：名稱和說明](./基本場所設置：名稱和說明.html) |https://en.help.roblox.com/hc/zh-tw/articles/203314030-%E5%9F%BA%E6%9C%AC%E5%A0%B4%E6%89%80%E8%A8%AD%E7%BD%AE-%E5%90%8D%E7%A8%B1%E5%92%8C%E8%AA%AA%E6%98%8E
 [遊戲的社交媒體鏈接](./遊戲的社交媒體鏈接.html) |https://en.help.roblox.com/hc/zh-tw/articles/360000910966-%E9%81%8A%E6%88%B2%E7%9A%84%E7%A4%BE%E4%BA%A4%E5%AA%92%E9%AB%94%E9%8F%88%E6%8E%A5
 [建造/腳本協助和教程](./建造-腳本協助和教程.html) |https://en.help.roblox.com/hc/zh-tw/articles/203625344-%E5%BB%BA%E9%80%A0-%E8%85%B3%E6%9C%AC%E5%8D%94%E5%8A%A9%E5%92%8C%E6%95%99%E7%A8%8B
