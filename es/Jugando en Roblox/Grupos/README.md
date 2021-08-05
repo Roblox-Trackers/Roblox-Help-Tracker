@@ -9,7 +9,7 @@ Name|URL
 [Roles de Grupo/Rangos y Permisos](./Roles de Grupo-Rangos y Permisos.html) |https://en.help.roblox.com/hc/es/articles/203313770-Roles-de-Grupo-Rangos-y-Permisos
 [Cómo Adjuntar Una Imagen a un Grupo](./Cómo Adjuntar Una Imagen a un Grupo.html) |https://en.help.roblox.com/hc/es/articles/203313800-C%C3%B3mo-Adjuntar-Una-Imagen-a-un-Grupo
 [Visualización de la Actividad de Tu Grupo (Group Audit Log)](./Visualización de la Actividad de Tu Grupo (Group Audit Log).html) |https://en.help.roblox.com/hc/es/articles/203313780-Visualizaci%C3%B3n-de-la-Actividad-de-Tu-Grupo-Group-Audit-Log-
-[Cómo Publicitar un Grupo](./Cómo Publicitar un Grupo.html) |https://en.help.roblox.com/hc/es/articles/203313820-C%C3%B3mo-Publicitar-un-Grupo
+[Cómo publicitar un grupo](./Cómo publicitar un grupo.html) |https://en.help.roblox.com/hc/es/articles/203313820-C%C3%B3mo-publicitar-un-grupo
 [Enlaces de redes sociales sobre descripciones grupales](./Enlaces de redes sociales sobre descripciones grupales.html) |https://en.help.roblox.com/hc/es/articles/360000910946-Enlaces-de-redes-sociales-sobre-descripciones-grupales
 [Group Clothing (Ropa del Grupo), Administración de Ingresos y Pagos](./Group Clothing (Ropa del Grupo), Administración de Ingresos y Pagos.html) |https://en.help.roblox.com/hc/es/articles/203313830-Group-Clothing-Ropa-del-Grupo-Administraci%C3%B3n-de-Ingresos-y-Pagos
 [Cómo crear Aliados y Enemigos para tu Grupo](./Cómo crear Aliados y Enemigos para tu Grupo.html) |https://en.help.roblox.com/hc/es/articles/203313750-C%C3%B3mo-crear-Aliados-y-Enemigos-para-tu-Grupo
