@@ -10,3 +10,4 @@ Name|URL
 [How to Unblock a User](./How to Unblock a User.html) |https://en.help.roblox.com/hc/en-us/articles/360033386312-How-to-Unblock-a-User
 [How to Block Another User](./How to Block Another User.html) |https://en.help.roblox.com/hc/en-us/articles/203314270-How-to-Block-Another-User
 [Xbox One App: Reporting Another Player](./Xbox One App- Reporting Another Player.html) |https://en.help.roblox.com/hc/en-us/articles/206210440-Xbox-One-App-Reporting-Another-Player
+[Parental guidance on Talent Hub](./Parental guidance on Talent Hub.html) |https://en.help.roblox.com/hc/en-us/articles/4404630280980-Parental-guidance-on-Talent-Hub
