@@ -7,6 +7,6 @@ Name|URL
 [帳號 PIN 常見問題](./帳號 PIN 常見問題.html) |https://en.help.roblox.com/hc/zh-tw/articles/360000239523-%E5%B8%B3%E8%99%9F-PIN-%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C
 [帳戶限制](./帳戶限制.html) |https://en.help.roblox.com/hc/zh-tw/articles/360000375686-%E5%B8%B3%E6%88%B6%E9%99%90%E5%88%B6
 [如何檢舉違規](./如何檢舉違規.html) |https://en.help.roblox.com/hc/zh-tw/articles/203312410-%E5%A6%82%E4%BD%95%E6%AA%A2%E8%88%89%E9%81%95%E8%A6%8F
-[如何解除封鎖用戶](./如何解除封鎖用戶.html) |https://en.help.roblox.com/hc/zh-tw/articles/360033386312-%E5%A6%82%E4%BD%95%E8%A7%A3%E9%99%A4%E5%B0%81%E9%8E%96%E7%94%A8%E6%88%B6
+[如何解除封鎖使用者](./如何解除封鎖使用者.html) |https://en.help.roblox.com/hc/zh-tw/articles/360033386312-%E5%A6%82%E4%BD%95%E8%A7%A3%E9%99%A4%E5%B0%81%E9%8E%96%E4%BD%BF%E7%94%A8%E8%80%85
 [如何封鎖其他使用者](./如何封鎖其他使用者.html) |https://en.help.roblox.com/hc/zh-tw/articles/203314270-%E5%A6%82%E4%BD%95%E5%B0%81%E9%8E%96%E5%85%B6%E4%BB%96%E4%BD%BF%E7%94%A8%E8%80%85
 [Xbox One App：檢舉其他玩家](./Xbox One App：檢舉其他玩家.html) |https://en.help.roblox.com/hc/zh-tw/articles/206210440-Xbox-One-App-%E6%AA%A2%E8%88%89%E5%85%B6%E4%BB%96%E7%8E%A9%E5%AE%B6
