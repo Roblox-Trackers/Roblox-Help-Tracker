@@ -9,7 +9,7 @@ Name|URL
 [Cómo Chatear en los Juegos](./Cómo Chatear en los Juegos.html) |https://en.help.roblox.com/hc/es/articles/203314250-C%C3%B3mo-Chatear-en-los-Juegos
 [Cómo Reiniciar Avatar en el Juego](./Cómo Reiniciar Avatar en el Juego.html) |https://en.help.roblox.com/hc/es/articles/203314290-C%C3%B3mo-Reiniciar-Avatar-en-el-Juego
 [Sistema de Animación (Emotes)](./Sistema de Animación (Emotes).html) |https://en.help.roblox.com/hc/es/articles/203314300-Sistema-de-Animaci%C3%B3n-Emotes-
-[Cómo Dejar un Juego](./Cómo Dejar un Juego.html) |https://en.help.roblox.com/hc/es/articles/203314240-C%C3%B3mo-Dejar-un-Juego
+[Cómo salir de un Juego](./Cómo salir de un Juego.html) |https://en.help.roblox.com/hc/es/articles/203314240-C%C3%B3mo-salir-de-un-Juego
 [Cómo Seguir o Unirse a otro Jugador en Juegos](./Cómo Seguir o Unirse a otro Jugador en Juegos.html) |https://en.help.roblox.com/hc/es/articles/203314220-C%C3%B3mo-Seguir-o-Unirse-a-otro-Jugador-en-Juegos
 [Como Marcar un Lugar como Favorito](./Como Marcar un Lugar como Favorito.html) |https://en.help.roblox.com/hc/es/articles/203313670-Como-Marcar-un-Lugar-como-Favorito
 [Marcadores y Notificaciones Dentro del Juego](./Marcadores y Notificaciones Dentro del Juego.html) |https://en.help.roblox.com/hc/es/articles/204343250-Marcadores-y-Notificaciones-Dentro-del-Juego
