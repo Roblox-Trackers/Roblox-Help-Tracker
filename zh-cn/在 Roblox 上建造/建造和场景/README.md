@@ -3,7 +3,7 @@
 Name|URL
 -|-
 [配置你的场景的聊天风格](./配置你的场景的聊天风格.html) |https://en.help.roblox.com/hc/zh-cn/articles/360019904552-%E9%85%8D%E7%BD%AE%E4%BD%A0%E7%9A%84%E5%9C%BA%E6%99%AF%E7%9A%84%E8%81%8A%E5%A4%A9%E9%A3%8E%E6%A0%BC
-[基本场所设置：名称和说明](./基本场所设置：名称和说明.html) |https://en.help.roblox.com/hc/zh-cn/articles/203314030-%E5%9F%BA%E6%9C%AC%E5%9C%BA%E6%89%80%E8%AE%BE%E7%BD%AE-%E5%90%8D%E7%A7%B0%E5%92%8C%E8%AF%B4%E6%98%8E
+[基本场景设置：名称和说明](./基本场景设置：名称和说明.html) |https://en.help.roblox.com/hc/zh-cn/articles/203314030-%E5%9F%BA%E6%9C%AC%E5%9C%BA%E6%99%AF%E8%AE%BE%E7%BD%AE-%E5%90%8D%E7%A7%B0%E5%92%8C%E8%AF%B4%E6%98%8E
 [游戏的社交媒体链接](./游戏的社交媒体链接.html) |https://en.help.roblox.com/hc/zh-cn/articles/360000910966-%E6%B8%B8%E6%88%8F%E7%9A%84%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93%E9%93%BE%E6%8E%A5
 [建造/脚本帮助和教程](./建造-脚本帮助和教程.html) |https://en.help.roblox.com/hc/zh-cn/articles/203625344-%E5%BB%BA%E9%80%A0-%E8%84%9A%E6%9C%AC%E5%B8%AE%E5%8A%A9%E5%92%8C%E6%95%99%E7%A8%8B
 [Roblox Studio](./Roblox Studio.html) |https://en.help.roblox.com/hc/zh-cn/articles/203313860-Roblox-Studio
