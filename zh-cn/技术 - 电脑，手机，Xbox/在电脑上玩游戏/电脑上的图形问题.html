@@ -8,12 +8,12 @@
        如果您遇到 Roblox 的图形问题，请阅读以下信息。
       </span>
      </p>
-     <p>
+     <h1>
       <br/>
       <span style="font-weight: 400;">
        图形问题的常见问题
       </span>
-     </p>
+     </h1>
      <ul>
       <li style="font-weight: 400;">
        <span style="font-weight: 400;">
@@ -45,9 +45,7 @@
      </h1>
      <ul>
       <li style="font-weight: 400;">
-       <span style="font-weight: 400;">
-        电脑没有最新版本的 DirectX（Roblox 需要 v9 或更高版本）
-       </span>
+       电脑不支持 DirectX10 或更高的特性级别
       </li>
       <li style="font-weight: 400;">
        <span style="font-weight: 400;">
@@ -128,24 +126,16 @@
      <p>
      </p>
      <h2>
-      <span style="font-weight: 400;">
-       测试您的 DirectX 修复工具
-      </span>
+      检测支持的 DirectX 特性级别
      </h2>
      <p class="wysiwyg-indent1">
       <span style="font-weight: 400;">
-       如果您有 Windows 7 或更新版本，则可能使用 DirectX 10 或更高版本。 以防万一，请执行以下操作：
+       检查你所支持的 DirectX 特性级别：
       </span>
      </p>
      <ol>
       <li>
-       <span style="font-weight: 400;">
-        开始&gt;
-        <strong>
-         运行
-        </strong>
-        或按住键盘的 Windows 键并点击 S（Windows 8 / 8.1 / 10）
-       </span>
+       按下 Windows 键+ R 弹出运行提示符。
       </li>
       <li>
        <span style="font-weight: 400;">
@@ -153,34 +143,20 @@
        </span>
       </li>
       <li>
-       <span style="font-weight: 400;">
-        查看位于系统信息底部的 “DirectX 版本”，以确保它是 DirectX 10 或更高版本
-       </span>
+       在 DirectX 窗口的面板视图中单击 “Display”或“Display 1”，如果可用，单击 “Display 2” 选项卡
+       <ul>
+        <li>
+         对于 Windows 8.1/10，寻找特性级别。对于 Windows 7 查找 DDI 版本。
+        </li>
+       </ul>
       </li>
      </ol>
      <p class="wysiwyg-indent1">
-      <span style="font-weight: 400;">
-       请同时打开“显示器”（或“显示器1”）选项卡。 在这个选项卡中，“DirectX功能” 框中有三行：DirectDraw加速，Direct3D 加速和 AGP 纹理加速。 确认所有 3 项都已启用。 如果没有，那么您将需要确保硬件加速已完全启用。有关这方面的帮助，请访问显卡制造商网站的帮助部分。
-      </span>
+      如果你在 “DDI 版本” 或“功能级别”中没有看到 10 或以上，说明你的显卡不支持 DX10 或以上，你将无法访问应用程序。
      </p>
      <p>
      </p>
      <h2>
-      <span style="font-weight: 400;">
-       必要时升级 DirectX
-      </span>
-     </h2>
-     <p class="wysiwyg-indent1">
-      <span style="font-weight: 400;">
-       如果您没有最新版本的 DirectX，那么您可以尝试直接升级或从
-       <a href="https://support.microsoft.com/zh-cn/help/179113/how-to-install-the-latest-version-of-directx" rel="noopener" target="_blank">
-        网站
-       </a>
-       更新。
-      </span>
-     </p>
-     <h2>
-      <br/>
       <span style="font-weight: 400;">
        降低显示器的色彩质量
       </span>
@@ -241,10 +217,34 @@
        </span>
       </li>
      </ol>
-     <p>
+     <p class="wysiwyg-indent1">
       <span style="font-weight: 400;">
        请访问显卡制造商提供的支持页面，并下载特定型号的最新驱动程序。
       </span>
+     </p>
+     <p>
+     </p>
+     <h2 class="wysiwyg-indent1">
+      检查兼容模式
+     </h2>
+     <p class="wysiwyg-indent2">
+      如果您收到一条消息，指出您的图形已过期，但您的计算机通过了最低规格要求，您可以检查应用程序是否在兼容模式下运行。
+     </p>
+     <ol>
+      <ol>
+       <li>
+        右键单击 Roblox 或 Roblox Studio 应用程序，然后选择属性。
+       </li>
+       <li>
+        选择兼容性选项卡。
+       </li>
+       <li>
+        如果选中以兼容模式运行此程序框，请取消选中它。
+       </li>
+      </ol>
+     </ol>
+     <p class="wysiwyg-indent2">
+      请访问您的显卡制造商提供的支持页面，并为您的特定型号下载最新的驱动程序。
      </p>
     </div>
     <div class="article-attachments">
