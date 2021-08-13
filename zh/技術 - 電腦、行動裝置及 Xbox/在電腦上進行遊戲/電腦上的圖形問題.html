@@ -10,14 +10,14 @@
        </font>
       </span>
      </p>
-     <p>
+     <h1>
       <br/>
       <span style="font-weight: 400;">
        <font style="vertical-align: inherit;">
         圖形問題的常見問題
        </font>
       </span>
-     </p>
+     </h1>
      <ul>
       <li style="font-weight: 400;">
        <span style="font-weight: 400;">
@@ -59,11 +59,7 @@
      </h1>
      <ul>
       <li style="font-weight: 400;">
-       <span style="font-weight: 400;">
-        <font style="vertical-align: inherit;">
-         電腦沒有最新版本的 DirectX（Roblox 需要 v9 或更高版本）
-        </font>
-       </span>
+       電腦不支持 DirectX10 或更高的特性級別
       </li>
       <li style="font-weight: 400;">
        <span style="font-weight: 400;">
@@ -178,81 +174,37 @@
      <p>
      </p>
      <h2>
-      <span style="font-weight: 400;">
-       <font style="vertical-align: inherit;">
-        測試您的 DirectX 修復工具
-       </font>
-      </span>
+      檢測支持的 DirectX 特性級別
      </h2>
      <p class="wysiwyg-indent1">
+      檢查你所支持的 DirectX 特性級別
       <span style="font-weight: 400;">
-       <font style="vertical-align: inherit;">
-        如果您有 Windows 7 或更新版本，則可能使用 DirectX 10 或更高版本。以防萬一，請執行以下操作：
-       </font>
+       ：
       </span>
      </p>
      <ol>
       <li>
-       <span style="font-weight: 400;">
-        <font style="vertical-align: inherit;">
-         開始&gt;
-        </font>
-        <strong>
-         <font style="vertical-align: inherit;">
-          運行
-         </font>
-        </strong>
-        <font style="vertical-align: inherit;">
-         或按住鍵盤的 Windows 鍵並點擊 S（Windows 8 / 8.1 / 10）
-        </font>
-       </span>
+       按下 Windows 鍵+ R 彈出運行提示符。
       </li>
       <li>
-       <span style="font-weight: 400;">
-        <font style="vertical-align: inherit;">
-         輸入 dxdiag，然後按下鍵盤的 Enter 鍵
-        </font>
-       </span>
+       輸入 dxdiag，然後按下鍵盤的 Enter 鍵
       </li>
       <li>
-       <span style="font-weight: 400;">
-        <font style="vertical-align: inherit;">
-         查看位於系統信息底部的 “DirectX版本”，以確保它是 DirectX 10 或更高版本
-        </font>
-       </span>
+       在 DirectX 窗口的面板視圖中單擊 “Display”或“Display 1”，如果可用，單擊 “Display 2” 選項卡
+       <br/>
+       <ul>
+        <li>
+         對於 Windows 8.1/10，尋找特性級別。對於 Windows 7 查找 DDI 版本。
+        </li>
+       </ul>
       </li>
      </ol>
      <p class="wysiwyg-indent1">
-      <span style="font-weight: 400;">
-       <font style="vertical-align: inherit;">
-        請同時打開“顯示器”（或“顯示器1”）選項卡。在這個選項卡中，“DirectX 功能”框中有三行：DirectDraw加速，Direct3D 加速和 AGP 紋理加速。確認所有 3 項都已啟用。如果沒有，那麼您將需要確保硬件加速已完全啟用。有關這方面的幫助，請訪問顯卡製造商網站的幫助部分。
-       </font>
-      </span>
+      如果你在 “DDI 版本” 或“功能級別”中沒有看到 10 或以上，說明你的顯卡不支持 DX10 或以上，你將無法訪問應用程序。
      </p>
      <p>
      </p>
      <h2>
-      <span style="font-weight: 400;">
-       <font style="vertical-align: inherit;">
-        必要時升級 DirectX
-       </font>
-      </span>
-     </h2>
-     <p class="wysiwyg-indent1">
-      <span style="font-weight: 400;">
-       <font style="vertical-align: inherit;">
-        如果您沒有最新版本的 DirectX，那麼您可以嘗試直接升級或從
-       </font>
-       <a href="https://support.microsoft.com/zh-tw/help/179113/how-to-install-the-latest-version-of-directx" target="_self">
-        網站
-       </a>
-       <font style="vertical-align: inherit;">
-        更新。
-       </font>
-      </span>
-     </p>
-     <h2>
-      <br/>
       <span style="font-weight: 400;">
        <font style="vertical-align: inherit;">
         降低顯示器的色彩質量
@@ -339,12 +291,36 @@
        </span>
       </li>
      </ol>
-     <p>
+     <p class="wysiwyg-indent1">
       <span style="font-weight: 400;">
        <font style="vertical-align: inherit;">
         請訪問顯卡製造商提供的支持頁面，並下載特定型號的最新驅動程序。
        </font>
       </span>
+     </p>
+     <p>
+     </p>
+     <h2 class="wysiwyg-indent1">
+      檢查兼容模式
+     </h2>
+     <p class="wysiwyg-indent2">
+      如果您收到一條消息，指出您的圖形已過期，但您的計算機通過了最低規格要求，您可以檢查應用程序是否在兼容模式下運行。
+     </p>
+     <ol>
+      <ol>
+       <li>
+        右鍵單擊 Roblox 或 Roblox Studio 應用程序，然後選擇屬性。
+       </li>
+       <li>
+        選擇兼容性選項卡。
+       </li>
+       <li>
+        如果選中以兼容模式運行此程序框，請取消選中它。
+       </li>
+      </ol>
+     </ol>
+     <p class="wysiwyg-indent2">
+      請訪問您的顯卡製造商提供的支持頁面，並為您的特定型號下載最新的驅動程序。
      </p>
     </div>
     <div class="article-attachments">
