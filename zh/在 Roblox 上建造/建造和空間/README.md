@@ -3,11 +3,11 @@
 Name|URL
 -|-
 [設定您的地點的聊天風格](./設定您的地點的聊天風格.html) |https://en.help.roblox.com/hc/zh-tw/articles/360019904552-%E8%A8%AD%E5%AE%9A%E6%82%A8%E7%9A%84%E5%9C%B0%E9%BB%9E%E7%9A%84%E8%81%8A%E5%A4%A9%E9%A2%A8%E6%A0%BC
-[基本場所設置：名稱和說明](./基本場所設置：名稱和說明.html) |https://en.help.roblox.com/hc/zh-tw/articles/203314030-%E5%9F%BA%E6%9C%AC%E5%A0%B4%E6%89%80%E8%A8%AD%E7%BD%AE-%E5%90%8D%E7%A8%B1%E5%92%8C%E8%AA%AA%E6%98%8E
-[遊戲的社交媒體鏈接](./遊戲的社交媒體鏈接.html) |https://en.help.roblox.com/hc/zh-tw/articles/360000910966-%E9%81%8A%E6%88%B2%E7%9A%84%E7%A4%BE%E4%BA%A4%E5%AA%92%E9%AB%94%E9%8F%88%E6%8E%A5
+[基本地點設定：名稱和說明](./基本地點設定：名稱和說明.html) |https://en.help.roblox.com/hc/zh-tw/articles/203314030-%E5%9F%BA%E6%9C%AC%E5%9C%B0%E9%BB%9E%E8%A8%AD%E5%AE%9A-%E5%90%8D%E7%A8%B1%E5%92%8C%E8%AA%AA%E6%98%8E
+[遊戲的社交媒體連結](./遊戲的社交媒體連結.html) |https://en.help.roblox.com/hc/zh-tw/articles/360000910966-%E9%81%8A%E6%88%B2%E7%9A%84%E7%A4%BE%E4%BA%A4%E5%AA%92%E9%AB%94%E9%80%A3%E7%B5%90
 [建造/腳本協助和教程](./建造-腳本協助和教程.html) |https://en.help.roblox.com/hc/zh-tw/articles/203625344-%E5%BB%BA%E9%80%A0-%E8%85%B3%E6%9C%AC%E5%8D%94%E5%8A%A9%E5%92%8C%E6%95%99%E7%A8%8B
 [Roblox Studio](./Roblox Studio.html) |https://en.help.roblox.com/hc/zh-tw/articles/203313860-Roblox-Studio
-[在Studio中編輯和測試（編輯模式）](./在Studio中編輯和測試（編輯模式）.html) |https://en.help.roblox.com/hc/zh-tw/articles/203313870-%E5%9C%A8Studio%E4%B8%AD%E7%B7%A8%E8%BC%AF%E5%92%8C%E6%B8%AC%E8%A9%A6-%E7%B7%A8%E8%BC%AF%E6%A8%A1%E5%BC%8F-
+[在 Studio 中編輯和測試（編輯模式）](./在 Studio 中編輯和測試（編輯模式）.html) |https://en.help.roblox.com/hc/zh-tw/articles/203313870-%E5%9C%A8-Studio-%E4%B8%AD%E7%B7%A8%E8%BC%AF%E5%92%8C%E6%B8%AC%E8%A9%A6-%E7%B7%A8%E8%BC%AF%E6%A8%A1%E5%BC%8F-
 [禁止複制您的遊戲](./禁止複制您的遊戲.html) |https://en.help.roblox.com/hc/zh-tw/articles/203313940-%E7%A6%81%E6%AD%A2%E8%A4%87%E5%88%B6%E6%82%A8%E7%9A%84%E9%81%8A%E6%88%B2
 [如何發布或上傳地點](./如何發布或上傳地點.html) |https://en.help.roblox.com/hc/zh-tw/articles/203313890-%E5%A6%82%E4%BD%95%E7%99%BC%E5%B8%83%E6%88%96%E4%B8%8A%E5%82%B3%E5%9C%B0%E9%BB%9E
 [群組遊戲](./群組遊戲.html) |https://en.help.roblox.com/hc/zh-tw/articles/203313760-%E7%BE%A4%E7%B5%84%E9%81%8A%E6%88%B2
