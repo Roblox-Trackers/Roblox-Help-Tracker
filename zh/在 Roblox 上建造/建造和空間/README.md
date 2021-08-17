@@ -8,7 +8,7 @@ Name|URL
 [建造/腳本協助和教程](./建造-腳本協助和教程.html) |https://en.help.roblox.com/hc/zh-tw/articles/203625344-%E5%BB%BA%E9%80%A0-%E8%85%B3%E6%9C%AC%E5%8D%94%E5%8A%A9%E5%92%8C%E6%95%99%E7%A8%8B
 [Roblox Studio](./Roblox Studio.html) |https://en.help.roblox.com/hc/zh-tw/articles/203313860-Roblox-Studio
 [在 Studio 中編輯和測試（編輯模式）](./在 Studio 中編輯和測試（編輯模式）.html) |https://en.help.roblox.com/hc/zh-tw/articles/203313870-%E5%9C%A8-Studio-%E4%B8%AD%E7%B7%A8%E8%BC%AF%E5%92%8C%E6%B8%AC%E8%A9%A6-%E7%B7%A8%E8%BC%AF%E6%A8%A1%E5%BC%8F-
-[禁止複制您的遊戲](./禁止複制您的遊戲.html) |https://en.help.roblox.com/hc/zh-tw/articles/203313940-%E7%A6%81%E6%AD%A2%E8%A4%87%E5%88%B6%E6%82%A8%E7%9A%84%E9%81%8A%E6%88%B2
+[禁止其他人複製您的遊戲](./禁止其他人複製您的遊戲.html) |https://en.help.roblox.com/hc/zh-tw/articles/203313940-%E7%A6%81%E6%AD%A2%E5%85%B6%E4%BB%96%E4%BA%BA%E8%A4%87%E8%A3%BD%E6%82%A8%E7%9A%84%E9%81%8A%E6%88%B2
 [如何發布或上傳地點](./如何發布或上傳地點.html) |https://en.help.roblox.com/hc/zh-tw/articles/203313890-%E5%A6%82%E4%BD%95%E7%99%BC%E5%B8%83%E6%88%96%E4%B8%8A%E5%82%B3%E5%9C%B0%E9%BB%9E
 [群組遊戲](./群組遊戲.html) |https://en.help.roblox.com/hc/zh-tw/articles/203313760-%E7%BE%A4%E7%B5%84%E9%81%8A%E6%88%B2
 [創建和把遊戲製成公開](./創建和把遊戲製成公開.html) |https://en.help.roblox.com/hc/zh-tw/articles/203313950-%E5%89%B5%E5%BB%BA%E5%92%8C%E6%8A%8A%E9%81%8A%E6%88%B2%E8%A3%BD%E6%88%90%E5%85%AC%E9%96%8B
