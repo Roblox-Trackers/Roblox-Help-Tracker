@@ -4,7 +4,7 @@ Name|URL
 -|-
 [Configurando el estilo de chat de tu sitio](./Configurando el estilo de chat de tu sitio.html) |https://en.help.roblox.com/hc/es/articles/360019904552-Configurando-el-estilo-de-chat-de-tu-sitio
 [Configuración de Lugar Básico: Nombre y Descripción](./Configuración de Lugar Básico- Nombre y Descripción.html) |https://en.help.roblox.com/hc/es/articles/203314030-Configuraci%C3%B3n-de-Lugar-B%C3%A1sico-Nombre-y-Descripci%C3%B3n
-[Enlaces de Redes Sociales Sobre Descripciones de Juegos](./Enlaces de Redes Sociales Sobre Descripciones de Juegos.html) |https://en.help.roblox.com/hc/es/articles/360000910966-Enlaces-de-Redes-Sociales-Sobre-Descripciones-de-Juegos
+[Enlaces de redes sociales para juegos](./Enlaces de redes sociales para juegos.html) |https://en.help.roblox.com/hc/es/articles/360000910966-Enlaces-de-redes-sociales-para-juegos
 [Creando/Codificando Ayuda y Tutoriales](./Creando-Codificando Ayuda y Tutoriales.html) |https://en.help.roblox.com/hc/es/articles/203625344-Creando-Codificando-Ayuda-y-Tutoriales
 [Roblox Studio](./Roblox Studio.html) |https://en.help.roblox.com/hc/es/articles/203313860-Roblox-Studio
 [Edición y Prueba en Studio (Edit Mode)](./Edición y Prueba en Studio (Edit Mode).html) |https://en.help.roblox.com/hc/es/articles/203313870-Edici%C3%B3n-y-Prueba-en-Studio-Edit-Mode-
