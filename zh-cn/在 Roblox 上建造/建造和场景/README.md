@@ -14,9 +14,10 @@ Name|URL
 [创作游戏并将其设为公开](./创作游戏并将其设为公开.html) |https://en.help.roblox.com/hc/zh-cn/articles/203313950-%E5%88%9B%E4%BD%9C%E6%B8%B8%E6%88%8F%E5%B9%B6%E5%B0%86%E5%85%B6%E8%AE%BE%E4%B8%BA%E5%85%AC%E5%BC%80
 [我如何为游戏启用 VIP 或私人服务器？](./我如何为游戏启用 VIP 或私人服务器？.html) |https://en.help.roblox.com/hc/zh-cn/articles/360000781023-%E6%88%91%E5%A6%82%E4%BD%95%E4%B8%BA%E6%B8%B8%E6%88%8F%E5%90%AF%E7%94%A8-VIP-%E6%88%96%E7%A7%81%E4%BA%BA%E6%9C%8D%E5%8A%A1%E5%99%A8-
 [如何复制游戏](./如何复制游戏.html) |https://en.help.roblox.com/hc/zh-cn/articles/203313900-%E5%A6%82%E4%BD%95%E5%A4%8D%E5%88%B6%E6%B8%B8%E6%88%8F
-[如何恢复到旧版本的场所](./如何恢复到旧版本的场所.html) |https://en.help.roblox.com/hc/zh-cn/articles/203313850-%E5%A6%82%E4%BD%95%E6%81%A2%E5%A4%8D%E5%88%B0%E6%97%A7%E7%89%88%E6%9C%AC%E7%9A%84%E5%9C%BA%E6%89%80
-[把场所重置到原始模板](./把场所重置到原始模板.html) |https://en.help.roblox.com/hc/zh-cn/articles/203313920-%E6%8A%8A%E5%9C%BA%E6%89%80%E9%87%8D%E7%BD%AE%E5%88%B0%E5%8E%9F%E5%A7%8B%E6%A8%A1%E6%9D%BF
+[如何恢复旧版本的场景](./如何恢复旧版本的场景.html) |https://en.help.roblox.com/hc/zh-cn/articles/203313850-%E5%A6%82%E4%BD%95%E6%81%A2%E5%A4%8D%E6%97%A7%E7%89%88%E6%9C%AC%E7%9A%84%E5%9C%BA%E6%99%AF
+[把场景重置到起始模板](./把场景重置到起始模板.html) |https://en.help.roblox.com/hc/zh-cn/articles/203313920-%E6%8A%8A%E5%9C%BA%E6%99%AF%E9%87%8D%E7%BD%AE%E5%88%B0%E8%B5%B7%E5%A7%8B%E6%A8%A1%E6%9D%BF
 [实验模式](./实验模式.html) |https://en.help.roblox.com/hc/zh-cn/articles/115003766763-%E5%AE%9E%E9%AA%8C%E6%A8%A1%E5%BC%8F
+[将装备添加到游戏中](./将装备添加到游戏中.html) |https://en.help.roblox.com/hc/zh-cn/articles/203314050-%E5%B0%86%E8%A3%85%E5%A4%87%E6%B7%BB%E5%8A%A0%E5%88%B0%E6%B8%B8%E6%88%8F%E4%B8%AD
 [我如何制作游戏徽章？](./我如何制作游戏徽章？.html) |https://en.help.roblox.com/hc/zh-cn/articles/203313650-%E6%88%91%E5%A6%82%E4%BD%95%E5%88%B6%E4%BD%9C%E6%B8%B8%E6%88%8F%E5%BE%BD%E7%AB%A0-
 [如何使用 GUI 构建？](./如何使用 GUI 构建？.html) |https://en.help.roblox.com/hc/zh-cn/articles/203313960-%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8-GUI-%E6%9E%84%E5%BB%BA-
 [在“我的场所”里，感染套装是什么？](./在“我的场所”里，感染套装是什么？.html) |https://en.help.roblox.com/hc/zh-cn/articles/203312920-%E5%9C%A8-%E6%88%91%E7%9A%84%E5%9C%BA%E6%89%80-%E9%87%8C-%E6%84%9F%E6%9F%93%E5%A5%97%E8%A3%85%E6%98%AF%E4%BB%80%E4%B9%88-
