@@ -18,8 +18,8 @@ Name|URL
 [把场景重置到起始模板](./把场景重置到起始模板.html) |https://en.help.roblox.com/hc/zh-cn/articles/203313920-%E6%8A%8A%E5%9C%BA%E6%99%AF%E9%87%8D%E7%BD%AE%E5%88%B0%E8%B5%B7%E5%A7%8B%E6%A8%A1%E6%9D%BF
 [实验模式](./实验模式.html) |https://en.help.roblox.com/hc/zh-cn/articles/115003766763-%E5%AE%9E%E9%AA%8C%E6%A8%A1%E5%BC%8F
 [将装备添加到游戏中](./将装备添加到游戏中.html) |https://en.help.roblox.com/hc/zh-cn/articles/203314050-%E5%B0%86%E8%A3%85%E5%A4%87%E6%B7%BB%E5%8A%A0%E5%88%B0%E6%B8%B8%E6%88%8F%E4%B8%AD
-[我如何制作游戏徽章？](./我如何制作游戏徽章？.html) |https://en.help.roblox.com/hc/zh-cn/articles/203313650-%E6%88%91%E5%A6%82%E4%BD%95%E5%88%B6%E4%BD%9C%E6%B8%B8%E6%88%8F%E5%BE%BD%E7%AB%A0-
+[如何制作游戏徽章？](./如何制作游戏徽章？.html) |https://en.help.roblox.com/hc/zh-cn/articles/203313650-%E5%A6%82%E4%BD%95%E5%88%B6%E4%BD%9C%E6%B8%B8%E6%88%8F%E5%BE%BD%E7%AB%A0-
 [如何使用 GUI 构建？](./如何使用 GUI 构建？.html) |https://en.help.roblox.com/hc/zh-cn/articles/203313960-%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8-GUI-%E6%9E%84%E5%BB%BA-
 [在“我的场所”里，感染套装是什么？](./在“我的场所”里，感染套装是什么？.html) |https://en.help.roblox.com/hc/zh-cn/articles/203312920-%E5%9C%A8-%E6%88%91%E7%9A%84%E5%9C%BA%E6%89%80-%E9%87%8C-%E6%84%9F%E6%9F%93%E5%A5%97%E8%A3%85%E6%98%AF%E4%BB%80%E4%B9%88-
 [Roblox 开发者论坛](./Roblox 开发者论坛.html) |https://en.help.roblox.com/hc/zh-cn/articles/360000240223-Roblox-%E5%BC%80%E5%8F%91%E8%80%85%E8%AE%BA%E5%9D%9B
-[在Roblox上使用音乐版权](./在Roblox上使用音乐版权.html) |https://en.help.roblox.com/hc/zh-cn/articles/360000927163-%E5%9C%A8Roblox%E4%B8%8A%E4%BD%BF%E7%94%A8%E9%9F%B3%E4%B9%90%E7%89%88%E6%9D%83
+[在 Roblox 上使用授权音乐](./在 Roblox 上使用授权音乐.html) |https://en.help.roblox.com/hc/zh-cn/articles/360000927163-%E5%9C%A8-Roblox-%E4%B8%8A%E4%BD%BF%E7%94%A8%E6%8E%88%E6%9D%83%E9%9F%B3%E4%B9%90
