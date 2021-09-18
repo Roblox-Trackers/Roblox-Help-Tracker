@@ -20,6 +20,6 @@ Name|URL
 [将装备添加到游戏中](./将装备添加到游戏中.html) |https://en.help.roblox.com/hc/zh-cn/articles/203314050-%E5%B0%86%E8%A3%85%E5%A4%87%E6%B7%BB%E5%8A%A0%E5%88%B0%E6%B8%B8%E6%88%8F%E4%B8%AD
 [如何制作游戏徽章？](./如何制作游戏徽章？.html) |https://en.help.roblox.com/hc/zh-cn/articles/203313650-%E5%A6%82%E4%BD%95%E5%88%B6%E4%BD%9C%E6%B8%B8%E6%88%8F%E5%BE%BD%E7%AB%A0-
 [如何使用 GUI 构建？](./如何使用 GUI 构建？.html) |https://en.help.roblox.com/hc/zh-cn/articles/203313960-%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8-GUI-%E6%9E%84%E5%BB%BA-
-[在“我的场所”里，感染套装是什么？](./在“我的场所”里，感染套装是什么？.html) |https://en.help.roblox.com/hc/zh-cn/articles/203312920-%E5%9C%A8-%E6%88%91%E7%9A%84%E5%9C%BA%E6%89%80-%E9%87%8C-%E6%84%9F%E6%9F%93%E5%A5%97%E8%A3%85%E6%98%AF%E4%BB%80%E4%B9%88-
+[我的场景有个被感染的套件，那是什么？](./我的场景有个被感染的套件，那是什么？.html) |https://en.help.roblox.com/hc/zh-cn/articles/203312920-%E6%88%91%E7%9A%84%E5%9C%BA%E6%99%AF%E6%9C%89%E4%B8%AA%E8%A2%AB%E6%84%9F%E6%9F%93%E7%9A%84%E5%A5%97%E4%BB%B6-%E9%82%A3%E6%98%AF%E4%BB%80%E4%B9%88-
 [Roblox 开发者论坛](./Roblox 开发者论坛.html) |https://en.help.roblox.com/hc/zh-cn/articles/360000240223-Roblox-%E5%BC%80%E5%8F%91%E8%80%85%E8%AE%BA%E5%9D%9B
 [在 Roblox 上使用授权音乐](./在 Roblox 上使用授权音乐.html) |https://en.help.roblox.com/hc/zh-cn/articles/360000927163-%E5%9C%A8-Roblox-%E4%B8%8A%E4%BD%BF%E7%94%A8%E6%8E%88%E6%9D%83%E9%9F%B3%E4%B9%90
