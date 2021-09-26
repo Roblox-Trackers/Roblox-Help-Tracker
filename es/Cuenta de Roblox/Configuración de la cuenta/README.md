@@ -3,7 +3,9 @@
 Name|URL
 -|-
 [Olvidé mi PIN](./Olvidé mi PIN.html) |https://en.help.roblox.com/hc/es/articles/360031292471-Olvid%C3%A9-mi-PIN
-[¿Cómo cambiar la edad?](./¿Cómo cambiar la edad-.html) |https://en.help.roblox.com/hc/es/articles/360031323611--C%C3%B3mo-cambiar-la-edad-
+[Preguntas frecuentes sobre la verificación de identificación de edad](./Preguntas frecuentes sobre la verificación de identificación de edad.html) |https://en.help.roblox.com/hc/es/articles/4407276151188-Preguntas-frecuentes-sobre-la-verificaci%C3%B3n-de-identificaci%C3%B3n-de-edad
+[Verificación de identificación de edad](./Verificación de identificación de edad.html) |https://en.help.roblox.com/hc/es/articles/4407282410644-Verificaci%C3%B3n-de-identificaci%C3%B3n-de-edad
+[¿Cómo cambiar mi edad?](./¿Cómo cambiar mi edad-.html) |https://en.help.roblox.com/hc/es/articles/360031323611--C%C3%B3mo-cambiar-mi-edad-
 [¿Cómo agrego o elimino un PIN de cuenta?](./¿Cómo agrego o elimino un PIN de cuenta-.html) |https://en.help.roblox.com/hc/es/articles/360031680051--C%C3%B3mo-agrego-o-elimino-un-PIN-de-cuenta-
 [Cambiar la configuración de privacidad y chat](./Cambiar la configuración de privacidad y chat.html) |https://en.help.roblox.com/hc/es/articles/360031751471-Cambiar-la-configuraci%C3%B3n-de-privacidad-y-chat
 [¿Cómo puedo cambiar mi contraseña?](./¿Cómo puedo cambiar mi contraseña-.html) |https://en.help.roblox.com/hc/es/articles/203313100--C%C3%B3mo-puedo-cambiar-mi-contrase%C3%B1a-
