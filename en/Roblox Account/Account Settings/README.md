@@ -3,6 +3,8 @@
 Name|URL
 -|-
 [I Forgot My PIN](./I Forgot My PIN.html) |https://en.help.roblox.com/hc/en-us/articles/360031292471-I-Forgot-My-PIN
+[Age ID Verification FAQs](./Age ID Verification FAQs.html) |https://en.help.roblox.com/hc/en-us/articles/4407276151188-Age-ID-Verification-FAQs
+[Age ID Verification](./Age ID Verification.html) |https://en.help.roblox.com/hc/en-us/articles/4407282410644-Age-ID-Verification
 [Changing Your Display Name](./Changing Your Display Name.html) |https://en.help.roblox.com/hc/en-us/articles/4401938870292-Changing-Your-Display-Name
 [How Do I Change My Age](./How Do I Change My Age.html) |https://en.help.roblox.com/hc/en-us/articles/360031323611-How-Do-I-Change-My-Age-
 [How do I add or remove an Account PIN?](./How do I add or remove an Account PIN-.html) |https://en.help.roblox.com/hc/en-us/articles/360031680051-How-do-I-add-or-remove-an-Account-PIN-
