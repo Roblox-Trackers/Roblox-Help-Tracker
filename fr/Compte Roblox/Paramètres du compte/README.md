@@ -3,6 +3,8 @@
 Name|URL
 -|-
 [J'ai oublié mon Code PIN](./J'ai oublié mon Code PIN.html) |https://en.help.roblox.com/hc/fr/articles/360031292471-J-ai-oubli%C3%A9-mon-Code-PIN
+[Questions Fréquentes sur la vérification de l’âge via ID](./Questions Fréquentes sur la vérification de l’âge via ID.html) |https://en.help.roblox.com/hc/fr/articles/4407276151188-Questions-Fr%C3%A9quentes-sur-la-v%C3%A9rification-de-l-%C3%A2ge-via-ID
+[Vérification de l’âge à l’aide de votre ID](./Vérification de l’âge à l’aide de votre ID.html) |https://en.help.roblox.com/hc/fr/articles/4407282410644-V%C3%A9rification-de-l-%C3%A2ge-%C3%A0-l-aide-de-votre-ID
 [Comment Faire pour Changer d’Âge ?](./Comment Faire pour Changer d’Âge -.html) |https://en.help.roblox.com/hc/fr/articles/360031323611-Comment-Faire-pour-Changer-d-%C3%82ge-
 [Comment Ajouter ou Supprimer un Code PIN sur mon Compte ?](./Comment Ajouter ou Supprimer un Code PIN sur mon Compte -.html) |https://en.help.roblox.com/hc/fr/articles/360031680051-Comment-Ajouter-ou-Supprimer-un-Code-PIN-sur-mon-Compte-
 [Modification des Paramètres de Confidentialité et de Chat](./Modification des Paramètres de Confidentialité et de Chat.html) |https://en.help.roblox.com/hc/fr/articles/360031751471-Modification-des-Param%C3%A8tres-de-Confidentialit%C3%A9-et-de-Chat
