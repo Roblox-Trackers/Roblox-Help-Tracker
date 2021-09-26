@@ -2,8 +2,8 @@
 ### Articles in this section
 Name|URL
 -|-
-[如何存檔資產](./如何存檔資產.html) |https://en.help.roblox.com/hc/zh-tw/articles/360031253052-%E5%A6%82%E4%BD%95%E5%AD%98%E6%AA%94%E8%B3%87%E7%94%A2
-[我剛買的東西在哪兒？](./我剛買的東西在哪兒？.html) |https://en.help.roblox.com/hc/zh-tw/articles/360029542532-%E6%88%91%E5%89%9B%E8%B2%B7%E7%9A%84%E6%9D%B1%E8%A5%BF%E5%9C%A8%E5%93%AA%E5%85%92-
+[如何封存素材和遊戲](./如何封存素材和遊戲.html) |https://en.help.roblox.com/hc/zh-tw/articles/360031253052-%E5%A6%82%E4%BD%95%E5%B0%81%E5%AD%98%E7%B4%A0%E6%9D%90%E5%92%8C%E9%81%8A%E6%88%B2
+[我剛買的道具在哪裡了呢？](./我剛買的道具在哪裡了呢？.html) |https://en.help.roblox.com/hc/zh-tw/articles/360029542532-%E6%88%91%E5%89%9B%E8%B2%B7%E7%9A%84%E9%81%93%E5%85%B7%E5%9C%A8%E5%93%AA%E8%A3%A1%E4%BA%86%E5%91%A2-
 [如何在網站上查看或隱藏您的道具](./如何在網站上查看或隱藏您的道具.html) |https://en.help.roblox.com/hc/zh-tw/articles/360000463726-%E5%A6%82%E4%BD%95%E5%9C%A8%E7%B6%B2%E7%AB%99%E4%B8%8A%E6%9F%A5%E7%9C%8B%E6%88%96%E9%9A%B1%E8%97%8F%E6%82%A8%E7%9A%84%E9%81%93%E5%85%B7
 [道具的詳細資訊頁面和購買道具](./道具的詳細資訊頁面和購買道具.html) |https://en.help.roblox.com/hc/zh-tw/articles/206142306-%E9%81%93%E5%85%B7%E7%9A%84%E8%A9%B3%E7%B4%B0%E8%B3%87%E8%A8%8A%E9%A0%81%E9%9D%A2%E5%92%8C%E8%B3%BC%E8%B2%B7%E9%81%93%E5%85%B7
 [服裝：T卹，襯衫和褲子](./服裝：T卹，襯衫和褲子.html) |https://en.help.roblox.com/hc/zh-tw/articles/203313170-%E6%9C%8D%E8%A3%9D-T%E5%8D%B9-%E8%A5%AF%E8%A1%AB%E5%92%8C%E8%A4%B2%E5%AD%90
