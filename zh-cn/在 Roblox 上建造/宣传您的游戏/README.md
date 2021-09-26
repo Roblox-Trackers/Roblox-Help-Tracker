@@ -7,4 +7,4 @@ Name|URL
 [游戏缩略图，视频和图标](./游戏缩略图，视频和图标.html) |https://en.help.roblox.com/hc/zh-cn/articles/203314060-%E6%B8%B8%E6%88%8F%E7%BC%A9%E7%95%A5%E5%9B%BE-%E8%A7%86%E9%A2%91%E5%92%8C%E5%9B%BE%E6%A0%87
 [视频广告政策](./视频广告政策.html) |https://en.help.roblox.com/hc/zh-cn/articles/203312520-%E8%A7%86%E9%A2%91%E5%B9%BF%E5%91%8A%E6%94%BF%E7%AD%96
 [开发者统计](./开发者统计.html) |https://en.help.roblox.com/hc/zh-cn/articles/203314110-%E5%BC%80%E5%8F%91%E8%80%85%E7%BB%9F%E8%AE%A1
-[如何让您的游戏在Roblox上受欢迎](./如何让您的游戏在Roblox上受欢迎.html) |https://en.help.roblox.com/hc/zh-cn/articles/203313420-%E5%A6%82%E4%BD%95%E8%AE%A9%E6%82%A8%E7%9A%84%E6%B8%B8%E6%88%8F%E5%9C%A8Roblox%E4%B8%8A%E5%8F%97%E6%AC%A2%E8%BF%8E
+[如何让你的游戏在 Roblox 上更受欢迎](./如何让你的游戏在 Roblox 上更受欢迎.html) |https://en.help.roblox.com/hc/zh-cn/articles/203313420-%E5%A6%82%E4%BD%95%E8%AE%A9%E4%BD%A0%E7%9A%84%E6%B8%B8%E6%88%8F%E5%9C%A8-Roblox-%E4%B8%8A%E6%9B%B4%E5%8F%97%E6%AC%A2%E8%BF%8E
