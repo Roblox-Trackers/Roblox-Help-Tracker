@@ -3,6 +3,8 @@
 Name|URL
 -|-
 [Ich habe meine PIN vergessen](./Ich habe meine PIN vergessen.html) |https://en.help.roblox.com/hc/de/articles/360031292471-Ich-habe-meine-PIN-vergessen
+[Häufig gestellte Fragen zur Altersverifikation](./Häufig gestellte Fragen zur Altersverifikation.html) |https://en.help.roblox.com/hc/de/articles/4407276151188-H%C3%A4ufig-gestellte-Fragen-zur-Altersverifikation
+[Altersverifizierung](./Altersverifizierung.html) |https://en.help.roblox.com/hc/de/articles/4407282410644-Altersverifizierung
 [Wie ändere ich mein Alter?](./Wie ändere ich mein Alter-.html) |https://en.help.roblox.com/hc/de/articles/360031323611-Wie-%C3%A4ndere-ich-mein-Alter-
 [Wie kann ich eine Konto-PIN hinzufügen oder entfernen?](./Wie kann ich eine Konto-PIN hinzufügen oder entfernen-.html) |https://en.help.roblox.com/hc/de/articles/360031680051-Wie-kann-ich-eine-Konto-PIN-hinzuf%C3%BCgen-oder-entfernen-
 [Datenschutz und Chat-Einstellungen ändern](./Datenschutz und Chat-Einstellungen ändern.html) |https://en.help.roblox.com/hc/de/articles/360031751471-Datenschutz-und-Chat-Einstellungen-%C3%A4ndern
