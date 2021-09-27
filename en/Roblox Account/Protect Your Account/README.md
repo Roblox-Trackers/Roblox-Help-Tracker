@@ -2,7 +2,7 @@
 ### Articles in this section
 Name|URL
 -|-
-[Account Security: Keeping your Account Safe!](./Account Security- Keeping your Account Safe!.html) |https://en.help.roblox.com/hc/en-us/articles/203313380-Account-Security-Keeping-your-Account-Safe-
+[Keep Your Account Safe](./Keep Your Account Safe.html) |https://en.help.roblox.com/hc/en-us/articles/203313380-Keep-Your-Account-Safe
 [My account was hacked - What do I do?](./My account was hacked - What do I do-.html) |https://en.help.roblox.com/hc/en-us/articles/203313390-My-account-was-hacked-What-do-I-do-
 [Verify Your Email Address](./Verify Your Email Address.html) |https://en.help.roblox.com/hc/en-us/articles/203313350-Verify-Your-Email-Address
 [Add 2-Step Verification to Your Account](./Add 2-Step Verification to Your Account.html) |https://en.help.roblox.com/hc/en-us/articles/212459863-Add-2-Step-Verification-to-Your-Account
