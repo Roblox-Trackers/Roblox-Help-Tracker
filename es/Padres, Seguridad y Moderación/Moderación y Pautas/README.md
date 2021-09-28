@@ -8,4 +8,3 @@ Name|URL
 [Reportes Falsos](./Reportes Falsos.html) |https://en.help.roblox.com/hc/es/articles/203312470-Reportes-Falsos
 [Reglas de Juego Personalizadas](./Reglas de Juego Personalizadas.html) |https://en.help.roblox.com/hc/es/articles/203312500-Reglas-de-Juego-Personalizadas
 [Entender los mensajes de moderación](./Entender los mensajes de moderación.html) |https://en.help.roblox.com/hc/es/articles/360020870412-Entender-los-mensajes-de-moderaci%C3%B3n
-[¿Puedo usar material Protegido con derechos de autor en Roblox?](./¿Puedo usar material Protegido con derechos de autor en Roblox-.html) |https://en.help.roblox.com/hc/es/articles/206388086--Puedo-usar-material-Protegido-con-derechos-de-autor-en-Roblox-
