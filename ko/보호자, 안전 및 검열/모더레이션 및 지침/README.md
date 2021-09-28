@@ -8,4 +8,3 @@ Name|URL
 [허위 신고](./허위 신고.html) |https://en.help.roblox.com/hc/ko/articles/203312470-%ED%97%88%EC%9C%84-%EC%8B%A0%EA%B3%A0
 [개발자 지정 게임 규칙](./개발자 지정 게임 규칙.html) |https://en.help.roblox.com/hc/ko/articles/203312500-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%A7%80%EC%A0%95-%EA%B2%8C%EC%9E%84-%EA%B7%9C%EC%B9%99
 [검열 메시지 이해하기](./검열 메시지 이해하기.html) |https://en.help.roblox.com/hc/ko/articles/360020870412-%EA%B2%80%EC%97%B4-%EB%A9%94%EC%8B%9C%EC%A7%80-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0
-[저작권이 있는 자료를 Roblox에서 사용할 수 있나요?](./저작권이 있는 자료를 Roblox에서 사용할 수 있나요-.html) |https://en.help.roblox.com/hc/ko/articles/206388086-%EC%A0%80%EC%9E%91%EA%B6%8C%EC%9D%B4-%EC%9E%88%EB%8A%94-%EC%9E%90%EB%A3%8C%EB%A5%BC-Roblox%EC%97%90%EC%84%9C-%EC%82%AC%EC%9A%A9%ED%95%A0-%EC%88%98-%EC%9E%88%EB%82%98%EC%9A%94-
