@@ -8,4 +8,3 @@ Name|URL
 [False Reporting](./False Reporting.html) |https://en.help.roblox.com/hc/en-us/articles/203312470-False-Reporting
 [Custom Game Rules](./Custom Game Rules.html) |https://en.help.roblox.com/hc/en-us/articles/203312500-Custom-Game-Rules
 [Understanding Moderation Messages](./Understanding Moderation Messages.html) |https://en.help.roblox.com/hc/en-us/articles/360020870412-Understanding-Moderation-Messages
-[Can I use Copyrighted material on Roblox?](./Can I use Copyrighted material on Roblox-.html) |https://en.help.roblox.com/hc/en-us/articles/206388086-Can-I-use-Copyrighted-material-on-Roblox-
