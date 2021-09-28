@@ -9,7 +9,7 @@ Name|URL
 [服裝：T卹，襯衫和褲子](./服裝：T卹，襯衫和褲子.html) |https://en.help.roblox.com/hc/zh-tw/articles/203313170-%E6%9C%8D%E8%A3%9D-T%E5%8D%B9-%E8%A5%AF%E8%A1%AB%E5%92%8C%E8%A4%B2%E5%AD%90
 [什麼是虛擬裝備？](./什麼是虛擬裝備？.html) |https://en.help.roblox.com/hc/zh-tw/articles/203313630-%E4%BB%80%E9%BA%BC%E6%98%AF%E8%99%9B%E6%93%AC%E8%A3%9D%E5%82%99-
 [虛擬人偶商店](./虛擬人偶商店.html) |https://en.help.roblox.com/hc/zh-tw/articles/203313300-%E8%99%9B%E6%93%AC%E4%BA%BA%E5%81%B6%E5%95%86%E5%BA%97
-[道具庫](./道具庫.html) |https://en.help.roblox.com/hc/zh-tw/articles/206580683--%E9%81%93%E5%85%B7%E5%BA%AB
+[資料庫](./資料庫.html) |https://en.help.roblox.com/hc/zh-tw/articles/206580683-%E8%B3%87%E6%96%99%E5%BA%AB
 [出售服飾](./出售服飾.html) |https://en.help.roblox.com/hc/zh-tw/articles/203313180-%E5%87%BA%E5%94%AE%E6%9C%8D%E9%A3%BE
 [交易系統](./交易系統.html) |https://en.help.roblox.com/hc/zh-tw/articles/203313310-%E4%BA%A4%E6%98%93%E7%B3%BB%E7%B5%B1
 [我如何使一些項目成為公共領域?](./我如何使一些項目成為公共領域-.html) |https://en.help.roblox.com/hc/zh-tw/articles/203313230-%E6%88%91%E5%A6%82%E4%BD%95%E4%BD%BF%E4%B8%80%E4%BA%9B%E9%A0%85%E7%9B%AE%E6%88%90%E7%82%BA%E5%85%AC%E5%85%B1%E9%A0%98%E5%9F%9F-
