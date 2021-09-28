@@ -8,4 +8,3 @@ Name|URL
 [錯誤報告](./錯誤報告.html) |https://en.help.roblox.com/hc/zh-tw/articles/203312470-%E9%8C%AF%E8%AA%A4%E5%A0%B1%E5%91%8A
 [自訂遊戲規則](./自訂遊戲規則.html) |https://en.help.roblox.com/hc/zh-tw/articles/203312500-%E8%87%AA%E8%A8%82%E9%81%8A%E6%88%B2%E8%A6%8F%E5%89%87
 [瞭解管理訊息](./瞭解管理訊息.html) |https://en.help.roblox.com/hc/zh-tw/articles/360020870412-%E7%9E%AD%E8%A7%A3%E7%AE%A1%E7%90%86%E8%A8%8A%E6%81%AF
-[我可以在Roblox上使用有版權的材料嗎？](./我可以在Roblox上使用有版權的材料嗎？.html) |https://en.help.roblox.com/hc/zh-tw/articles/206388086-%E6%88%91%E5%8F%AF%E4%BB%A5%E5%9C%A8Roblox%E4%B8%8A%E4%BD%BF%E7%94%A8%E6%9C%89%E7%89%88%E6%AC%8A%E7%9A%84%E6%9D%90%E6%96%99%E5%97%8E-
