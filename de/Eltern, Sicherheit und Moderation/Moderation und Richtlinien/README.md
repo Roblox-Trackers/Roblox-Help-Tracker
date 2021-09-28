@@ -8,4 +8,3 @@ Name|URL
 [Falschmeldung](./Falschmeldung.html) |https://en.help.roblox.com/hc/de/articles/203312470-Falschmeldung
 [Benutzerdefinierte Spielregeln](./Benutzerdefinierte Spielregeln.html) |https://en.help.roblox.com/hc/de/articles/203312500-Benutzerdefinierte-Spielregeln
 [Moderationsnachrichten verstehen](./Moderationsnachrichten verstehen.html) |https://en.help.roblox.com/hc/de/articles/360020870412-Moderationsnachrichten-verstehen
-[Kann ich urheberrechtlich geschütztes Material auf Roblox verwenden?](./Kann ich urheberrechtlich geschütztes Material auf Roblox verwenden-.html) |https://en.help.roblox.com/hc/de/articles/206388086-Kann-ich-urheberrechtlich-gesch%C3%BCtztes-Material-auf-Roblox-verwenden-
