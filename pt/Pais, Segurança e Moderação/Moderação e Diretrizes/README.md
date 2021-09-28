@@ -8,4 +8,3 @@ Name|URL
 [Falsas Denúncias](./Falsas Denúncias.html) |https://en.help.roblox.com/hc/pt-br/articles/203312470-Falsas-Den%C3%BAncias-
 [Regras Personalizadas do Jogo](./Regras Personalizadas do Jogo.html) |https://en.help.roblox.com/hc/pt-br/articles/203312500-Regras-Personalizadas-do-Jogo
 [Entendendo as Mensagens da Moderação](./Entendendo as Mensagens da Moderação.html) |https://en.help.roblox.com/hc/pt-br/articles/360020870412-Entendendo-as-Mensagens-da-Modera%C3%A7%C3%A3o
-[Posso usar material com Direitos Autorais na Roblox?](./Posso usar material com Direitos Autorais na Roblox-.html) |https://en.help.roblox.com/hc/pt-br/articles/206388086-Posso-usar-material-com-Direitos-Autorais-na-Roblox-
