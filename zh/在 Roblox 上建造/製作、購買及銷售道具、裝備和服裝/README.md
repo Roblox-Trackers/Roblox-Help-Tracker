@@ -12,8 +12,8 @@ Name|URL
 [資料庫](./資料庫.html) |https://en.help.roblox.com/hc/zh-tw/articles/206580683-%E8%B3%87%E6%96%99%E5%BA%AB
 [出售服裝](./出售服裝.html) |https://en.help.roblox.com/hc/zh-tw/articles/203313180-%E5%87%BA%E5%94%AE%E6%9C%8D%E8%A3%9D
 [交易系統](./交易系統.html) |https://en.help.roblox.com/hc/zh-tw/articles/203313310-%E4%BA%A4%E6%98%93%E7%B3%BB%E7%B5%B1
-[我如何使一些項目成為公共領域?](./我如何使一些項目成為公共領域-.html) |https://en.help.roblox.com/hc/zh-tw/articles/203313230-%E6%88%91%E5%A6%82%E4%BD%95%E4%BD%BF%E4%B8%80%E4%BA%9B%E9%A0%85%E7%9B%AE%E6%88%90%E7%82%BA%E5%85%AC%E5%85%B1%E9%A0%98%E5%9F%9F-
-[如何銷售物品](./如何銷售物品.html) |https://en.help.roblox.com/hc/zh-tw/articles/203313260-%E5%A6%82%E4%BD%95%E9%8A%B7%E5%94%AE%E7%89%A9%E5%93%81
+[我如何使資料庫作品成為公共領域作品？](./我如何使資料庫作品成為公共領域作品？.html) |https://en.help.roblox.com/hc/zh-tw/articles/203313230-%E6%88%91%E5%A6%82%E4%BD%95%E4%BD%BF%E8%B3%87%E6%96%99%E5%BA%AB%E4%BD%9C%E5%93%81%E6%88%90%E7%82%BA%E5%85%AC%E5%85%B1%E9%A0%98%E5%9F%9F%E4%BD%9C%E5%93%81-
+[如何銷售道具](./如何銷售道具.html) |https://en.help.roblox.com/hc/zh-tw/articles/203313260-%E5%A6%82%E4%BD%95%E9%8A%B7%E5%94%AE%E9%81%93%E5%85%B7
 [我要如何編輯網格？我可以在型錄販售網格嗎？](./我要如何編輯網格？我可以在型錄販售網格嗎？.html) |https://en.help.roblox.com/hc/zh-tw/articles/203313250-%E6%88%91%E8%A6%81%E5%A6%82%E4%BD%95%E7%B7%A8%E8%BC%AF%E7%B6%B2%E6%A0%BC-%E6%88%91%E5%8F%AF%E4%BB%A5%E5%9C%A8%E5%9E%8B%E9%8C%84%E8%B2%A9%E5%94%AE%E7%B6%B2%E6%A0%BC%E5%97%8E-
 [如果我刪除了或是不喜歡某件道具，能要回我的 Robux 嗎？](./如果我刪除了或是不喜歡某件道具，能要回我的 Robux 嗎？.html) |https://en.help.roblox.com/hc/zh-tw/articles/203313290-%E5%A6%82%E6%9E%9C%E6%88%91%E5%88%AA%E9%99%A4%E4%BA%86%E6%88%96%E6%98%AF%E4%B8%8D%E5%96%9C%E6%AD%A1%E6%9F%90%E4%BB%B6%E9%81%93%E5%85%B7-%E8%83%BD%E8%A6%81%E5%9B%9E%E6%88%91%E7%9A%84-Robux-%E5%97%8E-
 [有關禮品的一切](./有關禮品的一切.html) |https://en.help.roblox.com/hc/zh-tw/articles/205630374-%E6%9C%89%E9%97%9C%E7%A6%AE%E5%93%81%E7%9A%84%E4%B8%80%E5%88%87
