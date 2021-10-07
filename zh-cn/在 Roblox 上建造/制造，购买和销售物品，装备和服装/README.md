@@ -13,7 +13,7 @@ Name|URL
 [出售服装](./出售服装.html) |https://en.help.roblox.com/hc/zh-cn/articles/203313180-%E5%87%BA%E5%94%AE%E6%9C%8D%E8%A3%85
 [交易系统](./交易系统.html) |https://en.help.roblox.com/hc/zh-cn/articles/203313310-%E4%BA%A4%E6%98%93%E7%B3%BB%E7%BB%9F
 [我如何使一些项目成为公共领域?](./我如何使一些项目成为公共领域-.html) |https://en.help.roblox.com/hc/zh-cn/articles/203313230-%E6%88%91%E5%A6%82%E4%BD%95%E4%BD%BF%E4%B8%80%E4%BA%9B%E9%A1%B9%E7%9B%AE%E6%88%90%E4%B8%BA%E5%85%AC%E5%85%B1%E9%A2%86%E5%9F%9F-
-[如何销售物品](./如何销售物品.html) |https://en.help.roblox.com/hc/zh-cn/articles/203313260-%E5%A6%82%E4%BD%95%E9%94%80%E5%94%AE%E7%89%A9%E5%93%81
+[如何销售道具](./如何销售道具.html) |https://en.help.roblox.com/hc/zh-cn/articles/203313260-%E5%A6%82%E4%BD%95%E9%94%80%E5%94%AE%E9%81%93%E5%85%B7
 [我要如何编辑网格？我可以在虚拟形象商店贩售网格吗？](./我要如何编辑网格？我可以在虚拟形象商店贩售网格吗？.html) |https://en.help.roblox.com/hc/zh-cn/articles/203313250-%E6%88%91%E8%A6%81%E5%A6%82%E4%BD%95%E7%BC%96%E8%BE%91%E7%BD%91%E6%A0%BC-%E6%88%91%E5%8F%AF%E4%BB%A5%E5%9C%A8%E8%99%9A%E6%8B%9F%E5%BD%A2%E8%B1%A1%E5%95%86%E5%BA%97%E8%B4%A9%E5%94%AE%E7%BD%91%E6%A0%BC%E5%90%97-
 [如果我删除/不喜欢某个物品，我会换回我的 Robux 吗？](./如果我删除-不喜欢某个物品，我会换回我的 Robux 吗？.html) |https://en.help.roblox.com/hc/zh-cn/articles/203313290-%E5%A6%82%E6%9E%9C%E6%88%91%E5%88%A0%E9%99%A4-%E4%B8%8D%E5%96%9C%E6%AC%A2%E6%9F%90%E4%B8%AA%E7%89%A9%E5%93%81-%E6%88%91%E4%BC%9A%E6%8D%A2%E5%9B%9E%E6%88%91%E7%9A%84-Robux-%E5%90%97-
 [有关礼品的一切](./有关礼品的一切.html) |https://en.help.roblox.com/hc/zh-cn/articles/205630374-%E6%9C%89%E5%85%B3%E7%A4%BC%E5%93%81%E7%9A%84%E4%B8%80%E5%88%87
