@@ -5,7 +5,7 @@ Name|URL
 [如何存档资产和游戏](./如何存档资产和游戏.html) |https://en.help.roblox.com/hc/zh-cn/articles/360031253052-%E5%A6%82%E4%BD%95%E5%AD%98%E6%A1%A3%E8%B5%84%E4%BA%A7%E5%92%8C%E6%B8%B8%E6%88%8F
 [我刚买的道具在哪里了呢？](./我刚买的道具在哪里了呢？.html) |https://en.help.roblox.com/hc/zh-cn/articles/360029542532-%E6%88%91%E5%88%9A%E4%B9%B0%E7%9A%84%E9%81%93%E5%85%B7%E5%9C%A8%E5%93%AA%E9%87%8C%E4%BA%86%E5%91%A2-
 [如何在浏览器中查看或隐藏你的库存](./如何在浏览器中查看或隐藏你的库存.html) |https://en.help.roblox.com/hc/zh-cn/articles/360000463726-%E5%A6%82%E4%BD%95%E5%9C%A8%E6%B5%8F%E8%A7%88%E5%99%A8%E4%B8%AD%E6%9F%A5%E7%9C%8B%E6%88%96%E9%9A%90%E8%97%8F%E4%BD%A0%E7%9A%84%E5%BA%93%E5%AD%98
-[物品详细页面和购买物品](./物品详细页面和购买物品.html) |https://en.help.roblox.com/hc/zh-cn/articles/206142306-%E7%89%A9%E5%93%81%E8%AF%A6%E7%BB%86%E9%A1%B5%E9%9D%A2%E5%92%8C%E8%B4%AD%E4%B9%B0%E7%89%A9%E5%93%81
+[道具详细信息页面和购买道具](./道具详细信息页面和购买道具.html) |https://en.help.roblox.com/hc/zh-cn/articles/206142306-%E9%81%93%E5%85%B7%E8%AF%A6%E7%BB%86%E4%BF%A1%E6%81%AF%E9%A1%B5%E9%9D%A2%E5%92%8C%E8%B4%AD%E4%B9%B0%E9%81%93%E5%85%B7
 [服装：T恤、衬衫和裤子](./服装：T恤、衬衫和裤子.html) |https://en.help.roblox.com/hc/zh-cn/articles/203313170-%E6%9C%8D%E8%A3%85-T%E6%81%A4-%E8%A1%AC%E8%A1%AB%E5%92%8C%E8%A3%A4%E5%AD%90
 [什么是虚拟装备？](./什么是虚拟装备？.html) |https://en.help.roblox.com/hc/zh-cn/articles/203313630-%E4%BB%80%E4%B9%88%E6%98%AF%E8%99%9A%E6%8B%9F%E8%A3%85%E5%A4%87-
 [虚拟形象商店](./虚拟形象商店.html) |https://en.help.roblox.com/hc/zh-cn/articles/203313300-%E8%99%9A%E6%8B%9F%E5%BD%A2%E8%B1%A1%E5%95%86%E5%BA%97
