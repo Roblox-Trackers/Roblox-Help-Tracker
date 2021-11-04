@@ -2,7 +2,7 @@
 ### Articles in this section
 Name|URL
 -|-
-[確保您的賬戶安全](./確保您的賬戶安全.html) |https://en.help.roblox.com/hc/zh-tw/articles/203313380-%E7%A2%BA%E4%BF%9D%E6%82%A8%E7%9A%84%E8%B3%AC%E6%88%B6%E5%AE%89%E5%85%A8
+[確保您的帳號安全](./確保您的帳號安全.html) |https://en.help.roblox.com/hc/zh-tw/articles/203313380-%E7%A2%BA%E4%BF%9D%E6%82%A8%E7%9A%84%E5%B8%B3%E8%99%9F%E5%AE%89%E5%85%A8
 [我的帳號被入侵了，怎麼辦？](./我的帳號被入侵了，怎麼辦？.html) |https://en.help.roblox.com/hc/zh-tw/articles/203313390-%E6%88%91%E7%9A%84%E5%B8%B3%E8%99%9F%E8%A2%AB%E5%85%A5%E4%BE%B5%E4%BA%86-%E6%80%8E%E9%BA%BC%E8%BE%A6-
 [驗證您的電子郵件地址](./驗證您的電子郵件地址.html) |https://en.help.roblox.com/hc/zh-tw/articles/203313350-%E9%A9%97%E8%AD%89%E6%82%A8%E7%9A%84%E9%9B%BB%E5%AD%90%E9%83%B5%E4%BB%B6%E5%9C%B0%E5%9D%80
 [增加雙步驟驗證到您的帳號](./增加雙步驟驗證到您的帳號.html) |https://en.help.roblox.com/hc/zh-tw/articles/212459863-%E5%A2%9E%E5%8A%A0%E9%9B%99%E6%AD%A5%E9%A9%9F%E9%A9%97%E8%AD%89%E5%88%B0%E6%82%A8%E7%9A%84%E5%B8%B3%E8%99%9F
