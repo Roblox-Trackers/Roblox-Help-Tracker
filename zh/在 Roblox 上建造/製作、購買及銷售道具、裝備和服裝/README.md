@@ -24,4 +24,4 @@ Name|URL
 [音訊檔案](./音訊檔案.html) |https://en.help.roblox.com/hc/zh-tw/articles/203314070-%E9%9F%B3%E8%A8%8A%E6%AA%94%E6%A1%88
 [遊戲證](./遊戲證.html) |https://en.help.roblox.com/hc/zh-tw/articles/203314040-%E9%81%8A%E6%88%B2%E8%AD%89
 [銷售通行權（支付使用權）](./銷售通行權（支付使用權）.html) |https://en.help.roblox.com/hc/zh-tw/articles/203314090-%E9%8A%B7%E5%94%AE%E9%80%9A%E8%A1%8C%E6%AC%8A-%E6%94%AF%E4%BB%98%E4%BD%BF%E7%94%A8%E6%AC%8A-
-[關於VIP襯衫的一切](./關於VIP襯衫的一切.html) |https://en.help.roblox.com/hc/zh-tw/articles/203314080-%E9%97%9C%E6%96%BCVIP%E8%A5%AF%E8%A1%AB%E7%9A%84%E4%B8%80%E5%88%87
+[關於 VIP 襯衫的一切](./關於 VIP 襯衫的一切.html) |https://en.help.roblox.com/hc/zh-tw/articles/203314080-%E9%97%9C%E6%96%BC-VIP-%E8%A5%AF%E8%A1%AB%E7%9A%84%E4%B8%80%E5%88%87
