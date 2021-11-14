@@ -3,7 +3,7 @@
 Name|URL
 -|-
 [我忘记了我的 PIN 码](./我忘记了我的 PIN 码.html) |https://en.help.roblox.com/hc/zh-cn/articles/360031292471-%E6%88%91%E5%BF%98%E8%AE%B0%E4%BA%86%E6%88%91%E7%9A%84-PIN-%E7%A0%81
-[年龄身份证验证常见问题](./年龄身份证验证常见问题.html) |https://en.help.roblox.com/hc/zh-cn/articles/4407276151188-%E5%B9%B4%E9%BE%84%E8%BA%AB%E4%BB%BD%E8%AF%81%E9%AA%8C%E8%AF%81%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98
+[年龄身份验证常见问题](./年龄身份验证常见问题.html) |https://en.help.roblox.com/hc/zh-cn/articles/4407276151188-%E5%B9%B4%E9%BE%84%E8%BA%AB%E4%BB%BD%E9%AA%8C%E8%AF%81%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98
 [年龄身份验证](./年龄身份验证.html) |https://en.help.roblox.com/hc/zh-cn/articles/4407282410644-%E5%B9%B4%E9%BE%84%E8%BA%AB%E4%BB%BD%E9%AA%8C%E8%AF%81
 [如何更改我的年龄？](./如何更改我的年龄？.html) |https://en.help.roblox.com/hc/zh-cn/articles/360031323611-%E5%A6%82%E4%BD%95%E6%9B%B4%E6%94%B9%E6%88%91%E7%9A%84%E5%B9%B4%E9%BE%84-
 [添加或删除账户 PIN  码](./添加或删除账户 PIN  码.html) |https://en.help.roblox.com/hc/zh-cn/articles/360031680051-%E6%B7%BB%E5%8A%A0%E6%88%96%E5%88%A0%E9%99%A4%E8%B4%A6%E6%88%B7-PIN-%E7%A0%81
