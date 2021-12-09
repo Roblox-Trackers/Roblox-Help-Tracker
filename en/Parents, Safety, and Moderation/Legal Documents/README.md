@@ -10,5 +10,4 @@ Name|URL
 [General Health Notice](./General Health Notice.html) |https://en.help.roblox.com/hc/en-us/articles/360031603131-General-Health-Notice
 [Roblox Accessibility Statement](./Roblox Accessibility Statement.html) |https://en.help.roblox.com/hc/en-us/articles/360059080071-Roblox-Accessibility-Statement
 [Using Licensed Music in Videos](./Using Licensed Music in Videos.html) |https://en.help.roblox.com/hc/en-us/articles/360038525351-Using-Licensed-Music-in-Videos
-[Add Contacts](./Add Contacts.html) |https://en.help.roblox.com/hc/en-us/articles/360000015683-Add-Contacts
 [California Consumer Privacy Act](./California Consumer Privacy Act.html) |https://en.help.roblox.com/hc/en-us/articles/4402871541140-California-Consumer-Privacy-Act
