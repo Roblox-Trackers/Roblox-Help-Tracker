@@ -10,4 +10,3 @@ Name|URL
 [General Health Notice](./General Health Notice.html) |https://en.help.roblox.com/hc/es/articles/360031603131-General-Health-Notice
 [Declaración de accesibilidad de Roblox](./Declaración de accesibilidad de Roblox.html) |https://en.help.roblox.com/hc/es/articles/360059080071-Declaraci%C3%B3n-de-accesibilidad-de-Roblox
 [Cómo usar música con licencia en videos](./Cómo usar música con licencia en videos.html) |https://en.help.roblox.com/hc/es/articles/360038525351-C%C3%B3mo-usar-m%C3%BAsica-con-licencia-en-videos
-[Añadir contactos](./Añadir contactos.html) |https://en.help.roblox.com/hc/es/articles/360000015683-A%C3%B1adir-contactos
