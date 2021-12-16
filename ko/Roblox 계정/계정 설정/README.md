@@ -3,6 +3,7 @@
 Name|URL
 -|-
 [PIN을 잊어버렸어요](./PIN을 잊어버렸어요.html) |https://en.help.roblox.com/hc/ko/articles/360031292471-PIN%EC%9D%84-%EC%9E%8A%EC%96%B4%EB%B2%84%EB%A0%B8%EC%96%B4%EC%9A%94
+[나이 신분증 인증](./나이 신분증 인증.html) |https://en.help.roblox.com/hc/ko/articles/4407282410644-%EB%82%98%EC%9D%B4-%EC%8B%A0%EB%B6%84%EC%A6%9D-%EC%9D%B8%EC%A6%9D
 [표시 이름 변경하기](./표시 이름 변경하기.html) |https://en.help.roblox.com/hc/ko/articles/4401938870292-%ED%91%9C%EC%8B%9C-%EC%9D%B4%EB%A6%84-%EB%B3%80%EA%B2%BD%ED%95%98%EA%B8%B0
 [계정에 등록된 나이를 변경하려면 어떻게 해야 하나요?](./계정에 등록된 나이를 변경하려면 어떻게 해야 하나요-.html) |https://en.help.roblox.com/hc/ko/articles/360031323611-%EA%B3%84%EC%A0%95%EC%97%90-%EB%93%B1%EB%A1%9D%EB%90%9C-%EB%82%98%EC%9D%B4%EB%A5%BC-%EB%B3%80%EA%B2%BD%ED%95%98%EB%A0%A4%EB%A9%B4-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%B4%EC%95%BC-%ED%95%98%EB%82%98%EC%9A%94-
 [계정 PIN을 추가 혹은 삭제하려면 어떻게 하면 되나요?](./계정 PIN을 추가 혹은 삭제하려면 어떻게 하면 되나요-.html) |https://en.help.roblox.com/hc/ko/articles/360031680051-%EA%B3%84%EC%A0%95-PIN%EC%9D%84-%EC%B6%94%EA%B0%80-%ED%98%B9%EC%9D%80-%EC%82%AD%EC%A0%9C%ED%95%98%EB%A0%A4%EB%A9%B4-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%98%EB%A9%B4-%EB%90%98%EB%82%98%EC%9A%94-
