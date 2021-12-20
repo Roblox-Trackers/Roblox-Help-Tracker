@@ -13,7 +13,7 @@ Name|URL
 [방화벽 (Firewall) 및 라우터 문제](./방화벽 (Firewall) 및 라우터 문제.html) |https://en.help.roblox.com/hc/ko/articles/203312840-%EB%B0%A9%ED%99%94%EB%B2%BD-Firewall-%EB%B0%8F-%EB%9D%BC%EC%9A%B0%ED%84%B0-%EB%AC%B8%EC%A0%9C
 [Mac의 자녀 보호 기능 관련 문제](./Mac의 자녀 보호 기능 관련 문제.html) |https://en.help.roblox.com/hc/ko/articles/203313010-Mac%EC%9D%98-%EC%9E%90%EB%85%80-%EB%B3%B4%ED%98%B8-%EA%B8%B0%EB%8A%A5-%EA%B4%80%EB%A0%A8-%EB%AC%B8%EC%A0%9C
 [Mac: 업그레이드 실패 메시지](./Mac- 업그레이드 실패 메시지.html) |https://en.help.roblox.com/hc/ko/articles/203313000-Mac-%EC%97%85%EA%B7%B8%EB%A0%88%EC%9D%B4%EB%93%9C-%EC%8B%A4%ED%8C%A8-%EB%A9%94%EC%8B%9C%EC%A7%80
-[컴퓨터의 그래픽 문제](./컴퓨터의 그래픽 문제.html) |https://en.help.roblox.com/hc/ko/articles/203312790--%EC%BB%B4%ED%93%A8%ED%84%B0%EC%9D%98-%EA%B7%B8%EB%9E%98%ED%94%BD-%EB%AC%B8%EC%A0%9C
+[컴퓨터 그래픽 문제](./컴퓨터 그래픽 문제.html) |https://en.help.roblox.com/hc/ko/articles/203312790-%EC%BB%B4%ED%93%A8%ED%84%B0-%EA%B7%B8%EB%9E%98%ED%94%BD-%EB%AC%B8%EC%A0%9C
 [로그인했지만, 게임에서 제가 게스트로 나타납니다](./로그인했지만, 게임에서 제가 게스트로 나타납니다.html) |https://en.help.roblox.com/hc/ko/articles/205211416-%EB%A1%9C%EA%B7%B8%EC%9D%B8%ED%96%88%EC%A7%80%EB%A7%8C-%EA%B2%8C%EC%9E%84%EC%97%90%EC%84%9C-%EC%A0%9C%EA%B0%80-%EA%B2%8C%EC%8A%A4%ED%8A%B8%EB%A1%9C-%EB%82%98%ED%83%80%EB%82%A9%EB%8B%88%EB%8B%A4
 [무한 "최신 Roblox 다운받기" 루프](./무한 -최신 Roblox 다운받기- 루프.html) |https://en.help.roblox.com/hc/ko/articles/203312940-%EB%AC%B4%ED%95%9C-%EC%B5%9C%EC%8B%A0-Roblox-%EB%8B%A4%EC%9A%B4%EB%B0%9B%EA%B8%B0-%EB%A3%A8%ED%94%84
 [Roblox 실행 플러그인](./Roblox 실행 플러그인.html) |https://en.help.roblox.com/hc/ko/articles/203313020-Roblox-%EC%8B%A4%ED%96%89-%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8
