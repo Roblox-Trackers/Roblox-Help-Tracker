@@ -2,6 +2,7 @@
 ### Articles in this section
 Name|URL
 -|-
+[Group Name Change](./Group Name Change.html) |https://en.help.roblox.com/hc/es/articles/4414930974228-Group-Name-Change-
 [Cómo hacer y unirte a grupos](./Cómo hacer y unirte a grupos.html) |https://en.help.roblox.com/hc/es/articles/203313730-C%C3%B3mo-hacer-y-unirte-a-grupos
 [Cómo Dejar un Grupo](./Cómo Dejar un Grupo.html) |https://en.help.roblox.com/hc/es/articles/203313790-C%C3%B3mo-Dejar-un-Grupo-
 [Grupo Primario](./Grupo Primario.html) |https://en.help.roblox.com/hc/es/articles/203313740-Grupo-Primario
