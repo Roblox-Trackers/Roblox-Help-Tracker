@@ -2,6 +2,7 @@
 ### Articles in this section
 Name|URL
 -|-
+[Changer le nom d'un groupe](./Changer le nom d'un groupe.html) |https://en.help.roblox.com/hc/fr/articles/4414930974228-Changer-le-nom-d-un-groupe
 [Comment créer et rejoindre des groupes](./Comment créer et rejoindre des groupes.html) |https://en.help.roblox.com/hc/fr/articles/203313730-Comment-cr%C3%A9er-et-rejoindre-des-groupes
 [Comment quitter un Groupe](./Comment quitter un Groupe.html) |https://en.help.roblox.com/hc/fr/articles/203313790-Comment-quitter-un-Groupe
 [Le Groupe Principal](./Le Groupe Principal.html) |https://en.help.roblox.com/hc/fr/articles/203313740-Le-Groupe-Principal
