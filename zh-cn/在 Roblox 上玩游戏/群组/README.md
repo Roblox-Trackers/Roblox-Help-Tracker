@@ -2,6 +2,7 @@
 ### Articles in this section
 Name|URL
 -|-
+[组名变更](./组名变更.html) |https://en.help.roblox.com/hc/zh-cn/articles/4414930974228-%E7%BB%84%E5%90%8D%E5%8F%98%E6%9B%B4
 [如何创建和加入群组](./如何创建和加入群组.html) |https://en.help.roblox.com/hc/zh-cn/articles/203313730-%E5%A6%82%E4%BD%95%E5%88%9B%E5%BB%BA%E5%92%8C%E5%8A%A0%E5%85%A5%E7%BE%A4%E7%BB%84
 [如何离开群组](./如何离开群组.html) |https://en.help.roblox.com/hc/zh-cn/articles/203313790-%E5%A6%82%E4%BD%95%E7%A6%BB%E5%BC%80%E7%BE%A4%E7%BB%84
 [主要群组](./主要群组.html) |https://en.help.roblox.com/hc/zh-cn/articles/203313740-%E4%B8%BB%E8%A6%81%E7%BE%A4%E7%BB%84
