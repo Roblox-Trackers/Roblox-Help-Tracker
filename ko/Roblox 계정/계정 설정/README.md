@@ -13,5 +13,4 @@ Name|URL
 [계정에 등록된 언어 및 국가 변경하기](./계정에 등록된 언어 및 국가 변경하기.html) |https://en.help.roblox.com/hc/ko/articles/360001216486-%EA%B3%84%EC%A0%95%EC%97%90-%EB%93%B1%EB%A1%9D%EB%90%9C-%EC%96%B8%EC%96%B4-%EB%B0%8F-%EA%B5%AD%EA%B0%80-%EB%B3%80%EA%B2%BD%ED%95%98%EA%B8%B0
 [표시 이름 변경하기](./표시 이름 변경하기.html) |https://en.help.roblox.com/hc/ko/articles/4401938870292-%ED%91%9C%EC%8B%9C-%EC%9D%B4%EB%A6%84-%EB%B3%80%EA%B2%BD%ED%95%98%EA%B8%B0
 [사용자 이름 변경하기](./사용자 이름 변경하기.html) |https://en.help.roblox.com/hc/ko/articles/203313130-%EC%82%AC%EC%9A%A9%EC%9E%90-%EC%9D%B4%EB%A6%84-%EB%B3%80%EA%B2%BD%ED%95%98%EA%B8%B0
-[나이 신분증 인증](./나이 신분증 인증.html) |https://en.help.roblox.com/hc/ko/articles/4407282410644-%EB%82%98%EC%9D%B4-%EC%8B%A0%EB%B6%84%EC%A6%9D-%EC%9D%B8%EC%A6%9D
 [계정 테마 변경하기](./계정 테마 변경하기.html) |https://en.help.roblox.com/hc/ko/articles/360022922852-%EA%B3%84%EC%A0%95-%ED%85%8C%EB%A7%88-%EB%B3%80%EA%B2%BD%ED%95%98%EA%B8%B0
