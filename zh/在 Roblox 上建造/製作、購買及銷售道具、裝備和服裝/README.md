@@ -2,7 +2,7 @@
 ### Articles in this section
 Name|URL
 -|-
-[如何封存素材和遊戲](./如何封存素材和遊戲.html) |https://en.help.roblox.com/hc/zh-tw/articles/360031253052-%E5%A6%82%E4%BD%95%E5%B0%81%E5%AD%98%E7%B4%A0%E6%9D%90%E5%92%8C%E9%81%8A%E6%88%B2
+[如何封存素材和體驗](./如何封存素材和體驗.html) |https://en.help.roblox.com/hc/zh-tw/articles/360031253052-%E5%A6%82%E4%BD%95%E5%B0%81%E5%AD%98%E7%B4%A0%E6%9D%90%E5%92%8C%E9%AB%94%E9%A9%97
 [我剛買的道具在哪裡了呢？](./我剛買的道具在哪裡了呢？.html) |https://en.help.roblox.com/hc/zh-tw/articles/360029542532-%E6%88%91%E5%89%9B%E8%B2%B7%E7%9A%84%E9%81%93%E5%85%B7%E5%9C%A8%E5%93%AA%E8%A3%A1%E4%BA%86%E5%91%A2-
 [如何在瀏覽器中查看或隱藏您的道具欄](./如何在瀏覽器中查看或隱藏您的道具欄.html) |https://en.help.roblox.com/hc/zh-tw/articles/360000463726-%E5%A6%82%E4%BD%95%E5%9C%A8%E7%80%8F%E8%A6%BD%E5%99%A8%E4%B8%AD%E6%9F%A5%E7%9C%8B%E6%88%96%E9%9A%B1%E8%97%8F%E6%82%A8%E7%9A%84%E9%81%93%E5%85%B7%E6%AC%84
 [道具詳細資訊頁面和購買道具](./道具詳細資訊頁面和購買道具.html) |https://en.help.roblox.com/hc/zh-tw/articles/206142306-%E9%81%93%E5%85%B7%E8%A9%B3%E7%B4%B0%E8%B3%87%E8%A8%8A%E9%A0%81%E9%9D%A2%E5%92%8C%E8%B3%BC%E8%B2%B7%E9%81%93%E5%85%B7
@@ -22,6 +22,6 @@ Name|URL
 [如何創作貼花](./如何創作貼花.html) |https://en.help.roblox.com/hc/zh-tw/articles/203313930-%E5%A6%82%E4%BD%95%E5%89%B5%E4%BD%9C%E8%B2%BC%E8%8A%B1
 [如何創建組件](./如何創建組件.html) |https://en.help.roblox.com/hc/zh-tw/articles/203313910-%E5%A6%82%E4%BD%95%E5%89%B5%E5%BB%BA%E7%B5%84%E4%BB%B6
 [音訊檔案](./音訊檔案.html) |https://en.help.roblox.com/hc/zh-tw/articles/203314070-%E9%9F%B3%E8%A8%8A%E6%AA%94%E6%A1%88
-[遊戲證](./遊戲證.html) |https://en.help.roblox.com/hc/zh-tw/articles/203314040-%E9%81%8A%E6%88%B2%E8%AD%89
+[體驗證](./體驗證.html) |https://en.help.roblox.com/hc/zh-tw/articles/203314040-%E9%AB%94%E9%A9%97%E8%AD%89
 [銷售通行權（支付使用權）](./銷售通行權（支付使用權）.html) |https://en.help.roblox.com/hc/zh-tw/articles/203314090-%E9%8A%B7%E5%94%AE%E9%80%9A%E8%A1%8C%E6%AC%8A-%E6%94%AF%E4%BB%98%E4%BD%BF%E7%94%A8%E6%AC%8A-
 [關於 VIP 襯衫的一切](./關於 VIP 襯衫的一切.html) |https://en.help.roblox.com/hc/zh-tw/articles/203314080-%E9%97%9C%E6%96%BC-VIP-%E8%A5%AF%E8%A1%AB%E7%9A%84%E4%B8%80%E5%88%87
