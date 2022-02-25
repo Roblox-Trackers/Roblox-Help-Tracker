@@ -2,7 +2,7 @@
 ### Articles in this section
 Name|URL
 -|-
-[How to archive assets and games](./How to archive assets and games.html) |https://en.help.roblox.com/hc/en-us/articles/360031253052-How-to-archive-assets-and-games
+[How to Archive Assets and Experiences](./How to Archive Assets and Experiences.html) |https://en.help.roblox.com/hc/en-us/articles/360031253052-How-to-Archive-Assets-and-Experiences
 [Where is the item I just bought?](./Where is the item I just bought-.html) |https://en.help.roblox.com/hc/en-us/articles/360029542532-Where-is-the-item-I-just-bought-
 [How to View or Hide Your Inventory in a Browser](./How to View or Hide Your Inventory in a Browser.html) |https://en.help.roblox.com/hc/en-us/articles/360000463726-How-to-View-or-Hide-Your-Inventory-in-a-Browser
 [The Item Details Page and Purchasing Items](./The Item Details Page and Purchasing Items.html) |https://en.help.roblox.com/hc/en-us/articles/206142306-The-Item-Details-Page-and-Purchasing-Items
@@ -22,6 +22,6 @@ Name|URL
 [How to Make Decals](./How to Make Decals.html) |https://en.help.roblox.com/hc/en-us/articles/203313930-How-to-Make-Decals
 [How to Create a Package](./How to Create a Package.html) |https://en.help.roblox.com/hc/en-us/articles/203313910-How-to-Create-a-Package
 [Audio Files](./Audio Files.html) |https://en.help.roblox.com/hc/en-us/articles/203314070-Audio-Files
-[Game Passes](./Game Passes.html) |https://en.help.roblox.com/hc/en-us/articles/203314040-Game-Passes
-[Selling Game Access (Paid Access)](./Selling Game Access (Paid Access).html) |https://en.help.roblox.com/hc/en-us/articles/203314090-Selling-Game-Access-Paid-Access-
+[Experience Passes](./Experience Passes.html) |https://en.help.roblox.com/hc/en-us/articles/203314040-Experience-Passes
+[Selling Experience Access (Paid Access)](./Selling Experience Access (Paid Access).html) |https://en.help.roblox.com/hc/en-us/articles/203314090-Selling-Experience-Access-Paid-Access-
 [All About VIP Shirts](./All About VIP Shirts.html) |https://en.help.roblox.com/hc/en-us/articles/203314080-All-About-VIP-Shirts
