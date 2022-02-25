@@ -10,4 +10,4 @@ Name|URL
 [移动：查看你的道具](./移动：查看你的道具.html) |https://en.help.roblox.com/hc/zh-cn/articles/360000344426-%E7%A7%BB%E5%8A%A8-%E6%9F%A5%E7%9C%8B%E4%BD%A0%E7%9A%84%E9%81%93%E5%85%B7
 [移动：群组](./移动：群组.html) |https://en.help.roblox.com/hc/zh-cn/articles/203313490-%E7%A7%BB%E5%8A%A8-%E7%BE%A4%E7%BB%84
 [移动：好友请求](./移动：好友请求.html) |https://en.help.roblox.com/hc/zh-cn/articles/203313480-%E7%A7%BB%E5%8A%A8-%E5%A5%BD%E5%8F%8B%E8%AF%B7%E6%B1%82
-[移动：搜索和浏览游戏](./移动：搜索和浏览游戏.html) |https://en.help.roblox.com/hc/zh-cn/articles/203313460-%E7%A7%BB%E5%8A%A8-%E6%90%9C%E7%B4%A2%E5%92%8C%E6%B5%8F%E8%A7%88%E6%B8%B8%E6%88%8F
+[移动：搜索和浏览作品](./移动：搜索和浏览作品.html) |https://en.help.roblox.com/hc/zh-cn/articles/203313460-%E7%A7%BB%E5%8A%A8-%E6%90%9C%E7%B4%A2%E5%92%8C%E6%B5%8F%E8%A7%88%E4%BD%9C%E5%93%81
