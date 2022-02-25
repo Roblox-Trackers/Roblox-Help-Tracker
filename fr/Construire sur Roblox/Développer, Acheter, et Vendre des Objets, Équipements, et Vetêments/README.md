@@ -22,6 +22,6 @@ Name|URL
 [Comment faire des autocollants](./Comment faire des autocollants.html) |https://en.help.roblox.com/hc/fr/articles/203313930-Comment-faire-des-autocollants
 [Comment créer un paquet](./Comment créer un paquet.html) |https://en.help.roblox.com/hc/fr/articles/203313910-Comment-cr%C3%A9er-un-paquet-
 [Fichiers audio](./Fichiers audio.html) |https://en.help.roblox.com/hc/fr/articles/203314070-Fichiers-audio
-[Passes pour des jeux](./Passes pour des jeux.html) |https://en.help.roblox.com/hc/fr/articles/203314040-Passes-pour-des-jeux
+[Passes pour des expériences](./Passes pour des expériences.html) |https://en.help.roblox.com/hc/fr/articles/203314040-Passes-pour-des-exp%C3%A9riences
 [Vendre l'Accès aux Jeux (Accès Payant)](./Vendre l'Accès aux Jeux (Accès Payant).html) |https://en.help.roblox.com/hc/fr/articles/203314090-Vendre-l-Acc%C3%A8s-aux-Jeux-Acc%C3%A8s-Payant-
 [Tout sur les Chemises VIP](./Tout sur les Chemises VIP.html) |https://en.help.roblox.com/hc/fr/articles/203314080-Tout-sur-les-Chemises-VIP
