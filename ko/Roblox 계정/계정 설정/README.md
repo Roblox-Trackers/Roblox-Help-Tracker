@@ -12,5 +12,4 @@ Name|URL
 [전화번호를 추가하거나 변경하려면 어떻게 하면 되나요?](./전화번호를 추가하거나 변경하려면 어떻게 하면 되나요-.html) |https://en.help.roblox.com/hc/ko/articles/115004804623-%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%EB%A5%BC-%EC%B6%94%EA%B0%80%ED%95%98%EA%B1%B0%EB%82%98-%EB%B3%80%EA%B2%BD%ED%95%98%EB%A0%A4%EB%A9%B4-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%98%EB%A9%B4-%EB%90%98%EB%82%98%EC%9A%94-
 [계정에 등록된 언어 및 국가 변경하기](./계정에 등록된 언어 및 국가 변경하기.html) |https://en.help.roblox.com/hc/ko/articles/360001216486-%EA%B3%84%EC%A0%95%EC%97%90-%EB%93%B1%EB%A1%9D%EB%90%9C-%EC%96%B8%EC%96%B4-%EB%B0%8F-%EA%B5%AD%EA%B0%80-%EB%B3%80%EA%B2%BD%ED%95%98%EA%B8%B0
 [표시 이름 변경하기](./표시 이름 변경하기.html) |https://en.help.roblox.com/hc/ko/articles/4401938870292-%ED%91%9C%EC%8B%9C-%EC%9D%B4%EB%A6%84-%EB%B3%80%EA%B2%BD%ED%95%98%EA%B8%B0
-[사용자 이름 변경하기](./사용자 이름 변경하기.html) |https://en.help.roblox.com/hc/ko/articles/203313130-%EC%82%AC%EC%9A%A9%EC%9E%90-%EC%9D%B4%EB%A6%84-%EB%B3%80%EA%B2%BD%ED%95%98%EA%B8%B0
 [계정 테마 변경하기](./계정 테마 변경하기.html) |https://en.help.roblox.com/hc/ko/articles/360022922852-%EA%B3%84%EC%A0%95-%ED%85%8C%EB%A7%88-%EB%B3%80%EA%B2%BD%ED%95%98%EA%B8%B0
