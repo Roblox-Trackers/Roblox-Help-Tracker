@@ -11,3 +11,4 @@ Name|URL
 [E se alguém adicionou um PIN à minha conta?](./E se alguém adicionou um PIN à minha conta-.html) |https://en.help.roblox.com/hc/pt-br/articles/360031316752-E-se-algu%C3%A9m-adicionou-um-PIN-%C3%A0-minha-conta-
 [Posso compartilhar minha conta?](./Posso compartilhar minha conta-.html) |https://en.help.roblox.com/hc/pt-br/articles/360000236103-Posso-compartilhar-minha-conta-
 [Rumores de Hacking e Farsas](./Rumores de Hacking e Farsas.html) |https://en.help.roblox.com/hc/pt-br/articles/360000240346-Rumores-de-Hacking-e-Farsas
+[Por que estou vendo um banner pedindo para alterar minha senha?](./Por que estou vendo um banner pedindo para alterar minha senha-.html) |https://en.help.roblox.com/hc/pt-br/articles/4416940180500-Por-que-estou-vendo-um-banner-pedindo-para-alterar-minha-senha-
