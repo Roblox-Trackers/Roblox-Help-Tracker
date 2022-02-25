@@ -4,14 +4,14 @@ Name|URL
 -|-
 [Konfigurierung des Chat-Stils Ihres Ortes](./Konfigurierung des Chat-Stils Ihres Ortes.html) |https://en.help.roblox.com/hc/de/articles/360019904552-Konfigurierung-des-Chat-Stils-Ihres-Ortes
 [Grundlegende Platz-Einstellungen: Name & Beschreibung](./Grundlegende Platz-Einstellungen- Name & Beschreibung.html) |https://en.help.roblox.com/hc/de/articles/203314030-Grundlegende-Platz-Einstellungen-Name-Beschreibung
-[Social-Media-Links zu Spielbeschreibungen](./Social-Media-Links zu Spielbeschreibungen.html) |https://en.help.roblox.com/hc/de/articles/360000910966-Social-Media-Links-zu-Spielbeschreibungen
+[Social-Media-Links zu Erlebnisbeschreibungen](./Social-Media-Links zu Erlebnisbeschreibungen.html) |https://en.help.roblox.com/hc/de/articles/360000910966-Social-Media-Links-zu-Erlebnisbeschreibungen
 [Hilfe zum Erstellen/Skripten und Anleitungen](./Hilfe zum Erstellen-Skripten und Anleitungen.html) |https://en.help.roblox.com/hc/de/articles/203625344-Hilfe-zum-Erstellen-Skripten-und-Anleitungen
 [Roblox Studio](./Roblox Studio.html) |https://en.help.roblox.com/hc/de/articles/203313860-Roblox-Studio
 [Bearbeiten und Testen in Studio (Bearbeitungsmodus)](./Bearbeiten und Testen in Studio (Bearbeitungsmodus).html) |https://en.help.roblox.com/hc/de/articles/203313870-Bearbeiten-und-Testen-in-Studio-Bearbeitungsmodus-
 [Das Kopieren deines Spiels nicht zulassen](./Das Kopieren deines Spiels nicht zulassen.html) |https://en.help.roblox.com/hc/de/articles/203313940-Das-Kopieren-deines-Spiels-nicht-zulassen
 [So können Sie einen Platz Veröffentlichen/Hochladen](./So können Sie einen Platz Veröffentlichen-Hochladen.html) |https://en.help.roblox.com/hc/de/articles/203313890-So-k%C3%B6nnen-Sie-einen-Platz-Ver%C3%B6ffentlichen-Hochladen
-[Gruppenspiele](./Gruppenspiele.html) |https://en.help.roblox.com/hc/de/articles/203313760-Gruppenspiele
-[Spiele erstellen und veröffentlichen](./Spiele erstellen und veröffentlichen.html) |https://en.help.roblox.com/hc/de/articles/203313950-Spiele-erstellen-und-ver%C3%B6ffentlichen
+[Gruppenerlebnisse](./Gruppenerlebnisse.html) |https://en.help.roblox.com/hc/de/articles/203313760-Gruppenerlebnisse
+[Erlebnisse erstellen und veröffentlichen](./Erlebnisse erstellen und veröffentlichen.html) |https://en.help.roblox.com/hc/de/articles/203313950-Erlebnisse-erstellen-und-ver%C3%B6ffentlichen
 [Wie kann ich VIP/Private Server in meinen Spielen aktivieren?](./Wie kann ich VIP-Private Server in meinen Spielen aktivieren-.html) |https://en.help.roblox.com/hc/de/articles/360000781023-Wie-kann-ich-VIP-Private-Server-in-meinen-Spielen-aktivieren-
 [Ein Spiel kopieren](./Ein Spiel kopieren.html) |https://en.help.roblox.com/hc/de/articles/203313900-Ein-Spiel-kopieren
 [Wie man zu älteren Versionen eines Platzes zurückkehrt](./Wie man zu älteren Versionen eines Platzes zurückkehrt.html) |https://en.help.roblox.com/hc/de/articles/203313850-Wie-man-zu-%C3%A4lteren-Versionen-eines-Platzes-zur%C3%BCckkehrt

@@ -11,7 +11,6 @@ Name|URL
 [Wie ändere ich meine E-Mail-Adresse?](./Wie ändere ich meine E-Mail-Adresse-.html) |https://en.help.roblox.com/hc/de/articles/360000229603-Wie-%C3%A4ndere-ich-meine-E-Mail-Adresse-
 [Wie ändere ich meine Telefonnummer ?](./Wie ändere ich meine Telefonnummer -.html) |https://en.help.roblox.com/hc/de/articles/115004804623-Wie-%C3%A4ndere-ich-meine-Telefonnummer-
 [Ändern der Sprache oder des Landes Ihres Kontos](./Ändern der Sprache oder des Landes Ihres Kontos.html) |https://en.help.roblox.com/hc/de/articles/360001216486-%C3%84ndern-der-Sprache-oder-des-Landes-Ihres-Kontos
-[Deinen angezeigten Namen oder Benutzernamen ändern](./Deinen angezeigten Namen oder Benutzernamen ändern.html) |https://en.help.roblox.com/hc/de/articles/203313130-Deinen-angezeigten-Namen-oder-Benutzernamen-%C3%A4ndern
 [Altersverifizierung](./Altersverifizierung.html) |https://en.help.roblox.com/hc/de/articles/4407282410644-Altersverifizierung
 [Häufig gestellte Fragen zur Altersverifikation](./Häufig gestellte Fragen zur Altersverifikation.html) |https://en.help.roblox.com/hc/de/articles/4407276151188-H%C3%A4ufig-gestellte-Fragen-zur-Altersverifikation
 [Ändern Ihres Kontothemas](./Ändern Ihres Kontothemas.html) |https://en.help.roblox.com/hc/de/articles/360022922852-%C3%84ndern-Ihres-Kontothemas

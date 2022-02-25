@@ -3,7 +3,7 @@
 Name|URL
 -|-
 [Werbung erstellen](./Werbung erstellen.html) |https://en.help.roblox.com/hc/de/articles/203313840-Werbung-erstellen
-[Gesponserte Spiele](./Gesponserte Spiele.html) |https://en.help.roblox.com/hc/de/articles/206455923-Gesponserte-Spiele
+[Gesponserte Erlebnisse](./Gesponserte Erlebnisse.html) |https://en.help.roblox.com/hc/de/articles/206455923-Gesponserte-Erlebnisse
 [Vorschaubilder, Videos und Symbole für Spiele](./Vorschaubilder, Videos und Symbole für Spiele.html) |https://en.help.roblox.com/hc/de/articles/203314060-Vorschaubilder-Videos-und-Symbole-f%C3%BCr-Spiele
 [Video-Werbemittel](./Video-Werbemittel.html) |https://en.help.roblox.com/hc/de/articles/203312520-Video-Werbemittel
 [Entwickler Statistiken](./Entwickler Statistiken.html) |https://en.help.roblox.com/hc/de/articles/203314110-Entwickler-Statistiken

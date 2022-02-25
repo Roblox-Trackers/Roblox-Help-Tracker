@@ -2,11 +2,12 @@
 ### Articles in this section
 Name|URL
 -|-
-[Spiele auf Roblox](./Spiele auf Roblox.html) |https://en.help.roblox.com/hc/de/articles/115004734603-Spiele-auf-Roblox
+[Roblox Beta-App](./Roblox Beta-App.html) |https://en.help.roblox.com/hc/de/articles/360054053812-Roblox-Beta-App
+[Erlebnisse auf Roblox](./Erlebnisse auf Roblox.html) |https://en.help.roblox.com/hc/de/articles/115004734603-Erlebnisse-auf-Roblox
 [Computer Hardware & Betriebssystemanforderungen](./Computer Hardware & Betriebssystemanforderungen.html) |https://en.help.roblox.com/hc/de/articles/203312800-Computer-Hardware-Betriebssystemanforderungen
 [Einstellungen und Hilfe im Spiel](./Einstellungen und Hilfe im Spiel.html) |https://en.help.roblox.com/hc/de/articles/203314230-Einstellungen-und-Hilfe-im-Spiel
 [Wie man Ausrüstung und den Rucksack benutzt](./Wie man Ausrüstung und den Rucksack benutzt.html) |https://en.help.roblox.com/hc/de/articles/203314280-Wie-man-Ausr%C3%BCstung-und-den-Rucksack-benutzt
-[Wie man in Spielen chattet](./Wie man in Spielen chattet.html) |https://en.help.roblox.com/hc/de/articles/203314250-Wie-man-in-Spielen-chattet
+[Wie man in Erlebnisse chattet](./Wie man in Erlebnisse chattet.html) |https://en.help.roblox.com/hc/de/articles/203314250-Wie-man-in-Erlebnisse-chattet
 [Wie man sein Avatar im Spiel zurücksetzt](./Wie man sein Avatar im Spiel zurücksetzt.html) |https://en.help.roblox.com/hc/de/articles/203314290-Wie-man-sein-Avatar-im-Spiel-zur%C3%BCcksetzt
 [Animationssystem (Emotes)](./Animationssystem (Emotes).html) |https://en.help.roblox.com/hc/de/articles/203314300-Animationssystem-Emotes-
 [Wie man ein Spiel verlässt](./Wie man ein Spiel verlässt.html) |https://en.help.roblox.com/hc/de/articles/203314240-Wie-man-ein-Spiel-verl%C3%A4sst

@@ -11,3 +11,4 @@ Name|URL
 [Was mache ich, wenn ein anderer meinem Konto eine PIN hinzugefügt hat?](./Was mache ich, wenn ein anderer meinem Konto eine PIN hinzugefügt hat-.html) |https://en.help.roblox.com/hc/de/articles/360031316752-Was-mache-ich-wenn-ein-anderer-meinem-Konto-eine-PIN-hinzugef%C3%BCgt-hat-
 [Kann ich mein Konto teilen?](./Kann ich mein Konto teilen-.html) |https://en.help.roblox.com/hc/de/articles/360000236103-Kann-ich-mein-Konto-teilen-
 [Hacking-Gerüchte und Falschmeldungen](./Hacking-Gerüchte und Falschmeldungen.html) |https://en.help.roblox.com/hc/de/articles/360000240346-Hacking-Ger%C3%BCchte-und-Falschmeldungen
+[Warum sehe ich ein Banner, das mich auffordert, mein Passwort zu ändern?](./Warum sehe ich ein Banner, das mich auffordert, mein Passwort zu ändern-.html) |https://en.help.roblox.com/hc/de/articles/4416940180500-Warum-sehe-ich-ein-Banner-das-mich-auffordert-mein-Passwort-zu-%C3%A4ndern-

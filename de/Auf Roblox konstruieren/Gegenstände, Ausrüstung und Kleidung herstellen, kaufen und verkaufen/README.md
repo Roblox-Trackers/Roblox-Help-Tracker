@@ -22,6 +22,6 @@ Name|URL
 [Wie man Abziehbilder macht](./Wie man Abziehbilder macht.html) |https://en.help.roblox.com/hc/de/articles/203313930-Wie-man-Abziehbilder-macht
 [Wie man ein Bündel erstellt](./Wie man ein Bündel erstellt.html) |https://en.help.roblox.com/hc/de/articles/203313910-Wie-man-ein-B%C3%BCndel-erstellt
 [Audiodateien](./Audiodateien.html) |https://en.help.roblox.com/hc/de/articles/203314070-Audiodateien
-[Spielpässe](./Spielpässe.html) |https://en.help.roblox.com/hc/de/articles/203314040-Spielp%C3%A4sse
+[Erlebnispässe](./Erlebnispässe.html) |https://en.help.roblox.com/hc/de/articles/203314040-Erlebnisp%C3%A4sse
 [Spielzugriff verkaufen (bezahlter Zugang)](./Spielzugriff verkaufen (bezahlter Zugang).html) |https://en.help.roblox.com/hc/de/articles/203314090-Spielzugriff-verkaufen-bezahlter-Zugang-
 [Alles über VIP-Shirts](./Alles über VIP-Shirts.html) |https://en.help.roblox.com/hc/de/articles/203314080-Alles-%C3%BCber-VIP-Shirts
