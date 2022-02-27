@@ -11,7 +11,7 @@ Name|URL
 [如何重置虛擬人偶 - 遊戲中](./如何重置虛擬人偶 - 遊戲中.html) |https://en.help.roblox.com/hc/zh-tw/articles/203314290-%E5%A6%82%E4%BD%95%E9%87%8D%E7%BD%AE%E8%99%9B%E6%93%AC%E4%BA%BA%E5%81%B6-%E9%81%8A%E6%88%B2%E4%B8%AD
 [動畫系統（Emotes）](./動畫系統（Emotes）.html) |https://en.help.roblox.com/hc/zh-tw/articles/203314300-%E5%8B%95%E7%95%AB%E7%B3%BB%E7%B5%B1-Emotes-
 [如何離開遊戲](./如何離開遊戲.html) |https://en.help.roblox.com/hc/zh-tw/articles/203314240-%E5%A6%82%E4%BD%95%E9%9B%A2%E9%96%8B%E9%81%8A%E6%88%B2
-[如何在遊戲中追蹤或加入其他玩家](./如何在遊戲中追蹤或加入其他玩家.html) |https://en.help.roblox.com/hc/zh-tw/articles/203314220-%E5%A6%82%E4%BD%95%E5%9C%A8%E9%81%8A%E6%88%B2%E4%B8%AD%E8%BF%BD%E8%B9%A4%E6%88%96%E5%8A%A0%E5%85%A5%E5%85%B6%E4%BB%96%E7%8E%A9%E5%AE%B6
+[如何在體驗中追蹤或加入其他玩家](./如何在體驗中追蹤或加入其他玩家.html) |https://en.help.roblox.com/hc/zh-tw/articles/203314220-%E5%A6%82%E4%BD%95%E5%9C%A8%E9%AB%94%E9%A9%97%E4%B8%AD%E8%BF%BD%E8%B9%A4%E6%88%96%E5%8A%A0%E5%85%A5%E5%85%B6%E4%BB%96%E7%8E%A9%E5%AE%B6
 [如何將遊戲設為最愛](./如何將遊戲設為最愛.html) |https://en.help.roblox.com/hc/zh-tw/articles/203313670-%E5%A6%82%E4%BD%95%E5%B0%87%E9%81%8A%E6%88%B2%E8%A8%AD%E7%82%BA%E6%9C%80%E6%84%9B
 [遊戲內排行榜和通知](./遊戲內排行榜和通知.html) |https://en.help.roblox.com/hc/zh-tw/articles/204343250-%E9%81%8A%E6%88%B2%E5%85%A7%E6%8E%92%E8%A1%8C%E6%A6%9C%E5%92%8C%E9%80%9A%E7%9F%A5
 [如何在遊戲中變更我名字的顏色？](./如何在遊戲中變更我名字的顏色？.html) |https://en.help.roblox.com/hc/zh-tw/articles/203314200-%E5%A6%82%E4%BD%95%E5%9C%A8%E9%81%8A%E6%88%B2%E4%B8%AD%E8%AE%8A%E6%9B%B4%E6%88%91%E5%90%8D%E5%AD%97%E7%9A%84%E9%A1%8F%E8%89%B2-
