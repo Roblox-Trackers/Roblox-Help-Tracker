@@ -3,7 +3,7 @@
 Name|URL
 -|-
 [故障排除教育网络](./故障排除教育网络.html) |https://en.help.roblox.com/hc/zh-cn/articles/115005744663-%E6%95%85%E9%9A%9C%E6%8E%92%E9%99%A4%E6%95%99%E8%82%B2%E7%BD%91%E7%BB%9C
-[如何使用浏览器安装和播放Roblox](./如何使用浏览器安装和播放Roblox.html) |https://en.help.roblox.com/hc/zh-cn/articles/204473560-%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E6%B5%8F%E8%A7%88%E5%99%A8%E5%AE%89%E8%A3%85%E5%92%8C%E6%92%AD%E6%94%BERoblox
+[如何使用浏览器安装和播放 Roblox](./如何使用浏览器安装和播放 Roblox.html) |https://en.help.roblox.com/hc/zh-cn/articles/204473560-%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E6%B5%8F%E8%A7%88%E5%99%A8%E5%AE%89%E8%A3%85%E5%92%8C%E6%92%AD%E6%94%BE-Roblox
 [Roblox 一般桌面的问题](./Roblox 一般桌面的问题.html) |https://en.help.roblox.com/hc/zh-cn/articles/203312870-Roblox-%E4%B8%80%E8%88%AC%E6%A1%8C%E9%9D%A2%E7%9A%84%E9%97%AE%E9%A2%98
 [电脑上的一般聊天/键盘问题](./电脑上的一般聊天-键盘问题.html) |https://en.help.roblox.com/hc/zh-cn/articles/203313040-%E7%94%B5%E8%84%91%E4%B8%8A%E7%9A%84%E4%B8%80%E8%88%AC%E8%81%8A%E5%A4%A9-%E9%94%AE%E7%9B%98%E9%97%AE%E9%A2%98
 [常见连接问题](./常见连接问题.html) |https://en.help.roblox.com/hc/zh-cn/articles/203312880-%E5%B8%B8%E8%A7%81%E8%BF%9E%E6%8E%A5%E9%97%AE%E9%A2%98
