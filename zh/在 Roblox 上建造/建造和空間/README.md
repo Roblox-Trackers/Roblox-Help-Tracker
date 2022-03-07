@@ -12,7 +12,7 @@ Name|URL
 [如何發布或上傳地點](./如何發布或上傳地點.html) |https://en.help.roblox.com/hc/zh-tw/articles/203313890-%E5%A6%82%E4%BD%95%E7%99%BC%E5%B8%83%E6%88%96%E4%B8%8A%E5%82%B3%E5%9C%B0%E9%BB%9E
 [群組體驗](./群組體驗.html) |https://en.help.roblox.com/hc/zh-tw/articles/203313760-%E7%BE%A4%E7%B5%84%E9%AB%94%E9%A9%97
 [創作體驗並將其設為公開](./創作體驗並將其設為公開.html) |https://en.help.roblox.com/hc/zh-tw/articles/203313950-%E5%89%B5%E4%BD%9C%E9%AB%94%E9%A9%97%E4%B8%A6%E5%B0%87%E5%85%B6%E8%A8%AD%E7%82%BA%E5%85%AC%E9%96%8B
-[我如何為遊戲啟用 VIP 或私人伺服器？](./我如何為遊戲啟用 VIP 或私人伺服器？.html) |https://en.help.roblox.com/hc/zh-tw/articles/360000781023-%E6%88%91%E5%A6%82%E4%BD%95%E7%82%BA%E9%81%8A%E6%88%B2%E5%95%9F%E7%94%A8-VIP-%E6%88%96%E7%A7%81%E4%BA%BA%E4%BC%BA%E6%9C%8D%E5%99%A8-
+[我如何為體驗啟用 VIP 或私人伺服器？](./我如何為體驗啟用 VIP 或私人伺服器？.html) |https://en.help.roblox.com/hc/zh-tw/articles/360000781023-%E6%88%91%E5%A6%82%E4%BD%95%E7%82%BA%E9%AB%94%E9%A9%97%E5%95%9F%E7%94%A8-VIP-%E6%88%96%E7%A7%81%E4%BA%BA%E4%BC%BA%E6%9C%8D%E5%99%A8-
 [如何複製體驗](./如何複製體驗.html) |https://en.help.roblox.com/hc/zh-tw/articles/203313900-%E5%A6%82%E4%BD%95%E8%A4%87%E8%A3%BD%E9%AB%94%E9%A9%97
 [如何恢復舊版本的地點](./如何恢復舊版本的地點.html) |https://en.help.roblox.com/hc/zh-tw/articles/203313850-%E5%A6%82%E4%BD%95%E6%81%A2%E5%BE%A9%E8%88%8A%E7%89%88%E6%9C%AC%E7%9A%84%E5%9C%B0%E9%BB%9E
 [將地點重置到初始樣板](./將地點重置到初始樣板.html) |https://en.help.roblox.com/hc/zh-tw/articles/203313920-%E5%B0%87%E5%9C%B0%E9%BB%9E%E9%87%8D%E7%BD%AE%E5%88%B0%E5%88%9D%E5%A7%8B%E6%A8%A3%E6%9D%BF
