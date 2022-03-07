@@ -12,7 +12,7 @@ Name|URL
 [如何发布或上传场景](./如何发布或上传场景.html) |https://en.help.roblox.com/hc/zh-cn/articles/203313890-%E5%A6%82%E4%BD%95%E5%8F%91%E5%B8%83%E6%88%96%E4%B8%8A%E4%BC%A0%E5%9C%BA%E6%99%AF
 [群组作品](./群组作品.html) |https://en.help.roblox.com/hc/zh-cn/articles/203313760-%E7%BE%A4%E7%BB%84%E4%BD%9C%E5%93%81
 [创作作品并将其设为公开](./创作作品并将其设为公开.html) |https://en.help.roblox.com/hc/zh-cn/articles/203313950-%E5%88%9B%E4%BD%9C%E4%BD%9C%E5%93%81%E5%B9%B6%E5%B0%86%E5%85%B6%E8%AE%BE%E4%B8%BA%E5%85%AC%E5%BC%80
-[我如何为游戏启用 VIP 或私人服务器？](./我如何为游戏启用 VIP 或私人服务器？.html) |https://en.help.roblox.com/hc/zh-cn/articles/360000781023-%E6%88%91%E5%A6%82%E4%BD%95%E4%B8%BA%E6%B8%B8%E6%88%8F%E5%90%AF%E7%94%A8-VIP-%E6%88%96%E7%A7%81%E4%BA%BA%E6%9C%8D%E5%8A%A1%E5%99%A8-
+[我如何为作品启用 VIP 或私人服务器？](./我如何为作品启用 VIP 或私人服务器？.html) |https://en.help.roblox.com/hc/zh-cn/articles/360000781023-%E6%88%91%E5%A6%82%E4%BD%95%E4%B8%BA%E4%BD%9C%E5%93%81%E5%90%AF%E7%94%A8-VIP-%E6%88%96%E7%A7%81%E4%BA%BA%E6%9C%8D%E5%8A%A1%E5%99%A8-
 [如何复制作品](./如何复制作品.html) |https://en.help.roblox.com/hc/zh-cn/articles/203313900-%E5%A6%82%E4%BD%95%E5%A4%8D%E5%88%B6%E4%BD%9C%E5%93%81
 [如何恢复旧版本的场景](./如何恢复旧版本的场景.html) |https://en.help.roblox.com/hc/zh-cn/articles/203313850-%E5%A6%82%E4%BD%95%E6%81%A2%E5%A4%8D%E6%97%A7%E7%89%88%E6%9C%AC%E7%9A%84%E5%9C%BA%E6%99%AF
 [把场景重置到起始模板](./把场景重置到起始模板.html) |https://en.help.roblox.com/hc/zh-cn/articles/203313920-%E6%8A%8A%E5%9C%BA%E6%99%AF%E9%87%8D%E7%BD%AE%E5%88%B0%E8%B5%B7%E5%A7%8B%E6%A8%A1%E6%9D%BF
