@@ -2,6 +2,7 @@
 ### Articles in this section
 Name|URL
 -|-
+[Spatial Voice (Beta)](./Spatial Voice (Beta).html) |https://en.help.roblox.com/hc/it/articles/4405807645972-Spatial-Voice-Beta-
 [Come inviare messaggi ad altri giocatori](./Come inviare messaggi ad altri giocatori.html) |https://en.help.roblox.com/hc/it/articles/203313610-Come-inviare-messaggi-ad-altri-giocatori
 [Chiacchierando e giocando con gli amici](./Chiacchierando e giocando con gli amici.html) |https://en.help.roblox.com/hc/it/articles/206224956-Chiacchierando-e-giocando-con-gli-amici
 [Roblox Mobile: chattare e giocare con gli amici](./Roblox Mobile- chattare e giocare con gli amici.html) |https://en.help.roblox.com/hc/it/articles/360000432483-Roblox-Mobile-chattare-e-giocare-con-gli-amici

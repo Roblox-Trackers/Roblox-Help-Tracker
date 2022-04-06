@@ -11,3 +11,4 @@ Name|URL
 [Cosa succede se qualcun altro ha aggiunto un PIN al mio account?](./Cosa succede se qualcun altro ha aggiunto un PIN al mio account-.html) |https://en.help.roblox.com/hc/it/articles/360031316752-Cosa-succede-se-qualcun-altro-ha-aggiunto-un-PIN-al-mio-account-
 [Posso condividere il mio account?](./Posso condividere il mio account-.html) |https://en.help.roblox.com/hc/it/articles/360000236103-Posso-condividere-il-mio-account-
 [Hacking e bufale](./Hacking e bufale.html) |https://en.help.roblox.com/hc/it/articles/360000240346-Hacking-e-bufale
+[Perché vedo un banner che mi chiede di cambiare la mia password?](./Perché vedo un banner che mi chiede di cambiare la mia password-.html) |https://en.help.roblox.com/hc/it/articles/4416940180500-Perch%C3%A9-vedo-un-banner-che-mi-chiede-di-cambiare-la-mia-password-
