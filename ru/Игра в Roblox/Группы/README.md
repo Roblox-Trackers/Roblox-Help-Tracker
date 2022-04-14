@@ -2,6 +2,7 @@
 ### Articles in this section
 Name|URL
 -|-
+[Изменение названия группы](./Изменение названия группы.html) |https://en.help.roblox.com/hc/ru/articles/4414930974228-%D0%98%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-%D0%B3%D1%80%D1%83%D0%BF%D0%BF%D1%8B-
 [Как создать и вступить в группу](./Как создать и вступить в группу.html) |https://en.help.roblox.com/hc/ru/articles/203313730-%D0%9A%D0%B0%D0%BA-%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C-%D0%B8-%D0%B2%D1%81%D1%82%D1%83%D0%BF%D0%B8%D1%82%D1%8C-%D0%B2-%D0%B3%D1%80%D1%83%D0%BF%D0%BF%D1%83
 [Как покинуть группу?](./Как покинуть группу-.html) |https://en.help.roblox.com/hc/ru/articles/203313790-%D0%9A%D0%B0%D0%BA-%D0%BF%D0%BE%D0%BA%D0%B8%D0%BD%D1%83%D1%82%D1%8C-%D0%B3%D1%80%D1%83%D0%BF%D0%BF%D1%83-
 [Основная группа](./Основная группа.html) |https://en.help.roblox.com/hc/ru/articles/203313740-%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%B0%D1%8F-%D0%B3%D1%80%D1%83%D0%BF%D0%BF%D0%B0
