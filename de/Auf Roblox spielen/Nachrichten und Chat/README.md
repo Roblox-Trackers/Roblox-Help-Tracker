@@ -2,8 +2,8 @@
 ### Articles in this section
 Name|URL
 -|-
-[Spatial Voice](./Spatial Voice.html) |https://en.help.roblox.com/hc/de/articles/4405807645972-Spatial-Voice-
 [Wie man Nachrichten an andere Spieler sendet](./Wie man Nachrichten an andere Spieler sendet.html) |https://en.help.roblox.com/hc/de/articles/203313610-Wie-man-Nachrichten-an-andere-Spieler-sendet
 [Chatten und mit Freunden spielen](./Chatten und mit Freunden spielen.html) |https://en.help.roblox.com/hc/de/articles/206224956-Chatten-und-mit-Freunden-spielen
 [Mobil: Chatten und mit Freunden spielen](./Mobil- Chatten und mit Freunden spielen.html) |https://en.help.roblox.com/hc/de/articles/360000432483-Mobil-Chatten-und-mit-Freunden-spielen
 [Wie lösche ich die Nachrichten in meinem Posteingang?](./Wie lösche ich die Nachrichten in meinem Posteingang-.html) |https://en.help.roblox.com/hc/de/articles/203313690-Wie-l%C3%B6sche-ich-die-Nachrichten-in-meinem-Posteingang-
+[Spatial Voice](./Spatial Voice.html) |https://en.help.roblox.com/hc/de/articles/4405807645972-Spatial-Voice-
