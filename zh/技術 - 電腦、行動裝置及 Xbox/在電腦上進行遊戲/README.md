@@ -13,7 +13,7 @@ Name|URL
 [防火牆和路由器問題](./防火牆和路由器問題.html) |https://en.help.roblox.com/hc/zh-tw/articles/203312840-%E9%98%B2%E7%81%AB%E7%89%86%E5%92%8C%E8%B7%AF%E7%94%B1%E5%99%A8%E5%95%8F%E9%A1%8C
 [蘋果 Mac：家長控制](./蘋果 Mac：家長控制.html) |https://en.help.roblox.com/hc/zh-tw/articles/203313010-%E8%98%8B%E6%9E%9C-Mac-%E5%AE%B6%E9%95%B7%E6%8E%A7%E5%88%B6
 [Mac：升級失敗訊息](./Mac：升級失敗訊息.html) |https://en.help.roblox.com/hc/zh-tw/articles/203313000-Mac-%E5%8D%87%E7%B4%9A%E5%A4%B1%E6%95%97%E8%A8%8A%E6%81%AF
-[電腦上的圖形問題](./電腦上的圖形問題.html) |https://en.help.roblox.com/hc/zh-tw/articles/203312790-%E9%9B%BB%E8%85%A6%E4%B8%8A%E7%9A%84%E5%9C%96%E5%BD%A2%E5%95%8F%E9%A1%8C
+[電腦上的圖像問題](./電腦上的圖像問題.html) |https://en.help.roblox.com/hc/zh-tw/articles/203312790-%E9%9B%BB%E8%85%A6%E4%B8%8A%E7%9A%84%E5%9C%96%E5%83%8F%E5%95%8F%E9%A1%8C
 [我登錄了，但我在遊戲中以客人的身份出現](./我登錄了，但我在遊戲中以客人的身份出現.html) |https://en.help.roblox.com/hc/zh-tw/articles/205211416-%E6%88%91%E7%99%BB%E9%8C%84%E4%BA%86-%E4%BD%86%E6%88%91%E5%9C%A8%E9%81%8A%E6%88%B2%E4%B8%AD%E4%BB%A5%E5%AE%A2%E4%BA%BA%E7%9A%84%E8%BA%AB%E4%BB%BD%E5%87%BA%E7%8F%BE
 [無限“獲得最新的Roblox”循環](./無限“獲得最新的Roblox”循環.html) |https://en.help.roblox.com/hc/zh-tw/articles/203312940-%E7%84%A1%E9%99%90-%E7%8D%B2%E5%BE%97%E6%9C%80%E6%96%B0%E7%9A%84Roblox-%E5%BE%AA%E7%92%B0
 [Roblox啟動器插件](./Roblox啟動器插件.html) |https://en.help.roblox.com/hc/zh-tw/articles/203313020-Roblox%E5%95%9F%E5%8B%95%E5%99%A8%E6%8F%92%E4%BB%B6
