@@ -6,4 +6,4 @@ Name|URL
 [Il blog di Roblox](./Il blog di Roblox.html) |https://en.help.roblox.com/hc/it/articles/360029134331-Il-blog-di-Roblox
 [Come riscattare un codice promozionale?](./Come riscattare un codice promozionale-.html) |https://en.help.roblox.com/hc/it/articles/360029650831-Come-riscattare-un-codice-promozionale-
 [Programma Roblox Video Stars](./Programma Roblox Video Stars.html) |https://en.help.roblox.com/hc/it/articles/360026092011-Programma-Roblox-Video-Stars
-[Codice Stella Roblox](./Codice Stella Roblox.html) |https://en.help.roblox.com/hc/it/articles/360026181292-Codice-Stella-Roblox
+[Codice Star di Roblox](./Codice Star di Roblox.html) |https://en.help.roblox.com/hc/it/articles/360026181292-Codice-Star-di-Roblox
