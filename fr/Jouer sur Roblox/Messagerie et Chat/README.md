@@ -7,3 +7,4 @@ Name|URL
 [Appareil Mobile : Discuter et jouer avec des amis](./Appareil Mobile - Discuter et jouer avec des amis.html) |https://en.help.roblox.com/hc/fr/articles/360000432483-Appareil-Mobile-Discuter-et-jouer-avec-des-amis
 [Comment supprimer des messages dans ma boîte de réception ?](./Comment supprimer des messages dans ma boîte de réception -.html) |https://en.help.roblox.com/hc/fr/articles/203313690-Comment-supprimer-des-messages-dans-ma-bo%C3%AEte-de-r%C3%A9ception-
 [Voix spatiale](./Voix spatiale.html) |https://en.help.roblox.com/hc/fr/articles/4405807645972-Voix-spatiale
+[FAQ - Enregistrement Vocal](./FAQ - Enregistrement Vocal.html) |https://en.help.roblox.com/hc/fr/articles/5704050147604-FAQ-Enregistrement-Vocal
