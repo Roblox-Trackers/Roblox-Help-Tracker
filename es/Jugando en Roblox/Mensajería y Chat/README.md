@@ -7,3 +7,4 @@ Name|URL
 [Móvil: Chateando y Jugando con Amigos](./Móvil- Chateando y Jugando con Amigos.html) |https://en.help.roblox.com/hc/es/articles/360000432483-M%C3%B3vil-Chateando-y-Jugando-con-Amigos
 [¿Cómo Elimino los Mensajes en Mi Bandeja de Entrada?](./¿Cómo Elimino los Mensajes en Mi Bandeja de Entrada-.html) |https://en.help.roblox.com/hc/es/articles/203313690--C%C3%B3mo-Elimino-los-Mensajes-en-Mi-Bandeja-de-Entrada-
 [Spatial Voice (Beta)](./Spatial Voice (Beta).html) |https://en.help.roblox.com/hc/es/articles/4405807645972-Spatial-Voice-Beta-
+[Preguntas frecuentes sobre la grabación de voz](./Preguntas frecuentes sobre la grabación de voz.html) |https://en.help.roblox.com/hc/es/articles/5704050147604-Preguntas-frecuentes-sobre-la-grabaci%C3%B3n-de-voz
