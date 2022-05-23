@@ -7,3 +7,4 @@ Name|URL
 [Roblox Mobile: chattare e giocare con gli amici](./Roblox Mobile- chattare e giocare con gli amici.html) |https://en.help.roblox.com/hc/it/articles/360000432483-Roblox-Mobile-chattare-e-giocare-con-gli-amici
 [Come posso eliminare i messaggi nella mia casella di posta?](./Come posso eliminare i messaggi nella mia casella di posta-.html) |https://en.help.roblox.com/hc/it/articles/203313690-Come-posso-eliminare-i-messaggi-nella-mia-casella-di-posta-
 [Spatial Voice (Beta)](./Spatial Voice (Beta).html) |https://en.help.roblox.com/hc/it/articles/4405807645972-Spatial-Voice-Beta-
+[Domande frequenti sulla registrazione vocale](./Domande frequenti sulla registrazione vocale.html) |https://en.help.roblox.com/hc/it/articles/5704050147604-Domande-frequenti-sulla-registrazione-vocale
