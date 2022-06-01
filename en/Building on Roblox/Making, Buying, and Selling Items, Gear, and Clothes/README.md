@@ -2,6 +2,7 @@
 ### Articles in this section
 Name|URL
 -|-
+[Contacting an Experience’s Creators for Help](./Contacting an Experience’s Creators for Help.html) |https://en.help.roblox.com/hc/en-us/articles/6566665691924-Contacting-an-Experience-s-Creators-for-Help
 [How to Archive Assets and Experiences](./How to Archive Assets and Experiences.html) |https://en.help.roblox.com/hc/en-us/articles/360031253052-How-to-Archive-Assets-and-Experiences
 [Where is the item I just bought?](./Where is the item I just bought-.html) |https://en.help.roblox.com/hc/en-us/articles/360029542532-Where-is-the-item-I-just-bought-
 [How to View or Hide Your Inventory in a Browser](./How to View or Hide Your Inventory in a Browser.html) |https://en.help.roblox.com/hc/en-us/articles/360000463726-How-to-View-or-Hide-Your-Inventory-in-a-Browser
