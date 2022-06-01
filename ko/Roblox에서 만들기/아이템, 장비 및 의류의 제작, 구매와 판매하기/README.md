@@ -2,7 +2,6 @@
 ### Articles in this section
 Name|URL
 -|-
-[계정내 아이템을 보관하는 방법](./계정내 아이템을 보관하는 방법.html) |https://en.help.roblox.com/hc/ko/articles/360031253052-%EA%B3%84%EC%A0%95%EB%82%B4-%EC%95%84%EC%9D%B4%ED%85%9C%EC%9D%84-%EB%B3%B4%EA%B4%80%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95
 [방금 구매한 아이템이 어디에 있습니까?](./방금 구매한 아이템이 어디에 있습니까-.html) |https://en.help.roblox.com/hc/ko/articles/360029542532-%EB%B0%A9%EA%B8%88-%EA%B5%AC%EB%A7%A4%ED%95%9C-%EC%95%84%EC%9D%B4%ED%85%9C%EC%9D%B4-%EC%96%B4%EB%94%94%EC%97%90-%EC%9E%88%EC%8A%B5%EB%8B%88%EA%B9%8C-
 [웹사이트에서 인벤토리 보기](./웹사이트에서 인벤토리 보기.html) |https://en.help.roblox.com/hc/ko/articles/360000463726-%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8%EC%97%90%EC%84%9C-%EC%9D%B8%EB%B2%A4%ED%86%A0%EB%A6%AC-%EB%B3%B4%EA%B8%B0
 [아이템의 정보 페이지 및 아이템 구매](./아이템의 정보 페이지 및 아이템 구매.html) |https://en.help.roblox.com/hc/ko/articles/206142306-%EC%95%84%EC%9D%B4%ED%85%9C%EC%9D%98-%EC%A0%95%EB%B3%B4-%ED%8E%98%EC%9D%B4%EC%A7%80-%EB%B0%8F-%EC%95%84%EC%9D%B4%ED%85%9C-%EA%B5%AC%EB%A7%A4
@@ -12,8 +11,9 @@ Name|URL
 [도서관](./도서관.html) |https://en.help.roblox.com/hc/ko/articles/206580683-%EB%8F%84%EC%84%9C%EA%B4%80
 [복장 판매하기](./복장 판매하기.html) |https://en.help.roblox.com/hc/ko/articles/203313180-%EB%B3%B5%EC%9E%A5-%ED%8C%90%EB%A7%A4%ED%95%98%EA%B8%B0
 [거래 시스템](./거래 시스템.html) |https://en.help.roblox.com/hc/ko/articles/203313310-%EA%B1%B0%EB%9E%98-%EC%8B%9C%EC%8A%A4%ED%85%9C
-[공용 도메인을 만들려면 어떻게 해야 합니까?](./공용 도메인을 만들려면 어떻게 해야 합니까-.html) |https://en.help.roblox.com/hc/ko/articles/203313230-%EA%B3%B5%EC%9A%A9-%EB%8F%84%EB%A9%94%EC%9D%B8%EC%9D%84-%EB%A7%8C%EB%93%A4%EB%A0%A4%EB%A9%B4-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%B4%EC%95%BC-%ED%95%A9%EB%8B%88%EA%B9%8C-
 [아이템 판매 방법 (방금 구입 한 아이템은 어디에 있습니까?)](./아이템 판매 방법 (방금 구입 한 아이템은 어디에 있습니까-).html) |https://en.help.roblox.com/hc/ko/articles/203313260-%EC%95%84%EC%9D%B4%ED%85%9C-%ED%8C%90%EB%A7%A4-%EB%B0%A9%EB%B2%95-%EB%B0%A9%EA%B8%88-%EA%B5%AC%EC%9E%85-%ED%95%9C-%EC%95%84%EC%9D%B4%ED%85%9C%EC%9D%80-%EC%96%B4%EB%94%94%EC%97%90-%EC%9E%88%EC%8A%B5%EB%8B%88%EA%B9%8C-
+[계정내 아이템을 보관하는 방법](./계정내 아이템을 보관하는 방법.html) |https://en.help.roblox.com/hc/ko/articles/360031253052-%EA%B3%84%EC%A0%95%EB%82%B4-%EC%95%84%EC%9D%B4%ED%85%9C%EC%9D%84-%EB%B3%B4%EA%B4%80%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95
+[공용 도메인을 만들려면 어떻게 해야 합니까?](./공용 도메인을 만들려면 어떻게 해야 합니까-.html) |https://en.help.roblox.com/hc/ko/articles/203313230-%EA%B3%B5%EC%9A%A9-%EB%8F%84%EB%A9%94%EC%9D%B8%EC%9D%84-%EB%A7%8C%EB%93%A4%EB%A0%A4%EB%A9%B4-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%B4%EC%95%BC-%ED%95%A9%EB%8B%88%EA%B9%8C-
 [Mesh (메쉬) 편집 방법/카탈로그에서 메쉬를 판매할 수 있을까요?](./Mesh (메쉬) 편집 방법-카탈로그에서 메쉬를 판매할 수 있을까요-.html) |https://en.help.roblox.com/hc/ko/articles/203313250-Mesh-%EB%A9%94%EC%89%AC-%ED%8E%B8%EC%A7%91-%EB%B0%A9%EB%B2%95-%EC%B9%B4%ED%83%88%EB%A1%9C%EA%B7%B8%EC%97%90%EC%84%9C-%EB%A9%94%EC%89%AC%EB%A5%BC-%ED%8C%90%EB%A7%A4%ED%95%A0-%EC%88%98-%EC%9E%88%EC%9D%84%EA%B9%8C%EC%9A%94-
 [아이템이 마음에 들지 않거나 실수로 삭제했을 경우 Robux를 환불받을 수 있나요?](./아이템이 마음에 들지 않거나 실수로 삭제했을 경우 Robux를 환불받을 수 있나요-.html) |https://en.help.roblox.com/hc/ko/articles/203313290-%EC%95%84%EC%9D%B4%ED%85%9C%EC%9D%B4-%EB%A7%88%EC%9D%8C%EC%97%90-%EB%93%A4%EC%A7%80-%EC%95%8A%EA%B1%B0%EB%82%98-%EC%8B%A4%EC%88%98%EB%A1%9C-%EC%82%AD%EC%A0%9C%ED%96%88%EC%9D%84-%EA%B2%BD%EC%9A%B0-Robux%EB%A5%BC-%ED%99%98%EB%B6%88%EB%B0%9B%EC%9D%84-%EC%88%98-%EC%9E%88%EB%82%98%EC%9A%94-
 [기프트 아이템에 대한 모든 것](./기프트 아이템에 대한 모든 것.html) |https://en.help.roblox.com/hc/ko/articles/205630374-%EA%B8%B0%ED%94%84%ED%8A%B8-%EC%95%84%EC%9D%B4%ED%85%9C%EC%97%90-%EB%8C%80%ED%95%9C-%EB%AA%A8%EB%93%A0-%EA%B2%83
