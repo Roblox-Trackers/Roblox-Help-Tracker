@@ -3,6 +3,7 @@
 Name|URL
 -|-
 [Onde está o item que acabei de comprar?](./Onde está o item que acabei de comprar-.html) |https://en.help.roblox.com/hc/pt-br/articles/360029542532-Onde-est%C3%A1-o-item-que-acabei-de-comprar-
+[Contatando os Criadores de Uma Experiência](./Contatando os Criadores de Uma Experiência.html) |https://en.help.roblox.com/hc/pt-br/articles/6566665691924-Contatando-os-Criadores-de-Uma-Experi%C3%AAncia-
 [Receberei Meu Robux (RBX) de Volta Se Eu Excluir/Não Gostar de um Item?](./Receberei Meu Robux (RBX) de Volta Se Eu Excluir-Não Gostar de um Item-.html) |https://en.help.roblox.com/hc/pt-br/articles/203313290-Receberei-Meu-Robux-RBX-de-Volta-Se-Eu-Excluir-N%C3%A3o-Gostar-de-um-Item-
 [Como Visualizar ou Esconder Seu Inventário no Site](./Como Visualizar ou Esconder Seu Inventário no Site.html) |https://en.help.roblox.com/hc/pt-br/articles/360000463726-Como-Visualizar-ou-Esconder-Seu-Invent%C3%A1rio-no-Site
 [A Página de Detalhes do Item e Comprando Itens](./A Página de Detalhes do Item e Comprando Itens.html) |https://en.help.roblox.com/hc/pt-br/articles/206142306-A-P%C3%A1gina-de-Detalhes-do-Item-e-Comprando-Itens
