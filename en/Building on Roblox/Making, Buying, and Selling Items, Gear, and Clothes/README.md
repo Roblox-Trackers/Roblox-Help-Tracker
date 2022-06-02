@@ -2,7 +2,7 @@
 ### Articles in this section
 Name|URL
 -|-
-[Where is the item I just bought?](./Where is the item I just bought-.html) |https://en.help.roblox.com/hc/en-us/articles/360029542532-Where-is-the-item-I-just-bought-
+[Where is the item I just bought with Robux?](./Where is the item I just bought with Robux-.html) |https://en.help.roblox.com/hc/en-us/articles/360029542532-Where-is-the-item-I-just-bought-with-Robux-
 [Contacting an Experience’s Creators for Help](./Contacting an Experience’s Creators for Help.html) |https://en.help.roblox.com/hc/en-us/articles/6566665691924-Contacting-an-Experience-s-Creators-for-Help
 [Will I Get My Robux Back If I Delete/Do Not Like an Item?](./Will I Get My Robux Back If I Delete-Do Not Like an Item-.html) |https://en.help.roblox.com/hc/en-us/articles/203313290-Will-I-Get-My-Robux-Back-If-I-Delete-Do-Not-Like-an-Item-
 [How to View or Hide Your Inventory in a Browser](./How to View or Hide Your Inventory in a Browser.html) |https://en.help.roblox.com/hc/en-us/articles/360000463726-How-to-View-or-Hide-Your-Inventory-in-a-Browser
