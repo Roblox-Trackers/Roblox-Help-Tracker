@@ -9,7 +9,7 @@ Name|URL
 [Come chattare nei giochi](./Come chattare nei giochi.html) |https://en.help.roblox.com/hc/it/articles/203314250-Come-chattare-nei-giochi
 [Come resettare Avatar - Nel gioco](./Come resettare Avatar - Nel gioco.html) |https://en.help.roblox.com/hc/it/articles/203314290-Come-resettare-Avatar-Nel-gioco
 [Sistema di animazione (emote)](./Sistema di animazione (emote).html) |https://en.help.roblox.com/hc/it/articles/203314300-Sistema-di-animazione-emote-
-[Come lasciare un gioco](./Come lasciare un gioco.html) |https://en.help.roblox.com/hc/it/articles/203314240-Come-lasciare-un-gioco
+[Come uscire da un'esperienza un gioco](./Come uscire da un'esperienza un gioco.html) |https://en.help.roblox.com/hc/it/articles/203314240-Come-uscire-da-un-esperienza-un-gioco
 [Come seguire o partecipare a un altro giocatore nei giochi](./Come seguire o partecipare a un altro giocatore nei giochi.html) |https://en.help.roblox.com/hc/it/articles/203314220-Come-seguire-o-partecipare-a-un-altro-giocatore-nei-giochi
 [Come aggiungere un gioco (Luogo) ai Preferiti](./Come aggiungere un gioco (Luogo) ai Preferiti.html) |https://en.help.roblox.com/hc/it/articles/203313670-Come-aggiungere-un-gioco-Luogo-ai-Preferiti-
 [Classifiche e notifiche in-game](./Classifiche e notifiche in-game.html) |https://en.help.roblox.com/hc/it/articles/204343250-Classifiche-e-notifiche-in-game
