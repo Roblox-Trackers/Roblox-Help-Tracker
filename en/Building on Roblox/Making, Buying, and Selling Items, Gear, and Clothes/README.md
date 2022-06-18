@@ -10,7 +10,7 @@ Name|URL
 [Clothing: T-Shirts, Shirts and Pants](./Clothing- T-Shirts, Shirts and Pants.html) |https://en.help.roblox.com/hc/en-us/articles/203313170-Clothing-T-Shirts-Shirts-and-Pants
 [What is Virtual Gear?](./What is Virtual Gear-.html) |https://en.help.roblox.com/hc/en-us/articles/203313630-What-is-Virtual-Gear-
 [The Avatar Shop](./The Avatar Shop.html) |https://en.help.roblox.com/hc/en-us/articles/203313300-The-Avatar-Shop
-[The Library](./The Library.html) |https://en.help.roblox.com/hc/en-us/articles/206580683-The-Library
+[The Creator Marketplace](./The Creator Marketplace.html) |https://en.help.roblox.com/hc/en-us/articles/206580683-The-Creator-Marketplace
 [How to Sell Items](./How to Sell Items.html) |https://en.help.roblox.com/hc/en-us/articles/203313260-How-to-Sell-Items
 [Selling Clothes](./Selling Clothes.html) |https://en.help.roblox.com/hc/en-us/articles/203313180-Selling-Clothes
 [Trading System](./Trading System.html) |https://en.help.roblox.com/hc/en-us/articles/203313310-Trading-System
