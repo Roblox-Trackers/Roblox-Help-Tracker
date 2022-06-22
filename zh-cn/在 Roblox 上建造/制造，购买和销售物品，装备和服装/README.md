@@ -2,7 +2,7 @@
 ### Articles in this section
 Name|URL
 -|-
-[我刚用 Robux 买的道具在哪里了呢？](./我刚用 Robux 买的道具在哪里了呢？.html) |https://en.help.roblox.com/hc/zh-cn/articles/360029542532-%E6%88%91%E5%88%9A%E7%94%A8-Robux-%E4%B9%B0%E7%9A%84%E9%81%93%E5%85%B7%E5%9C%A8%E5%93%AA%E9%87%8C%E4%BA%86%E5%91%A2-
+[我刚用 Robux 买的物品在哪里了呢？](./我刚用 Robux 买的物品在哪里了呢？.html) |https://en.help.roblox.com/hc/zh-cn/articles/360029542532-%E6%88%91%E5%88%9A%E7%94%A8-Robux-%E4%B9%B0%E7%9A%84%E7%89%A9%E5%93%81%E5%9C%A8%E5%93%AA%E9%87%8C%E4%BA%86%E5%91%A2-
 [联系作品创作者寻求帮助](./联系作品创作者寻求帮助.html) |https://en.help.roblox.com/hc/zh-cn/articles/6566665691924-%E8%81%94%E7%B3%BB%E4%BD%9C%E5%93%81%E5%88%9B%E4%BD%9C%E8%80%85%E5%AF%BB%E6%B1%82%E5%B8%AE%E5%8A%A9
 [如果我删除或不喜欢某件物品，我能要回我的 Robux 吗？](./如果我删除或不喜欢某件物品，我能要回我的 Robux 吗？.html) |https://en.help.roblox.com/hc/zh-cn/articles/203313290-%E5%A6%82%E6%9E%9C%E6%88%91%E5%88%A0%E9%99%A4%E6%88%96%E4%B8%8D%E5%96%9C%E6%AC%A2%E6%9F%90%E4%BB%B6%E7%89%A9%E5%93%81-%E6%88%91%E8%83%BD%E8%A6%81%E5%9B%9E%E6%88%91%E7%9A%84-Robux-%E5%90%97-
 [如何在浏览器中查看或隐藏你的库存](./如何在浏览器中查看或隐藏你的库存.html) |https://en.help.roblox.com/hc/zh-cn/articles/360000463726-%E5%A6%82%E4%BD%95%E5%9C%A8%E6%B5%8F%E8%A7%88%E5%99%A8%E4%B8%AD%E6%9F%A5%E7%9C%8B%E6%88%96%E9%9A%90%E8%97%8F%E4%BD%A0%E7%9A%84%E5%BA%93%E5%AD%98
