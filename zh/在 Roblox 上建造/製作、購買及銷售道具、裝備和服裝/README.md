@@ -2,7 +2,7 @@
 ### Articles in this section
 Name|URL
 -|-
-[我剛買的道具在哪裡了呢？](./我剛買的道具在哪裡了呢？.html) |https://en.help.roblox.com/hc/zh-tw/articles/360029542532-%E6%88%91%E5%89%9B%E8%B2%B7%E7%9A%84%E9%81%93%E5%85%B7%E5%9C%A8%E5%93%AA%E8%A3%A1%E4%BA%86%E5%91%A2-
+[我剛用 Robux 買的道具在哪裡了呢？](./我剛用 Robux 買的道具在哪裡了呢？.html) |https://en.help.roblox.com/hc/zh-tw/articles/360029542532-%E6%88%91%E5%89%9B%E7%94%A8-Robux-%E8%B2%B7%E7%9A%84%E9%81%93%E5%85%B7%E5%9C%A8%E5%93%AA%E8%A3%A1%E4%BA%86%E5%91%A2-
 [聯絡體驗創作者尋求協助](./聯絡體驗創作者尋求協助.html) |https://en.help.roblox.com/hc/zh-tw/articles/6566665691924-%E8%81%AF%E7%B5%A1%E9%AB%94%E9%A9%97%E5%89%B5%E4%BD%9C%E8%80%85%E5%B0%8B%E6%B1%82%E5%8D%94%E5%8A%A9
 [如果我刪除或不喜歡某件道具，能要回我的 Robux 嗎？](./如果我刪除或不喜歡某件道具，能要回我的 Robux 嗎？.html) |https://en.help.roblox.com/hc/zh-tw/articles/203313290-%E5%A6%82%E6%9E%9C%E6%88%91%E5%88%AA%E9%99%A4%E6%88%96%E4%B8%8D%E5%96%9C%E6%AD%A1%E6%9F%90%E4%BB%B6%E9%81%93%E5%85%B7-%E8%83%BD%E8%A6%81%E5%9B%9E%E6%88%91%E7%9A%84-Robux-%E5%97%8E-
 [如何在瀏覽器中查看或隱藏您的道具欄](./如何在瀏覽器中查看或隱藏您的道具欄.html) |https://en.help.roblox.com/hc/zh-tw/articles/360000463726-%E5%A6%82%E4%BD%95%E5%9C%A8%E7%80%8F%E8%A6%BD%E5%99%A8%E4%B8%AD%E6%9F%A5%E7%9C%8B%E6%88%96%E9%9A%B1%E8%97%8F%E6%82%A8%E7%9A%84%E9%81%93%E5%85%B7%E6%AC%84
