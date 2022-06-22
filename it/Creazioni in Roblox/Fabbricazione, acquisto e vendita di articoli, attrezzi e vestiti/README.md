@@ -23,6 +23,6 @@ Name|URL
 [Come fare decalcomanie](./Come fare decalcomanie.html) |https://en.help.roblox.com/hc/it/articles/203313930-Come-fare-decalcomanie
 [Come creare un pacchetto](./Come creare un pacchetto.html) |https://en.help.roblox.com/hc/it/articles/203313910-Come-creare-un-pacchetto
 [File audio](./File audio.html) |https://en.help.roblox.com/hc/it/articles/203314070--File-audio
-[Game Pass](./Game Pass.html) |https://en.help.roblox.com/hc/it/articles/203314040-Game-Pass
+[Pass Esperienza](./Pass Esperienza.html) |https://en.help.roblox.com/hc/it/articles/203314040-Pass-Esperienza
 [Vendita di accesso al gioco (accesso a pagamento)](./Vendita di accesso al gioco (accesso a pagamento).html) |https://en.help.roblox.com/hc/it/articles/203314090-Vendita-di-accesso-al-gioco-accesso-a-pagamento-
 [Tutto sulle magliette VIP](./Tutto sulle magliette VIP.html) |https://en.help.roblox.com/hc/it/articles/203314080-Tutto-sulle-magliette-VIP
