@@ -11,5 +11,6 @@ Name|URL
 [ROBLOX BIOMETRIC PRIVACY NOTICE](./ROBLOX BIOMETRIC PRIVACY NOTICE.html) |https://en.help.roblox.com/hc/en-us/articles/4412863575316-ROBLOX-BIOMETRIC-PRIVACY-NOTICE
 [General Health Notice](./General Health Notice.html) |https://en.help.roblox.com/hc/en-us/articles/360031603131-General-Health-Notice
 [Roblox Accessibility Statement](./Roblox Accessibility Statement.html) |https://en.help.roblox.com/hc/en-us/articles/360059080071-Roblox-Accessibility-Statement
+[Roblox Rating Integrity](./Roblox Rating Integrity.html) |https://en.help.roblox.com/hc/en-us/articles/7235818866964-Roblox-Rating-Integrity
 [Using Licensed Music in Videos](./Using Licensed Music in Videos.html) |https://en.help.roblox.com/hc/en-us/articles/360038525351-Using-Licensed-Music-in-Videos
 [California Consumer Privacy Act](./California Consumer Privacy Act.html) |https://en.help.roblox.com/hc/en-us/articles/4402871541140-California-Consumer-Privacy-Act
