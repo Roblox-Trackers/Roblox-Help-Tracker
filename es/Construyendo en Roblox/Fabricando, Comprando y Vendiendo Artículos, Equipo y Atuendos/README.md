@@ -12,7 +12,7 @@ Name|URL
 [Tienda de Avatar](./Tienda de Avatar.html) |https://en.help.roblox.com/hc/es/articles/203313300-Tienda-de-Avatar
 [La Biblioteca (Library)](./La Biblioteca (Library).html) |https://en.help.roblox.com/hc/es/articles/206580683-La-Biblioteca-Library-
 [Cómo Vender Artículos?](./Cómo Vender Artículos-.html) |https://en.help.roblox.com/hc/es/articles/203313260-C%C3%B3mo-Vender-Art%C3%ADculos-
-[Cómo vender ropa](./Cómo vender ropa.html) |https://en.help.roblox.com/hc/es/articles/203313180-C%C3%B3mo-vender-ropa
+[Venta de Ropa](./Venta de Ropa.html) |https://en.help.roblox.com/hc/es/articles/203313180-Venta-de-Ropa
 [Sistema de Intercambio (Trading System)](./Sistema de Intercambio (Trading System).html) |https://en.help.roblox.com/hc/es/articles/203313310-Sistema-de-Intercambio-Trading-System-
 [Como archivar un activo](./Como archivar un activo.html) |https://en.help.roblox.com/hc/es/articles/360031253052-Como-archivar-un-activo
 [¿Cómo Hago Algo /Dominio Público?](./¿Cómo Hago Algo -Dominio Público-.html) |https://en.help.roblox.com/hc/es/articles/203313230--C%C3%B3mo-Hago-Algo-Dominio-P%C3%BAblico-
@@ -23,6 +23,6 @@ Name|URL
 [Cómo Hacer Calcomanías](./Cómo Hacer Calcomanías.html) |https://en.help.roblox.com/hc/es/articles/203313930-C%C3%B3mo-Hacer-Calcoman%C3%ADas
 [Cómo Crear Un Modelo](./Cómo Crear Un Modelo.html) |https://en.help.roblox.com/hc/es/articles/203313910-C%C3%B3mo-Crear-Un-Modelo
 [Archivos de Sonido](./Archivos de Sonido.html) |https://en.help.roblox.com/hc/es/articles/203314070-Archivos-de-Sonido
-[Game Passes (Pases de Juegos)](./Game Passes (Pases de Juegos).html) |https://en.help.roblox.com/hc/es/articles/203314040-Game-Passes-Pases-de-Juegos-
+[Pases de Experiencias](./Pases de Experiencias.html) |https://en.help.roblox.com/hc/es/articles/203314040-Pases-de-Experiencias
 [Venta de Acceso a Juegos (Acceso Pago)](./Venta de Acceso a Juegos (Acceso Pago).html) |https://en.help.roblox.com/hc/es/articles/203314090-Venta-de-Acceso-a-Juegos-Acceso-Pago-
 [Todo Sobre Las Camisas VIP](./Todo Sobre Las Camisas VIP.html) |https://en.help.roblox.com/hc/es/articles/203314080-Todo-Sobre-Las-Camisas-VIP
