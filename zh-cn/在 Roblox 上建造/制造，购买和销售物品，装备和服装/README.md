@@ -21,7 +21,7 @@ Name|URL
 [我要如何获得促销或比赛道具？](./我要如何获得促销或比赛道具？.html) |https://en.help.roblox.com/hc/zh-cn/articles/203313270-%E6%88%91%E8%A6%81%E5%A6%82%E4%BD%95%E8%8E%B7%E5%BE%97%E4%BF%83%E9%94%80%E6%88%96%E6%AF%94%E8%B5%9B%E9%81%93%E5%85%B7-
 [13+ 虚拟形象商店物品](./13+ 虚拟形象商店物品.html) |https://en.help.roblox.com/hc/zh-cn/articles/203313320-13-%E8%99%9A%E6%8B%9F%E5%BD%A2%E8%B1%A1%E5%95%86%E5%BA%97%E7%89%A9%E5%93%81
 [如何创作贴花](./如何创作贴花.html) |https://en.help.roblox.com/hc/zh-cn/articles/203313930-%E5%A6%82%E4%BD%95%E5%88%9B%E4%BD%9C%E8%B4%B4%E8%8A%B1
-[如何创建组件](./如何创建组件.html) |https://en.help.roblox.com/hc/zh-cn/articles/203313910-%E5%A6%82%E4%BD%95%E5%88%9B%E5%BB%BA%E7%BB%84%E4%BB%B6
+[如何创建套装](./如何创建套装.html) |https://en.help.roblox.com/hc/zh-cn/articles/203313910-%E5%A6%82%E4%BD%95%E5%88%9B%E5%BB%BA%E5%A5%97%E8%A3%85
 [音频文件](./音频文件.html) |https://en.help.roblox.com/hc/zh-cn/articles/203314070-%E9%9F%B3%E9%A2%91%E6%96%87%E4%BB%B6
 [作品通行证](./作品通行证.html) |https://en.help.roblox.com/hc/zh-cn/articles/203314040-%E4%BD%9C%E5%93%81%E9%80%9A%E8%A1%8C%E8%AF%81
 [销售游戏访问（付费访问）](./销售游戏访问（付费访问）.html) |https://en.help.roblox.com/hc/zh-cn/articles/203314090-%E9%94%80%E5%94%AE%E6%B8%B8%E6%88%8F%E8%AE%BF%E9%97%AE-%E4%BB%98%E8%B4%B9%E8%AE%BF%E9%97%AE-
