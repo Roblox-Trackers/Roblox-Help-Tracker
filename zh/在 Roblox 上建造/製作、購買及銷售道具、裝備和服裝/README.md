@@ -19,7 +19,7 @@ Name|URL
 [我要如何編輯網格？我可以在型錄販售網格嗎？](./我要如何編輯網格？我可以在型錄販售網格嗎？.html) |https://en.help.roblox.com/hc/zh-tw/articles/203313250-%E6%88%91%E8%A6%81%E5%A6%82%E4%BD%95%E7%B7%A8%E8%BC%AF%E7%B6%B2%E6%A0%BC-%E6%88%91%E5%8F%AF%E4%BB%A5%E5%9C%A8%E5%9E%8B%E9%8C%84%E8%B2%A9%E5%94%AE%E7%B6%B2%E6%A0%BC%E5%97%8E-
 [關於禮品道具的一切](./關於禮品道具的一切.html) |https://en.help.roblox.com/hc/zh-tw/articles/205630374-%E9%97%9C%E6%96%BC%E7%A6%AE%E5%93%81%E9%81%93%E5%85%B7%E7%9A%84%E4%B8%80%E5%88%87
 [我要如何獲得促銷或比賽道具？](./我要如何獲得促銷或比賽道具？.html) |https://en.help.roblox.com/hc/zh-tw/articles/203313270-%E6%88%91%E8%A6%81%E5%A6%82%E4%BD%95%E7%8D%B2%E5%BE%97%E4%BF%83%E9%8A%B7%E6%88%96%E6%AF%94%E8%B3%BD%E9%81%93%E5%85%B7-
-[13+虛擬人偶商店物品](./13+虛擬人偶商店物品.html) |https://en.help.roblox.com/hc/zh-tw/articles/203313320-13-%E8%99%9B%E6%93%AC%E4%BA%BA%E5%81%B6%E5%95%86%E5%BA%97%E7%89%A9%E5%93%81
+[13+虛擬人偶商店道具](./13+虛擬人偶商店道具.html) |https://en.help.roblox.com/hc/zh-tw/articles/203313320-13-%E8%99%9B%E6%93%AC%E4%BA%BA%E5%81%B6%E5%95%86%E5%BA%97%E9%81%93%E5%85%B7
 [如何創作貼花](./如何創作貼花.html) |https://en.help.roblox.com/hc/zh-tw/articles/203313930-%E5%A6%82%E4%BD%95%E5%89%B5%E4%BD%9C%E8%B2%BC%E8%8A%B1
 [如何創建組件](./如何創建組件.html) |https://en.help.roblox.com/hc/zh-tw/articles/203313910-%E5%A6%82%E4%BD%95%E5%89%B5%E5%BB%BA%E7%B5%84%E4%BB%B6
 [音訊檔案](./音訊檔案.html) |https://en.help.roblox.com/hc/zh-tw/articles/203314070-%E9%9F%B3%E8%A8%8A%E6%AA%94%E6%A1%88
