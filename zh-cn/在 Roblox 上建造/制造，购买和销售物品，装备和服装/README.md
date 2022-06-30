@@ -24,5 +24,5 @@ Name|URL
 [如何创建套装](./如何创建套装.html) |https://en.help.roblox.com/hc/zh-cn/articles/203313910-%E5%A6%82%E4%BD%95%E5%88%9B%E5%BB%BA%E5%A5%97%E8%A3%85
 [音频文件](./音频文件.html) |https://en.help.roblox.com/hc/zh-cn/articles/203314070-%E9%9F%B3%E9%A2%91%E6%96%87%E4%BB%B6
 [作品通行证](./作品通行证.html) |https://en.help.roblox.com/hc/zh-cn/articles/203314040-%E4%BD%9C%E5%93%81%E9%80%9A%E8%A1%8C%E8%AF%81
-[销售游戏访问（付费访问）](./销售游戏访问（付费访问）.html) |https://en.help.roblox.com/hc/zh-cn/articles/203314090-%E9%94%80%E5%94%AE%E6%B8%B8%E6%88%8F%E8%AE%BF%E9%97%AE-%E4%BB%98%E8%B4%B9%E8%AE%BF%E9%97%AE-
+[销售作品访问（付费访问）](./销售作品访问（付费访问）.html) |https://en.help.roblox.com/hc/zh-cn/articles/203314090-%E9%94%80%E5%94%AE%E4%BD%9C%E5%93%81%E8%AE%BF%E9%97%AE-%E4%BB%98%E8%B4%B9%E8%AE%BF%E9%97%AE-
 [关于 VIP 衬衫的一切](./关于 VIP 衬衫的一切.html) |https://en.help.roblox.com/hc/zh-cn/articles/203314080-%E5%85%B3%E4%BA%8E-VIP-%E8%A1%AC%E8%A1%AB%E7%9A%84%E4%B8%80%E5%88%87
