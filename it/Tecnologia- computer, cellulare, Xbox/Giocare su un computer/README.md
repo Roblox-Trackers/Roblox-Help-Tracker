@@ -4,7 +4,7 @@ Name|URL
 -|-
 [Risoluzione dei problemi relativi alle reti educative](./Risoluzione dei problemi relativi alle reti educative.html) |https://en.help.roblox.com/hc/it/articles/115005744663-Risoluzione-dei-problemi-relativi-alle-reti-educative
 [Come installare e giocare a Roblox utilizzando il browser](./Come installare e giocare a Roblox utilizzando il browser.html) |https://en.help.roblox.com/hc/it/articles/204473560-Come-installare-e-giocare-a-Roblox-utilizzando-il-browser
-[Problemi generali sul desktop Roblox](./Problemi generali sul desktop Roblox.html) |https://en.help.roblox.com/hc/it/articles/203312870-Problemi-generali-sul-desktop-Roblox
+[Problemi generali di Roblox sul desktop](./Problemi generali di Roblox sul desktop.html) |https://en.help.roblox.com/hc/it/articles/203312870-Problemi-generali-di-Roblox-sul-desktop
 [Problemi generali di chat/tastiera sul computer](./Problemi generali di chat-tastiera sul computer.html) |https://en.help.roblox.com/hc/it/articles/203313040-Problemi-generali-di-chat-tastiera-sul-computer
 [Problemi generali di connessione](./Problemi generali di connessione.html) |https://en.help.roblox.com/hc/it/articles/203312880-Problemi-generali-di-connessione
 [Mac: risoluzione dei problemi](./Mac- risoluzione dei problemi.html) |https://en.help.roblox.com/hc/it/articles/203312990-Mac-risoluzione-dei-problemi
