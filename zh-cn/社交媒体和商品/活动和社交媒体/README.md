@@ -2,7 +2,7 @@
 ### Articles in this section
 Name|URL
 -|-
-[Roblox 在社交媒体上](./Roblox 在社交媒体上.html) |https://en.help.roblox.com/hc/zh-cn/articles/206596923-Roblox-%E5%9C%A8%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93%E4%B8%8A
+[Roblox 的社交平台专页](./Roblox 的社交平台专页.html) |https://en.help.roblox.com/hc/zh-cn/articles/206596923-Roblox-%E7%9A%84%E7%A4%BE%E4%BA%A4%E5%B9%B3%E5%8F%B0%E4%B8%93%E9%A1%B5
 [Roblox 博客](./Roblox 博客.html) |https://en.help.roblox.com/hc/zh-cn/articles/360029134331-Roblox-%E5%8D%9A%E5%AE%A2
 [如何兑换推广码？](./如何兑换推广码？.html) |https://en.help.roblox.com/hc/zh-cn/articles/360029650831-%E5%A6%82%E4%BD%95%E5%85%91%E6%8D%A2%E6%8E%A8%E5%B9%BF%E7%A0%81-
 [Roblox Video Stars 计划（Roblox 视频明星计划）](./Roblox Video Stars 计划（Roblox 视频明星计划）.html) |https://en.help.roblox.com/hc/zh-cn/articles/360026092011-Roblox-Video-Stars-%E8%AE%A1%E5%88%92-Roblox-%E8%A7%86%E9%A2%91%E6%98%8E%E6%98%9F%E8%AE%A1%E5%88%92-
