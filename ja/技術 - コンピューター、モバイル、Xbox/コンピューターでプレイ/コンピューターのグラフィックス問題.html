@@ -18,12 +18,12 @@
      <ul>
       <li style="font-weight: 400;">
        <span style="font-weight: 400;">
-        ゲームを起動しようとすると"グラフィックカードが古すぎます"というエラーが表示される
+        エクスペリエンスを起動しようとすると"グラフィックカードが古すぎます"というエラーが表示される
        </span>
       </li>
       <li style="font-weight: 400;">
        <span style="font-weight: 400;">
-        ゲームのプレイ中にRobloxがクラッシュし、グラフィックエラーが報告される
+        エクスペリエンスのプレイ中にRobloxがクラッシュし、グラフィックエラーが報告される
        </span>
       </li>
       <li style="font-weight: 400;">
@@ -33,7 +33,7 @@
       </li>
       <li style="font-weight: 400;">
        <span style="font-weight: 400;">
-        奇妙な見た目のテクスチャ、画像のゆがみ、判読不能なテキストなど、すべてのゲームのプレイ中に異常に見える
+        奇妙な見た目のテクスチャ、画像のゆがみ、判読不能なテキストなど、すべてののプレイ中に異常に見える
        </span>
       </li>
      </ul>
@@ -46,13 +46,11 @@
      </h1>
      <ul>
       <li style="font-weight: 400;">
-       <span style="font-weight: 400;">
-        DirectXの最新バージョンがコンピューターにない場合(Robloxにはv9以降が必要)
-       </span>
+       PCにDirectX10 以上またはそれ以上の機能レベルのサポートがない場合
       </li>
       <li style="font-weight: 400;">
        <span style="font-weight: 400;">
-        グラフィックカードに最新のドライバーがない場合
+        グラフィックカードに最新のドライバーがインストールされていない場合
        </span>
       </li>
       <li style="font-weight: 400;">
@@ -62,7 +60,7 @@
       </li>
       <li style="font-weight: 400;">
        <span style="font-weight: 400;">
-        プレーヤーがRobloxグラフィック設定を変更した場合’
+        プレイヤーがRobloxグラフィック設定を変更した場合’
        </span>
       </li>
      </ul>
@@ -102,7 +100,7 @@
          [ファイル]メニューを開き、
         </span>
         <strong>
-         [設定]
+         設定
         </strong>
         <span style="font-weight: 400;">
          をクリックします
@@ -110,7 +108,7 @@
        </li>
        <li>
         <strong>
-         [OK]
+         OK
         </strong>
         <span style="font-weight: 400;">
          をクリックして続行します
@@ -121,7 +119,7 @@
          ポップアップウィンドウの左下にある
         </span>
         <strong>
-         [すべての設定をリセット]
+         すべての設定をリセット
         </strong>
         <span style="font-weight: 400;">
          ボタンをクリックします。
@@ -132,62 +130,63 @@
      <p>
      </p>
      <h2 class="wysiwyg-indent1">
-      <span style="font-weight: 400;">
-       DirectXパッケージをテスト
-      </span>
+      サポートされているDirectX 機能レベルの検出
      </h2>
      <p class="wysiwyg-indent2">
-      <span style="font-weight: 400;">
-       Windows 7以降を使用している場合は、おそらくDirectX 10以降のバージョンを使用しています。 念のため、次の手順を実行します。
-      </span>
+      サポートされている DirectX 機能レベルを確認するには:
      </p>
      <ol>
       <ol>
        <li>
-        <span style="font-weight: 400;">
-         スタート&gt;
-        </span>
+        <strong>
+         Windowsキー+Rキー
+        </strong>
+        を押して、
         <strong>
          実行
         </strong>
-        <span style="font-weight: 400;">
-         またはキーボードのWindowsキーを押しながらSキーを押します（Windows 8/8.1/10）
-        </span>
+        プロンプトを表示します。
        </li>
        <li>
-        <span style="font-weight: 400;">
-         dxdiagと入力し、キーボードのEnterキーを押します
-        </span>
+        "dxdiag" (引用符なし) と入力し、
+        <strong>
+         Enter
+        </strong>
+        キーを押します。
        </li>
        <li>
-        <span style="font-weight: 400;">
-         システム情報の下部にある"DirectXバージョン"を確認し、DirectX 10以降であることを確認します
-        </span>
+        DirectXウィンドウのパネル ビューから
+        <strong>
+         ディスプレイ
+        </strong>
+        または
+        <strong>
+         ディスプレイ 1
+        </strong>
+        タブをクリックし、可能な場合は
+        <strong>
+         ディスプレイ 2
+        </strong>
+        タブをクリックします。
+        <br/>
+        <ul>
+         <li>
+          Windows 8.1/10の場合は
+          <strong>
+           機能レベル
+          </strong>
+          を探します。 Windows 7の場合は
+          <strong>
+           DDI バージョン
+          </strong>
+          を探します。
+         </li>
+        </ul>
        </li>
       </ol>
      </ol>
      <p class="wysiwyg-indent2">
-      <span style="font-weight: 400;">
-       "ディスプレイ"または"ディスプレイ1"タブも開いてください。 このタブの"DirectX機能"ボックスには、DirectDraw Acceleration、Direct3D Acceleration、AGP Texture Accelerationの3行があります。 3つすべてが有効になっていることを確認します。 そうでない場合は、ハードウェアアクセラレーションが完全に有効になっていることを確認する必要があります。 これに関する支援については、グラフィックカードの製造元のWebサイトのヘルプセクションを参照してください。
-      </span>
-     </p>
-     <p class="wysiwyg-indent2">
-     </p>
-     <h2 class="wysiwyg-indent1">
-      <span style="font-weight: 400;">
-       必要に応じてDirectXをアップグレード
-      </span>
-     </h2>
-     <p class="wysiwyg-indent2">
-      <span style="font-weight: 400;">
-       DirectXの最新バージョンをお持ちでない場合は、
-      </span>
-      <a href="http://support.microsoft.com/kb/179113" rel="noopener" target="_blank">
-       ここ
-      </a>
-      <span style="font-weight: 400;">
-       をクリックして、直接またはWebサイトからアップグレードしてみてください。
-      </span>
+      "DDI バージョン" または "機能レベル" の行に"10"以上が表示されない場合、お使いのグラフィック カードは DX10 以降をサポートしていないため、アプリケーションにアクセスできません。
      </p>
      <p class="wysiwyg-indent2">
      </p>
@@ -258,6 +257,44 @@
       <span style="font-weight: 400;">
        グラフィックカードの製造元が提供するサポートページにアクセスし、特定のモデルの最新ドライバーをダウンロードしてください。
       </span>
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h2 class="wysiwyg-indent1">
+      互換モードを確認する
+     </h2>
+     <p class="wysiwyg-indent2">
+      グラフィックが古くなっているというメッセージが表示されても、コンピュータが最低仕様要件を満たしている場合は、アプリケーションが互換モードで実行されているかどうかを確認できます。
+     </p>
+     <ol>
+      <ol>
+       <li>
+        RobloxまたはRobloxStudioアプリケーションを右クリックし、
+        <strong>
+         プロパティ
+        </strong>
+        を選択します。
+       </li>
+       <li>
+        <strong>
+         互換性
+        </strong>
+        タブを選択します。
+       </li>
+       <li>
+        <strong>
+         互換モードでこのプログラムを実行
+        </strong>
+        ボックスが選択されている場合は、選択を解除します。
+       </li>
+      </ol>
+     </ol>
+     <p class="wysiwyg-indent2">
+      グラフィックカードの製造元が提供するサポートページにアクセスし、特定のモデルの最新のドライバーをダウンロードしてください。
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <p class="wysiwyg-indent2">
      </p>
     </div>
     <div class="article-attachments">
