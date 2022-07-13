@@ -7,7 +7,6 @@ Name|URL
 [Hardware de la Computadora y Requisitos del Sistema Operativo](./Hardware de la Computadora y Requisitos del Sistema Operativo.html) |https://en.help.roblox.com/hc/es/articles/203312800-Hardware-de-la-Computadora-y-Requisitos-del-Sistema-Operativo
 [Configuración y ayuda del juego](./Configuración y ayuda del juego.html) |https://en.help.roblox.com/hc/es/articles/203314230-Configuraci%C3%B3n-y-ayuda-del-juego
 [Cómo Usar Gear y Backpack (La Mochila)](./Cómo Usar Gear y Backpack (La Mochila).html) |https://en.help.roblox.com/hc/es/articles/203314280-C%C3%B3mo-Usar-Gear-y-Backpack-La-Mochila-
-[Cómo Chatear en los Juegos](./Cómo Chatear en los Juegos.html) |https://en.help.roblox.com/hc/es/articles/203314250-C%C3%B3mo-Chatear-en-los-Juegos
 [Cómo Reiniciar Avatar en el Juego](./Cómo Reiniciar Avatar en el Juego.html) |https://en.help.roblox.com/hc/es/articles/203314290-C%C3%B3mo-Reiniciar-Avatar-en-el-Juego
 [Sistema de Animación (Emotes)](./Sistema de Animación (Emotes).html) |https://en.help.roblox.com/hc/es/articles/203314300-Sistema-de-Animaci%C3%B3n-Emotes-
 [Cómo salir de un Juego](./Cómo salir de un Juego.html) |https://en.help.roblox.com/hc/es/articles/203314240-C%C3%B3mo-salir-de-un-Juego
