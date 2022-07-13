@@ -3,6 +3,7 @@
 Name|URL
 -|-
 [Juegos en Roblox](./Juegos en Roblox.html) |https://en.help.roblox.com/hc/es/articles/115004734603-Juegos-en-Roblox
+[Contactarse con los creadores de una experiencia para obtener ayuda](./Contactarse con los creadores de una experiencia para obtener ayuda.html) |https://en.help.roblox.com/hc/es/articles/6566665691924-Contactarse-con-los-creadores-de-una-experiencia-para-obtener-ayuda
 [Hardware de la Computadora y Requisitos del Sistema Operativo](./Hardware de la Computadora y Requisitos del Sistema Operativo.html) |https://en.help.roblox.com/hc/es/articles/203312800-Hardware-de-la-Computadora-y-Requisitos-del-Sistema-Operativo
 [Configuración y ayuda del juego](./Configuración y ayuda del juego.html) |https://en.help.roblox.com/hc/es/articles/203314230-Configuraci%C3%B3n-y-ayuda-del-juego
 [Cómo Usar Gear y Backpack (La Mochila)](./Cómo Usar Gear y Backpack (La Mochila).html) |https://en.help.roblox.com/hc/es/articles/203314280-C%C3%B3mo-Usar-Gear-y-Backpack-La-Mochila-
