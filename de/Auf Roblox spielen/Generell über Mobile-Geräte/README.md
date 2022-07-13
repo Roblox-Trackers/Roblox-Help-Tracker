@@ -5,7 +5,6 @@ Name|URL
 [Roblox Mobile Systemanforderungen](./Roblox Mobile Systemanforderungen.html) |https://en.help.roblox.com/hc/de/articles/203625474-Roblox-Mobile-Systemanforderungen
 [Mobile App: An- und Abmelden](./Mobile App- An- und Abmelden.html) |https://en.help.roblox.com/hc/de/articles/203313450-Mobile-App-An-und-Abmelden
 [Mobile Geräte: Lesen und Antworten auf Nachrichten](./Mobile Geräte- Lesen und Antworten auf Nachrichten.html) |https://en.help.roblox.com/hc/de/articles/203313550--Mobile-Ger%C3%A4te-Lesen-und-Antworten-auf-Nachrichten
-[Mobile Geräte: Wie man in einem Erlebnis chattet](./Mobile Geräte- Wie man in einem Erlebnis chattet.html) |https://en.help.roblox.com/hc/de/articles/203313520-Mobile-Ger%C3%A4te-Wie-man-in-einem-Erlebnis-chattet
 [Mobile Geräte: Katalog und Einkaufsartikel](./Mobile Geräte- Katalog und Einkaufsartikel.html) |https://en.help.roblox.com/hc/de/articles/203313500-Mobile-Ger%C3%A4te-Katalog-und-Einkaufsartikel
 [Mobile Geräte:  Betrachtung Ihres Inventars](./Mobile Geräte-  Betrachtung Ihres Inventars.html) |https://en.help.roblox.com/hc/de/articles/360000344426-Mobile-Ger%C3%A4te-Betrachtung-Ihres-Inventars
 [Mobile Geräte: Gruppen](./Mobile Geräte- Gruppen.html) |https://en.help.roblox.com/hc/de/articles/203313490-Mobile-Ger%C3%A4te-Gruppen
