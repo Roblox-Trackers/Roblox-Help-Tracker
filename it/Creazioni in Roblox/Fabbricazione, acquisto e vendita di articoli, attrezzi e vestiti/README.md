@@ -3,7 +3,6 @@
 Name|URL
 -|-
 [Dov'è l'articolo che ho appena acquistato con i Robux?](./Dov'è l'articolo che ho appena acquistato con i Robux-.html) |https://en.help.roblox.com/hc/it/articles/360029542532-Dov-%C3%A8-l-articolo-che-ho-appena-acquistato-con-i-Robux-
-[Contattare i Creatori di un'Esperienza per ricevere Assistenza](./Contattare i Creatori di un'Esperienza per ricevere Assistenza.html) |https://en.help.roblox.com/hc/it/articles/6566665691924-Contattare-i-Creatori-di-un-Esperienza-per-ricevere-Assistenza
 [Riceverò indietro i miei Robux se elimino/non mi piace un articolo?](./Riceverò indietro i miei Robux se elimino-non mi piace un articolo-.html) |https://en.help.roblox.com/hc/it/articles/203313290-Ricever%C3%B2-indietro-i-miei-Robux-se-elimino-non-mi-piace-un-articolo-
 [Come visualizzare o nascondere il tuo inventario dal browser](./Come visualizzare o nascondere il tuo inventario dal browser.html) |https://en.help.roblox.com/hc/it/articles/360000463726-Come-visualizzare-o-nascondere-il-tuo-inventario-dal-browser
 [La pagina dei dettagli dell'articolo e gli articoli d'acquisto](./La pagina dei dettagli dell'articolo e gli articoli d'acquisto.html) |https://en.help.roblox.com/hc/it/articles/206142306-La-pagina-dei-dettagli-dell-articolo-e-gli-articoli-d-acquisto
