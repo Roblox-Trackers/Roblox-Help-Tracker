@@ -3,6 +3,7 @@
 Name|URL
 -|-
 [Jogos no Roblox](./Jogos no Roblox.html) |https://en.help.roblox.com/hc/pt-br/articles/115004734603-Jogos-no-Roblox
+[Contatando os Criadores de Uma Experiência](./Contatando os Criadores de Uma Experiência.html) |https://en.help.roblox.com/hc/pt-br/articles/6566665691924-Contatando-os-Criadores-de-Uma-Experi%C3%AAncia-
 [Hardware do Computador e Requisitos do Sistema Operacional](./Hardware do Computador e Requisitos do Sistema Operacional.html) |https://en.help.roblox.com/hc/pt-br/articles/203312800--Hardware-do-Computador-e-Requisitos-do-Sistema-Operacional
 [Controles de Teclado e Mouse](./Controles de Teclado e Mouse.html) |https://en.help.roblox.com/hc/pt-br/articles/203314230-Controles-de-Teclado-e-Mouse
 [Como usar os equipamentos e a mochila?](./Como usar os equipamentos e a mochila-.html) |https://en.help.roblox.com/hc/pt-br/articles/203314280-Como-usar-os-equipamentos-e-a-mochila-
