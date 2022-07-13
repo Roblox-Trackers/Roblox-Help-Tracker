@@ -7,7 +7,6 @@ Name|URL
 [Hardware del computer e requisiti del sistema operativo](./Hardware del computer e requisiti del sistema operativo.html) |https://en.help.roblox.com/hc/it/articles/203312800-Hardware-del-computer-e-requisiti-del-sistema-operativo
 [Impostazioni di gioco e guida](./Impostazioni di gioco e guida.html) |https://en.help.roblox.com/hc/it/articles/203314230-Impostazioni-di-gioco-e-guida
 [Come usare Gear e The Backpack](./Come usare Gear e The Backpack.html) |https://en.help.roblox.com/hc/it/articles/203314280-Come-usare-Gear-e-The-Backpack
-[Come chattare nei giochi](./Come chattare nei giochi.html) |https://en.help.roblox.com/hc/it/articles/203314250-Come-chattare-nei-giochi
 [Come resettare l'avatar - in un'esperienza](./Come resettare l'avatar - in un'esperienza.html) |https://en.help.roblox.com/hc/it/articles/203314290-Come-resettare-l-avatar-in-un-esperienza
 [Sistema di animazione (emote)](./Sistema di animazione (emote).html) |https://en.help.roblox.com/hc/it/articles/203314300-Sistema-di-animazione-emote-
 [Come uscire da un'esperienza un gioco](./Come uscire da un'esperienza un gioco.html) |https://en.help.roblox.com/hc/it/articles/203314240-Come-uscire-da-un-esperienza-un-gioco
