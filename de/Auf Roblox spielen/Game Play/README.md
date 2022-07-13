@@ -4,6 +4,7 @@ Name|URL
 -|-
 [Roblox Beta-App](./Roblox Beta-App.html) |https://en.help.roblox.com/hc/de/articles/360054053812-Roblox-Beta-App
 [Erlebnisse auf Roblox](./Erlebnisse auf Roblox.html) |https://en.help.roblox.com/hc/de/articles/115004734603-Erlebnisse-auf-Roblox
+[Kontaktaufnahme mit den Erstellern eines Erlebnisses für Hilfe](./Kontaktaufnahme mit den Erstellern eines Erlebnisses für Hilfe.html) |https://en.help.roblox.com/hc/de/articles/6566665691924-Kontaktaufnahme-mit-den-Erstellern-eines-Erlebnisses-f%C3%BCr-Hilfe
 [Computer Hardware & Betriebssystemanforderungen](./Computer Hardware & Betriebssystemanforderungen.html) |https://en.help.roblox.com/hc/de/articles/203312800-Computer-Hardware-Betriebssystemanforderungen
 [Einstellungen und Hilfe im Spiel](./Einstellungen und Hilfe im Spiel.html) |https://en.help.roblox.com/hc/de/articles/203314230-Einstellungen-und-Hilfe-im-Spiel
 [Wie man Ausrüstung und den Rucksack benutzt](./Wie man Ausrüstung und den Rucksack benutzt.html) |https://en.help.roblox.com/hc/de/articles/203314280-Wie-man-Ausr%C3%BCstung-und-den-Rucksack-benutzt

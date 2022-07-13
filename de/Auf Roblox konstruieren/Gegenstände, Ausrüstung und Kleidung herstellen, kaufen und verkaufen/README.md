@@ -3,7 +3,6 @@
 Name|URL
 -|-
 [Wo ist der Artikel den ich gerade gekauft habe?](./Wo ist der Artikel den ich gerade gekauft habe-.html) |https://en.help.roblox.com/hc/de/articles/360029542532-Wo-ist-der-Artikel-den-ich-gerade-gekauft-habe-
-[Kontaktaufnahme mit den Erstellern eines Erlebnisses für Hilfe](./Kontaktaufnahme mit den Erstellern eines Erlebnisses für Hilfe.html) |https://en.help.roblox.com/hc/de/articles/6566665691924-Kontaktaufnahme-mit-den-Erstellern-eines-Erlebnisses-f%C3%BCr-Hilfe
 [Erhalte ich meine Robux zurück, wenn ich einen Gegenstand lösche oder er mir nicht gefällt?](./Erhalte ich meine Robux zurück, wenn ich einen Gegenstand lösche oder er mir nicht gefällt-.html) |https://en.help.roblox.com/hc/de/articles/203313290-Erhalte-ich-meine-Robux-zur%C3%BCck-wenn-ich-einen-Gegenstand-l%C3%B6sche-oder-er-mir-nicht-gef%C3%A4llt-
 [Anzeigen oder Ausblenden Ihres Inventars auf der Website](./Anzeigen oder Ausblenden Ihres Inventars auf der Website.html) |https://en.help.roblox.com/hc/de/articles/360000463726-Anzeigen-oder-Ausblenden-Ihres-Inventars-auf-der-Website
 [Die Artikeldetailseite und das Kaufen von Artikeln](./Die Artikeldetailseite und das Kaufen von Artikeln.html) |https://en.help.roblox.com/hc/de/articles/206142306-Die-Artikeldetailseite-und-das-Kaufen-von-Artikeln
