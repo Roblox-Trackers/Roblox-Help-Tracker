@@ -8,7 +8,6 @@ Name|URL
 [Configuration requise du matériel informatique et du système d'exploitation](./Configuration requise du matériel informatique et du système d'exploitation.html) |https://en.help.roblox.com/hc/fr/articles/203312800-Configuration-requise-du-mat%C3%A9riel-informatique-et-du-syst%C3%A8me-d-exploitation
 [Configuration des Paramètres et Aide en jeu](./Configuration des Paramètres et Aide en jeu.html) |https://en.help.roblox.com/hc/fr/articles/203314230-Configuration-des-Param%C3%A8tres-et-Aide-en-jeu
 [Comment utiliser l’Équipement et le Sac à Dos ?](./Comment utiliser l’Équipement et le Sac à Dos -.html) |https://en.help.roblox.com/hc/fr/articles/203314280-Comment-utiliser-l-%C3%89quipement-et-le-Sac-%C3%A0-Dos-
-[Comment chatter dans les expériences?](./Comment chatter dans les expériences-.html) |https://en.help.roblox.com/hc/fr/articles/203314250-Comment-chatter-dans-les-exp%C3%A9riences-
 [Comment relancer votre Avatar - Dans un jeu](./Comment relancer votre Avatar - Dans un jeu.html) |https://en.help.roblox.com/hc/fr/articles/203314290-Comment-relancer-votre-Avatar-Dans-un-jeu
 [Le Système d'Animations (émoticônes)](./Le Système d'Animations (émoticônes).html) |https://en.help.roblox.com/hc/fr/articles/203314300-Le-Syst%C3%A8me-d-Animations-%C3%A9motic%C3%B4nes-
 [Comment quitter un jeu ?](./Comment quitter un jeu -.html) |https://en.help.roblox.com/hc/fr/articles/203314240-Comment-quitter-un-jeu-
