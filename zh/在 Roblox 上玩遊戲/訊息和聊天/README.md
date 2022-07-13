@@ -8,3 +8,4 @@ Name|URL
 [我要如何删除收件箱中的訊息？](./我要如何删除收件箱中的訊息？.html) |https://en.help.roblox.com/hc/zh-tw/articles/203313690-%E6%88%91%E8%A6%81%E5%A6%82%E4%BD%95%E5%88%A0%E9%99%A4%E6%94%B6%E4%BB%B6%E7%AE%B1%E4%B8%AD%E7%9A%84%E8%A8%8A%E6%81%AF-
 [空間語音](./空間語音.html) |https://en.help.roblox.com/hc/zh-tw/articles/4405807645972-%E7%A9%BA%E9%96%93%E8%AA%9E%E9%9F%B3
 [錄音 FAQ](./錄音 FAQ.html) |https://en.help.roblox.com/hc/zh-tw/articles/5704050147604-%E9%8C%84%E9%9F%B3-FAQ
+[如何在體驗内聊天](./如何在體驗内聊天.html) |https://en.help.roblox.com/hc/zh-tw/articles/203314250-%E5%A6%82%E4%BD%95%E5%9C%A8%E9%AB%94%E9%A9%97%E5%86%85%E8%81%8A%E5%A4%A9

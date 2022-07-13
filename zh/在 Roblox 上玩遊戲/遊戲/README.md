@@ -8,7 +8,6 @@ Name|URL
 [電腦硬件和操作系統要求](./電腦硬件和操作系統要求.html) |https://en.help.roblox.com/hc/zh-tw/articles/203312800-%E9%9B%BB%E8%85%A6%E7%A1%AC%E4%BB%B6%E5%92%8C%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%B5%B1%E8%A6%81%E6%B1%82
 [遊戲設定和協助](./遊戲設定和協助.html) |https://en.help.roblox.com/hc/zh-tw/articles/203314230-%E9%81%8A%E6%88%B2%E8%A8%AD%E5%AE%9A%E5%92%8C%E5%8D%94%E5%8A%A9
 [如何使用裝備和背包](./如何使用裝備和背包.html) |https://en.help.roblox.com/hc/zh-tw/articles/203314280-%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E8%A3%9D%E5%82%99%E5%92%8C%E8%83%8C%E5%8C%85
-[如何在體驗内聊天](./如何在體驗内聊天.html) |https://en.help.roblox.com/hc/zh-tw/articles/203314250-%E5%A6%82%E4%BD%95%E5%9C%A8%E9%AB%94%E9%A9%97%E5%86%85%E8%81%8A%E5%A4%A9
 [如何重置虛擬人偶 - 體驗中](./如何重置虛擬人偶 - 體驗中.html) |https://en.help.roblox.com/hc/zh-tw/articles/203314290-%E5%A6%82%E4%BD%95%E9%87%8D%E7%BD%AE%E8%99%9B%E6%93%AC%E4%BA%BA%E5%81%B6-%E9%AB%94%E9%A9%97%E4%B8%AD
 [動畫系統（Emotes）](./動畫系統（Emotes）.html) |https://en.help.roblox.com/hc/zh-tw/articles/203314300-%E5%8B%95%E7%95%AB%E7%B3%BB%E7%B5%B1-Emotes-
 [如何離開體驗](./如何離開體驗.html) |https://en.help.roblox.com/hc/zh-tw/articles/203314240-%E5%A6%82%E4%BD%95%E9%9B%A2%E9%96%8B%E9%AB%94%E9%A9%97
