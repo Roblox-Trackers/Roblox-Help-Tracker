@@ -8,7 +8,6 @@ Name|URL
 [Computer Hardware & Operating System Requirements](./Computer Hardware & Operating System Requirements.html) |https://en.help.roblox.com/hc/en-us/articles/203312800-Computer-Hardware-Operating-System-Requirements
 [In-experience Settings and Help](./In-experience Settings and Help.html) |https://en.help.roblox.com/hc/en-us/articles/203314230-In-experience-Settings-and-Help
 [How to Use Gear and The Backpack](./How to Use Gear and The Backpack.html) |https://en.help.roblox.com/hc/en-us/articles/203314280-How-to-Use-Gear-and-The-Backpack
-[How to Chat in Experiences](./How to Chat in Experiences.html) |https://en.help.roblox.com/hc/en-us/articles/203314250-How-to-Chat-in-Experiences
 [How to Reset Avatar - In Experience](./How to Reset Avatar - In Experience.html) |https://en.help.roblox.com/hc/en-us/articles/203314290-How-to-Reset-Avatar-In-Experience
 [Animation System (Emotes)](./Animation System (Emotes).html) |https://en.help.roblox.com/hc/en-us/articles/203314300-Animation-System-Emotes-
 [How to Leave an Experience](./How to Leave an Experience.html) |https://en.help.roblox.com/hc/en-us/articles/203314240-How-to-Leave-an-Experience
