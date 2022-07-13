@@ -4,6 +4,7 @@ Name|URL
 -|-
 [Roblox Beta App](./Roblox Beta App.html) |https://en.help.roblox.com/hc/zh-tw/articles/360054053812-Roblox-Beta-App
 [Roblox 體驗](./Roblox 體驗.html) |https://en.help.roblox.com/hc/zh-tw/articles/115004734603-Roblox-%E9%AB%94%E9%A9%97
+[聯絡體驗創作者尋求協助](./聯絡體驗創作者尋求協助.html) |https://en.help.roblox.com/hc/zh-tw/articles/6566665691924-%E8%81%AF%E7%B5%A1%E9%AB%94%E9%A9%97%E5%89%B5%E4%BD%9C%E8%80%85%E5%B0%8B%E6%B1%82%E5%8D%94%E5%8A%A9
 [電腦硬件和操作系統要求](./電腦硬件和操作系統要求.html) |https://en.help.roblox.com/hc/zh-tw/articles/203312800-%E9%9B%BB%E8%85%A6%E7%A1%AC%E4%BB%B6%E5%92%8C%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%B5%B1%E8%A6%81%E6%B1%82
 [遊戲設定和協助](./遊戲設定和協助.html) |https://en.help.roblox.com/hc/zh-tw/articles/203314230-%E9%81%8A%E6%88%B2%E8%A8%AD%E5%AE%9A%E5%92%8C%E5%8D%94%E5%8A%A9
 [如何使用裝備和背包](./如何使用裝備和背包.html) |https://en.help.roblox.com/hc/zh-tw/articles/203314280-%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E8%A3%9D%E5%82%99%E5%92%8C%E8%83%8C%E5%8C%85
