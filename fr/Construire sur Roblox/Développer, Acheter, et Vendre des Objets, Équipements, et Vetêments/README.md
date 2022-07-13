@@ -3,7 +3,6 @@
 Name|URL
 -|-
 [Où est l'article que je viens d'acheter ?](./Où est l'article que je viens d'acheter -.html) |https://en.help.roblox.com/hc/fr/articles/360029542532-O%C3%B9-est-l-article-que-je-viens-d-acheter-
-[Contactez un développeur de jeux pour obtenir de l'aide](./Contactez un développeur de jeux pour obtenir de l'aide.html) |https://en.help.roblox.com/hc/fr/articles/6566665691924-Contactez-un-d%C3%A9veloppeur-de-jeux-pour-obtenir-de-l-aide
 [Pourrai-je récupérer mes Robux si je supprime/je n’ai pas aimé un objet ?](./Pourrai-je récupérer mes Robux si je supprime-je n’ai pas aimé un objet -.html) |https://en.help.roblox.com/hc/fr/articles/203313290-Pourrai-je-r%C3%A9cup%C3%A9rer-mes-Robux-si-je-supprime-je-n-ai-pas-aim%C3%A9-un-objet-
 [Voir votre inventaire sur le site Web](./Voir votre inventaire sur le site Web.html) |https://en.help.roblox.com/hc/fr/articles/360000463726-Voir-votre-inventaire-sur-le-site-Web
 [La page de détails de l'article et comment acheter des articles](./La page de détails de l'article et comment acheter des articles.html) |https://en.help.roblox.com/hc/fr/articles/206142306-La-page-de-d%C3%A9tails-de-l-article-et-comment-acheter-des-articles
