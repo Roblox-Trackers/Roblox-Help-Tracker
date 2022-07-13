@@ -7,7 +7,6 @@ Name|URL
 [Hardware do Computador e Requisitos do Sistema Operacional](./Hardware do Computador e Requisitos do Sistema Operacional.html) |https://en.help.roblox.com/hc/pt-br/articles/203312800--Hardware-do-Computador-e-Requisitos-do-Sistema-Operacional
 [Controles de Teclado e Mouse](./Controles de Teclado e Mouse.html) |https://en.help.roblox.com/hc/pt-br/articles/203314230-Controles-de-Teclado-e-Mouse
 [Como usar os equipamentos e a mochila?](./Como usar os equipamentos e a mochila-.html) |https://en.help.roblox.com/hc/pt-br/articles/203314280-Como-usar-os-equipamentos-e-a-mochila-
-[Como Conversar em Jogos](./Como Conversar em Jogos.html) |https://en.help.roblox.com/hc/pt-br/articles/203314250-Como-Conversar-em-Jogos
 [Como Redefinir o Avatar - No Jogo](./Como Redefinir o Avatar - No Jogo.html) |https://en.help.roblox.com/hc/pt-br/articles/203314290-Como-Redefinir-o-Avatar-No-Jogo
 [Sistema de Animação (Emotes)](./Sistema de Animação (Emotes).html) |https://en.help.roblox.com/hc/pt-br/articles/203314300-Sistema-de-Anima%C3%A7%C3%A3o-Emotes-
 [Como Sair de um Jogo](./Como Sair de um Jogo.html) |https://en.help.roblox.com/hc/pt-br/articles/203314240-Como-Sair-de-um-Jogo
