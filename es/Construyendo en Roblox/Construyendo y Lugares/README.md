@@ -16,7 +16,7 @@ Name|URL
 [Cómo copiar un juego](./Cómo copiar un juego.html) |https://en.help.roblox.com/hc/es/articles/203313900-C%C3%B3mo-copiar-un-juego
 [Cómo Volver A Versiones Anteriores De Un Lugar](./Cómo Volver A Versiones Anteriores De Un Lugar.html) |https://en.help.roblox.com/hc/es/articles/203313850-C%C3%B3mo-Volver-A-Versiones-Anteriores-De-Un-Lugar
 [Restablecer Lugar a una Plantilla Inicial](./Restablecer Lugar a una Plantilla Inicial.html) |https://en.help.roblox.com/hc/es/articles/203313920-Restablecer-Lugar-a-una-Plantilla-Inicial
-[Modo Experimental (Experimental Mode)](./Modo Experimental (Experimental Mode).html) |https://en.help.roblox.com/hc/es/articles/115003766763-Modo-Experimental-Experimental-Mode-
+[Modo Experimental](./Modo Experimental.html) |https://en.help.roblox.com/hc/es/articles/115003766763-Modo-Experimental
 [¿Cómo Hago Badges (Insignias) De Jugador?](./¿Cómo Hago Badges (Insignias) De Jugador-.html) |https://en.help.roblox.com/hc/es/articles/203313650--C%C3%B3mo-Hago-Badges-Insignias-De-Jugador-
 [¿Cómo Construyo con GUI?](./¿Cómo Construyo con GUI-.html) |https://en.help.roblox.com/hc/es/articles/203313960--C%C3%B3mo-Construyo-con-GUI-
 [Qué Es Este Modelo Infectado En My Place (Mi Lugar)?](./Qué Es Este Modelo Infectado En My Place (Mi Lugar)-.html) |https://en.help.roblox.com/hc/es/articles/203312920-Qu%C3%A9-Es-Este-Modelo-Infectado-En-My-Place-Mi-Lugar-

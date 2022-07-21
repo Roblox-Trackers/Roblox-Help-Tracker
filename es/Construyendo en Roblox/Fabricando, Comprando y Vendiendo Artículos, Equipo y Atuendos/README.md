@@ -9,7 +9,7 @@ Name|URL
 [Ropa: Camisetas, Camisas y Pantalones](./Ropa- Camisetas, Camisas y Pantalones.html) |https://en.help.roblox.com/hc/es/articles/203313170-Ropa-Camisetas-Camisas-y-Pantalones
 [¿Qué es un Equipo Virtual?](./¿Qué es un Equipo Virtual-.html) |https://en.help.roblox.com/hc/es/articles/203313630--Qu%C3%A9-es-un-Equipo-Virtual-
 [Tienda de Avatar](./Tienda de Avatar.html) |https://en.help.roblox.com/hc/es/articles/203313300-Tienda-de-Avatar
-[La Biblioteca (Library)](./La Biblioteca (Library).html) |https://en.help.roblox.com/hc/es/articles/206580683-La-Biblioteca-Library-
+[El mercado de creadores](./El mercado de creadores.html) |https://en.help.roblox.com/hc/es/articles/206580683-El-mercado-de-creadores
 [Cómo Vender Artículos?](./Cómo Vender Artículos-.html) |https://en.help.roblox.com/hc/es/articles/203313260-C%C3%B3mo-Vender-Art%C3%ADculos-
 [Venta de Ropa](./Venta de Ropa.html) |https://en.help.roblox.com/hc/es/articles/203313180-Venta-de-Ropa
 [Sistema de Intercambio (Trading System)](./Sistema de Intercambio (Trading System).html) |https://en.help.roblox.com/hc/es/articles/203313310-Sistema-de-Intercambio-Trading-System-
