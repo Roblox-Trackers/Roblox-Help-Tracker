@@ -2,7 +2,7 @@
 ### Articles in this section
 Name|URL
 -|-
-[Truffe sul trading dei giocatori](./Truffe sul trading dei giocatori.html) |https://en.help.roblox.com/hc/it/articles/203312390-Truffe-sul-trading-dei-giocatori
+[Truffe di scambio tra giocatori](./Truffe di scambio tra giocatori.html) |https://en.help.roblox.com/hc/it/articles/203312390-Truffe-di-scambio-tra-giocatori
 [Tradimenti e sfruttamento](./Tradimenti e sfruttamento.html) |https://en.help.roblox.com/hc/it/articles/203312450-Tradimenti-e-sfruttamento
 [Acquisto e vendita di giochi](./Acquisto e vendita di giochi.html) |https://en.help.roblox.com/hc/it/articles/203313980-Acquisto-e-vendita-di-giochi
 [Come posso sapere chi è un membro dello staff Roblox o un amministratore?](./Come posso sapere chi è un membro dello staff Roblox o un amministratore-.html) |https://en.help.roblox.com/hc/it/articles/203313360-Come-posso-sapere-chi-%C3%A8-un-membro-dello-staff-Roblox-o-un-amministratore-
