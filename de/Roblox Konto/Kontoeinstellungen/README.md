@@ -16,3 +16,4 @@ Name|URL
 [Altersverifizierung](./Altersverifizierung.html) |https://en.help.roblox.com/hc/de/articles/4407282410644-Altersverifizierung
 [Häufig gestellte Fragen zur Altersverifikation](./Häufig gestellte Fragen zur Altersverifikation.html) |https://en.help.roblox.com/hc/de/articles/4407276151188-H%C3%A4ufig-gestellte-Fragen-zur-Altersverifikation
 [Ändern Ihres Kontothemas](./Ändern Ihres Kontothemas.html) |https://en.help.roblox.com/hc/de/articles/360022922852-%C3%84ndern-Ihres-Kontothemas
+[Kontakt-Importierer – FAQ](./Kontakt-Importierer – FAQ.html) |https://en.help.roblox.com/hc/de/articles/7416652004884-Kontakt-Importierer-FAQ
