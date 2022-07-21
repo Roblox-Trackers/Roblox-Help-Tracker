@@ -16,3 +16,4 @@ Name|URL
 [Vérification de l’âge à l’aide de votre ID](./Vérification de l’âge à l’aide de votre ID.html) |https://en.help.roblox.com/hc/fr/articles/4407282410644-V%C3%A9rification-de-l-%C3%A2ge-%C3%A0-l-aide-de-votre-ID
 [Questions Fréquentes sur la vérification de l’âge via ID](./Questions Fréquentes sur la vérification de l’âge via ID.html) |https://en.help.roblox.com/hc/fr/articles/4407276151188-Questions-Fr%C3%A9quentes-sur-la-v%C3%A9rification-de-l-%C3%A2ge-via-ID
 [Changer le Thème de Votre Compte](./Changer le Thème de Votre Compte.html) |https://en.help.roblox.com/hc/fr/articles/360022922852-Changer-le-Th%C3%A8me-de-Votre-Compte
+[FAQ de l'importateur de contacts](./FAQ de l'importateur de contacts.html) |https://en.help.roblox.com/hc/fr/articles/7416652004884-FAQ-de-l-importateur-de-contacts
