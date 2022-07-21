@@ -9,7 +9,7 @@ Name|URL
 [Abbigliamento: magliette, camicie e pantaloni](./Abbigliamento- magliette, camicie e pantaloni.html) |https://en.help.roblox.com/hc/it/articles/203313170-Abbigliamento-magliette-camicie-e-pantaloni
 [Cos'è Virtual Gear?](./Cos'è Virtual Gear-.html) |https://en.help.roblox.com/hc/it/articles/203313630-Cos-%C3%A8-Virtual-Gear-
 [Il catalogo](./Il catalogo.html) |https://en.help.roblox.com/hc/it/articles/203313300-Il-catalogo
-[La Biblioteca](./La Biblioteca.html) |https://en.help.roblox.com/hc/it/articles/206580683-La-Biblioteca
+[Creator Marketplace](./Creator Marketplace.html) |https://en.help.roblox.com/hc/it/articles/206580683-Creator-Marketplace
 [Come vendere oggetti](./Come vendere oggetti.html) |https://en.help.roblox.com/hc/it/articles/203313260-Come-vendere-oggetti
 [Vendere vestiti](./Vendere vestiti.html) |https://en.help.roblox.com/hc/it/articles/203313180-Vendere-vestiti
 [Sistema di trading](./Sistema di trading.html) |https://en.help.roblox.com/hc/it/articles/203313310-Sistema-di-trading

@@ -13,3 +13,4 @@ Name|URL
 [Modifica della lingua o del paese dell'account](./Modifica della lingua o del paese dell'account.html) |https://en.help.roblox.com/hc/it/articles/360001216486-Modifica-della-lingua-o-del-paese-dell-account
 [Age ID Verification FAQs](./Age ID Verification FAQs.html) |https://en.help.roblox.com/hc/it/articles/4407276151188-Age-ID-Verification-FAQs
 [Modifica del tema del tuo account](./Modifica del tema del tuo account.html) |https://en.help.roblox.com/hc/it/articles/360022922852-Modifica-del-tema-del-tuo-account
+[FAQ sull'importazione dei contatti](./FAQ sull'importazione dei contatti.html) |https://en.help.roblox.com/hc/it/articles/7416652004884-FAQ-sull-importazione-dei-contatti-
