@@ -13,3 +13,4 @@ Name|URL
 [계정에 등록된 언어 및 국가 변경하기](./계정에 등록된 언어 및 국가 변경하기.html) |https://en.help.roblox.com/hc/ko/articles/360001216486-%EA%B3%84%EC%A0%95%EC%97%90-%EB%93%B1%EB%A1%9D%EB%90%9C-%EC%96%B8%EC%96%B4-%EB%B0%8F-%EA%B5%AD%EA%B0%80-%EB%B3%80%EA%B2%BD%ED%95%98%EA%B8%B0
 [표시 이름 변경하기](./표시 이름 변경하기.html) |https://en.help.roblox.com/hc/ko/articles/4401938870292-%ED%91%9C%EC%8B%9C-%EC%9D%B4%EB%A6%84-%EB%B3%80%EA%B2%BD%ED%95%98%EA%B8%B0
 [계정 테마 변경하기](./계정 테마 변경하기.html) |https://en.help.roblox.com/hc/ko/articles/360022922852-%EA%B3%84%EC%A0%95-%ED%85%8C%EB%A7%88-%EB%B3%80%EA%B2%BD%ED%95%98%EA%B8%B0
+[연락처 가져오기 기능 FAQs](./연락처 가져오기 기능 FAQs.html) |https://en.help.roblox.com/hc/ko/articles/7416652004884-%EC%97%B0%EB%9D%BD%EC%B2%98-%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0-%EA%B8%B0%EB%8A%A5-FAQs-
