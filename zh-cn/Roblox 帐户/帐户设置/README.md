@@ -15,3 +15,4 @@ Name|URL
 [年龄身份验证](./年龄身份验证.html) |https://en.help.roblox.com/hc/zh-cn/articles/4407282410644-%E5%B9%B4%E9%BE%84%E8%BA%AB%E4%BB%BD%E9%AA%8C%E8%AF%81
 [年龄身份验证常见问题](./年龄身份验证常见问题.html) |https://en.help.roblox.com/hc/zh-cn/articles/4407276151188-%E5%B9%B4%E9%BE%84%E8%BA%AB%E4%BB%BD%E9%AA%8C%E8%AF%81%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98
 [更改账户主题](./更改账户主题.html) |https://en.help.roblox.com/hc/zh-cn/articles/360022922852-%E6%9B%B4%E6%94%B9%E8%B4%A6%E6%88%B7%E4%B8%BB%E9%A2%98
+[联系人导入程序常见问题](./联系人导入程序常见问题.html) |https://en.help.roblox.com/hc/zh-cn/articles/7416652004884-%E8%81%94%E7%B3%BB%E4%BA%BA%E5%AF%BC%E5%85%A5%E7%A8%8B%E5%BA%8F%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98-
