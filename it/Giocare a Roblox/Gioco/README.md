@@ -8,7 +8,7 @@ Name|URL
 [Impostazioni di gioco e guida](./Impostazioni di gioco e guida.html) |https://en.help.roblox.com/hc/it/articles/203314230-Impostazioni-di-gioco-e-guida
 [Come usare Gear e The Backpack](./Come usare Gear e The Backpack.html) |https://en.help.roblox.com/hc/it/articles/203314280-Come-usare-Gear-e-The-Backpack
 [Come resettare l'avatar - in un'esperienza](./Come resettare l'avatar - in un'esperienza.html) |https://en.help.roblox.com/hc/it/articles/203314290-Come-resettare-l-avatar-in-un-esperienza
-[Sistema di animazione (emote)](./Sistema di animazione (emote).html) |https://en.help.roblox.com/hc/it/articles/203314300-Sistema-di-animazione-emote-
+[Sistema di Animazione (Emotes)](./Sistema di Animazione (Emotes).html) |https://en.help.roblox.com/hc/it/articles/203314300-Sistema-di-Animazione-Emotes-
 [Come uscire da un'esperienza un gioco](./Come uscire da un'esperienza un gioco.html) |https://en.help.roblox.com/hc/it/articles/203314240-Come-uscire-da-un-esperienza-un-gioco
 [Come seguire o partecipare a un altro giocatore nei giochi](./Come seguire o partecipare a un altro giocatore nei giochi.html) |https://en.help.roblox.com/hc/it/articles/203314220-Come-seguire-o-partecipare-a-un-altro-giocatore-nei-giochi
 [Come aggiungere un gioco (Luogo) ai Preferiti](./Come aggiungere un gioco (Luogo) ai Preferiti.html) |https://en.help.roblox.com/hc/it/articles/203313670-Come-aggiungere-un-gioco-Luogo-ai-Preferiti-
