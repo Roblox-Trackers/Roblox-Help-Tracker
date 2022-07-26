@@ -3,7 +3,7 @@
 Name|URL
 -|-
 [¿Dónde está el artículo que acabo de comprar?](./¿Dónde está el artículo que acabo de comprar-.html) |https://en.help.roblox.com/hc/es/articles/360029542532--D%C3%B3nde-est%C3%A1-el-art%C3%ADculo-que-acabo-de-comprar-
-[¿Cómo recupero mis Robux si elimino un objeto comprado de mi inventario o si no me gusta?](./¿Cómo recupero mis Robux si elimino un objeto comprado de mi inventario o si no me gusta-.html) |https://en.help.roblox.com/hc/es/articles/203313290--C%C3%B3mo-recupero-mis-Robux-si-elimino-un-objeto-comprado-de-mi-inventario-o-si-no-me-gusta-
+[¿Recuperaré mis Robux si elimino/no me gusta un artículo?](./¿Recuperaré mis Robux si elimino-no me gusta un artículo-.html) |https://en.help.roblox.com/hc/es/articles/203313290--Recuperar%C3%A9-mis-Robux-si-elimino-no-me-gusta-un-art%C3%ADculo-
 [Cómo ver & ocultar su inventario en el sitio web](./Cómo ver & ocultar su inventario en el sitio web.html) |https://en.help.roblox.com/hc/es/articles/360000463726-C%C3%B3mo-ver-ocultar-su-inventario-en-el-sitio-web
 [La página de Detalles del Artículo y Compra de Artículos](./La página de Detalles del Artículo y Compra de Artículos.html) |https://en.help.roblox.com/hc/es/articles/206142306-La-p%C3%A1gina-de-Detalles-del-Art%C3%ADculo-y-Compra-de-Art%C3%ADculos
 [Ropa: Camisetas, Camisas y Pantalones](./Ropa- Camisetas, Camisas y Pantalones.html) |https://en.help.roblox.com/hc/es/articles/203313170-Ropa-Camisetas-Camisas-y-Pantalones
