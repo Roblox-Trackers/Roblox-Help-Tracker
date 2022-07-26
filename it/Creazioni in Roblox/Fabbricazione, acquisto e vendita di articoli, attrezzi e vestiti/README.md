@@ -7,7 +7,7 @@ Name|URL
 [Come visualizzare o nascondere il tuo inventario dal browser](./Come visualizzare o nascondere il tuo inventario dal browser.html) |https://en.help.roblox.com/hc/it/articles/360000463726-Come-visualizzare-o-nascondere-il-tuo-inventario-dal-browser
 [La pagina dei dettagli dell'articolo e gli articoli d'acquisto](./La pagina dei dettagli dell'articolo e gli articoli d'acquisto.html) |https://en.help.roblox.com/hc/it/articles/206142306-La-pagina-dei-dettagli-dell-articolo-e-gli-articoli-d-acquisto
 [Abbigliamento: magliette, camicie e pantaloni](./Abbigliamento- magliette, camicie e pantaloni.html) |https://en.help.roblox.com/hc/it/articles/203313170-Abbigliamento-magliette-camicie-e-pantaloni
-[Cos'è Virtual Gear?](./Cos'è Virtual Gear-.html) |https://en.help.roblox.com/hc/it/articles/203313630-Cos-%C3%A8-Virtual-Gear-
+[Cos'è un equipaggiamento virtuale?](./Cos'è un equipaggiamento virtuale-.html) |https://en.help.roblox.com/hc/it/articles/203313630-Cos-%C3%A8-un-equipaggiamento-virtuale-
 [Il catalogo](./Il catalogo.html) |https://en.help.roblox.com/hc/it/articles/203313300-Il-catalogo
 [Creator Marketplace](./Creator Marketplace.html) |https://en.help.roblox.com/hc/it/articles/206580683-Creator-Marketplace
 [Come vendere oggetti](./Come vendere oggetti.html) |https://en.help.roblox.com/hc/it/articles/203313260-Come-vendere-oggetti
