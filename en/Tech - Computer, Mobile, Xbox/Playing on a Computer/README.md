@@ -14,7 +14,6 @@ Name|URL
 [Mac: Parental Controls](./Mac- Parental Controls.html) |https://en.help.roblox.com/hc/en-us/articles/203313010-Mac-Parental-Controls
 [Mac: Upgrade Fail Message](./Mac- Upgrade Fail Message.html) |https://en.help.roblox.com/hc/en-us/articles/203313000-Mac-Upgrade-Fail-Message
 [Graphics Problems on Computers](./Graphics Problems on Computers.html) |https://en.help.roblox.com/hc/en-us/articles/203312790-Graphics-Problems-on-Computers
-[I Am Logged in, but I Appear as a Guest Inside of Experiences](./I Am Logged in, but I Appear as a Guest Inside of Experiences.html) |https://en.help.roblox.com/hc/en-us/articles/205211416-I-Am-Logged-in-but-I-Appear-as-a-Guest-Inside-of-Experiences
 [Infinite "Getting Latest Roblox" Loop](./Infinite -Getting Latest Roblox- Loop.html) |https://en.help.roblox.com/hc/en-us/articles/203312940-Infinite-Getting-Latest-Roblox-Loop
 [Roblox Launcher Plugin](./Roblox Launcher Plugin.html) |https://en.help.roblox.com/hc/en-us/articles/203313020-Roblox-Launcher-Plugin
 [What to Do If Your Anti-virus Has Flagged Roblox](./What to Do If Your Anti-virus Has Flagged Roblox.html) |https://en.help.roblox.com/hc/en-us/articles/203313030-What-to-Do-If-Your-Anti-virus-Has-Flagged-Roblox
