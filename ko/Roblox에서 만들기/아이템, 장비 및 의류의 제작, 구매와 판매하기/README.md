@@ -7,7 +7,7 @@ Name|URL
 [웹사이트에서 인벤토리 보기](./웹사이트에서 인벤토리 보기.html) |https://en.help.roblox.com/hc/ko/articles/360000463726-%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8%EC%97%90%EC%84%9C-%EC%9D%B8%EB%B2%A4%ED%86%A0%EB%A6%AC-%EB%B3%B4%EA%B8%B0
 [아이템의 정보 페이지 및 아이템 구매](./아이템의 정보 페이지 및 아이템 구매.html) |https://en.help.roblox.com/hc/ko/articles/206142306-%EC%95%84%EC%9D%B4%ED%85%9C%EC%9D%98-%EC%A0%95%EB%B3%B4-%ED%8E%98%EC%9D%B4%EC%A7%80-%EB%B0%8F-%EC%95%84%EC%9D%B4%ED%85%9C-%EA%B5%AC%EB%A7%A4
 [의류: 티셔츠, 셔츠 및 바지](./의류- 티셔츠, 셔츠 및 바지.html) |https://en.help.roblox.com/hc/ko/articles/203313170-%EC%9D%98%EB%A5%98-%ED%8B%B0%EC%85%94%EC%B8%A0-%EC%85%94%EC%B8%A0-%EB%B0%8F-%EB%B0%94%EC%A7%80
-[가상 장비는 무엇입니까?](./가상 장비는 무엇입니까-.html) |https://en.help.roblox.com/hc/ko/articles/203313630-%EA%B0%80%EC%83%81-%EC%9E%A5%EB%B9%84%EB%8A%94-%EB%AC%B4%EC%97%87%EC%9E%85%EB%8B%88%EA%B9%8C-
+[가상 장비가 무엇인가요?](./가상 장비가 무엇인가요-.html) |https://en.help.roblox.com/hc/ko/articles/203313630-%EA%B0%80%EC%83%81-%EC%9E%A5%EB%B9%84%EA%B0%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%EC%9A%94-
 [카탈로그](./카탈로그.html) |https://en.help.roblox.com/hc/ko/articles/203313300-%EC%B9%B4%ED%83%88%EB%A1%9C%EA%B7%B8
 [도서관](./도서관.html) |https://en.help.roblox.com/hc/ko/articles/206580683-%EB%8F%84%EC%84%9C%EA%B4%80
 [아이템 판매 방법 (방금 구입 한 아이템은 어디에 있습니까?)](./아이템 판매 방법 (방금 구입 한 아이템은 어디에 있습니까-).html) |https://en.help.roblox.com/hc/ko/articles/203313260-%EC%95%84%EC%9D%B4%ED%85%9C-%ED%8C%90%EB%A7%A4-%EB%B0%A9%EB%B2%95-%EB%B0%A9%EA%B8%88-%EA%B5%AC%EC%9E%85-%ED%95%9C-%EC%95%84%EC%9D%B4%ED%85%9C%EC%9D%80-%EC%96%B4%EB%94%94%EC%97%90-%EC%9E%88%EC%8A%B5%EB%8B%88%EA%B9%8C-
