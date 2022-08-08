@@ -13,7 +13,7 @@ Name|URL
 [Como seguir ou se juntar a outro jogador em jogos](./Como seguir ou se juntar a outro jogador em jogos.html) |https://en.help.roblox.com/hc/pt-br/articles/203314220-Como-seguir-ou-se-juntar-a-outro-jogador-em-jogos
 [Como Favoritar um Lugar](./Como Favoritar um Lugar.html) |https://en.help.roblox.com/hc/pt-br/articles/203313670-Como-Favoritar-um-Lugar
 [Tabelas de Classificação e Notificações no Jogo](./Tabelas de Classificação e Notificações no Jogo.html) |https://en.help.roblox.com/hc/pt-br/articles/204343250-Tabelas-de-Classifica%C3%A7%C3%A3o-e-Notifica%C3%A7%C3%B5es-no-Jogo
-[Como Altero a Cor do Meu Nome em um Jogo?](./Como Altero a Cor do Meu Nome em um Jogo-.html) |https://en.help.roblox.com/hc/pt-br/articles/203314200-Como-Altero-a-Cor-do-Meu-Nome-em-um-Jogo-
+[Como Altero a Cor do Meu Nome em uma Experiência?](./Como Altero a Cor do Meu Nome em uma Experiência-.html) |https://en.help.roblox.com/hc/pt-br/articles/203314200-Como-Altero-a-Cor-do-Meu-Nome-em-uma-Experi%C3%AAncia-
 [Como Compro e Configuro Servidores VIP?](./Como Compro e Configuro Servidores VIP-.html) |https://en.help.roblox.com/hc/pt-br/articles/205345050-Como-Compro-e-Configuro-Servidores-VIP-
 [Testes de Servidor](./Testes de Servidor.html) |https://en.help.roblox.com/hc/pt-br/articles/203314170-Testes-de-Servidor-
 [Como Tiro Uma Captura de Tela?](./Como Tiro Uma Captura de Tela-.html) |https://en.help.roblox.com/hc/pt-br/articles/203314160-Como-Tiro-Uma-Captura-de-Tela-

@@ -9,7 +9,7 @@ Name|URL
 [Aplicativo Xbox One: conectando-se à sua conta do Roblox](./Aplicativo Xbox One- conectando-se à sua conta do Roblox.html) |https://en.help.roblox.com/hc/pt-br/articles/205662594-Aplicativo-Xbox-One-conectando-se-%C3%A0-sua-conta-do-Roblox
 [Aplicativo Xbox One: Como Permitir Acesso Sob Contas Familiares](./Aplicativo Xbox One- Como Permitir Acesso Sob Contas Familiares.html) |https://en.help.roblox.com/hc/pt-br/articles/115001279786-Aplicativo-Xbox-One-Como-Permitir-Acesso-Sob-Contas-Familiares
 [Aplicativo Xbox One: Como posso jogar com amigos?](./Aplicativo Xbox One- Como posso jogar com amigos-.html) |https://en.help.roblox.com/hc/pt-br/articles/360000334526-Aplicativo-Xbox-One-Como-posso-jogar-com-amigos-
-[Aplicativo Xbox One: Avaliando um Jogo](./Aplicativo Xbox One- Avaliando um Jogo.html) |https://en.help.roblox.com/hc/pt-br/articles/205355420-Aplicativo-Xbox-One-Avaliando-um-Jogo
+[Aplicativo Xbox One: Avaliando uma Experiência](./Aplicativo Xbox One- Avaliando uma Experiência.html) |https://en.help.roblox.com/hc/pt-br/articles/205355420-Aplicativo-Xbox-One-Avaliando-uma-Experi%C3%AAncia
 [Aplicativo Xbox One: Chat por voz](./Aplicativo Xbox One- Chat por voz.html) |https://en.help.roblox.com/hc/pt-br/articles/205355430-Aplicativo-Xbox-One-Chat-por-voz
 [Posso Criar um Jogo Roblox e Jogá-lo no Xbox?](./Posso Criar um Jogo Roblox e Jogá-lo no Xbox-.html) |https://en.help.roblox.com/hc/pt-br/articles/205091994-Posso-Criar-um-Jogo-Roblox-e-Jog%C3%A1-lo-no-Xbox-
 [Termos de uso e Politica de Privacidade](./Termos de uso e Politica de Privacidade.html) |https://en.help.roblox.com/hc/pt-br/articles/205358110-Termos-de-uso-e-Politica-de-Privacidade-
