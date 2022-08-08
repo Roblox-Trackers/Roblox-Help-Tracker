@@ -14,8 +14,8 @@ Name|URL
 [蘋果 Mac：家長控制](./蘋果 Mac：家長控制.html) |https://en.help.roblox.com/hc/zh-tw/articles/203313010-%E8%98%8B%E6%9E%9C-Mac-%E5%AE%B6%E9%95%B7%E6%8E%A7%E5%88%B6
 [Mac：升級失敗訊息](./Mac：升級失敗訊息.html) |https://en.help.roblox.com/hc/zh-tw/articles/203313000-Mac-%E5%8D%87%E7%B4%9A%E5%A4%B1%E6%95%97%E8%A8%8A%E6%81%AF
 [電腦上的圖像問題](./電腦上的圖像問題.html) |https://en.help.roblox.com/hc/zh-tw/articles/203312790-%E9%9B%BB%E8%85%A6%E4%B8%8A%E7%9A%84%E5%9C%96%E5%83%8F%E5%95%8F%E9%A1%8C
-[我登錄了，但我在遊戲中以客人的身份出現](./我登錄了，但我在遊戲中以客人的身份出現.html) |https://en.help.roblox.com/hc/zh-tw/articles/205211416-%E6%88%91%E7%99%BB%E9%8C%84%E4%BA%86-%E4%BD%86%E6%88%91%E5%9C%A8%E9%81%8A%E6%88%B2%E4%B8%AD%E4%BB%A5%E5%AE%A2%E4%BA%BA%E7%9A%84%E8%BA%AB%E4%BB%BD%E5%87%BA%E7%8F%BE
+[我登入了，但我在體驗中以客人的身份出現](./我登入了，但我在體驗中以客人的身份出現.html) |https://en.help.roblox.com/hc/zh-tw/articles/205211416-%E6%88%91%E7%99%BB%E5%85%A5%E4%BA%86-%E4%BD%86%E6%88%91%E5%9C%A8%E9%AB%94%E9%A9%97%E4%B8%AD%E4%BB%A5%E5%AE%A2%E4%BA%BA%E7%9A%84%E8%BA%AB%E4%BB%BD%E5%87%BA%E7%8F%BE
 [無限“獲得最新的Roblox”循環](./無限“獲得最新的Roblox”循環.html) |https://en.help.roblox.com/hc/zh-tw/articles/203312940-%E7%84%A1%E9%99%90-%E7%8D%B2%E5%BE%97%E6%9C%80%E6%96%B0%E7%9A%84Roblox-%E5%BE%AA%E7%92%B0
-[Roblox啟動器插件](./Roblox啟動器插件.html) |https://en.help.roblox.com/hc/zh-tw/articles/203313020-Roblox%E5%95%9F%E5%8B%95%E5%99%A8%E6%8F%92%E4%BB%B6
+[Roblox 啟動器插件](./Roblox 啟動器插件.html) |https://en.help.roblox.com/hc/zh-tw/articles/203313020-Roblox-%E5%95%9F%E5%8B%95%E5%99%A8%E6%8F%92%E4%BB%B6
 [如果您的防病毒將Roblox標記時該如何處理](./如果您的防病毒將Roblox標記時該如何處理.html) |https://en.help.roblox.com/hc/zh-tw/articles/203313030-%E5%A6%82%E6%9E%9C%E6%82%A8%E7%9A%84%E9%98%B2%E7%97%85%E6%AF%92%E5%B0%87Roblox%E6%A8%99%E8%A8%98%E6%99%82%E8%A9%B2%E5%A6%82%E4%BD%95%E8%99%95%E7%90%86
 [重置時鐘或獲取URL失敗：Httpsendrequest failed,err=0x2f05](./重置時鐘或獲取URL失敗：Httpsendrequest failed,err=0x2f05.html) |https://en.help.roblox.com/hc/zh-tw/articles/203312830-%E9%87%8D%E7%BD%AE%E6%99%82%E9%90%98%E6%88%96%E7%8D%B2%E5%8F%96URL%E5%A4%B1%E6%95%97-Httpsendrequest-failed-err-0x2f05
