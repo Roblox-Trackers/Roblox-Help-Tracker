@@ -10,9 +10,9 @@ Name|URL
 [Edição e Teste no Studio (Modo de Edição)](./Edição e Teste no Studio (Modo de Edição).html) |https://en.help.roblox.com/hc/pt-br/articles/203313870-Edi%C3%A7%C3%A3o-e-Teste-no-Studio-Modo-de-Edi%C3%A7%C3%A3o-
 [Proibir a Cópia da sua Experiência](./Proibir a Cópia da sua Experiência.html) |https://en.help.roblox.com/hc/pt-br/articles/203313940-Proibir-a-C%C3%B3pia-da-sua-Experi%C3%AAncia
 [Como Publicar/Carregar um Lugar](./Como Publicar-Carregar um Lugar.html) |https://en.help.roblox.com/hc/pt-br/articles/203313890-Como-Publicar-Carregar-um-Lugar
-[Jogos de Grupo](./Jogos de Grupo.html) |https://en.help.roblox.com/hc/pt-br/articles/203313760-Jogos-de-Grupo
+[Experiências de Grupo](./Experiências de Grupo.html) |https://en.help.roblox.com/hc/pt-br/articles/203313760-Experi%C3%AAncias-de-Grupo
 [Criando e Fazendo Jogos Públicos](./Criando e Fazendo Jogos Públicos.html) |https://en.help.roblox.com/hc/pt-br/articles/203313950-Criando-e-Fazendo-Jogos-P%C3%BAblicos
-[Como posso ativar VIP/Servidores Privados nos meus jogos?](./Como posso ativar VIP-Servidores Privados nos meus jogos-.html) |https://en.help.roblox.com/hc/pt-br/articles/360000781023-Como-posso-ativar-VIP-Servidores-Privados-nos-meus-jogos-
+[Como posso ativar Servidores Privados/VIPs nas minhas experiências?](./Como posso ativar Servidores Privados-VIPs nas minhas experiências-.html) |https://en.help.roblox.com/hc/pt-br/articles/360000781023-Como-posso-ativar-Servidores-Privados-VIPs-nas-minhas-experi%C3%AAncias-
 [Como Copiar uma Experiência](./Como Copiar uma Experiência.html) |https://en.help.roblox.com/hc/pt-br/articles/203313900-Como-Copiar-uma-Experi%C3%AAncia
 [Como Reverter um Local Para Versões Anteriores?](./Como Reverter um Local Para Versões Anteriores-.html) |https://en.help.roblox.com/hc/pt-br/articles/203313850-Como-Reverter-um-Local-Para-Vers%C3%B5es-Anteriores-
 [Redefinir o Lugar Para um Modelo Inicial](./Redefinir o Lugar Para um Modelo Inicial.html) |https://en.help.roblox.com/hc/pt-br/articles/203313920-Redefinir-o-Lugar-Para-um-Modelo-Inicial

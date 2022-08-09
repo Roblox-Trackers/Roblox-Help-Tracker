@@ -9,4 +9,4 @@ Name|URL
 [Dispositivo Móvel: Visualizando Seu Inventário](./Dispositivo Móvel- Visualizando Seu Inventário.html) |https://en.help.roblox.com/hc/pt-br/articles/360000344426-Dispositivo-M%C3%B3vel-Visualizando-Seu-Invent%C3%A1rio
 [Dispositivo Móvel: Grupos](./Dispositivo Móvel- Grupos.html) |https://en.help.roblox.com/hc/pt-br/articles/203313490-Dispositivo-M%C3%B3vel-Grupos
 [Dispositivo Móvel: Pedidos de Amizade](./Dispositivo Móvel- Pedidos de Amizade.html) |https://en.help.roblox.com/hc/pt-br/articles/203313480-Dispositivo-M%C3%B3vel-Pedidos-de-Amizade
-[Dispositivo Móvel: Pesquisando e Navegando Por Jogos](./Dispositivo Móvel- Pesquisando e Navegando Por Jogos.html) |https://en.help.roblox.com/hc/pt-br/articles/203313460-Dispositivo-M%C3%B3vel-Pesquisando-e-Navegando-Por-Jogos
+[Dispositivo Móvel: Pesquisando e Navegando Por Experiências](./Dispositivo Móvel- Pesquisando e Navegando Por Experiências.html) |https://en.help.roblox.com/hc/pt-br/articles/203313460-Dispositivo-M%C3%B3vel-Pesquisando-e-Navegando-Por-Experi%C3%AAncias
