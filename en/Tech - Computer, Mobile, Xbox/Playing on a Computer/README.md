@@ -2,7 +2,6 @@
 ### Articles in this section
 Name|URL
 -|-
-[Troubleshooting Education Networks](./Troubleshooting Education Networks.html) |https://en.help.roblox.com/hc/en-us/articles/115005744663-Troubleshooting-Education-Networks
 [How to Install and Play Roblox Using Browser](./How to Install and Play Roblox Using Browser.html) |https://en.help.roblox.com/hc/en-us/articles/204473560-How-to-Install-and-Play-Roblox-Using-Browser
 [General Desktop Roblox Issues](./General Desktop Roblox Issues.html) |https://en.help.roblox.com/hc/en-us/articles/203312870-General-Desktop-Roblox-Issues
 [General Chat/Keyboard Issues on Computer](./General Chat-Keyboard Issues on Computer.html) |https://en.help.roblox.com/hc/en-us/articles/203313040-General-Chat-Keyboard-Issues-on-Computer
@@ -18,3 +17,4 @@ Name|URL
 [Roblox Launcher Plugin](./Roblox Launcher Plugin.html) |https://en.help.roblox.com/hc/en-us/articles/203313020-Roblox-Launcher-Plugin
 [What to Do If Your Anti-virus Has Flagged Roblox](./What to Do If Your Anti-virus Has Flagged Roblox.html) |https://en.help.roblox.com/hc/en-us/articles/203313030-What-to-Do-If-Your-Anti-virus-Has-Flagged-Roblox
 [Clock Reset or Failed to get URL: Httpsendrequest failed,err=0x2f05](./Clock Reset or Failed to get URL- Httpsendrequest failed,err=0x2f05.html) |https://en.help.roblox.com/hc/en-us/articles/203312830-Clock-Reset-or-Failed-to-get-URL-Httpsendrequest-failed-err-0x2f05
+[Troubleshooting Education Networks](./Troubleshooting Education Networks.html) |https://en.help.roblox.com/hc/en-us/articles/115005744663-Troubleshooting-Education-Networks

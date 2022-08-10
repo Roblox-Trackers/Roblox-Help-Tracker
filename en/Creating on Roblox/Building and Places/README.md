@@ -2,7 +2,6 @@
 ### Articles in this section
 Name|URL
 -|-
-[Configuring Your Place's Chat Style](./Configuring Your Place's Chat Style.html) |https://en.help.roblox.com/hc/en-us/articles/360019904552-Configuring-Your-Place-s-Chat-Style
 [Basic Place Settings: Name & Description](./Basic Place Settings- Name & Description.html) |https://en.help.roblox.com/hc/en-us/articles/203314030-Basic-Place-Settings-Name-Description
 [Social Media Links for Experiences](./Social Media Links for Experiences.html) |https://en.help.roblox.com/hc/en-us/articles/360000910966-Social-Media-Links-for-Experiences
 [Learn How to Build Experiences](./Learn How to Build Experiences.html) |https://en.help.roblox.com/hc/en-us/articles/203625344-Learn-How-to-Build-Experiences
@@ -20,6 +19,7 @@ Name|URL
 [Add Gear to Experience](./Add Gear to Experience.html) |https://en.help.roblox.com/hc/en-us/articles/203314050-Add-Gear-to-Experience
 [How Do I Make Experience Badges?](./How Do I Make Experience Badges-.html) |https://en.help.roblox.com/hc/en-us/articles/203313650-How-Do-I-Make-Experience-Badges-
 [How Do I Build with GUIs?](./How Do I Build with GUIs-.html) |https://en.help.roblox.com/hc/en-us/articles/203313960-How-Do-I-Build-with-GUIs-
+[Configuring Your Place's Chat Style](./Configuring Your Place's Chat Style.html) |https://en.help.roblox.com/hc/en-us/articles/360019904552-Configuring-Your-Place-s-Chat-Style
 [What Is This Infected Package on My Place?](./What Is This Infected Package on My Place-.html) |https://en.help.roblox.com/hc/en-us/articles/203312920-What-Is-This-Infected-Package-on-My-Place-
 [Roblox Developer Forum](./Roblox Developer Forum.html) |https://en.help.roblox.com/hc/en-us/articles/360000240223-Roblox-Developer-Forum
 [Using Licensed Music on Roblox](./Using Licensed Music on Roblox.html) |https://en.help.roblox.com/hc/en-us/articles/360000927163-Using-Licensed-Music-on-Roblox
