@@ -2,7 +2,6 @@
 ### Articles in this section
 Name|URL
 -|-
-[Roblox Beta App](./Roblox Beta App.html) |https://en.help.roblox.com/hc/zh-tw/articles/360054053812-Roblox-Beta-App
 [Roblox 體驗](./Roblox 體驗.html) |https://en.help.roblox.com/hc/zh-tw/articles/115004734603-Roblox-%E9%AB%94%E9%A9%97
 [聯絡體驗創作者尋求協助](./聯絡體驗創作者尋求協助.html) |https://en.help.roblox.com/hc/zh-tw/articles/6566665691924-%E8%81%AF%E7%B5%A1%E9%AB%94%E9%A9%97%E5%89%B5%E4%BD%9C%E8%80%85%E5%B0%8B%E6%B1%82%E5%8D%94%E5%8A%A9
 [電腦硬件和操作系統要求](./電腦硬件和操作系統要求.html) |https://en.help.roblox.com/hc/zh-tw/articles/203312800-%E9%9B%BB%E8%85%A6%E7%A1%AC%E4%BB%B6%E5%92%8C%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%B5%B1%E8%A6%81%E6%B1%82
@@ -19,6 +18,7 @@ Name|URL
 [測試伺服器](./測試伺服器.html) |https://en.help.roblox.com/hc/zh-tw/articles/203314170-%E6%B8%AC%E8%A9%A6%E4%BC%BA%E6%9C%8D%E5%99%A8
 [如何截圖？](./如何截圖？.html) |https://en.help.roblox.com/hc/zh-tw/articles/203314160-%E5%A6%82%E4%BD%95%E6%88%AA%E5%9C%96-
 [如何錄製影片](./如何錄製影片.html) |https://en.help.roblox.com/hc/zh-tw/articles/203314190-%E5%A6%82%E4%BD%95%E9%8C%84%E8%A3%BD%E5%BD%B1%E7%89%87
+[Roblox Beta App](./Roblox Beta App.html) |https://en.help.roblox.com/hc/zh-tw/articles/360054053812-Roblox-Beta-App
 [圖像品質](./圖像品質.html) |https://en.help.roblox.com/hc/zh-tw/articles/203314310-%E5%9C%96%E5%83%8F%E5%93%81%E8%B3%AA
 [如何減少延遲和加快體驗](./如何減少延遲和加快體驗.html) |https://en.help.roblox.com/hc/zh-tw/articles/203314150-%E5%A6%82%E4%BD%95%E6%B8%9B%E5%B0%91%E5%BB%B6%E9%81%B2%E5%92%8C%E5%8A%A0%E5%BF%AB%E9%AB%94%E9%A9%97
 [A|B 測試 - 為什麼只有某些玩家可以看到新功能？](./A-B 測試 - 為什麼只有某些玩家可以看到新功能？.html) |https://en.help.roblox.com/hc/zh-tw/articles/203312530-A-B-%E6%B8%AC%E8%A9%A6-%E7%82%BA%E4%BB%80%E9%BA%BC%E5%8F%AA%E6%9C%89%E6%9F%90%E4%BA%9B%E7%8E%A9%E5%AE%B6%E5%8F%AF%E4%BB%A5%E7%9C%8B%E5%88%B0%E6%96%B0%E5%8A%9F%E8%83%BD-
