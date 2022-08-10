@@ -2,6 +2,7 @@
 ### Articles in this section
 Name|URL
 -|-
+[グループ名の変更](./グループ名の変更.html) |https://en.help.roblox.com/hc/ja/articles/4414930974228-%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E5%90%8D%E3%81%AE%E5%A4%89%E6%9B%B4
 [グループを作成して参加する方法](./グループを作成して参加する方法.html) |https://en.help.roblox.com/hc/ja/articles/203313730-%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E3%82%92%E4%BD%9C%E6%88%90%E3%81%97%E3%81%A6%E5%8F%82%E5%8A%A0%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95
 [グループを退会する方法](./グループを退会する方法.html) |https://en.help.roblox.com/hc/ja/articles/203313790-%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E3%82%92%E9%80%80%E4%BC%9A%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95
 [プライマリーグループ](./プライマリーグループ.html) |https://en.help.roblox.com/hc/ja/articles/203313740-%E3%83%97%E3%83%A9%E3%82%A4%E3%83%9E%E3%83%AA%E3%83%BC%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97
