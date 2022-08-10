@@ -2,7 +2,6 @@
 ### Articles in this section
 Name|URL
 -|-
-[Roblox Beta-App](./Roblox Beta-App.html) |https://en.help.roblox.com/hc/de/articles/360054053812-Roblox-Beta-App
 [Erlebnisse auf Roblox](./Erlebnisse auf Roblox.html) |https://en.help.roblox.com/hc/de/articles/115004734603-Erlebnisse-auf-Roblox
 [Kontaktaufnahme mit den Erstellern eines Erlebnisses für Hilfe](./Kontaktaufnahme mit den Erstellern eines Erlebnisses für Hilfe.html) |https://en.help.roblox.com/hc/de/articles/6566665691924-Kontaktaufnahme-mit-den-Erstellern-eines-Erlebnisses-f%C3%BCr-Hilfe
 [Computer Hardware & Betriebssystemanforderungen](./Computer Hardware & Betriebssystemanforderungen.html) |https://en.help.roblox.com/hc/de/articles/203312800-Computer-Hardware-Betriebssystemanforderungen
@@ -19,6 +18,7 @@ Name|URL
 [Die Testserver](./Die Testserver.html) |https://en.help.roblox.com/hc/de/articles/203314170-Die-Testserver
 [Wie mache ich einen Screenshot?](./Wie mache ich einen Screenshot-.html) |https://en.help.roblox.com/hc/de/articles/203314160-Wie-mache-ich-einen-Screenshot-
 [Wie man Videos aufzeichnet](./Wie man Videos aufzeichnet.html) |https://en.help.roblox.com/hc/de/articles/203314190-Wie-man-Videos-aufzeichnet
+[Roblox Beta-App](./Roblox Beta-App.html) |https://en.help.roblox.com/hc/de/articles/360054053812-Roblox-Beta-App
 [Grafikqualität](./Grafikqualität.html) |https://en.help.roblox.com/hc/de/articles/203314310-Grafikqualit%C3%A4t
 [Wie man “Lag”(Verzögerungen) verringert und das Spiel beschleunigt](./Wie man “Lag”(Verzögerungen) verringert und das Spiel beschleunigt.html) |https://en.help.roblox.com/hc/de/articles/203314150-Wie-man-Lag-Verz%C3%B6gerungen-verringert-und-das-Spiel-beschleunigt
 [A|B Tests - Warum gibt es nur für bestimmte Spieler ein neues Feature?](./A-B Tests - Warum gibt es nur für bestimmte Spieler ein neues Feature-.html) |https://en.help.roblox.com/hc/de/articles/203312530-A-B-Tests-Warum-gibt-es-nur-f%C3%BCr-bestimmte-Spieler-ein-neues-Feature-

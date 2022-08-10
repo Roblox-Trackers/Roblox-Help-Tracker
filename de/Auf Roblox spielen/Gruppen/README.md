@@ -2,13 +2,14 @@
 ### Articles in this section
 Name|URL
 -|-
-[Gruppennamen ändern](./Gruppennamen ändern.html) |https://en.help.roblox.com/hc/de/articles/4414930974228-Gruppennamen-%C3%A4ndern
 [Wie man Gruppen erstellt und beitritt](./Wie man Gruppen erstellt und beitritt.html) |https://en.help.roblox.com/hc/de/articles/203313730-Wie-man-Gruppen-erstellt-und-beitritt
+[Mobile Geräte: Gruppen](./Mobile Geräte- Gruppen.html) |https://en.help.roblox.com/hc/de/articles/203313490-Mobile-Ger%C3%A4te-Gruppen
 [Wie man eine Gruppe verlässt](./Wie man eine Gruppe verlässt.html) |https://en.help.roblox.com/hc/de/articles/203313790-Wie-man-eine-Gruppe-verl%C3%A4sst-
 [Hauptgruppe](./Hauptgruppe.html) |https://en.help.roblox.com/hc/de/articles/203313740-Hauptgruppe
 [Wie man eine Gruppe verwaltet](./Wie man eine Gruppe verwaltet.html) |https://en.help.roblox.com/hc/de/articles/203313810-Wie-man-eine-Gruppe-verwaltet
 [Gruppenrollen / Ränge und Berechtigungen](./Gruppenrollen - Ränge und Berechtigungen.html) |https://en.help.roblox.com/hc/de/articles/203313770-Gruppenrollen-R%C3%A4nge-und-Berechtigungen
 [So hängen Sie ein Bild an eine Gruppe an](./So hängen Sie ein Bild an eine Gruppe an.html) |https://en.help.roblox.com/hc/de/articles/203313800-So-h%C3%A4ngen-Sie-ein-Bild-an-eine-Gruppe-an
+[Gruppennamen ändern](./Gruppennamen ändern.html) |https://en.help.roblox.com/hc/de/articles/4414930974228-Gruppennamen-%C3%A4ndern
 [Aktivität Ihrer Gruppe anzeigen (Gruppen Überwachungsprotokoll)](./Aktivität Ihrer Gruppe anzeigen (Gruppen Überwachungsprotokoll).html) |https://en.help.roblox.com/hc/de/articles/203313780-Aktivit%C3%A4t-Ihrer-Gruppe-anzeigen-Gruppen-%C3%9Cberwachungsprotokoll-
 [Wie man für eine Gruppe wirbt](./Wie man für eine Gruppe wirbt.html) |https://en.help.roblox.com/hc/de/articles/203313820-Wie-man-f%C3%BCr-eine-Gruppe-wirbt
 [Social Media Links zu Gruppenbeschreibungen](./Social Media Links zu Gruppenbeschreibungen.html) |https://en.help.roblox.com/hc/de/articles/360000910946-Social-Media-Links-zu-Gruppenbeschreibungen

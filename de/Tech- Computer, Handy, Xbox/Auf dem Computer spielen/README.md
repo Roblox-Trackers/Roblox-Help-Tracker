@@ -2,7 +2,6 @@
 ### Articles in this section
 Name|URL
 -|-
-[Schuladministrator-Verbindung Information](./Schuladministrator-Verbindung Information.html) |https://en.help.roblox.com/hc/de/articles/115005744663-Schuladministrator-Verbindung-Information
 [So installieren und spielen Sie Roblox mit dem Browser](./So installieren und spielen Sie Roblox mit dem Browser.html) |https://en.help.roblox.com/hc/de/articles/204473560-So-installieren-und-spielen-Sie-Roblox-mit-dem-Browser
 [Allgemeine Roblox-Computer-Probleme](./Allgemeine Roblox-Computer-Probleme.html) |https://en.help.roblox.com/hc/de/articles/203312870-Allgemeine-Roblox-Computer-Probleme
 [Allgemeine Chat- / Tastaturprobleme auf dem Computer](./Allgemeine Chat- - Tastaturprobleme auf dem Computer.html) |https://en.help.roblox.com/hc/de/articles/203313040-Allgemeine-Chat-Tastaturprobleme-auf-dem-Computer
@@ -19,3 +18,4 @@ Name|URL
 [Roblox Launcher Plugin](./Roblox Launcher Plugin.html) |https://en.help.roblox.com/hc/de/articles/203313020-Roblox-Launcher-Plugin
 [Was zu tun ist, wenn Ihr Anti-Virus Roblox markiert hat](./Was zu tun ist, wenn Ihr Anti-Virus Roblox markiert hat.html) |https://en.help.roblox.com/hc/de/articles/203313030-Was-zu-tun-ist-wenn-Ihr-Anti-Virus-Roblox-markiert-hat
 [Clock Reset oder Fehler beim Abrufen der URL: Httpsendrequest ist fehlgeschlagen, err = 0x2f05](./Clock Reset oder Fehler beim Abrufen der URL- Httpsendrequest ist fehlgeschlagen, err = 0x2f05.html) |https://en.help.roblox.com/hc/de/articles/203312830-Clock-Reset-oder-Fehler-beim-Abrufen-der-URL-Httpsendrequest-ist-fehlgeschlagen-err-0x2f05
+[Schuladministrator-Verbindung Information](./Schuladministrator-Verbindung Information.html) |https://en.help.roblox.com/hc/de/articles/115005744663-Schuladministrator-Verbindung-Information

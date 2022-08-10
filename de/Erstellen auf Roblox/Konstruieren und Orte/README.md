@@ -2,7 +2,6 @@
 ### Articles in this section
 Name|URL
 -|-
-[Konfigurierung des Chat-Stils Ihres Ortes](./Konfigurierung des Chat-Stils Ihres Ortes.html) |https://en.help.roblox.com/hc/de/articles/360019904552-Konfigurierung-des-Chat-Stils-Ihres-Ortes
 [Grundlegende Platz-Einstellungen: Name & Beschreibung](./Grundlegende Platz-Einstellungen- Name & Beschreibung.html) |https://en.help.roblox.com/hc/de/articles/203314030-Grundlegende-Platz-Einstellungen-Name-Beschreibung
 [Social-Media-Links zu Erlebnisbeschreibungen](./Social-Media-Links zu Erlebnisbeschreibungen.html) |https://en.help.roblox.com/hc/de/articles/360000910966-Social-Media-Links-zu-Erlebnisbeschreibungen
 [Hilfe zum Erstellen/Skripten und Anleitungen](./Hilfe zum Erstellen-Skripten und Anleitungen.html) |https://en.help.roblox.com/hc/de/articles/203625344-Hilfe-zum-Erstellen-Skripten-und-Anleitungen
@@ -19,6 +18,7 @@ Name|URL
 [Experimenteller Modus](./Experimenteller Modus.html) |https://en.help.roblox.com/hc/de/articles/115003766763-Experimenteller-Modus
 [Wie erstelle ich Abzeichen?](./Wie erstelle ich Abzeichen-.html) |https://en.help.roblox.com/hc/de/articles/203313650-Wie-erstelle-ich-Abzeichen-
 [Wie baue ich mit GUIs?](./Wie baue ich mit GUIs-.html) |https://en.help.roblox.com/hc/de/articles/203313960-Wie-baue-ich-mit-GUIs-
+[Konfigurierung des Chat-Stils Ihres Ortes](./Konfigurierung des Chat-Stils Ihres Ortes.html) |https://en.help.roblox.com/hc/de/articles/360019904552-Konfigurierung-des-Chat-Stils-Ihres-Ortes
 [Was sind diese infizierten Elemente die sich in meinem Ort befinden?](./Was sind diese infizierten Elemente die sich in meinem Ort befinden-.html) |https://en.help.roblox.com/hc/de/articles/203312920-Was-sind-diese-infizierten-Elemente-die-sich-in-meinem-Ort-befinden-
 [Roblox-Entwicklerforum](./Roblox-Entwicklerforum.html) |https://en.help.roblox.com/hc/de/articles/360000240223-Roblox-Entwicklerforum
 [Das Verwenden von lizenzierter Musik auf Roblox](./Das Verwenden von lizenzierter Musik auf Roblox.html) |https://en.help.roblox.com/hc/de/articles/360000927163-Das-Verwenden-von-lizenzierter-Musik-auf-Roblox
