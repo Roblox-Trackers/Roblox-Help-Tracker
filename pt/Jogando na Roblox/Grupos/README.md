@@ -2,13 +2,14 @@
 ### Articles in this section
 Name|URL
 -|-
-[Alterando Nome do Grupo](./Alterando Nome do Grupo.html) |https://en.help.roblox.com/hc/pt-br/articles/4414930974228-Alterando-Nome-do-Grupo
 [Como Fazer e Participar de Grupos](./Como Fazer e Participar de Grupos.html) |https://en.help.roblox.com/hc/pt-br/articles/203313730-Como-Fazer-e-Participar-de-Grupos
+[Dispositivo Móvel: Grupos](./Dispositivo Móvel- Grupos.html) |https://en.help.roblox.com/hc/pt-br/articles/203313490-Dispositivo-M%C3%B3vel-Grupos
 [Como Sair de um Grupo](./Como Sair de um Grupo.html) |https://en.help.roblox.com/hc/pt-br/articles/203313790-Como-Sair-de-um-Grupo
 [Grupo Primário](./Grupo Primário.html) |https://en.help.roblox.com/hc/pt-br/articles/203313740-Grupo-Prim%C3%A1rio
 [Como Gerenciar um Grupo](./Como Gerenciar um Grupo.html) |https://en.help.roblox.com/hc/pt-br/articles/203313810-Como-Gerenciar-um-Grupo
 [Funções/Classificações de Grupo e Permissões](./Funções-Classificações de Grupo e Permissões.html) |https://en.help.roblox.com/hc/pt-br/articles/203313770-Fun%C3%A7%C3%B5es-Classifica%C3%A7%C3%B5es-de-Grupo-e-Permiss%C3%B5es
 [Como Anexar Uma Imagem a um Grupo](./Como Anexar Uma Imagem a um Grupo.html) |https://en.help.roblox.com/hc/pt-br/articles/203313800-Como-Anexar-Uma-Imagem-a-um-Grupo
+[Alterando Nome do Grupo](./Alterando Nome do Grupo.html) |https://en.help.roblox.com/hc/pt-br/articles/4414930974228-Alterando-Nome-do-Grupo
 [Visualizando a Atividade do seu Grupo (Group Audit Log)](./Visualizando a Atividade do seu Grupo (Group Audit Log).html) |https://en.help.roblox.com/hc/pt-br/articles/203313780-Visualizando-a-Atividade-do-seu-Grupo-Group-Audit-Log-
 [Como Divulgar um Grupo](./Como Divulgar um Grupo.html) |https://en.help.roblox.com/hc/pt-br/articles/203313820-Como-Divulgar-um-Grupo
 [Links Sociais nas Descrições do Grupo](./Links Sociais nas Descrições do Grupo.html) |https://en.help.roblox.com/hc/pt-br/articles/360000910946-Links-Sociais-nas-Descri%C3%A7%C3%B5es-do-Grupo

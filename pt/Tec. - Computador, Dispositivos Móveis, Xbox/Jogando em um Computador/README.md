@@ -2,7 +2,6 @@
 ### Articles in this section
 Name|URL
 -|-
-[Solucionando Problemas de Redes Educacionais](./Solucionando Problemas de Redes Educacionais.html) |https://en.help.roblox.com/hc/pt-br/articles/115005744663-Solucionando-Problemas-de-Redes-Educacionais
 [Como Instalar e Jogar Roblox Usando o Navegador](./Como Instalar e Jogar Roblox Usando o Navegador.html) |https://en.help.roblox.com/hc/pt-br/articles/204473560-Como-Instalar-e-Jogar-Roblox-Usando-o-Navegador
 [Problemas Gerais do Roblox no Computador](./Problemas Gerais do Roblox no Computador.html) |https://en.help.roblox.com/hc/pt-br/articles/203312870-Problemas-Gerais-do-Roblox-no-Computador
 [Problemas gerais de bate-papo / teclado no computador](./Problemas gerais de bate-papo - teclado no computador.html) |https://en.help.roblox.com/hc/pt-br/articles/203313040-Problemas-gerais-de-bate-papo-teclado-no-computador
@@ -19,3 +18,4 @@ Name|URL
 [Plugin do Inicializador Roblox](./Plugin do Inicializador Roblox.html) |https://en.help.roblox.com/hc/pt-br/articles/203313020-Plugin-do-Inicializador-Roblox
 [O Que Fazer se o seu Anti-vírus Sinalizar a Roblox](./O Que Fazer se o seu Anti-vírus Sinalizar a Roblox.html) |https://en.help.roblox.com/hc/pt-br/articles/203313030-O-Que-Fazer-se-o-seu-Anti-v%C3%ADrus-Sinalizar-a-Roblox
 [Reset de Relógio ou falha ao obter o URL: falha de solicitação de HTTP, erro = 0x2f05](./Reset de Relógio ou falha ao obter o URL- falha de solicitação de HTTP, erro = 0x2f05.html) |https://en.help.roblox.com/hc/pt-br/articles/203312830-Reset-de-Rel%C3%B3gio-ou-falha-ao-obter-o-URL-falha-de-solicita%C3%A7%C3%A3o-de-HTTP-erro-0x2f05
+[Solucionando Problemas de Redes Educacionais](./Solucionando Problemas de Redes Educacionais.html) |https://en.help.roblox.com/hc/pt-br/articles/115005744663-Solucionando-Problemas-de-Redes-Educacionais

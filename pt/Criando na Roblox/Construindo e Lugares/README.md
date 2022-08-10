@@ -2,7 +2,6 @@
 ### Articles in this section
 Name|URL
 -|-
-[Configurando o Estilo do Chat do Seu Local](./Configurando o Estilo do Chat do Seu Local.html) |https://en.help.roblox.com/hc/pt-br/articles/360019904552-Configurando-o-Estilo-do-Chat-do-Seu-Local
 [Configurações Básicas do Local: Nome e Descrição](./Configurações Básicas do Local- Nome e Descrição.html) |https://en.help.roblox.com/hc/pt-br/articles/203314030-Configura%C3%A7%C3%B5es-B%C3%A1sicas-do-Local-Nome-e-Descri%C3%A7%C3%A3o
 [Links de Mídia Social para Experiências](./Links de Mídia Social para Experiências.html) |https://en.help.roblox.com/hc/pt-br/articles/360000910966-Links-de-M%C3%ADdia-Social-para-Experi%C3%AAncias
 [Aprenda a Construir Experiências](./Aprenda a Construir Experiências.html) |https://en.help.roblox.com/hc/pt-br/articles/203625344-Aprenda-a-Construir-Experi%C3%AAncias
@@ -20,6 +19,7 @@ Name|URL
 [Adicionar Equipamento a Experiência](./Adicionar Equipamento a Experiência.html) |https://en.help.roblox.com/hc/pt-br/articles/203314050-Adicionar-Equipamento-a-Experi%C3%AAncia
 [Como Eu Faço Emblemas de Experiências?](./Como Eu Faço Emblemas de Experiências-.html) |https://en.help.roblox.com/hc/pt-br/articles/203313650-Como-Eu-Fa%C3%A7o-Emblemas-de-Experi%C3%AAncias-
 [Como Construo com GUIs?](./Como Construo com GUIs-.html) |https://en.help.roblox.com/hc/pt-br/articles/203313960-Como-Construo-com-GUIs-
+[Configurando o Estilo do Chat do Seu Local](./Configurando o Estilo do Chat do Seu Local.html) |https://en.help.roblox.com/hc/pt-br/articles/360019904552-Configurando-o-Estilo-do-Chat-do-Seu-Local
 [O Que É Este Modelo Infectado no Meu Lugar?](./O Que É Este Modelo Infectado no Meu Lugar-.html) |https://en.help.roblox.com/hc/pt-br/articles/203312920-O-Que-%C3%89-Este-Modelo-Infectado-no-Meu-Lugar-
 [Fórum de Desenvolvedores Roblox](./Fórum de Desenvolvedores Roblox.html) |https://en.help.roblox.com/hc/pt-br/articles/360000240223-F%C3%B3rum-de-Desenvolvedores-Roblox
 [Usando Música Licenciada no Roblox](./Usando Música Licenciada no Roblox.html) |https://en.help.roblox.com/hc/pt-br/articles/360000927163-Usando-M%C3%BAsica-Licenciada-no-Roblox
