@@ -2,7 +2,6 @@
 ### Articles in this section
 Name|URL
 -|-
-[Risoluzione dei problemi relativi alle reti educative](./Risoluzione dei problemi relativi alle reti educative.html) |https://en.help.roblox.com/hc/it/articles/115005744663-Risoluzione-dei-problemi-relativi-alle-reti-educative
 [Come installare e giocare a Roblox utilizzando il browser](./Come installare e giocare a Roblox utilizzando il browser.html) |https://en.help.roblox.com/hc/it/articles/204473560-Come-installare-e-giocare-a-Roblox-utilizzando-il-browser
 [Problemi generali di Roblox sul desktop](./Problemi generali di Roblox sul desktop.html) |https://en.help.roblox.com/hc/it/articles/203312870-Problemi-generali-di-Roblox-sul-desktop
 [Problemi generali di chat/tastiera sul computer](./Problemi generali di chat-tastiera sul computer.html) |https://en.help.roblox.com/hc/it/articles/203313040-Problemi-generali-di-chat-tastiera-sul-computer
@@ -19,3 +18,4 @@ Name|URL
 [Plugin del lancio di Roblox](./Plugin del lancio di Roblox.html) |https://en.help.roblox.com/hc/it/articles/203313020-Plugin-del-lancio-di-Roblox
 [Cosa fare se l'antivirus ha segnalato Roblox](./Cosa fare se l'antivirus ha segnalato Roblox.html) |https://en.help.roblox.com/hc/it/articles/203313030-Cosa-fare-se-l-antivirus-ha-segnalato-Roblox
 [Reimpostazione dell'orologio o impossibile ottenere l'URL: Httpsendrequest failed,err=0x2f05](./Reimpostazione dell'orologio o impossibile ottenere l'URL- Httpsendrequest failed,err=0x2f05.html) |https://en.help.roblox.com/hc/it/articles/203312830-Reimpostazione-dell-orologio-o-impossibile-ottenere-l-URL-Httpsendrequest-failed-err-0x2f05
+[Risoluzione dei problemi relativi alle reti educative](./Risoluzione dei problemi relativi alle reti educative.html) |https://en.help.roblox.com/hc/it/articles/115005744663-Risoluzione-dei-problemi-relativi-alle-reti-educative
