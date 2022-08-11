@@ -2,7 +2,6 @@
 ### Articles in this section
 Name|URL
 -|-
-[Application bêta Roblox](./Application bêta Roblox.html) |https://en.help.roblox.com/hc/fr/articles/360054053812-Application-b%C3%AAta-Roblox
 [Expériences sur Roblox](./Expériences sur Roblox.html) |https://en.help.roblox.com/hc/fr/articles/115004734603-Exp%C3%A9riences-sur-Roblox
 [Contactez un développeur de jeux pour obtenir de l'aide](./Contactez un développeur de jeux pour obtenir de l'aide.html) |https://en.help.roblox.com/hc/fr/articles/6566665691924-Contactez-un-d%C3%A9veloppeur-de-jeux-pour-obtenir-de-l-aide
 [Configuration requise du matériel informatique et du système d'exploitation](./Configuration requise du matériel informatique et du système d'exploitation.html) |https://en.help.roblox.com/hc/fr/articles/203312800-Configuration-requise-du-mat%C3%A9riel-informatique-et-du-syst%C3%A8me-d-exploitation
@@ -19,6 +18,7 @@ Name|URL
 [Les serveurs de test](./Les serveurs de test.html) |https://en.help.roblox.com/hc/fr/articles/203314170-Les-serveurs-de-test
 [Comment Faire une Capture d’Écran ?](./Comment Faire une Capture d’Écran -.html) |https://en.help.roblox.com/hc/fr/articles/203314160-Comment-Faire-une-Capture-d-%C3%89cran-
 [Comment enregistrer des vidéos](./Comment enregistrer des vidéos.html) |https://en.help.roblox.com/hc/fr/articles/203314190-Comment-enregistrer-des-vid%C3%A9os
+[Application bêta Roblox](./Application bêta Roblox.html) |https://en.help.roblox.com/hc/fr/articles/360054053812-Application-b%C3%AAta-Roblox
 [La qualité graphique](./La qualité graphique.html) |https://en.help.roblox.com/hc/fr/articles/203314310-La-qualit%C3%A9-graphique
 [Comment Réduire le Décalage et Optimiser la Vitesse](./Comment Réduire le Décalage et Optimiser la Vitesse.html) |https://en.help.roblox.com/hc/fr/articles/203314150-Comment-R%C3%A9duire-le-D%C3%A9calage-et-Optimiser-la-Vitesse
 [Tests A|B - Pourquoi y a-t-il une nouvelle fonctionnalité visible seulement pour certains joueurs ?](./Tests A-B - Pourquoi y a-t-il une nouvelle fonctionnalité visible seulement pour certains joueurs -.html) |https://en.help.roblox.com/hc/fr/articles/203312530-Tests-A-B-Pourquoi-y-a-t-il-une-nouvelle-fonctionnalit%C3%A9-visible-seulement-pour-certains-joueurs-

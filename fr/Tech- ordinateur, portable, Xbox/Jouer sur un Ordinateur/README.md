@@ -2,7 +2,6 @@
 ### Articles in this section
 Name|URL
 -|-
-[Informations de connexion de l'administrateur scolaire](./Informations de connexion de l'administrateur scolaire.html) |https://en.help.roblox.com/hc/fr/articles/115005744663-Informations-de-connexion-de-l-administrateur-scolaire
 [Comment installer et jouer Roblox à l'aide du navigateur](./Comment installer et jouer Roblox à l'aide du navigateur.html) |https://en.help.roblox.com/hc/fr/articles/204473560-Comment-installer-et-jouer-Roblox-%C3%A0-l-aide-du-navigateur
 [Problèmes généraux liés à la version de bureau de Roblox](./Problèmes généraux liés à la version de bureau de Roblox.html) |https://en.help.roblox.com/hc/fr/articles/203312870-Probl%C3%A8mes-g%C3%A9n%C3%A9raux-li%C3%A9s-%C3%A0-la-version-de-bureau-de-Roblox
 [Questions Générales Concernant le Chat / le Clavier sur un Ordinateur](./Questions Générales Concernant le Chat - le Clavier sur un Ordinateur.html) |https://en.help.roblox.com/hc/fr/articles/203313040-Questions-G%C3%A9n%C3%A9rales-Concernant-le-Chat-le-Clavier-sur-un-Ordinateur
@@ -19,3 +18,4 @@ Name|URL
 [Roblox Launcher Plugin](./Roblox Launcher Plugin.html) |https://en.help.roblox.com/hc/fr/articles/203313020-Roblox-Launcher-Plugin
 [Que faire si votre antivirus a signalé Roblox](./Que faire si votre antivirus a signalé Roblox.html) |https://en.help.roblox.com/hc/fr/articles/203313030-Que-faire-si-votre-antivirus-a-signal%C3%A9-Roblox
 [Réinitialisation de l'horloge ou N'a pas réussi à obtenir l’URL: Httpsendrequest failed,err=0x2f05](./Réinitialisation de l'horloge ou N'a pas réussi à obtenir l’URL- Httpsendrequest failed,err=0x2f05.html) |https://en.help.roblox.com/hc/fr/articles/203312830-R%C3%A9initialisation-de-l-horloge-ou-N-a-pas-r%C3%A9ussi-%C3%A0-obtenir-l-URL-Httpsendrequest-failed-err-0x2f05
+[Informations de connexion de l'administrateur scolaire](./Informations de connexion de l'administrateur scolaire.html) |https://en.help.roblox.com/hc/fr/articles/115005744663-Informations-de-connexion-de-l-administrateur-scolaire

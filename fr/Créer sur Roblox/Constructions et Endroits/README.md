@@ -2,7 +2,6 @@
 ### Articles in this section
 Name|URL
 -|-
-[Configuration du style de conversation de votre Lieu](./Configuration du style de conversation de votre Lieu.html) |https://en.help.roblox.com/hc/fr/articles/360019904552-Configuration-du-style-de-conversation-de-votre-Lieu
 [Réglages de base de la Place : Nom et description](./Réglages de base de la Place - Nom et description.html) |https://en.help.roblox.com/hc/fr/articles/203314030-R%C3%A9glages-de-base-de-la-Place-Nom-et-description
 [Liens vers les médias sociaux dans les descriptions des expériences](./Liens vers les médias sociaux dans les descriptions des expériences.html) |https://en.help.roblox.com/hc/fr/articles/360000910966-Liens-vers-les-m%C3%A9dias-sociaux-dans-les-descriptions-des-exp%C3%A9riences
 [Aide et Tutoriels pour la Création de Scripts](./Aide et Tutoriels pour la Création de Scripts.html) |https://en.help.roblox.com/hc/fr/articles/203625344-Aide-et-Tutoriels-pour-la-Cr%C3%A9ation-de-Scripts
@@ -19,6 +18,7 @@ Name|URL
 [Mode expérimental](./Mode expérimental.html) |https://en.help.roblox.com/hc/fr/articles/115003766763-Mode-exp%C3%A9rimental
 [Comment puis-je créer des badges de jeu?](./Comment puis-je créer des badges de jeu-.html) |https://en.help.roblox.com/hc/fr/articles/203313650-Comment-puis-je-cr%C3%A9er-des-badges-de-jeu-
 [Comment construire avec des interfaces graphiques ?](./Comment construire avec des interfaces graphiques -.html) |https://en.help.roblox.com/hc/fr/articles/203313960-Comment-construire-avec-des-interfaces-graphiques-
+[Configuration du style de conversation de votre Lieu](./Configuration du style de conversation de votre Lieu.html) |https://en.help.roblox.com/hc/fr/articles/360019904552-Configuration-du-style-de-conversation-de-votre-Lieu
 [Qu'est-ce que ce paquet compromis sur mon Emplacement ?](./Qu'est-ce que ce paquet compromis sur mon Emplacement -.html) |https://en.help.roblox.com/hc/fr/articles/203312920-Qu-est-ce-que-ce-paquet-compromis-sur-mon-Emplacement-
 [Le Forum des Développeurs Roblox](./Le Forum des Développeurs Roblox.html) |https://en.help.roblox.com/hc/fr/articles/360000240223-Le-Forum-des-D%C3%A9veloppeurs-Roblox
 [Utilisation de la musique sous licence sur Roblox](./Utilisation de la musique sous licence sur Roblox.html) |https://en.help.roblox.com/hc/fr/articles/360000927163-Utilisation-de-la-musique-sous-licence-sur-Roblox
