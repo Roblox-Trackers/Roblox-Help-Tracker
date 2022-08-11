@@ -2,7 +2,6 @@
 ### Articles in this section
 Name|URL
 -|-
-[故障排除教育网络](./故障排除教育网络.html) |https://en.help.roblox.com/hc/zh-cn/articles/115005744663-%E6%95%85%E9%9A%9C%E6%8E%92%E9%99%A4%E6%95%99%E8%82%B2%E7%BD%91%E7%BB%9C
 [如何使用浏览器安装和播放 Roblox](./如何使用浏览器安装和播放 Roblox.html) |https://en.help.roblox.com/hc/zh-cn/articles/204473560-%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E6%B5%8F%E8%A7%88%E5%99%A8%E5%AE%89%E8%A3%85%E5%92%8C%E6%92%AD%E6%94%BE-Roblox
 [Roblox 一般桌面的问题](./Roblox 一般桌面的问题.html) |https://en.help.roblox.com/hc/zh-cn/articles/203312870-Roblox-%E4%B8%80%E8%88%AC%E6%A1%8C%E9%9D%A2%E7%9A%84%E9%97%AE%E9%A2%98
 [电脑上的一般聊天/键盘问题](./电脑上的一般聊天-键盘问题.html) |https://en.help.roblox.com/hc/zh-cn/articles/203313040-%E7%94%B5%E8%84%91%E4%B8%8A%E7%9A%84%E4%B8%80%E8%88%AC%E8%81%8A%E5%A4%A9-%E9%94%AE%E7%9B%98%E9%97%AE%E9%A2%98
@@ -19,3 +18,4 @@ Name|URL
 [Roblox 启动器插件](./Roblox 启动器插件.html) |https://en.help.roblox.com/hc/zh-cn/articles/203313020-Roblox-%E5%90%AF%E5%8A%A8%E5%99%A8%E6%8F%92%E4%BB%B6
 [如果您的防病毒将Roblox标记时该如何处理](./如果您的防病毒将Roblox标记时该如何处理.html) |https://en.help.roblox.com/hc/zh-cn/articles/203313030-%E5%A6%82%E6%9E%9C%E6%82%A8%E7%9A%84%E9%98%B2%E7%97%85%E6%AF%92%E5%B0%86Roblox%E6%A0%87%E8%AE%B0%E6%97%B6%E8%AF%A5%E5%A6%82%E4%BD%95%E5%A4%84%E7%90%86
 [重置时钟或获取URL失败：Httpsendrequest failed,err=0x2f05](./重置时钟或获取URL失败：Httpsendrequest failed,err=0x2f05.html) |https://en.help.roblox.com/hc/zh-cn/articles/203312830-%E9%87%8D%E7%BD%AE%E6%97%B6%E9%92%9F%E6%88%96%E8%8E%B7%E5%8F%96URL%E5%A4%B1%E8%B4%A5-Httpsendrequest-failed-err-0x2f05
+[故障排除教育网络](./故障排除教育网络.html) |https://en.help.roblox.com/hc/zh-cn/articles/115005744663-%E6%95%85%E9%9A%9C%E6%8E%92%E9%99%A4%E6%95%99%E8%82%B2%E7%BD%91%E7%BB%9C

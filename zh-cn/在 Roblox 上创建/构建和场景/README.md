@@ -2,7 +2,6 @@
 ### Articles in this section
 Name|URL
 -|-
-[配置你的场景的聊天风格](./配置你的场景的聊天风格.html) |https://en.help.roblox.com/hc/zh-cn/articles/360019904552-%E9%85%8D%E7%BD%AE%E4%BD%A0%E7%9A%84%E5%9C%BA%E6%99%AF%E7%9A%84%E8%81%8A%E5%A4%A9%E9%A3%8E%E6%A0%BC
 [基本场景设置：名称和说明](./基本场景设置：名称和说明.html) |https://en.help.roblox.com/hc/zh-cn/articles/203314030-%E5%9F%BA%E6%9C%AC%E5%9C%BA%E6%99%AF%E8%AE%BE%E7%BD%AE-%E5%90%8D%E7%A7%B0%E5%92%8C%E8%AF%B4%E6%98%8E
 [作品的社交媒体链接](./作品的社交媒体链接.html) |https://en.help.roblox.com/hc/zh-cn/articles/360000910966-%E4%BD%9C%E5%93%81%E7%9A%84%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93%E9%93%BE%E6%8E%A5
 [学习如何建造作品](./学习如何建造作品.html) |https://en.help.roblox.com/hc/zh-cn/articles/203625344-%E5%AD%A6%E4%B9%A0%E5%A6%82%E4%BD%95%E5%BB%BA%E9%80%A0%E4%BD%9C%E5%93%81
@@ -20,6 +19,7 @@ Name|URL
 [将装备添加到作品中](./将装备添加到作品中.html) |https://en.help.roblox.com/hc/zh-cn/articles/203314050-%E5%B0%86%E8%A3%85%E5%A4%87%E6%B7%BB%E5%8A%A0%E5%88%B0%E4%BD%9C%E5%93%81%E4%B8%AD
 [如何制作作品徽章？](./如何制作作品徽章？.html) |https://en.help.roblox.com/hc/zh-cn/articles/203313650-%E5%A6%82%E4%BD%95%E5%88%B6%E4%BD%9C%E4%BD%9C%E5%93%81%E5%BE%BD%E7%AB%A0-
 [如何使用 GUI 构建？](./如何使用 GUI 构建？.html) |https://en.help.roblox.com/hc/zh-cn/articles/203313960-%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8-GUI-%E6%9E%84%E5%BB%BA-
+[配置你的场景的聊天风格](./配置你的场景的聊天风格.html) |https://en.help.roblox.com/hc/zh-cn/articles/360019904552-%E9%85%8D%E7%BD%AE%E4%BD%A0%E7%9A%84%E5%9C%BA%E6%99%AF%E7%9A%84%E8%81%8A%E5%A4%A9%E9%A3%8E%E6%A0%BC
 [我的场景有个被感染的套件，那是什么？](./我的场景有个被感染的套件，那是什么？.html) |https://en.help.roblox.com/hc/zh-cn/articles/203312920-%E6%88%91%E7%9A%84%E5%9C%BA%E6%99%AF%E6%9C%89%E4%B8%AA%E8%A2%AB%E6%84%9F%E6%9F%93%E7%9A%84%E5%A5%97%E4%BB%B6-%E9%82%A3%E6%98%AF%E4%BB%80%E4%B9%88-
 [Roblox 开发者论坛](./Roblox 开发者论坛.html) |https://en.help.roblox.com/hc/zh-cn/articles/360000240223-Roblox-%E5%BC%80%E5%8F%91%E8%80%85%E8%AE%BA%E5%9D%9B
 [在 Roblox 上使用授权音乐](./在 Roblox 上使用授权音乐.html) |https://en.help.roblox.com/hc/zh-cn/articles/360000927163-%E5%9C%A8-Roblox-%E4%B8%8A%E4%BD%BF%E7%94%A8%E6%8E%88%E6%9D%83%E9%9F%B3%E4%B9%90
