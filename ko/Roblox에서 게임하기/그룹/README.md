@@ -3,6 +3,7 @@
 Name|URL
 -|-
 [그룹을 만들고 가입하는 방법](./그룹을 만들고 가입하는 방법.html) |https://en.help.roblox.com/hc/ko/articles/203313730-%EA%B7%B8%EB%A3%B9%EC%9D%84-%EB%A7%8C%EB%93%A4%EA%B3%A0-%EA%B0%80%EC%9E%85%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95
+[모바일: 그룹](./모바일- 그룹.html) |https://en.help.roblox.com/hc/ko/articles/203313490-%EB%AA%A8%EB%B0%94%EC%9D%BC-%EA%B7%B8%EB%A3%B9
 [그룹에서 탈퇴하는 법](./그룹에서 탈퇴하는 법.html) |https://en.help.roblox.com/hc/ko/articles/203313790-%EA%B7%B8%EB%A3%B9%EC%97%90%EC%84%9C-%ED%83%88%ED%87%B4%ED%95%98%EB%8A%94-%EB%B2%95
 [주요 그룹](./주요 그룹.html) |https://en.help.roblox.com/hc/ko/articles/203313740-%EC%A3%BC%EC%9A%94-%EA%B7%B8%EB%A3%B9
 [그룹 관리 방법](./그룹 관리 방법.html) |https://en.help.roblox.com/hc/ko/articles/203313810-%EA%B7%B8%EB%A3%B9-%EA%B4%80%EB%A6%AC-%EB%B0%A9%EB%B2%95
