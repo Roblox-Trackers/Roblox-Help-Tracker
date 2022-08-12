@@ -1,0 +1,13 @@
+# Создание, покупка и продажа предметов опыта  
+### Articles in this section
+Name|URL
+-|-
+[Библиотека](./Библиотека.html) |https://en.help.roblox.com/hc/ru/articles/206580683-%D0%91%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0
+[Пропуска на опыт](./Пропуска на опыт.html) |https://en.help.roblox.com/hc/ru/articles/203314040-%D0%9F%D1%80%D0%BE%D0%BF%D1%83%D1%81%D0%BA%D0%B0-%D0%BD%D0%B0-%D0%BE%D0%BF%D1%8B%D1%82
+[Как сделать наклейки](./Как сделать наклейки.html) |https://en.help.roblox.com/hc/ru/articles/203313930-%D0%9A%D0%B0%D0%BA-%D1%81%D0%B4%D0%B5%D0%BB%D0%B0%D1%82%D1%8C-%D0%BD%D0%B0%D0%BA%D0%BB%D0%B5%D0%B9%D0%BA%D0%B8
+[Как создать комплект](./Как создать комплект.html) |https://en.help.roblox.com/hc/ru/articles/203313910-%D0%9A%D0%B0%D0%BA-%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C-%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%82
+[Продажа игрового доступа (платный доступ)](./Продажа игрового доступа (платный доступ).html) |https://en.help.roblox.com/hc/ru/articles/203314090-%D0%9F%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B0-%D0%B8%D0%B3%D1%80%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE-%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%B0-%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D1%8B%D0%B9-%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF-
+[Как архивировать активы и игры?](./Как архивировать активы и игры-.html) |https://en.help.roblox.com/hc/ru/articles/360031253052-%D0%9A%D0%B0%D0%BA-%D0%B0%D1%80%D1%85%D0%B8%D0%B2%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-%D0%B0%D0%BA%D1%82%D0%B8%D0%B2%D1%8B-%D0%B8-%D0%B8%D0%B3%D1%80%D1%8B-
+[Как мне отредактировать или продать сетку из каталога?](./Как мне отредактировать или продать сетку из каталога-.html) |https://en.help.roblox.com/hc/ru/articles/203313250-%D0%9A%D0%B0%D0%BA-%D0%BC%D0%BD%D0%B5-%D0%BE%D1%82%D1%80%D0%B5%D0%B4%D0%B0%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-%D0%B8%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D1%82%D1%8C-%D1%81%D0%B5%D1%82%D0%BA%D1%83-%D0%B8%D0%B7-%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3%D0%B0-
+[Аудио файлы](./Аудио файлы.html) |https://en.help.roblox.com/hc/ru/articles/203314070-%D0%90%D1%83%D0%B4%D0%B8%D0%BE-%D1%84%D0%B0%D0%B9%D0%BB%D1%8B
+[Как сделать элемент общедоступным?](./Как сделать элемент общедоступным-.html) |https://en.help.roblox.com/hc/ru/articles/203313230-%D0%9A%D0%B0%D0%BA-%D1%81%D0%B4%D0%B5%D0%BB%D0%B0%D1%82%D1%8C-%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82-%D0%BE%D0%B1%D1%89%D0%B5%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%BD%D1%8B%D0%BC-
