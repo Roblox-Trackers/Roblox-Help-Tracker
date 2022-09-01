@@ -6,3 +6,4 @@ Name|URL
 [Ich habe gerade etwas gekauft. Wo ist es?](./Ich habe gerade etwas gekauft. Wo ist es-.html) |https://en.help.roblox.com/hc/de/articles/360000230723-Ich-habe-gerade-etwas-gekauft-Wo-ist-es-
 [Welche Zahlungsarten, akzeptieren Sie?](./Welche Zahlungsarten, akzeptieren Sie-.html) |https://en.help.roblox.com/hc/de/articles/203312580-Welche-Zahlungsarten-akzeptieren-Sie-
 [Welche Währungen akzeptiert Roblox?](./Welche Währungen akzeptiert Roblox-.html) |https://en.help.roblox.com/hc/de/articles/203312600-Welche-W%C3%A4hrungen-akzeptiert-Roblox-
+[So finden Sie Ihre Kaufbelege](./So finden Sie Ihre Kaufbelege.html) |https://en.help.roblox.com/hc/de/articles/6852905161876-So-finden-Sie-Ihre-Kaufbelege

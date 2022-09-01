@@ -7,3 +7,4 @@ Name|URL
 [Xbox One App: Anpassen deines Avatars](./Xbox One App- Anpassen deines Avatars.html) |https://en.help.roblox.com/hc/de/articles/205557353-Xbox-One-App-Anpassen-deines-Avatars
 [Wie mache ich meinen Avatar weiblich oder männlich](./Wie mache ich meinen Avatar weiblich oder männlich.html) |https://en.help.roblox.com/hc/de/articles/203313700-Wie-mache-ich-meinen-Avatar-weiblich-oder-m%C3%A4nnlich
 [Browser: Kleidereigenschaften](./Browser- Kleidereigenschaften.html) |https://en.help.roblox.com/hc/de/articles/203313710-Browser-Kleidereigenschaften
+[Anzeigen oder Ausblenden Ihres Inventars auf der Website](./Anzeigen oder Ausblenden Ihres Inventars auf der Website.html) |https://en.help.roblox.com/hc/de/articles/360000463726-Anzeigen-oder-Ausblenden-Ihres-Inventars-auf-der-Website
