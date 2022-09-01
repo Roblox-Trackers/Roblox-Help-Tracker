@@ -15,7 +15,6 @@ Name|URL
 [如何複製體驗](./如何複製體驗.html) |https://en.help.roblox.com/hc/zh-tw/articles/203313900-%E5%A6%82%E4%BD%95%E8%A4%87%E8%A3%BD%E9%AB%94%E9%A9%97
 [如何恢復舊版本的地點](./如何恢復舊版本的地點.html) |https://en.help.roblox.com/hc/zh-tw/articles/203313850-%E5%A6%82%E4%BD%95%E6%81%A2%E5%BE%A9%E8%88%8A%E7%89%88%E6%9C%AC%E7%9A%84%E5%9C%B0%E9%BB%9E
 [將地點重置到初始樣板](./將地點重置到初始樣板.html) |https://en.help.roblox.com/hc/zh-tw/articles/203313920-%E5%B0%87%E5%9C%B0%E9%BB%9E%E9%87%8D%E7%BD%AE%E5%88%B0%E5%88%9D%E5%A7%8B%E6%A8%A3%E6%9D%BF
-[實驗模式](./實驗模式.html) |https://en.help.roblox.com/hc/zh-tw/articles/115003766763-%E5%AF%A6%E9%A9%97%E6%A8%A1%E5%BC%8F
 [將裝備新增到體驗中](./將裝備新增到體驗中.html) |https://en.help.roblox.com/hc/zh-tw/articles/203314050-%E5%B0%87%E8%A3%9D%E5%82%99%E6%96%B0%E5%A2%9E%E5%88%B0%E9%AB%94%E9%A9%97%E4%B8%AD
 [如何製作體驗徽章？](./如何製作體驗徽章？.html) |https://en.help.roblox.com/hc/zh-tw/articles/203313650-%E5%A6%82%E4%BD%95%E8%A3%BD%E4%BD%9C%E9%AB%94%E9%A9%97%E5%BE%BD%E7%AB%A0-
 [如何使用 GUI 建造？](./如何使用 GUI 建造？.html) |https://en.help.roblox.com/hc/zh-tw/articles/203313960-%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8-GUI-%E5%BB%BA%E9%80%A0-
