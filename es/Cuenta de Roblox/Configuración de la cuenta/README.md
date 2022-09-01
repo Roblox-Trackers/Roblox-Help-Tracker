@@ -11,6 +11,7 @@ Name|URL
 [¿Cómo cambio mi correo electrónico?](./¿Cómo cambio mi correo electrónico-.html) |https://en.help.roblox.com/hc/es/articles/360000229603--C%C3%B3mo-cambio-mi-correo-electr%C3%B3nico-
 [¿Cómo agrego o cambio mi número de teléfono?](./¿Cómo agrego o cambio mi número de teléfono-.html) |https://en.help.roblox.com/hc/es/articles/115004804623--C%C3%B3mo-agrego-o-cambio-mi-n%C3%BAmero-de-tel%C3%A9fono-
 [Cambiar el idioma o el país de su cuenta](./Cambiar el idioma o el país de su cuenta.html) |https://en.help.roblox.com/hc/es/articles/360001216486-Cambiar-el-idioma-o-el-pa%C3%ADs-de-su-cuenta
+[Cambio de su nombre para mostrar](./Cambio de su nombre para mostrar.html) |https://en.help.roblox.com/hc/es/articles/4401938870292-Cambio-de-su-nombre-para-mostrar
 [Verificación de identificación de edad](./Verificación de identificación de edad.html) |https://en.help.roblox.com/hc/es/articles/4407282410644-Verificaci%C3%B3n-de-identificaci%C3%B3n-de-edad
 [Preguntas frecuentes sobre la verificación de identificación de edad](./Preguntas frecuentes sobre la verificación de identificación de edad.html) |https://en.help.roblox.com/hc/es/articles/4407276151188-Preguntas-frecuentes-sobre-la-verificaci%C3%B3n-de-identificaci%C3%B3n-de-edad
 [Como cambiar el tema de tu cuenta de Roblox](./Como cambiar el tema de tu cuenta de Roblox.html) |https://en.help.roblox.com/hc/es/articles/360022922852-Como-cambiar-el-tema-de-tu-cuenta-de-Roblox

@@ -18,4 +18,4 @@ Name|URL
 [Plugin Roblox Launcher](./Plugin Roblox Launcher.html) |https://en.help.roblox.com/hc/es/articles/203313020-Plugin-Roblox-Launcher
 [Qué Hacer si Tu Antivirus ha Marcado a Roblox](./Qué Hacer si Tu Antivirus ha Marcado a Roblox.html) |https://en.help.roblox.com/hc/es/articles/203313030-Qu%C3%A9-Hacer-si-Tu-Antivirus-ha-Marcado-a-Roblox
 [Restablecimiento del reloj o no se pudo obtener la URL: Httpsendrequest falló, err = 0x2f05](./Restablecimiento del reloj o no se pudo obtener la URL- Httpsendrequest falló, err = 0x2f05.html) |https://en.help.roblox.com/hc/es/articles/203312830-Restablecimiento-del-reloj-o-no-se-pudo-obtener-la-URL-Httpsendrequest-fall%C3%B3-err-0x2f05
-[Información de conexión del administrador de la escuela](./Información de conexión del administrador de la escuela.html) |https://en.help.roblox.com/hc/es/articles/115005744663-Informaci%C3%B3n-de-conexi%C3%B3n-del-administrador-de-la-escuela
+[Solución de problemas de redes educativas](./Solución de problemas de redes educativas.html) |https://en.help.roblox.com/hc/es/articles/115005744663-Soluci%C3%B3n-de-problemas-de-redes-educativas

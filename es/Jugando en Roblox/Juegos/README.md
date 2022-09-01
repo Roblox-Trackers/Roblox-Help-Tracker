@@ -12,9 +12,9 @@ Name|URL
 [Cómo salir de un Juego](./Cómo salir de un Juego.html) |https://en.help.roblox.com/hc/es/articles/203314240-C%C3%B3mo-salir-de-un-Juego
 [Cómo Seguir o Unirse a otro Jugador en Juegos](./Cómo Seguir o Unirse a otro Jugador en Juegos.html) |https://en.help.roblox.com/hc/es/articles/203314220-C%C3%B3mo-Seguir-o-Unirse-a-otro-Jugador-en-Juegos
 [Como Marcar un Lugar como Favorito](./Como Marcar un Lugar como Favorito.html) |https://en.help.roblox.com/hc/es/articles/203313670-Como-Marcar-un-Lugar-como-Favorito
-[Marcadores y Notificaciones Dentro del Juego](./Marcadores y Notificaciones Dentro del Juego.html) |https://en.help.roblox.com/hc/es/articles/204343250-Marcadores-y-Notificaciones-Dentro-del-Juego
+[Tablas de clasificación y notificaciones en la experiencia](./Tablas de clasificación y notificaciones en la experiencia.html) |https://en.help.roblox.com/hc/es/articles/204343250-Tablas-de-clasificaci%C3%B3n-y-notificaciones-en-la-experiencia
 [¿Cómo Cambio el Color de Mi Nombre en un Juego?](./¿Cómo Cambio el Color de Mi Nombre en un Juego-.html) |https://en.help.roblox.com/hc/es/articles/203314200--C%C3%B3mo-Cambio-el-Color-de-Mi-Nombre-en-un-Juego-
-[Como puedo comprar y configurar servidores VIP](./Como puedo comprar y configurar servidores VIP.html) |https://en.help.roblox.com/hc/es/articles/205345050-Como-puedo-comprar-y-configurar-servidores-VIP
+[Como puedo comprar y configurar servidores Privados/VIP](./Como puedo comprar y configurar servidores Privados-VIP.html) |https://en.help.roblox.com/hc/es/articles/205345050-Como-puedo-comprar-y-configurar-servidores-Privados-VIP
 [Los Servidores de Prueba](./Los Servidores de Prueba.html) |https://en.help.roblox.com/hc/es/articles/203314170-Los-Servidores-de-Prueba
 [¿Cómo Tomo una Captura de Pantalla?](./¿Cómo Tomo una Captura de Pantalla-.html) |https://en.help.roblox.com/hc/es/articles/203314160--C%C3%B3mo-Tomo-una-Captura-de-Pantalla-
 [Cómo Grabar Videos](./Cómo Grabar Videos.html) |https://en.help.roblox.com/hc/es/articles/203314190-C%C3%B3mo-Grabar-Videos
