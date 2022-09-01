@@ -2,9 +2,9 @@
 ### Articles in this section
 Name|URL
 -|-
-[O Que Posso Fazer no Roblox no Xbox One?](./O Que Posso Fazer no Roblox no Xbox One-.html) |https://en.help.roblox.com/hc/pt-br/articles/207850783-O-Que-Posso-Fazer-no-Roblox-no-Xbox-One-
-[Aplicativo Xbox One: conectando-se à sua conta do Roblox](./Aplicativo Xbox One- conectando-se à sua conta do Roblox.html) |https://en.help.roblox.com/hc/pt-br/articles/205662594-Aplicativo-Xbox-One-conectando-se-%C3%A0-sua-conta-do-Roblox
-[Aplicativo Xbox One: Como jogar um jogo de Roblox](./Aplicativo Xbox One- Como jogar um jogo de Roblox.html) |https://en.help.roblox.com/hc/pt-br/articles/205091984-Aplicativo-Xbox-One-Como-jogar-um-jogo-de-Roblox
+[O Que Posso Fazer na Roblox do Xbox One?](./O Que Posso Fazer na Roblox do Xbox One-.html) |https://en.help.roblox.com/hc/pt-br/articles/207850783-O-Que-Posso-Fazer-na-Roblox-do-Xbox-One-
+[Aplicativo Xbox One: Conectando-se à Sua Conta da Roblox](./Aplicativo Xbox One- Conectando-se à Sua Conta da Roblox.html) |https://en.help.roblox.com/hc/pt-br/articles/205662594-Aplicativo-Xbox-One-Conectando-se-%C3%A0-Sua-Conta-da-Roblox
+[Aplicativo Xbox One: Como Jogar Uma Experiência Roblox](./Aplicativo Xbox One- Como Jogar Uma Experiência Roblox.html) |https://en.help.roblox.com/hc/pt-br/articles/205091984-Aplicativo-Xbox-One-Como-Jogar-Uma-Experi%C3%AAncia-Roblox
 [Aplicativo Xbox One: Posso jogar Roblox no meu país?](./Aplicativo Xbox One- Posso jogar Roblox no meu país-.html) |https://en.help.roblox.com/hc/pt-br/articles/360000334743-Aplicativo-Xbox-One-Posso-jogar-Roblox-no-meu-pa%C3%ADs-
 [Aplicativo Xbox One: Como Alterar o Idioma](./Aplicativo Xbox One- Como Alterar o Idioma.html) |https://en.help.roblox.com/hc/pt-br/articles/360000273466-Aplicativo-Xbox-One-Como-Alterar-o-Idioma
 [Aplicativo Xbox One: Como Permitir Acesso Sob Contas Familiares](./Aplicativo Xbox One- Como Permitir Acesso Sob Contas Familiares.html) |https://en.help.roblox.com/hc/pt-br/articles/115001279786-Aplicativo-Xbox-One-Como-Permitir-Acesso-Sob-Contas-Familiares

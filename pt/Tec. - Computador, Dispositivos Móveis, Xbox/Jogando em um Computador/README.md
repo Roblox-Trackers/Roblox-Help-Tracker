@@ -11,9 +11,9 @@ Name|URL
 [Como Desinstalar a Roblox ?](./Como Desinstalar a Roblox -.html) |https://en.help.roblox.com/hc/pt-br/articles/203312980--Como-Desinstalar-a-Roblox-
 [Problemas de Firewall e Roteador](./Problemas de Firewall e Roteador.html) |https://en.help.roblox.com/hc/pt-br/articles/203312840-Problemas-de-Firewall-e-Roteador
 [Mac: Controles dos Pais](./Mac- Controles dos Pais.html) |https://en.help.roblox.com/hc/pt-br/articles/203313010-Mac-Controles-dos-Pais
-[Mac: Mensagem de falha atualização](./Mac- Mensagem de falha atualização.html) |https://en.help.roblox.com/hc/pt-br/articles/203313000-Mac-Mensagem-de-falha-atualiza%C3%A7%C3%A3o
+[Mac: Mensagem de Falha de Atualização](./Mac- Mensagem de Falha de Atualização.html) |https://en.help.roblox.com/hc/pt-br/articles/203313000-Mac-Mensagem-de-Falha-de-Atualiza%C3%A7%C3%A3o
 [Problemas Gráficos em Computadores](./Problemas Gráficos em Computadores.html) |https://en.help.roblox.com/hc/pt-br/articles/203312790-Problemas-Gr%C3%A1ficos-em-Computadores
-[Estou Logado, Mas eu Apareço Como Convidado Dentro dos Jogos](./Estou Logado, Mas eu Apareço Como Convidado Dentro dos Jogos.html) |https://en.help.roblox.com/hc/pt-br/articles/205211416-Estou-Logado-Mas-eu-Apare%C3%A7o-Como-Convidado-Dentro-dos-Jogos
+[Estou Logado, Mas Apareço Como Convidado Dentro das Experiências](./Estou Logado, Mas Apareço Como Convidado Dentro das Experiências.html) |https://en.help.roblox.com/hc/pt-br/articles/205211416-Estou-Logado-Mas-Apare%C3%A7o-Como-Convidado-Dentro-das-Experi%C3%AAncias
 [Ciclo infinito de "Obtendo o Último Roblox"](./Ciclo infinito de -Obtendo o Último Roblox-.html) |https://en.help.roblox.com/hc/pt-br/articles/203312940-Ciclo-infinito-de-Obtendo-o-%C3%9Altimo-Roblox-
 [Plugin do Inicializador Roblox](./Plugin do Inicializador Roblox.html) |https://en.help.roblox.com/hc/pt-br/articles/203313020-Plugin-do-Inicializador-Roblox
 [O Que Fazer se o seu Anti-vírus Sinalizar a Roblox](./O Que Fazer se o seu Anti-vírus Sinalizar a Roblox.html) |https://en.help.roblox.com/hc/pt-br/articles/203313030-O-Que-Fazer-se-o-seu-Anti-v%C3%ADrus-Sinalizar-a-Roblox

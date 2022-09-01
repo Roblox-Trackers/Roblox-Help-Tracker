@@ -1,0 +1,17 @@
+# Criando, Comprando e Vendendo Itens de Avatar  
+### Articles in this section
+Name|URL
+-|-
+[Onde está o item que acabei de comprar com Robux?](./Onde está o item que acabei de comprar com Robux-.html) |https://en.help.roblox.com/hc/pt-br/articles/360029542532-Onde-est%C3%A1-o-item-que-acabei-de-comprar-com-Robux-
+[Receberei Meu Robux de Volta Se Eu Excluir/Não Gostar de um Item?](./Receberei Meu Robux de Volta Se Eu Excluir-Não Gostar de um Item-.html) |https://en.help.roblox.com/hc/pt-br/articles/203313290-Receberei-Meu-Robux-de-Volta-Se-Eu-Excluir-N%C3%A3o-Gostar-de-um-Item-
+[A Página de Detalhes do Item e Comprando Itens](./A Página de Detalhes do Item e Comprando Itens.html) |https://en.help.roblox.com/hc/pt-br/articles/206142306-A-P%C3%A1gina-de-Detalhes-do-Item-e-Comprando-Itens
+[Vestuário: Camisetas, Camisas e Calças](./Vestuário- Camisetas, Camisas e Calças.html) |https://en.help.roblox.com/hc/pt-br/articles/203313170-Vestu%C3%A1rio-Camisetas-Camisas-e-Cal%C3%A7as
+[O Que é Equipamento Virtual?](./O Que é Equipamento Virtual-.html) |https://en.help.roblox.com/hc/pt-br/articles/203313630-O-Que-%C3%A9-Equipamento-Virtual-
+[A Loja do Avatar](./A Loja do Avatar.html) |https://en.help.roblox.com/hc/pt-br/articles/203313300-A-Loja-do-Avatar
+[Como Vender Itens](./Como Vender Itens.html) |https://en.help.roblox.com/hc/pt-br/articles/203313260-Como-Vender-Itens
+[Vendendo Roupas](./Vendendo Roupas.html) |https://en.help.roblox.com/hc/pt-br/articles/203313180-Vendendo-Roupas
+[Sistema de Trocas](./Sistema de Trocas.html) |https://en.help.roblox.com/hc/pt-br/articles/203313310-Sistema-de-Trocas
+[Tudo sobre itens de presente](./Tudo sobre itens de presente.html) |https://en.help.roblox.com/hc/pt-br/articles/205630374-Tudo-sobre-itens-de-presente
+[Como faço para obter itens promocionais ou de concursos?](./Como faço para obter itens promocionais ou de concursos-.html) |https://en.help.roblox.com/hc/pt-br/articles/203313270-Como-fa%C3%A7o-para-obter-itens-promocionais-ou-de-concursos-
+[Itens +13 na Loja do Avatar](./Itens +13 na Loja do Avatar.html) |https://en.help.roblox.com/hc/pt-br/articles/203313320-Itens-13-na-Loja-do-Avatar-
+[Tudo sobre Camisas  VIP](./Tudo sobre Camisas  VIP.html) |https://en.help.roblox.com/hc/pt-br/articles/203314080--Tudo-sobre-Camisas-VIP-
