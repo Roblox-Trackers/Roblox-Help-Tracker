@@ -3,7 +3,7 @@
 Name|URL
 -|-
 [Come inviare messaggi ad altri giocatori](./Come inviare messaggi ad altri giocatori.html) |https://en.help.roblox.com/hc/it/articles/203313610-Come-inviare-messaggi-ad-altri-giocatori
-[Chiacchierando e giocando con gli amici](./Chiacchierando e giocando con gli amici.html) |https://en.help.roblox.com/hc/it/articles/206224956-Chiacchierando-e-giocando-con-gli-amici
+[Chattare e Giocare con gli Amici](./Chattare e Giocare con gli Amici.html) |https://en.help.roblox.com/hc/it/articles/206224956-Chattare-e-Giocare-con-gli-Amici
 [Roblox Mobile: chattare e giocare con gli amici](./Roblox Mobile- chattare e giocare con gli amici.html) |https://en.help.roblox.com/hc/it/articles/360000432483-Roblox-Mobile-chattare-e-giocare-con-gli-amici
 [Come chattare nei giochi](./Come chattare nei giochi.html) |https://en.help.roblox.com/hc/it/articles/203314250-Come-chattare-nei-giochi
 [Mobile: come chattare nei giochi](./Mobile- come chattare nei giochi.html) |https://en.help.roblox.com/hc/it/articles/203313520-Mobile-come-chattare-nei-giochi

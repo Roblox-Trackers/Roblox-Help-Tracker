@@ -15,7 +15,6 @@ Name|URL
 [Come copiare un gioco](./Come copiare un gioco.html) |https://en.help.roblox.com/hc/it/articles/203313900-Come-copiare-un-gioco
 [Come ripristinare le versioni precedenti di un luogo](./Come ripristinare le versioni precedenti di un luogo.html) |https://en.help.roblox.com/hc/it/articles/203313850-Come-ripristinare-le-versioni-precedenti-di-un-luogo
 [Ripristina Luogo su un modello iniziale](./Ripristina Luogo su un modello iniziale.html) |https://en.help.roblox.com/hc/it/articles/203313920-Ripristina-Luogo-su-un-modello-iniziale
-[Modalità sperimentale](./Modalità sperimentale.html) |https://en.help.roblox.com/hc/it/articles/115003766763-Modalit%C3%A0-sperimentale
 [Aggiungi equipaggiamento al gioco](./Aggiungi equipaggiamento al gioco.html) |https://en.help.roblox.com/hc/it/articles/203314050-Aggiungi-equipaggiamento-al-gioco
 [Come faccio a creare badge di gioco?](./Come faccio a creare badge di gioco-.html) |https://en.help.roblox.com/hc/it/articles/203313650-Come-faccio-a-creare-badge-di-gioco-
 [Come faccio a costruire con le GUI?](./Come faccio a costruire con le GUI-.html) |https://en.help.roblox.com/hc/it/articles/203313960-Come-faccio-a-costruire-con-le-GUI-
