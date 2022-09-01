@@ -15,7 +15,6 @@ Name|URL
 [How to Copy an Experience](./How to Copy an Experience.html) |https://en.help.roblox.com/hc/en-us/articles/203313900-How-to-Copy-an-Experience
 [How To Revert to Older Versions of a Place](./How To Revert to Older Versions of a Place.html) |https://en.help.roblox.com/hc/en-us/articles/203313850-How-To-Revert-to-Older-Versions-of-a-Place
 [Reset Place to a Starting Template](./Reset Place to a Starting Template.html) |https://en.help.roblox.com/hc/en-us/articles/203313920-Reset-Place-to-a-Starting-Template
-[Experimental Mode](./Experimental Mode.html) |https://en.help.roblox.com/hc/en-us/articles/115003766763-Experimental-Mode
 [Add Gear to Experience](./Add Gear to Experience.html) |https://en.help.roblox.com/hc/en-us/articles/203314050-Add-Gear-to-Experience
 [How Do I Make Experience Badges?](./How Do I Make Experience Badges-.html) |https://en.help.roblox.com/hc/en-us/articles/203313650-How-Do-I-Make-Experience-Badges-
 [How Do I Build with GUIs?](./How Do I Build with GUIs-.html) |https://en.help.roblox.com/hc/en-us/articles/203313960-How-Do-I-Build-with-GUIs-
