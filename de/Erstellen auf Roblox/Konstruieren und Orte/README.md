@@ -4,7 +4,7 @@ Name|URL
 -|-
 [Grundlegende Platz-Einstellungen: Name & Beschreibung](./Grundlegende Platz-Einstellungen- Name & Beschreibung.html) |https://en.help.roblox.com/hc/de/articles/203314030-Grundlegende-Platz-Einstellungen-Name-Beschreibung
 [Social-Media-Links zu Erlebnisbeschreibungen](./Social-Media-Links zu Erlebnisbeschreibungen.html) |https://en.help.roblox.com/hc/de/articles/360000910966-Social-Media-Links-zu-Erlebnisbeschreibungen
-[Hilfe zum Erstellen/Skripten und Anleitungen](./Hilfe zum Erstellen-Skripten und Anleitungen.html) |https://en.help.roblox.com/hc/de/articles/203625344-Hilfe-zum-Erstellen-Skripten-und-Anleitungen
+[Lernen, wie man Erlebnisse erstellt](./Lernen, wie man Erlebnisse erstellt.html) |https://en.help.roblox.com/hc/de/articles/203625344-Lernen-wie-man-Erlebnisse-erstellt
 [Roblox Studio](./Roblox Studio.html) |https://en.help.roblox.com/hc/de/articles/203313860-Roblox-Studio
 [Bearbeiten und Testen in Studio (Bearbeitungsmodus)](./Bearbeiten und Testen in Studio (Bearbeitungsmodus).html) |https://en.help.roblox.com/hc/de/articles/203313870-Bearbeiten-und-Testen-in-Studio-Bearbeitungsmodus-
 [Verbieten Sie das Kopieren Ihrer Erfahrung](./Verbieten Sie das Kopieren Ihrer Erfahrung.html) |https://en.help.roblox.com/hc/de/articles/203313940--Verbieten-Sie-das-Kopieren-Ihrer-Erfahrung
