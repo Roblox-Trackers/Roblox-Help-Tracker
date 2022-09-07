@@ -16,7 +16,7 @@ Name|URL
 [Come ripristinare le versioni precedenti di un luogo](./Come ripristinare le versioni precedenti di un luogo.html) |https://en.help.roblox.com/hc/it/articles/203313850-Come-ripristinare-le-versioni-precedenti-di-un-luogo
 [Ripristina Luogo su un modello iniziale](./Ripristina Luogo su un modello iniziale.html) |https://en.help.roblox.com/hc/it/articles/203313920-Ripristina-Luogo-su-un-modello-iniziale
 [Aggiungi equipaggiamento al gioco](./Aggiungi equipaggiamento al gioco.html) |https://en.help.roblox.com/hc/it/articles/203314050-Aggiungi-equipaggiamento-al-gioco
-[Come faccio a creare badge di gioco?](./Come faccio a creare badge di gioco-.html) |https://en.help.roblox.com/hc/it/articles/203313650-Come-faccio-a-creare-badge-di-gioco-
+[Come faccio a creare badge Esperienza?](./Come faccio a creare badge Esperienza-.html) |https://en.help.roblox.com/hc/it/articles/203313650-Come-faccio-a-creare-badge-Esperienza-
 [Come faccio a costruire con le GUI?](./Come faccio a costruire con le GUI-.html) |https://en.help.roblox.com/hc/it/articles/203313960-Come-faccio-a-costruire-con-le-GUI-
 [Configurazione dello stile di chat del tuo luogo](./Configurazione dello stile di chat del tuo luogo.html) |https://en.help.roblox.com/hc/it/articles/360019904552-Configurazione-dello-stile-di-chat-del-tuo-luogo
 [Che cos'è questo pacchetto infetto al mio luogo?](./Che cos'è questo pacchetto infetto al mio luogo-.html) |https://en.help.roblox.com/hc/it/articles/203312920-Che-cos-%C3%A8-questo-pacchetto-infetto-al-mio-luogo-
