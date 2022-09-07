@@ -10,4 +10,4 @@ Name|URL
 [Come creare un pacchetto](./Come creare un pacchetto.html) |https://en.help.roblox.com/hc/it/articles/203313910-Come-creare-un-pacchetto
 [File audio](./File audio.html) |https://en.help.roblox.com/hc/it/articles/203314070--File-audio
 [Pass Esperienza](./Pass Esperienza.html) |https://en.help.roblox.com/hc/it/articles/203314040-Pass-Esperienza
-[Vendita di accesso al gioco (accesso a pagamento)](./Vendita di accesso al gioco (accesso a pagamento).html) |https://en.help.roblox.com/hc/it/articles/203314090-Vendita-di-accesso-al-gioco-accesso-a-pagamento-
+[Vendere l'accesso all'Esperienza (accesso a pagamento)](./Vendere l'accesso all'Esperienza (accesso a pagamento).html) |https://en.help.roblox.com/hc/it/articles/203314090-Vendere-l-accesso-all-Esperienza-accesso-a-pagamento-
