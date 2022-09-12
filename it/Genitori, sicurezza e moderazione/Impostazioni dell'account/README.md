@@ -8,3 +8,4 @@ Name|URL
 [Domande Frequenti sulle Restrizioni di Spesa Mensili (FAQ)](./Domande Frequenti sulle Restrizioni di Spesa Mensili (FAQ).html) |https://en.help.roblox.com/hc/it/articles/4409558125460-Domande-Frequenti-sulle-Restrizioni-di-Spesa-Mensili-FAQ-
 [Domande Frequenti sul Controllo Notifiche di Spesa  (FAQ)](./Domande Frequenti sul Controllo Notifiche di Spesa  (FAQ).html) |https://en.help.roblox.com/hc/it/articles/4409296123796-Domande-Frequenti-sul-Controllo-Notifiche-di-Spesa-FAQ-
 [Raccomandazioni sull'età](./Raccomandazioni sull'età.html) |https://en.help.roblox.com/hc/it/articles/8862768451604-Raccomandazioni-sull-et%C3%A0
+[Controlli sulle Esperienze Consentite](./Controlli sulle Esperienze Consentite.html) |https://en.help.roblox.com/hc/it/articles/8863284850196-Controlli-sulle-Esperienze-Consentite
