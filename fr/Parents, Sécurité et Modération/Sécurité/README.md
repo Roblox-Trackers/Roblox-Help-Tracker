@@ -2,6 +2,7 @@
 ### Articles in this section
 Name|URL
 -|-
+[Sécurité et Civilité chez Roblox](./Sécurité et Civilité chez Roblox.html) |https://en.help.roblox.com/hc/fr/articles/4407444339348-S%C3%A9curit%C3%A9-et-Civilit%C3%A9-chez-Roblox
 [Fonctionnalités de sécurité : chat, confidentialité et filtrage](./Fonctionnalités de sécurité - chat, confidentialité et filtrage.html) |https://en.help.roblox.com/hc/fr/articles/203313120-Fonctionnalit%C3%A9s-de-s%C3%A9curit%C3%A9-chat-confidentialit%C3%A9-et-filtrage
 [Comment puis-je voir ce que mon enfant fait sur Roblox ?](./Comment puis-je voir ce que mon enfant fait sur Roblox -.html) |https://en.help.roblox.com/hc/fr/articles/360031384652-Comment-puis-je-voir-ce-que-mon-enfant-fait-sur-Roblox-
 [Comment signaler des violations de règles ?](./Comment signaler des violations de règles -.html) |https://en.help.roblox.com/hc/fr/articles/203312410-Comment-signaler-des-violations-de-r%C3%A8gles-
