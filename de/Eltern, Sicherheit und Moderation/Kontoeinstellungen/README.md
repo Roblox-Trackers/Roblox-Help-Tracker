@@ -8,3 +8,4 @@ Name|URL
 [Monatliche Ausgabenbeschränkungen FAQ](./Monatliche Ausgabenbeschränkungen FAQ.html) |https://en.help.roblox.com/hc/de/articles/4409558125460-Monatliche-Ausgabenbeschr%C3%A4nkungen-FAQ
 [Häufig gestellte Fragen zu Ausgabenbenachrichtigungssteuerungen](./Häufig gestellte Fragen zu Ausgabenbenachrichtigungssteuerungen.html) |https://en.help.roblox.com/hc/de/articles/4409296123796-H%C3%A4ufig-gestellte-Fragen-zu-Ausgabenbenachrichtigungssteuerungen
 [Altersempfehlungen](./Altersempfehlungen.html) |https://en.help.roblox.com/hc/de/articles/8862768451604-Altersempfehlungen
+[Erlaubte Erlebnisse - Kontrollen](./Erlaubte Erlebnisse - Kontrollen.html) |https://en.help.roblox.com/hc/de/articles/8863284850196-Erlaubte-Erlebnisse-Kontrollen
