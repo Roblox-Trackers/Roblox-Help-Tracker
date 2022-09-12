@@ -8,3 +8,4 @@ Name|URL
 [Monthly Spend Restriction FAQ](./Monthly Spend Restriction FAQ.html) |https://en.help.roblox.com/hc/en-us/articles/4409558125460-Monthly-Spend-Restriction-FAQ
 [Spend Notifications Controls FAQ](./Spend Notifications Controls FAQ.html) |https://en.help.roblox.com/hc/en-us/articles/4409296123796-Spend-Notifications-Controls-FAQ
 [Age Recommendations](./Age Recommendations.html) |https://en.help.roblox.com/hc/en-us/articles/8862768451604-Age-Recommendations
+[Allowed Experiences Controls](./Allowed Experiences Controls.html) |https://en.help.roblox.com/hc/en-us/articles/8863284850196-Allowed-Experiences-Controls
