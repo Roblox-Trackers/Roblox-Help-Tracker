@@ -18,7 +18,7 @@ Name|URL
 [The Test Servers](./The Test Servers.html) |https://en.help.roblox.com/hc/en-us/articles/203314170-The-Test-Servers
 [How Do I Take a Screenshot?](./How Do I Take a Screenshot-.html) |https://en.help.roblox.com/hc/en-us/articles/203314160-How-Do-I-Take-a-Screenshot-
 [How to Record Videos](./How to Record Videos.html) |https://en.help.roblox.com/hc/en-us/articles/203314190-How-to-Record-Videos
-[Roblox Beta App](./Roblox Beta App.html) |https://en.help.roblox.com/hc/en-us/articles/360054053812-Roblox-Beta-App
+[Roblox PC App](./Roblox PC App.html) |https://en.help.roblox.com/hc/en-us/articles/360054053812-Roblox-PC-App
 [Graphics Quality](./Graphics Quality.html) |https://en.help.roblox.com/hc/en-us/articles/203314310-Graphics-Quality
 [How to Reduce Lag and Speed Up Play](./How to Reduce Lag and Speed Up Play.html) |https://en.help.roblox.com/hc/en-us/articles/203314150-How-to-Reduce-Lag-and-Speed-Up-Play
 [A|B Tests - Why Is There a New Feature Only Visible to Certain Players?](./A-B Tests - Why Is There a New Feature Only Visible to Certain Players-.html) |https://en.help.roblox.com/hc/en-us/articles/203312530-A-B-Tests-Why-Is-There-a-New-Feature-Only-Visible-to-Certain-Players-
