@@ -12,7 +12,7 @@ Name|URL
 [Come uscire da un'esperienza un gioco](./Come uscire da un'esperienza un gioco.html) |https://en.help.roblox.com/hc/it/articles/203314240-Come-uscire-da-un-esperienza-un-gioco
 [Come seguire o partecipare a un altro giocatore nei giochi](./Come seguire o partecipare a un altro giocatore nei giochi.html) |https://en.help.roblox.com/hc/it/articles/203314220-Come-seguire-o-partecipare-a-un-altro-giocatore-nei-giochi
 [Come aggiungere un gioco (Luogo) ai Preferiti](./Come aggiungere un gioco (Luogo) ai Preferiti.html) |https://en.help.roblox.com/hc/it/articles/203313670-Come-aggiungere-un-gioco-Luogo-ai-Preferiti-
-[Classifiche e notifiche in-game](./Classifiche e notifiche in-game.html) |https://en.help.roblox.com/hc/it/articles/204343250-Classifiche-e-notifiche-in-game
+[Classifiche e Notifiche nell'Esperienza](./Classifiche e Notifiche nell'Esperienza.html) |https://en.help.roblox.com/hc/it/articles/204343250-Classifiche-e-Notifiche-nell-Esperienza
 [Come posso cambiare il colore del mio nome in un gioco?](./Come posso cambiare il colore del mio nome in un gioco-.html) |https://en.help.roblox.com/hc/it/articles/203314200-Come-posso-cambiare-il-colore-del-mio-nome-in-un-gioco-
 [Come acquistare e configurare i server VIP?](./Come acquistare e configurare i server VIP-.html) |https://en.help.roblox.com/hc/it/articles/205345050-Come-acquistare-e-configurare-i-server-VIP-
 [I server di prova](./I server di prova.html) |https://en.help.roblox.com/hc/it/articles/203314170-I-server-di-prova
