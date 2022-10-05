@@ -10,7 +10,7 @@ Name|URL
 [Impedir copia(s) de tu(s) experiencia(s)](./Impedir copia(s) de tu(s) experiencia(s).html) |https://en.help.roblox.com/hc/es/articles/203313940-Impedir-copia-s-de-tu-s-experiencia-s-
 [Cómo Publicar/Subir un Lugar](./Cómo Publicar-Subir un Lugar.html) |https://en.help.roblox.com/hc/es/articles/203313890-C%C3%B3mo-Publicar-Subir-un-Lugar
 [Experiencia Grupales](./Experiencia Grupales.html) |https://en.help.roblox.com/hc/es/articles/203313760-Experiencia-Grupales
-[Cómo Crear y Hacer Juegos Públicos](./Cómo Crear y Hacer Juegos Públicos.html) |https://en.help.roblox.com/hc/es/articles/203313950-C%C3%B3mo-Crear-y-Hacer-Juegos-P%C3%BAblicos
+[Crear y hacer públicas las experiencias](./Crear y hacer públicas las experiencias.html) |https://en.help.roblox.com/hc/es/articles/203313950-Crear-y-hacer-p%C3%BAblicas-las-experiencias
 [¿Cómo puedo habilitar Servidores VIP / Privados en mis experiencias?](./¿Cómo puedo habilitar Servidores VIP - Privados en mis experiencias-.html) |https://en.help.roblox.com/hc/es/articles/360000781023--C%C3%B3mo-puedo-habilitar-Servidores-VIP-Privados-en-mis-experiencias-
 [Cómo copiar una experiencia](./Cómo copiar una experiencia.html) |https://en.help.roblox.com/hc/es/articles/203313900-C%C3%B3mo-copiar-una-experiencia
 [Cómo Volver a Versiones Anteriores de un Lugar](./Cómo Volver a Versiones Anteriores de un Lugar.html) |https://en.help.roblox.com/hc/es/articles/203313850-C%C3%B3mo-Volver-a-Versiones-Anteriores-de-un-Lugar

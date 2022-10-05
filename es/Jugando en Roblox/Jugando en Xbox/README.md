@@ -4,7 +4,7 @@ Name|URL
 -|-
 [¿Qué puedo hacer en Roblox en Xbox One?](./¿Qué puedo hacer en Roblox en Xbox One-.html) |https://en.help.roblox.com/hc/es/articles/207850783--Qu%C3%A9-puedo-hacer-en-Roblox-en-Xbox-One-
 [Xbox One: Iniciando sesión en tu cuenta de Roblox](./Xbox One- Iniciando sesión en tu cuenta de Roblox.html) |https://en.help.roblox.com/hc/es/articles/205662594-Xbox-One-Iniciando-sesi%C3%B3n-en-tu-cuenta-de-Roblox
-[Xbox One App: Cómo jugar un juego de Roblox](./Xbox One App- Cómo jugar un juego de Roblox.html) |https://en.help.roblox.com/hc/es/articles/205091984-Xbox-One-App-C%C3%B3mo-jugar-un-juego-de-Roblox
+[Aplicación Xbox One: Cómo jugar una experiencia Roblox](./Aplicación Xbox One- Cómo jugar una experiencia Roblox.html) |https://en.help.roblox.com/hc/es/articles/205091984-Aplicaci%C3%B3n-Xbox-One-C%C3%B3mo-jugar-una-experiencia-Roblox
 [Aplicación Xbox One: ¿Puedo jugar Roblox en mi país?](./Aplicación Xbox One- ¿Puedo jugar Roblox en mi país-.html) |https://en.help.roblox.com/hc/es/articles/360000334743-Aplicaci%C3%B3n-Xbox-One-Puedo-jugar-Roblox-en-mi-pa%C3%ADs-
 [Xbox One App: Como cambiar el idioma](./Xbox One App- Como cambiar el idioma.html) |https://en.help.roblox.com/hc/es/articles/360000273466-Xbox-One-App-Como-cambiar-el-idioma
 [Aplicación Xbox One: Cómo permitir el acceso en cuentas familiares](./Aplicación Xbox One- Cómo permitir el acceso en cuentas familiares.html) |https://en.help.roblox.com/hc/es/articles/115001279786-Aplicaci%C3%B3n-Xbox-One-C%C3%B3mo-permitir-el-acceso-en-cuentas-familiares
