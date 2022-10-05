@@ -8,5 +8,5 @@ Name|URL
 [Como Conversar em Experiências](./Como Conversar em Experiências.html) |https://en.help.roblox.com/hc/pt-br/articles/203314250-Como-Conversar-em-Experi%C3%AAncias
 [Dispositivo Móvel: Como Conversar em Experiências](./Dispositivo Móvel- Como Conversar em Experiências.html) |https://en.help.roblox.com/hc/pt-br/articles/203313520-Dispositivo-M%C3%B3vel-Como-Conversar-em-Experi%C3%AAncias
 [Como Excluo as Mensagens na Minha Caixa de Entrada?](./Como Excluo as Mensagens na Minha Caixa de Entrada-.html) |https://en.help.roblox.com/hc/pt-br/articles/203313690-Como-Excluo-as-Mensagens-na-Minha-Caixa-de-Entrada-
-[Spatial Voice](./Spatial Voice.html) |https://en.help.roblox.com/hc/pt-br/articles/4405807645972-Spatial-Voice
+[Bate-Papo com Voz](./Bate-Papo com Voz.html) |https://en.help.roblox.com/hc/pt-br/articles/4405807645972-Bate-Papo-com-Voz
 [Perguntas frequentes sobre gravação de voz](./Perguntas frequentes sobre gravação de voz.html) |https://en.help.roblox.com/hc/pt-br/articles/5704050147604-Perguntas-frequentes-sobre-grava%C3%A7%C3%A3o-de-voz

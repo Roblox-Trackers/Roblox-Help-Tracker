@@ -2,7 +2,7 @@
 ### Articles in this section
 Name|URL
 -|-
-[Mantendo sua Conta Segura](./Mantendo sua Conta Segura.html) |https://en.help.roblox.com/hc/pt-br/articles/203313380-Mantendo-sua-Conta-Segura
+[Mantenha sua Conta Segura](./Mantenha sua Conta Segura.html) |https://en.help.roblox.com/hc/pt-br/articles/203313380-Mantenha-sua-Conta-Segura
 [Minha conta foi hackeada - O que eu faço?](./Minha conta foi hackeada - O que eu faço-.html) |https://en.help.roblox.com/hc/pt-br/articles/203313390-Minha-conta-foi-hackeada-O-que-eu-fa%C3%A7o-
 [Verificar seu Endereço de Email ou Número de Telefone](./Verificar seu Endereço de Email ou Número de Telefone.html) |https://en.help.roblox.com/hc/pt-br/articles/203313350-Verificar-seu-Endere%C3%A7o-de-Email-ou-N%C3%BAmero-de-Telefone
 [Perguntas Frequentes Sobre PIN da Conta](./Perguntas Frequentes Sobre PIN da Conta.html) |https://en.help.roblox.com/hc/pt-br/articles/360000239523-Perguntas-Frequentes-Sobre-PIN-da-Conta

@@ -2,7 +2,7 @@
 ### Articles in this section
 Name|URL
 -|-
-[Como Fazer e Participar de Grupos](./Como Fazer e Participar de Grupos.html) |https://en.help.roblox.com/hc/pt-br/articles/203313730-Como-Fazer-e-Participar-de-Grupos
+[Como Criar e Ingressar em Grupos](./Como Criar e Ingressar em Grupos.html) |https://en.help.roblox.com/hc/pt-br/articles/203313730-Como-Criar-e-Ingressar-em-Grupos
 [Dispositivo Móvel: Grupos](./Dispositivo Móvel- Grupos.html) |https://en.help.roblox.com/hc/pt-br/articles/203313490-Dispositivo-M%C3%B3vel-Grupos
 [Como Sair de um Grupo](./Como Sair de um Grupo.html) |https://en.help.roblox.com/hc/pt-br/articles/203313790-Como-Sair-de-um-Grupo
 [Grupo Primário](./Grupo Primário.html) |https://en.help.roblox.com/hc/pt-br/articles/203313740-Grupo-Prim%C3%A1rio
