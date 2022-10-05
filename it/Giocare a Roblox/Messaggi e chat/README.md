@@ -8,5 +8,5 @@ Name|URL
 [Come chattare nei giochi](./Come chattare nei giochi.html) |https://en.help.roblox.com/hc/it/articles/203314250-Come-chattare-nei-giochi
 [Mobile: come chattare nei giochi](./Mobile- come chattare nei giochi.html) |https://en.help.roblox.com/hc/it/articles/203313520-Mobile-come-chattare-nei-giochi
 [Come posso eliminare i messaggi nella mia casella di posta?](./Come posso eliminare i messaggi nella mia casella di posta-.html) |https://en.help.roblox.com/hc/it/articles/203313690-Come-posso-eliminare-i-messaggi-nella-mia-casella-di-posta-
-[Spatial Voice](./Spatial Voice.html) |https://en.help.roblox.com/hc/it/articles/4405807645972-Spatial-Voice-
+[Chat con Voce](./Chat con Voce.html) |https://en.help.roblox.com/hc/it/articles/4405807645972-Chat-con-Voce
 [Domande frequenti sulla registrazione vocale](./Domande frequenti sulla registrazione vocale.html) |https://en.help.roblox.com/hc/it/articles/5704050147604-Domande-frequenti-sulla-registrazione-vocale

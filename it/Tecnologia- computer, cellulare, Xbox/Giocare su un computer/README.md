@@ -2,9 +2,9 @@
 ### Articles in this section
 Name|URL
 -|-
-[Come installare e giocare a Roblox utilizzando il browser](./Come installare e giocare a Roblox utilizzando il browser.html) |https://en.help.roblox.com/hc/it/articles/204473560-Come-installare-e-giocare-a-Roblox-utilizzando-il-browser
+[Come Installare e Giocare a Roblox Utilizzando il Browser](./Come Installare e Giocare a Roblox Utilizzando il Browser.html) |https://en.help.roblox.com/hc/it/articles/204473560-Come-Installare-e-Giocare-a-Roblox-Utilizzando-il-Browser
 [Problemi generali di Roblox sul desktop](./Problemi generali di Roblox sul desktop.html) |https://en.help.roblox.com/hc/it/articles/203312870-Problemi-generali-di-Roblox-sul-desktop
-[Problemi generali di chat/tastiera sul computer](./Problemi generali di chat-tastiera sul computer.html) |https://en.help.roblox.com/hc/it/articles/203313040-Problemi-generali-di-chat-tastiera-sul-computer
+[Problemi Generali di Chat e Tastiera sul Computer](./Problemi Generali di Chat e Tastiera sul Computer.html) |https://en.help.roblox.com/hc/it/articles/203313040-Problemi-Generali-di-Chat-e-Tastiera-sul-Computer
 [Problemi generali di connessione](./Problemi generali di connessione.html) |https://en.help.roblox.com/hc/it/articles/203312880-Problemi-generali-di-connessione
 [Mac: risoluzione dei problemi](./Mac- risoluzione dei problemi.html) |https://en.help.roblox.com/hc/it/articles/203312990-Mac-risoluzione-dei-problemi
 [Come reinstallare il software Roblox?](./Come reinstallare il software Roblox-.html) |https://en.help.roblox.com/hc/it/articles/203312910-Come-reinstallare-il-software-Roblox-

@@ -10,7 +10,7 @@ Name|URL
 [Non consentire la copia del gioco](./Non consentire la copia del gioco.html) |https://en.help.roblox.com/hc/it/articles/203313940-Non-consentire-la-copia-del-gioco
 [Come pubblicare/caricare un luogo](./Come pubblicare-caricare un luogo.html) |https://en.help.roblox.com/hc/it/articles/203313890-Come-pubblicare-caricare-un-luogo
 [Giochi di gruppo](./Giochi di gruppo.html) |https://en.help.roblox.com/hc/it/articles/203313760-Giochi-di-gruppo
-[Creazione  di giochi pubblici](./Creazione  di giochi pubblici.html) |https://en.help.roblox.com/hc/it/articles/203313950-Creazione-di-giochi-pubblici
+[Creazione e Costruzione di Esperienze Pubbliche](./Creazione e Costruzione di Esperienze Pubbliche.html) |https://en.help.roblox.com/hc/it/articles/203313950-Creazione-e-Costruzione-di-Esperienze-Pubbliche
 [Come posso abilitare i server VIP / privati ​​sui miei giochi?](./Come posso abilitare i server VIP - privati ​​sui miei giochi-.html) |https://en.help.roblox.com/hc/it/articles/360000781023-Come-posso-abilitare-i-server-VIP-privati-sui-miei-giochi-
 [Come copiare un gioco](./Come copiare un gioco.html) |https://en.help.roblox.com/hc/it/articles/203313900-Come-copiare-un-gioco
 [Come ripristinare le versioni precedenti di un luogo](./Come ripristinare le versioni precedenti di un luogo.html) |https://en.help.roblox.com/hc/it/articles/203313850-Come-ripristinare-le-versioni-precedenti-di-un-luogo

@@ -18,6 +18,7 @@ Name|URL
 [I server di prova](./I server di prova.html) |https://en.help.roblox.com/hc/it/articles/203314170-I-server-di-prova
 [Come posso fare uno screenshot?](./Come posso fare uno screenshot-.html) |https://en.help.roblox.com/hc/it/articles/203314160-Come-posso-fare-uno-screenshot-
 [Come registrare video](./Come registrare video.html) |https://en.help.roblox.com/hc/it/articles/203314190-Come-registrare-video
+[L'App Roblox per PC](./L'App Roblox per PC.html) |https://en.help.roblox.com/hc/it/articles/360054053812-L-App-Roblox-per-PC
 [Qualità grafica](./Qualità grafica.html) |https://en.help.roblox.com/hc/it/articles/203314310-Qualit%C3%A0-grafica
 [Come ridurre il LAG e accelerare il gioco](./Come ridurre il LAG e accelerare il gioco.html) |https://en.help.roblox.com/hc/it/articles/203314150-Come-ridurre-il-LAG-e-accelerare-il-gioco
 [Test A | B - Perché una nuova funzione è visibile solo ad alcuni giocatori?](./Test A - B - Perché una nuova funzione è visibile solo ad alcuni giocatori-.html) |https://en.help.roblox.com/hc/it/articles/203312530-Test-A-B-Perch%C3%A9-una-nuova-funzione-%C3%A8-visibile-solo-ad-alcuni-giocatori-
