@@ -8,5 +8,5 @@ Name|URL
 [Cómo Chatear en los Juegos](./Cómo Chatear en los Juegos.html) |https://en.help.roblox.com/hc/es/articles/203314250-C%C3%B3mo-Chatear-en-los-Juegos
 [Móvil: Cómo Chatear en Juegos](./Móvil- Cómo Chatear en Juegos.html) |https://en.help.roblox.com/hc/es/articles/203313520-M%C3%B3vil-C%C3%B3mo-Chatear-en-Juegos
 [¿Cómo Elimino los Mensajes en Mi Bandeja de Entrada?](./¿Cómo Elimino los Mensajes en Mi Bandeja de Entrada-.html) |https://en.help.roblox.com/hc/es/articles/203313690--C%C3%B3mo-Elimino-los-Mensajes-en-Mi-Bandeja-de-Entrada-
-[Spatial Voice (Beta)](./Spatial Voice (Beta).html) |https://en.help.roblox.com/hc/es/articles/4405807645972-Spatial-Voice-Beta-
+[Chatear con voz](./Chatear con voz.html) |https://en.help.roblox.com/hc/es/articles/4405807645972-Chatear-con-voz
 [Preguntas frecuentes sobre la grabación de voz](./Preguntas frecuentes sobre la grabación de voz.html) |https://en.help.roblox.com/hc/es/articles/5704050147604-Preguntas-frecuentes-sobre-la-grabaci%C3%B3n-de-voz
