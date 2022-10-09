@@ -2,7 +2,7 @@
 ### Articles in this section
 Name|URL
 -|-
-[iDevices: come cancellare i cookie](./iDevices- come cancellare i cookie.html) |https://en.help.roblox.com/hc/it/articles/203313530-iDevices-come-cancellare-i-cookie
+[iDevices: Come Cancellare i Cookie](./iDevices- Come Cancellare i Cookie.html) |https://en.help.roblox.com/hc/it/articles/203313530-iDevices-Come-Cancellare-i-Cookie
 [App iOS: problemi tecnici](./App iOS- problemi tecnici.html) |https://en.help.roblox.com/hc/it/articles/203313470-App-iOS-problemi-tecnici
 [App iOS: Errore di Memoria](./App iOS- Errore di Memoria.html) |https://en.help.roblox.com/hc/it/articles/203313540-App-iOS-Errore-di-Memoria
 [App iOS: Update Loop](./App iOS- Update Loop.html) |https://en.help.roblox.com/hc/it/articles/360000361586-App-iOS-Update-Loop

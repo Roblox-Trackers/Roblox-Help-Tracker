@@ -9,9 +9,9 @@ Name|URL
 [Mac: risoluzione dei problemi](./Mac- risoluzione dei problemi.html) |https://en.help.roblox.com/hc/it/articles/203312990-Mac-risoluzione-dei-problemi
 [Come reinstallare il software Roblox?](./Come reinstallare il software Roblox-.html) |https://en.help.roblox.com/hc/it/articles/203312910-Come-reinstallare-il-software-Roblox-
 [Come disinstallare Roblox](./Come disinstallare Roblox.html) |https://en.help.roblox.com/hc/it/articles/203312980-Come-disinstallare-Roblox
-[Problemi di firewall e router](./Problemi di firewall e router.html) |https://en.help.roblox.com/hc/it/articles/203312840-Problemi-di-firewall-e-router
+[Problemi di Firewall e Router](./Problemi di Firewall e Router.html) |https://en.help.roblox.com/hc/it/articles/203312840-Problemi-di-Firewall-e-Router
 [Mac: Controllo genitori](./Mac- Controllo genitori.html) |https://en.help.roblox.com/hc/it/articles/203313010-Mac-Controllo-genitori
-[Mac: messaggio di errore di aggiornamento](./Mac- messaggio di errore di aggiornamento.html) |https://en.help.roblox.com/hc/it/articles/203313000-Mac-messaggio-di-errore-di-aggiornamento
+[Mac: Messaggio di Errore dell'Aggiornamento](./Mac- Messaggio di Errore dell'Aggiornamento.html) |https://en.help.roblox.com/hc/it/articles/203313000-Mac-Messaggio-di-Errore-dell-Aggiornamento
 [Problemi di grafica sui computer](./Problemi di grafica sui computer.html) |https://en.help.roblox.com/hc/it/articles/203312790-Problemi-di-grafica-sui-computer
 [Sono collegato, ma appaio come ospite all'interno dei giochi](./Sono collegato, ma appaio come ospite all'interno dei giochi.html) |https://en.help.roblox.com/hc/it/articles/205211416-Sono-collegato-ma-appaio-come-ospite-all-interno-dei-giochi
 [Ciclo infinito "Come ottenere Roblox più recenti"](./Ciclo infinito -Come ottenere Roblox più recenti-.html) |https://en.help.roblox.com/hc/it/articles/203312940-Ciclo-infinito-Come-ottenere-Roblox-pi%C3%B9-recenti-
