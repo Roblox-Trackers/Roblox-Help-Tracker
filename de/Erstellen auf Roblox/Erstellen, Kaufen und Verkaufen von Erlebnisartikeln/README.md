@@ -2,7 +2,7 @@
 ### Articles in this section
 Name|URL
 -|-
-[Die Bibliothek](./Die Bibliothek.html) |https://en.help.roblox.com/hc/de/articles/206580683-Die-Bibliothek
+[Der Creator Marketplace](./Der Creator Marketplace.html) |https://en.help.roblox.com/hc/de/articles/206580683-Der-Creator-Marketplace
 [So archivieren Sie Assets und Erfahrungen](./So archivieren Sie Assets und Erfahrungen.html) |https://en.help.roblox.com/hc/de/articles/360031253052-So-archivieren-Sie-Assets-und-Erfahrungen
 [Wie stelle ich meine Domain auf öffentlich?](./Wie stelle ich meine Domain auf öffentlich-.html) |https://en.help.roblox.com/hc/de/articles/203313230-Wie-stelle-ich-meine-Domain-auf-%C3%B6ffentlich-
 [Wie bearbeite ich ein Mesh/Kann ich das Mesh im Katalog verkaufen?](./Wie bearbeite ich ein Mesh-Kann ich das Mesh im Katalog verkaufen-.html) |https://en.help.roblox.com/hc/de/articles/203313250-Wie-bearbeite-ich-ein-Mesh-Kann-ich-das-Mesh-im-Katalog-verkaufen-
