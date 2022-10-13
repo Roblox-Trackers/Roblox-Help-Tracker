@@ -13,7 +13,6 @@ Name|URL
 [Mac: Controllo genitori](./Mac- Controllo genitori.html) |https://en.help.roblox.com/hc/it/articles/203313010-Mac-Controllo-genitori
 [Mac: Messaggio di Errore dell'Aggiornamento](./Mac- Messaggio di Errore dell'Aggiornamento.html) |https://en.help.roblox.com/hc/it/articles/203313000-Mac-Messaggio-di-Errore-dell-Aggiornamento
 [Problemi di grafica sui computer](./Problemi di grafica sui computer.html) |https://en.help.roblox.com/hc/it/articles/203312790-Problemi-di-grafica-sui-computer
-[Sono collegato, ma appaio come ospite all'interno dei giochi](./Sono collegato, ma appaio come ospite all'interno dei giochi.html) |https://en.help.roblox.com/hc/it/articles/205211416-Sono-collegato-ma-appaio-come-ospite-all-interno-dei-giochi
 [Ciclo infinito "Come ottenere Roblox più recenti"](./Ciclo infinito -Come ottenere Roblox più recenti-.html) |https://en.help.roblox.com/hc/it/articles/203312940-Ciclo-infinito-Come-ottenere-Roblox-pi%C3%B9-recenti-
 [Plugin del lancio di Roblox](./Plugin del lancio di Roblox.html) |https://en.help.roblox.com/hc/it/articles/203313020-Plugin-del-lancio-di-Roblox
 [Cosa fare se l'antivirus ha segnalato Roblox](./Cosa fare se l'antivirus ha segnalato Roblox.html) |https://en.help.roblox.com/hc/it/articles/203313030-Cosa-fare-se-l-antivirus-ha-segnalato-Roblox
