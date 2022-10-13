@@ -13,7 +13,6 @@ Name|URL
 [Mac: Controles Parentales](./Mac- Controles Parentales.html) |https://en.help.roblox.com/hc/es/articles/203313010-Mac-Controles-Parentales
 [Mac: Mensaje de Falla de Actualización](./Mac- Mensaje de Falla de Actualización.html) |https://en.help.roblox.com/hc/es/articles/203313000-Mac-Mensaje-de-Falla-de-Actualizaci%C3%B3n
 [Problemas de Gráficos en Computadoras](./Problemas de Gráficos en Computadoras.html) |https://en.help.roblox.com/hc/es/articles/203312790-Problemas-de-Gr%C3%A1ficos-en-Computadoras
-[He iniciado sesión, pero aparezco como invitado dentro de los juegos](./He iniciado sesión, pero aparezco como invitado dentro de los juegos.html) |https://en.help.roblox.com/hc/es/articles/205211416-He-iniciado-sesi%C3%B3n-pero-aparezco-como-invitado-dentro-de-los-juegos
 [Ciclo Infinito de "Getting Latest Roblox"](./Ciclo Infinito de -Getting Latest Roblox-.html) |https://en.help.roblox.com/hc/es/articles/203312940-Ciclo-Infinito-de-Getting-Latest-Roblox-
 [Plugin Roblox Launcher](./Plugin Roblox Launcher.html) |https://en.help.roblox.com/hc/es/articles/203313020-Plugin-Roblox-Launcher
 [Qué Hacer si Tu Antivirus ha Marcado a Roblox](./Qué Hacer si Tu Antivirus ha Marcado a Roblox.html) |https://en.help.roblox.com/hc/es/articles/203313030-Qu%C3%A9-Hacer-si-Tu-Antivirus-ha-Marcado-a-Roblox
