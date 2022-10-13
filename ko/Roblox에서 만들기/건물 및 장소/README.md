@@ -4,7 +4,7 @@ Name|URL
 -|-
 [기본 장소 설정: 이름 및 설명](./기본 장소 설정- 이름 및 설명.html) |https://en.help.roblox.com/hc/ko/articles/203314030-%EA%B8%B0%EB%B3%B8-%EC%9E%A5%EC%86%8C-%EC%84%A4%EC%A0%95-%EC%9D%B4%EB%A6%84-%EB%B0%8F-%EC%84%A4%EB%AA%85
 [게임을 위한 소셜 미디어 링크](./게임을 위한 소셜 미디어 링크.html) |https://en.help.roblox.com/hc/ko/articles/360000910966-%EA%B2%8C%EC%9E%84%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%86%8C%EC%85%9C-%EB%AF%B8%EB%94%94%EC%96%B4-%EB%A7%81%ED%81%AC
-[빌딩/스크립팅 도움말 및 튜토리얼](./빌딩-스크립팅 도움말 및 튜토리얼.html) |https://en.help.roblox.com/hc/ko/articles/203625344-%EB%B9%8C%EB%94%A9-%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8C%85-%EB%8F%84%EC%9B%80%EB%A7%90-%EB%B0%8F-%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC
+[체험 만드는 방법](./체험 만드는 방법.html) |https://en.help.roblox.com/hc/ko/articles/203625344-%EC%B2%B4%ED%97%98-%EB%A7%8C%EB%93%9C%EB%8A%94-%EB%B0%A9%EB%B2%95
 [Roblox 스튜디오](./Roblox 스튜디오.html) |https://en.help.roblox.com/hc/ko/articles/203313860-Roblox-%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4
 [스튜디오에서 편집 및 테스트 (편집 모드)](./스튜디오에서 편집 및 테스트 (편집 모드).html) |https://en.help.roblox.com/hc/ko/articles/203313870-%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4%EC%97%90%EC%84%9C-%ED%8E%B8%EC%A7%91-%EB%B0%8F-%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%8E%B8%EC%A7%91-%EB%AA%A8%EB%93%9C-
 [게임 복사 허용하지 않기](./게임 복사 허용하지 않기.html) |https://en.help.roblox.com/hc/ko/articles/203313940-%EA%B2%8C%EC%9E%84-%EB%B3%B5%EC%82%AC-%ED%97%88%EC%9A%A9%ED%95%98%EC%A7%80-%EC%95%8A%EA%B8%B0-
