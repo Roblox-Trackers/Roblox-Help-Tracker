@@ -13,7 +13,6 @@ Name|URL
 [Mac: Contrôle parental](./Mac- Contrôle parental.html) |https://en.help.roblox.com/hc/fr/articles/203313010-Mac-Contr%C3%B4le-parental
 [Mac: Message d'Échec de la mise à niveau](./Mac- Message d'Échec de la mise à niveau.html) |https://en.help.roblox.com/hc/fr/articles/203313000-Mac-Message-d-%C3%89chec-de-la-mise-%C3%A0-niveau
 [Problèmes graphiques sur les ordinateurs](./Problèmes graphiques sur les ordinateurs.html) |https://en.help.roblox.com/hc/fr/articles/203312790-Probl%C3%A8mes-graphiques-sur-les-ordinateurs
-[Je suis connecté, mais j’apparais en tant qu’invité à l'intérieur d'un jeu](./Je suis connecté, mais j’apparais en tant qu’invité à l'intérieur d'un jeu.html) |https://en.help.roblox.com/hc/fr/articles/205211416-Je-suis-connect%C3%A9-mais-j-apparais-en-tant-qu-invit%C3%A9-%C3%A0-l-int%C3%A9rieur-d-un-jeu
 [Boucle infinie « Téléchargement de la dernière version Roblox »](./Boucle infinie « Téléchargement de la dernière version Roblox ».html) |https://en.help.roblox.com/hc/fr/articles/203312940-Boucle-infinie-T%C3%A9l%C3%A9chargement-de-la-derni%C3%A8re-version-Roblox-
 [Roblox Launcher Plugin](./Roblox Launcher Plugin.html) |https://en.help.roblox.com/hc/fr/articles/203313020-Roblox-Launcher-Plugin
 [Que faire si votre antivirus a signalé Roblox](./Que faire si votre antivirus a signalé Roblox.html) |https://en.help.roblox.com/hc/fr/articles/203313030-Que-faire-si-votre-antivirus-a-signal%C3%A9-Roblox
