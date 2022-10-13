@@ -9,6 +9,7 @@ Name|URL
 [그룹 관리 방법](./그룹 관리 방법.html) |https://en.help.roblox.com/hc/ko/articles/203313810-%EA%B7%B8%EB%A3%B9-%EA%B4%80%EB%A6%AC-%EB%B0%A9%EB%B2%95
 [그룹 역할과 등급 및 권한 부여하기](./그룹 역할과 등급 및 권한 부여하기.html) |https://en.help.roblox.com/hc/ko/articles/203313770-%EA%B7%B8%EB%A3%B9-%EC%97%AD%ED%95%A0%EA%B3%BC-%EB%93%B1%EA%B8%89-%EB%B0%8F-%EA%B6%8C%ED%95%9C-%EB%B6%80%EC%97%AC%ED%95%98%EA%B8%B0
 [그룹에 이미지를 첨부하는 방법](./그룹에 이미지를 첨부하는 방법.html) |https://en.help.roblox.com/hc/ko/articles/203313800-%EA%B7%B8%EB%A3%B9%EC%97%90-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-%EC%B2%A8%EB%B6%80%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95
+[그룹 이름 변경하기](./그룹 이름 변경하기.html) |https://en.help.roblox.com/hc/ko/articles/4414930974228-%EA%B7%B8%EB%A3%B9-%EC%9D%B4%EB%A6%84-%EB%B3%80%EA%B2%BD%ED%95%98%EA%B8%B0
 [그룹 활동 보기 (그룹 감사 로그)](./그룹 활동 보기 (그룹 감사 로그).html) |https://en.help.roblox.com/hc/ko/articles/203313780-%EA%B7%B8%EB%A3%B9-%ED%99%9C%EB%8F%99-%EB%B3%B4%EA%B8%B0-%EA%B7%B8%EB%A3%B9-%EA%B0%90%EC%82%AC-%EB%A1%9C%EA%B7%B8-
 [그룹을 광고하는 방법](./그룹을 광고하는 방법.html) |https://en.help.roblox.com/hc/ko/articles/203313820-%EA%B7%B8%EB%A3%B9%EC%9D%84-%EA%B4%91%EA%B3%A0%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95
 [그룹 설명에 소셜 미디어 링크](./그룹 설명에 소셜 미디어 링크.html) |https://en.help.roblox.com/hc/ko/articles/360000910946-%EA%B7%B8%EB%A3%B9-%EC%84%A4%EB%AA%85%EC%97%90-%EC%86%8C%EC%85%9C-%EB%AF%B8%EB%94%94%EC%96%B4-%EB%A7%81%ED%81%AC
