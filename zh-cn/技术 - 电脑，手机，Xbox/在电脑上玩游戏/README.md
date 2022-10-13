@@ -13,7 +13,6 @@ Name|URL
 [苹果 Mac：家长控制](./苹果 Mac：家长控制.html) |https://en.help.roblox.com/hc/zh-cn/articles/203313010-%E8%8B%B9%E6%9E%9C-Mac-%E5%AE%B6%E9%95%BF%E6%8E%A7%E5%88%B6
 [Mac：升级失败信息](./Mac：升级失败信息.html) |https://en.help.roblox.com/hc/zh-cn/articles/203313000-Mac-%E5%8D%87%E7%BA%A7%E5%A4%B1%E8%B4%A5%E4%BF%A1%E6%81%AF
 [电脑上的图形问题](./电脑上的图形问题.html) |https://en.help.roblox.com/hc/zh-cn/articles/203312790-%E7%94%B5%E8%84%91%E4%B8%8A%E7%9A%84%E5%9B%BE%E5%BD%A2%E9%97%AE%E9%A2%98
-[我登录了，但我在作品中以客人的身份出现](./我登录了，但我在作品中以客人的身份出现.html) |https://en.help.roblox.com/hc/zh-cn/articles/205211416-%E6%88%91%E7%99%BB%E5%BD%95%E4%BA%86-%E4%BD%86%E6%88%91%E5%9C%A8%E4%BD%9C%E5%93%81%E4%B8%AD%E4%BB%A5%E5%AE%A2%E4%BA%BA%E7%9A%84%E8%BA%AB%E4%BB%BD%E5%87%BA%E7%8E%B0
 [无限“获得最新的Roblox”循环](./无限“获得最新的Roblox”循环.html) |https://en.help.roblox.com/hc/zh-cn/articles/203312940-%E6%97%A0%E9%99%90-%E8%8E%B7%E5%BE%97%E6%9C%80%E6%96%B0%E7%9A%84Roblox-%E5%BE%AA%E7%8E%AF
 [Roblox 启动器插件](./Roblox 启动器插件.html) |https://en.help.roblox.com/hc/zh-cn/articles/203313020-Roblox-%E5%90%AF%E5%8A%A8%E5%99%A8%E6%8F%92%E4%BB%B6
 [如果您的防病毒将Roblox标记时该如何处理](./如果您的防病毒将Roblox标记时该如何处理.html) |https://en.help.roblox.com/hc/zh-cn/articles/203313030-%E5%A6%82%E6%9E%9C%E6%82%A8%E7%9A%84%E9%98%B2%E7%97%85%E6%AF%92%E5%B0%86Roblox%E6%A0%87%E8%AE%B0%E6%97%B6%E8%AF%A5%E5%A6%82%E4%BD%95%E5%A4%84%E7%90%86
