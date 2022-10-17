@@ -2,7 +2,7 @@
 ### Articles in this section
 Name|URL
 -|-
-[How to Install and Play Roblox Using Browser](./How to Install and Play Roblox Using Browser.html) |https://en.help.roblox.com/hc/en-us/articles/204473560-How-to-Install-and-Play-Roblox-Using-Browser
+[How to Install and Play Roblox](./How to Install and Play Roblox.html) |https://en.help.roblox.com/hc/en-us/articles/204473560-How-to-Install-and-Play-Roblox
 [General Desktop Roblox Issues](./General Desktop Roblox Issues.html) |https://en.help.roblox.com/hc/en-us/articles/203312870-General-Desktop-Roblox-Issues
 [General Chat/Keyboard Issues on Computer](./General Chat-Keyboard Issues on Computer.html) |https://en.help.roblox.com/hc/en-us/articles/203313040-General-Chat-Keyboard-Issues-on-Computer
 [General Connection Problems](./General Connection Problems.html) |https://en.help.roblox.com/hc/en-us/articles/203312880-General-Connection-Problems
