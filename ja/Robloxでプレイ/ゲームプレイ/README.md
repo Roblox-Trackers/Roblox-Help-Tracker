@@ -18,7 +18,7 @@ Name|URL
 [テストサーバー](./テストサーバー.html) |https://en.help.roblox.com/hc/ja/articles/203314170-%E3%83%86%E3%82%B9%E3%83%88%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC
 [スクリーンショットを撮る方法](./スクリーンショットを撮る方法.html) |https://en.help.roblox.com/hc/ja/articles/203314160-%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%E3%82%92%E6%92%AE%E3%82%8B%E6%96%B9%E6%B3%95
 [ビデオを録画する方法](./ビデオを録画する方法.html) |https://en.help.roblox.com/hc/ja/articles/203314190-%E3%83%93%E3%83%87%E3%82%AA%E3%82%92%E9%8C%B2%E7%94%BB%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95
-[Robloxベータ版アプリ](./Robloxベータ版アプリ.html) |https://en.help.roblox.com/hc/ja/articles/360054053812-Roblox%E3%83%99%E3%83%BC%E3%82%BF%E7%89%88%E3%82%A2%E3%83%97%E3%83%AA
+[RobloxPCアプリ](./RobloxPCアプリ.html) |https://en.help.roblox.com/hc/ja/articles/360054053812-RobloxPC%E3%82%A2%E3%83%97%E3%83%AA
 [グラフィックの質](./グラフィックの質.html) |https://en.help.roblox.com/hc/ja/articles/203314310-%E3%82%B0%E3%83%A9%E3%83%95%E3%82%A3%E3%83%83%E3%82%AF%E3%81%AE%E8%B3%AA
 [タイムラグを減らしてプレイを高速化する方法](./タイムラグを減らしてプレイを高速化する方法.html) |https://en.help.roblox.com/hc/ja/articles/203314150-%E3%82%BF%E3%82%A4%E3%83%A0%E3%83%A9%E3%82%B0%E3%82%92%E6%B8%9B%E3%82%89%E3%81%97%E3%81%A6%E3%83%97%E3%83%AC%E3%82%A4%E3%82%92%E9%AB%98%E9%80%9F%E5%8C%96%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95
 [A | Bテスト － 特定のプレーヤーにのみ表示される新機能があるのはなぜですか？](./A - Bテスト － 特定のプレーヤーにのみ表示される新機能があるのはなぜですか？.html) |https://en.help.roblox.com/hc/ja/articles/203312530-A-B%E3%83%86%E3%82%B9%E3%83%88-%E7%89%B9%E5%AE%9A%E3%81%AE%E3%83%97%E3%83%AC%E3%83%BC%E3%83%A4%E3%83%BC%E3%81%AB%E3%81%AE%E3%81%BF%E8%A1%A8%E7%A4%BA%E3%81%95%E3%82%8C%E3%82%8B%E6%96%B0%E6%A9%9F%E8%83%BD%E3%81%8C%E3%81%82%E3%82%8B%E3%81%AE%E3%81%AF%E3%81%AA%E3%81%9C%E3%81%A7%E3%81%99%E3%81%8B-
