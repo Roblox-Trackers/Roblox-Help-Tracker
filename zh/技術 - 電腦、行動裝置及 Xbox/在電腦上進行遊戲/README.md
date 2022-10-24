@@ -2,7 +2,7 @@
 ### Articles in this section
 Name|URL
 -|-
-[如何使用瀏覽器安裝和播放 Roblox](./如何使用瀏覽器安裝和播放 Roblox.html) |https://en.help.roblox.com/hc/zh-tw/articles/204473560-%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E7%80%8F%E8%A6%BD%E5%99%A8%E5%AE%89%E8%A3%9D%E5%92%8C%E6%92%AD%E6%94%BE-Roblox
+[如何安裝和玩 Roblox](./如何安裝和玩 Roblox.html) |https://en.help.roblox.com/hc/zh-tw/articles/204473560-%E5%A6%82%E4%BD%95%E5%AE%89%E8%A3%9D%E5%92%8C%E7%8E%A9-Roblox
 [Roblox一般桌面的問題](./Roblox一般桌面的問題.html) |https://en.help.roblox.com/hc/zh-tw/articles/203312870-Roblox%E4%B8%80%E8%88%AC%E6%A1%8C%E9%9D%A2%E7%9A%84%E5%95%8F%E9%A1%8C
 [電腦上的一般聊天/鍵盤問題](./電腦上的一般聊天-鍵盤問題.html) |https://en.help.roblox.com/hc/zh-tw/articles/203313040-%E9%9B%BB%E8%85%A6%E4%B8%8A%E7%9A%84%E4%B8%80%E8%88%AC%E8%81%8A%E5%A4%A9-%E9%8D%B5%E7%9B%A4%E5%95%8F%E9%A1%8C
 [常見連接問題](./常見連接問題.html) |https://en.help.roblox.com/hc/zh-tw/articles/203312880-%E5%B8%B8%E8%A6%8B%E9%80%A3%E6%8E%A5%E5%95%8F%E9%A1%8C
