@@ -11,13 +11,13 @@ Name|URL
 [Sistema di Animazione (Emotes)](./Sistema di Animazione (Emotes).html) |https://en.help.roblox.com/hc/it/articles/203314300-Sistema-di-Animazione-Emotes-
 [Come uscire da un'esperienza un gioco](./Come uscire da un'esperienza un gioco.html) |https://en.help.roblox.com/hc/it/articles/203314240-Come-uscire-da-un-esperienza-un-gioco
 [Come Seguire o Partecipare a un Altro Giocatore Nelle Esperienze](./Come Seguire o Partecipare a un Altro Giocatore Nelle Esperienze.html) |https://en.help.roblox.com/hc/it/articles/203314220-Come-Seguire-o-Partecipare-a-un-Altro-Giocatore-Nelle-Esperienze
-[Come aggiungere un gioco (Luogo) ai Preferiti](./Come aggiungere un gioco (Luogo) ai Preferiti.html) |https://en.help.roblox.com/hc/it/articles/203313670-Come-aggiungere-un-gioco-Luogo-ai-Preferiti-
+[Come Aggiungere un Luogo ai Preferiti](./Come Aggiungere un Luogo ai Preferiti.html) |https://en.help.roblox.com/hc/it/articles/203313670-Come-Aggiungere-un-Luogo-ai-Preferiti-
 [Classifiche e Notifiche nell'Esperienza](./Classifiche e Notifiche nell'Esperienza.html) |https://en.help.roblox.com/hc/it/articles/204343250-Classifiche-e-Notifiche-nell-Esperienza
-[Come posso cambiare il colore del mio nome in un gioco?](./Come posso cambiare il colore del mio nome in un gioco-.html) |https://en.help.roblox.com/hc/it/articles/203314200-Come-posso-cambiare-il-colore-del-mio-nome-in-un-gioco-
+[Come Posso Cambiare il Colore del mio Nome in un'Esperienza?](./Come Posso Cambiare il Colore del mio Nome in un'Esperienza-.html) |https://en.help.roblox.com/hc/it/articles/203314200-Come-Posso-Cambiare-il-Colore-del-mio-Nome-in-un-Esperienza-
 [Come acquistare e configurare i server VIP?](./Come acquistare e configurare i server VIP-.html) |https://en.help.roblox.com/hc/it/articles/205345050-Come-acquistare-e-configurare-i-server-VIP-
 [I server di prova](./I server di prova.html) |https://en.help.roblox.com/hc/it/articles/203314170-I-server-di-prova
 [Come posso fare uno screenshot?](./Come posso fare uno screenshot-.html) |https://en.help.roblox.com/hc/it/articles/203314160-Come-posso-fare-uno-screenshot-
-[Come registrare video](./Come registrare video.html) |https://en.help.roblox.com/hc/it/articles/203314190-Come-registrare-video
+[Come Registrare Video](./Come Registrare Video.html) |https://en.help.roblox.com/hc/it/articles/203314190-Come-Registrare-Video
 [L'App Roblox per PC](./L'App Roblox per PC.html) |https://en.help.roblox.com/hc/it/articles/360054053812-L-App-Roblox-per-PC
 [Qualità grafica](./Qualità grafica.html) |https://en.help.roblox.com/hc/it/articles/203314310-Qualit%C3%A0-grafica
 [Come ridurre il LAG e accelerare il gioco](./Come ridurre il LAG e accelerare il gioco.html) |https://en.help.roblox.com/hc/it/articles/203314150-Come-ridurre-il-LAG-e-accelerare-il-gioco
