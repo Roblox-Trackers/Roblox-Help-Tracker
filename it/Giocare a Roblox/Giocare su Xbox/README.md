@@ -7,7 +7,7 @@ Name|URL
 [App Xbox One: Come Giocare ad Una Esperienza Roblox](./App Xbox One- Come Giocare ad Una Esperienza Roblox.html) |https://en.help.roblox.com/hc/it/articles/205091984-App-Xbox-One-Come-Giocare-ad-Una-Esperienza-Roblox
 [App Xbox One: posso giocare a Roblox nel mio paese?](./App Xbox One- posso giocare a Roblox nel mio paese-.html) |https://en.help.roblox.com/hc/it/articles/360000334743-App-Xbox-One-posso-giocare-a-Roblox-nel-mio-paese-
 [App Xbox One: come cambiare lingua](./App Xbox One- come cambiare lingua.html) |https://en.help.roblox.com/hc/it/articles/360000273466-App-Xbox-One-come-cambiare-lingua
-[App Xbox One: come consentire l'accesso con gli account familiari](./App Xbox One- come consentire l'accesso con gli account familiari.html) |https://en.help.roblox.com/hc/it/articles/115001279786-App-Xbox-One-come-consentire-l-accesso-con-gli-account-familiari
+[App Xbox One: Come Consentire l'Accesso Con Gli Account Familiari](./App Xbox One- Come Consentire l'Accesso Con Gli Account Familiari.html) |https://en.help.roblox.com/hc/it/articles/115001279786-App-Xbox-One-Come-Consentire-l-Accesso-Con-Gli-Account-Familiari
 [App Xbox One: come posso giocare con gli amici?](./App Xbox One- come posso giocare con gli amici-.html) |https://en.help.roblox.com/hc/it/articles/360000334526-App-Xbox-One-come-posso-giocare-con-gli-amici-
 [App Xbox One: Valutazione di un'Esperienza](./App Xbox One- Valutazione di un'Esperienza.html) |https://en.help.roblox.com/hc/it/articles/205355420-App-Xbox-One-Valutazione-di-un-Esperienza
 [App Xbox One: chat vocale](./App Xbox One- chat vocale.html) |https://en.help.roblox.com/hc/it/articles/205355430-App-Xbox-One-chat-vocale

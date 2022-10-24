@@ -5,7 +5,7 @@ Name|URL
 [Giochi su Roblox](./Giochi su Roblox.html) |https://en.help.roblox.com/hc/it/articles/115004734603-Giochi-su-Roblox
 [Contattare i Creatori di un'Esperienza per ricevere Assistenza](./Contattare i Creatori di un'Esperienza per ricevere Assistenza.html) |https://en.help.roblox.com/hc/it/articles/6566665691924-Contattare-i-Creatori-di-un-Esperienza-per-ricevere-Assistenza
 [Hardware del computer e requisiti del sistema operativo](./Hardware del computer e requisiti del sistema operativo.html) |https://en.help.roblox.com/hc/it/articles/203312800-Hardware-del-computer-e-requisiti-del-sistema-operativo
-[Impostazioni di gioco e guida](./Impostazioni di gioco e guida.html) |https://en.help.roblox.com/hc/it/articles/203314230-Impostazioni-di-gioco-e-guida
+[Impostazioni dell'Esperienza e Funzione Aiuto](./Impostazioni dell'Esperienza e Funzione Aiuto.html) |https://en.help.roblox.com/hc/it/articles/203314230-Impostazioni-dell-Esperienza-e-Funzione-Aiuto
 [Come usare Gear e The Backpack](./Come usare Gear e The Backpack.html) |https://en.help.roblox.com/hc/it/articles/203314280-Come-usare-Gear-e-The-Backpack
 [Come resettare l'avatar - in un'esperienza](./Come resettare l'avatar - in un'esperienza.html) |https://en.help.roblox.com/hc/it/articles/203314290-Come-resettare-l-avatar-in-un-esperienza
 [Sistema di Animazione (Emotes)](./Sistema di Animazione (Emotes).html) |https://en.help.roblox.com/hc/it/articles/203314300-Sistema-di-Animazione-Emotes-
