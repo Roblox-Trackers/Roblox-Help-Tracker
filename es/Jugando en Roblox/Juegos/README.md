@@ -10,7 +10,7 @@ Name|URL
 [Cómo Reiniciar Avatar en el Juego](./Cómo Reiniciar Avatar en el Juego.html) |https://en.help.roblox.com/hc/es/articles/203314290-C%C3%B3mo-Reiniciar-Avatar-en-el-Juego
 [Sistema de Animación (Emotes)](./Sistema de Animación (Emotes).html) |https://en.help.roblox.com/hc/es/articles/203314300-Sistema-de-Animaci%C3%B3n-Emotes-
 [Cómo salir de un Juego](./Cómo salir de un Juego.html) |https://en.help.roblox.com/hc/es/articles/203314240-C%C3%B3mo-salir-de-un-Juego
-[Cómo Seguir o Unirse a otro Jugador en Juegos](./Cómo Seguir o Unirse a otro Jugador en Juegos.html) |https://en.help.roblox.com/hc/es/articles/203314220-C%C3%B3mo-Seguir-o-Unirse-a-otro-Jugador-en-Juegos
+[Cómo seguir o unirse a otro Jugador en una experiencia](./Cómo seguir o unirse a otro Jugador en una experiencia.html) |https://en.help.roblox.com/hc/es/articles/203314220-C%C3%B3mo-seguir-o-unirse-a-otro-Jugador-en-una-experiencia
 [Como Marcar un Lugar como Favorito](./Como Marcar un Lugar como Favorito.html) |https://en.help.roblox.com/hc/es/articles/203313670-Como-Marcar-un-Lugar-como-Favorito
 [Tablas de clasificación y notificaciones en la experiencia](./Tablas de clasificación y notificaciones en la experiencia.html) |https://en.help.roblox.com/hc/es/articles/204343250-Tablas-de-clasificaci%C3%B3n-y-notificaciones-en-la-experiencia
 [¿Cómo Cambio el Color de Mi Nombre en un Juego?](./¿Cómo Cambio el Color de Mi Nombre en un Juego-.html) |https://en.help.roblox.com/hc/es/articles/203314200--C%C3%B3mo-Cambio-el-Color-de-Mi-Nombre-en-un-Juego-
