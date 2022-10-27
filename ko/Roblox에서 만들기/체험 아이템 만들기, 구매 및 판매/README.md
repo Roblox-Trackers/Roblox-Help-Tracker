@@ -9,5 +9,5 @@ Name|URL
 [데칼 제작 방법](./데칼 제작 방법.html) |https://en.help.roblox.com/hc/ko/articles/203313930-%EB%8D%B0%EC%B9%BC-%EC%A0%9C%EC%9E%91-%EB%B0%A9%EB%B2%95
 [모델 생성 방법](./모델 생성 방법.html) |https://en.help.roblox.com/hc/ko/articles/203313910-%EB%AA%A8%EB%8D%B8-%EC%83%9D%EC%84%B1-%EB%B0%A9%EB%B2%95
 [오디오 파일](./오디오 파일.html) |https://en.help.roblox.com/hc/ko/articles/203314070-%EC%98%A4%EB%94%94%EC%98%A4-%ED%8C%8C%EC%9D%BC
-[게임 패스](./게임 패스.html) |https://en.help.roblox.com/hc/ko/articles/203314040-%EA%B2%8C%EC%9E%84-%ED%8C%A8%EC%8A%A4
+[체험 패스](./체험 패스.html) |https://en.help.roblox.com/hc/ko/articles/203314040-%EC%B2%B4%ED%97%98-%ED%8C%A8%EC%8A%A4
 [게임 액세스 판매( 유료 액세스)](./게임 액세스 판매( 유료 액세스).html) |https://en.help.roblox.com/hc/ko/articles/203314090-%EA%B2%8C%EC%9E%84-%EC%95%A1%EC%84%B8%EC%8A%A4-%ED%8C%90%EB%A7%A4-%EC%9C%A0%EB%A3%8C-%EC%95%A1%EC%84%B8%EC%8A%A4-
