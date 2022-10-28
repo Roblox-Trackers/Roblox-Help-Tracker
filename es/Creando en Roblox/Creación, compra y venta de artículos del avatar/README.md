@@ -10,8 +10,8 @@ Name|URL
 [Tienda de Avatar](./Tienda de Avatar.html) |https://en.help.roblox.com/hc/es/articles/203313300-Tienda-de-Avatar
 [Cómo Vender Artículos?](./Cómo Vender Artículos-.html) |https://en.help.roblox.com/hc/es/articles/203313260-C%C3%B3mo-Vender-Art%C3%ADculos-
 [Venta de Ropa](./Venta de Ropa.html) |https://en.help.roblox.com/hc/es/articles/203313180-Venta-de-Ropa
-[Sistema de Intercambio (Trading System)](./Sistema de Intercambio (Trading System).html) |https://en.help.roblox.com/hc/es/articles/203313310-Sistema-de-Intercambio-Trading-System-
-[Todo sobre Gift Items (Artículos de Regalo)](./Todo sobre Gift Items (Artículos de Regalo).html) |https://en.help.roblox.com/hc/es/articles/205630374-Todo-sobre-Gift-Items-Art%C3%ADculos-de-Regalo-
+[Sistema de Intercambio](./Sistema de Intercambio.html) |https://en.help.roblox.com/hc/es/articles/203313310-Sistema-de-Intercambio
+[Todo sobre artículos de regalo](./Todo sobre artículos de regalo.html) |https://en.help.roblox.com/hc/es/articles/205630374-Todo-sobre-art%C3%ADculos-de-regalo
 [¿Cómo Obtengo Artículos Promocionales o de Concurso?](./¿Cómo Obtengo Artículos Promocionales o de Concurso-.html) |https://en.help.roblox.com/hc/es/articles/203313270--C%C3%B3mo-Obtengo-Art%C3%ADculos-Promocionales-o-de-Concurso-
 [13+ Tienda de Avatar](./13+ Tienda de Avatar.html) |https://en.help.roblox.com/hc/es/articles/203313320-13-Tienda-de-Avatar
 [Todo Sobre Las Camisas VIP](./Todo Sobre Las Camisas VIP.html) |https://en.help.roblox.com/hc/es/articles/203314080-Todo-Sobre-Las-Camisas-VIP

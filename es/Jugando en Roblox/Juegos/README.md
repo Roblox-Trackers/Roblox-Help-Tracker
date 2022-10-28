@@ -9,11 +9,11 @@ Name|URL
 [Cómo Usar Gear y Backpack (La Mochila)](./Cómo Usar Gear y Backpack (La Mochila).html) |https://en.help.roblox.com/hc/es/articles/203314280-C%C3%B3mo-Usar-Gear-y-Backpack-La-Mochila-
 [Cómo Reiniciar Avatar en el Juego](./Cómo Reiniciar Avatar en el Juego.html) |https://en.help.roblox.com/hc/es/articles/203314290-C%C3%B3mo-Reiniciar-Avatar-en-el-Juego
 [Sistema de Animación (Emotes)](./Sistema de Animación (Emotes).html) |https://en.help.roblox.com/hc/es/articles/203314300-Sistema-de-Animaci%C3%B3n-Emotes-
-[Cómo salir de un Juego](./Cómo salir de un Juego.html) |https://en.help.roblox.com/hc/es/articles/203314240-C%C3%B3mo-salir-de-un-Juego
+[Cómo salir de una experiencia](./Cómo salir de una experiencia.html) |https://en.help.roblox.com/hc/es/articles/203314240-C%C3%B3mo-salir-de-una-experiencia
 [Cómo seguir o unirse a otro Jugador en una experiencia](./Cómo seguir o unirse a otro Jugador en una experiencia.html) |https://en.help.roblox.com/hc/es/articles/203314220-C%C3%B3mo-seguir-o-unirse-a-otro-Jugador-en-una-experiencia
 [Como Marcar un Lugar como Favorito](./Como Marcar un Lugar como Favorito.html) |https://en.help.roblox.com/hc/es/articles/203313670-Como-Marcar-un-Lugar-como-Favorito
 [Tablas de clasificación y notificaciones en la experiencia](./Tablas de clasificación y notificaciones en la experiencia.html) |https://en.help.roblox.com/hc/es/articles/204343250-Tablas-de-clasificaci%C3%B3n-y-notificaciones-en-la-experiencia
-[¿Cómo Cambio el Color de Mi Nombre en un Juego?](./¿Cómo Cambio el Color de Mi Nombre en un Juego-.html) |https://en.help.roblox.com/hc/es/articles/203314200--C%C3%B3mo-Cambio-el-Color-de-Mi-Nombre-en-un-Juego-
+[¿Cómo cambio el color de mi nombre en una experiencia?](./¿Cómo cambio el color de mi nombre en una experiencia-.html) |https://en.help.roblox.com/hc/es/articles/203314200--C%C3%B3mo-cambio-el-color-de-mi-nombre-en-una-experiencia-
 [Como puedo comprar y configurar servidores Privados/VIP](./Como puedo comprar y configurar servidores Privados-VIP.html) |https://en.help.roblox.com/hc/es/articles/205345050-Como-puedo-comprar-y-configurar-servidores-Privados-VIP
 [Los Servidores de Prueba](./Los Servidores de Prueba.html) |https://en.help.roblox.com/hc/es/articles/203314170-Los-Servidores-de-Prueba
 [¿Cómo Tomo una Captura de Pantalla?](./¿Cómo Tomo una Captura de Pantalla-.html) |https://en.help.roblox.com/hc/es/articles/203314160--C%C3%B3mo-Tomo-una-Captura-de-Pantalla-
