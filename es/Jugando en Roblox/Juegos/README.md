@@ -2,7 +2,7 @@
 ### Articles in this section
 Name|URL
 -|-
-[Juegos en Roblox](./Juegos en Roblox.html) |https://en.help.roblox.com/hc/es/articles/115004734603-Juegos-en-Roblox
+[Experiencias en Roblox](./Experiencias en Roblox.html) |https://en.help.roblox.com/hc/es/articles/115004734603-Experiencias-en-Roblox
 [Contactarse con los creadores de una experiencia para obtener ayuda](./Contactarse con los creadores de una experiencia para obtener ayuda.html) |https://en.help.roblox.com/hc/es/articles/6566665691924-Contactarse-con-los-creadores-de-una-experiencia-para-obtener-ayuda
 [Requisitos de hardware y sistema operativo de la computadora](./Requisitos de hardware y sistema operativo de la computadora.html) |https://en.help.roblox.com/hc/es/articles/203312800-Requisitos-de-hardware-y-sistema-operativo-de-la-computadora
 [Configuración y ayuda del juego](./Configuración y ayuda del juego.html) |https://en.help.roblox.com/hc/es/articles/203314230-Configuraci%C3%B3n-y-ayuda-del-juego

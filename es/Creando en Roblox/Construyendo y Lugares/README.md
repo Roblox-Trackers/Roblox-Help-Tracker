@@ -3,7 +3,7 @@
 Name|URL
 -|-
 [Configuración básica del Lugar: nombre y descripción](./Configuración básica del Lugar- nombre y descripción.html) |https://en.help.roblox.com/hc/es/articles/203314030-Configuraci%C3%B3n-b%C3%A1sica-del-Lugar-nombre-y-descripci%C3%B3n
-[Enlaces de redes sociales para juegos](./Enlaces de redes sociales para juegos.html) |https://en.help.roblox.com/hc/es/articles/360000910966-Enlaces-de-redes-sociales-para-juegos
+[Enlaces de redes sociales para experiencias](./Enlaces de redes sociales para experiencias.html) |https://en.help.roblox.com/hc/es/articles/360000910966-Enlaces-de-redes-sociales-para-experiencias
 [Aprenda a crear experiencias](./Aprenda a crear experiencias.html) |https://en.help.roblox.com/hc/es/articles/203625344-Aprenda-a-crear-experiencias
 [Roblox Studio](./Roblox Studio.html) |https://en.help.roblox.com/hc/es/articles/203313860-Roblox-Studio
 [Edición y Prueba en Studio (Edit Mode)](./Edición y Prueba en Studio (Edit Mode).html) |https://en.help.roblox.com/hc/es/articles/203313870-Edici%C3%B3n-y-Prueba-en-Studio-Edit-Mode-
