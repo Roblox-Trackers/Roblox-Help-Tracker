@@ -15,7 +15,7 @@ Name|URL
 [게임을 복사하는 방법](./게임을 복사하는 방법.html) |https://en.help.roblox.com/hc/ko/articles/203313900-%EA%B2%8C%EC%9E%84%EC%9D%84-%EB%B3%B5%EC%82%AC%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95
 [장소의 이전 버전으로 되돌리는 방법](./장소의 이전 버전으로 되돌리는 방법.html) |https://en.help.roblox.com/hc/ko/articles/203313850-%EC%9E%A5%EC%86%8C%EC%9D%98-%EC%9D%B4%EC%A0%84-%EB%B2%84%EC%A0%84%EC%9C%BC%EB%A1%9C-%EB%90%98%EB%8F%8C%EB%A6%AC%EB%8A%94-%EB%B0%A9%EB%B2%95
 [시작 템플릿으로 장소 초기화](./시작 템플릿으로 장소 초기화.html) |https://en.help.roblox.com/hc/ko/articles/203313920-%EC%8B%9C%EC%9E%91-%ED%85%9C%ED%94%8C%EB%A6%BF%EC%9C%BC%EB%A1%9C-%EC%9E%A5%EC%86%8C-%EC%B4%88%EA%B8%B0%ED%99%94
-[게임에 장비 추가하기](./게임에 장비 추가하기.html) |https://en.help.roblox.com/hc/ko/articles/203314050-%EA%B2%8C%EC%9E%84%EC%97%90-%EC%9E%A5%EB%B9%84-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0
+[체험에 장비 추가하기](./체험에 장비 추가하기.html) |https://en.help.roblox.com/hc/ko/articles/203314050-%EC%B2%B4%ED%97%98%EC%97%90-%EC%9E%A5%EB%B9%84-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0
 [사용자 배지는 어떻게 만드나요?](./사용자 배지는 어떻게 만드나요-.html) |https://en.help.roblox.com/hc/ko/articles/203313650-%EC%82%AC%EC%9A%A9%EC%9E%90-%EB%B0%B0%EC%A7%80%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%A7%8C%EB%93%9C%EB%82%98%EC%9A%94-
 [GUI를 사용하여 어떻게 건축합니까?](./GUI를 사용하여 어떻게 건축합니까-.html) |https://en.help.roblox.com/hc/ko/articles/203313960-GUI%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC-%EC%96%B4%EB%96%BB%EA%B2%8C-%EA%B1%B4%EC%B6%95%ED%95%A9%EB%8B%88%EA%B9%8C-
 [장소의 채팅 스타일 구성하기](./장소의 채팅 스타일 구성하기.html) |https://en.help.roblox.com/hc/ko/articles/360019904552-%EC%9E%A5%EC%86%8C%EC%9D%98-%EC%B1%84%ED%8C%85-%EC%8A%A4%ED%83%80%EC%9D%BC-%EA%B5%AC%EC%84%B1%ED%95%98%EA%B8%B0-
