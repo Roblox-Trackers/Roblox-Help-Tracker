@@ -12,7 +12,7 @@ Name|URL
 [그룹 게임](./그룹 게임.html) |https://en.help.roblox.com/hc/ko/articles/203313760-%EA%B7%B8%EB%A3%B9-%EA%B2%8C%EC%9E%84
 [공개 게임을 만들고 창출하기](./공개 게임을 만들고 창출하기.html) |https://en.help.roblox.com/hc/ko/articles/203313950-%EA%B3%B5%EA%B0%9C-%EA%B2%8C%EC%9E%84%EC%9D%84-%EB%A7%8C%EB%93%A4%EA%B3%A0-%EC%B0%BD%EC%B6%9C%ED%95%98%EA%B8%B0
 [내 체험에서 어떻게 VIP/비공개 서버를 활성화할 수 있나요?](./내 체험에서 어떻게 VIP-비공개 서버를 활성화할 수 있나요-.html) |https://en.help.roblox.com/hc/ko/articles/360000781023-%EB%82%B4-%EC%B2%B4%ED%97%98%EC%97%90%EC%84%9C-%EC%96%B4%EB%96%BB%EA%B2%8C-VIP-%EB%B9%84%EA%B3%B5%EA%B0%9C-%EC%84%9C%EB%B2%84%EB%A5%BC-%ED%99%9C%EC%84%B1%ED%99%94%ED%95%A0-%EC%88%98-%EC%9E%88%EB%82%98%EC%9A%94-
-[게임을 복사하는 방법](./게임을 복사하는 방법.html) |https://en.help.roblox.com/hc/ko/articles/203313900-%EA%B2%8C%EC%9E%84%EC%9D%84-%EB%B3%B5%EC%82%AC%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95
+[체험을 복사하는 방법](./체험을 복사하는 방법.html) |https://en.help.roblox.com/hc/ko/articles/203313900-%EC%B2%B4%ED%97%98%EC%9D%84-%EB%B3%B5%EC%82%AC%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95
 [장소의 이전 버전으로 되돌리는 방법](./장소의 이전 버전으로 되돌리는 방법.html) |https://en.help.roblox.com/hc/ko/articles/203313850-%EC%9E%A5%EC%86%8C%EC%9D%98-%EC%9D%B4%EC%A0%84-%EB%B2%84%EC%A0%84%EC%9C%BC%EB%A1%9C-%EB%90%98%EB%8F%8C%EB%A6%AC%EB%8A%94-%EB%B0%A9%EB%B2%95
 [시작 템플릿으로 장소 초기화](./시작 템플릿으로 장소 초기화.html) |https://en.help.roblox.com/hc/ko/articles/203313920-%EC%8B%9C%EC%9E%91-%ED%85%9C%ED%94%8C%EB%A6%BF%EC%9C%BC%EB%A1%9C-%EC%9E%A5%EC%86%8C-%EC%B4%88%EA%B8%B0%ED%99%94
 [체험에 장비 추가하기](./체험에 장비 추가하기.html) |https://en.help.roblox.com/hc/ko/articles/203314050-%EC%B2%B4%ED%97%98%EC%97%90-%EC%9E%A5%EB%B9%84-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0
