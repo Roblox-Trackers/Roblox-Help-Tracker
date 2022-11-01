@@ -4,7 +4,7 @@ Name|URL
 -|-
 [I Forgot the PIN](./I Forgot the PIN.html) |https://en.help.roblox.com/hc/en-us/articles/360031292471-I-Forgot-the-PIN
 [How Do I Change My Age](./How Do I Change My Age.html) |https://en.help.roblox.com/hc/en-us/articles/360031323611-How-Do-I-Change-My-Age-
-[How Do I Add or Remove a PIN?](./How Do I Add or Remove a PIN-.html) |https://en.help.roblox.com/hc/en-us/articles/360031680051-How-Do-I-Add-or-Remove-a-PIN-
+[How Do I Add, Change, or Remove a PIN?](./How Do I Add, Change, or Remove a PIN-.html) |https://en.help.roblox.com/hc/en-us/articles/360031680051-How-Do-I-Add-Change-or-Remove-a-PIN-
 [Changing Privacy and Chat Settings](./Changing Privacy and Chat Settings.html) |https://en.help.roblox.com/hc/en-us/articles/360031751471-Changing-Privacy-and-Chat-Settings
 [How do I change my password?](./How do I change my password-.html) |https://en.help.roblox.com/hc/en-us/articles/203313100-How-do-I-change-my-password-
 [How do I delete my account?](./How do I delete my account-.html) |https://en.help.roblox.com/hc/en-us/articles/203313050-How-do-I-delete-my-account-
