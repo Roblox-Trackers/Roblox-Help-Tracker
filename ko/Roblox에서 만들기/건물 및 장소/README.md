@@ -7,9 +7,9 @@ Name|URL
 [체험을 제작하는 방법](./체험을 제작하는 방법.html) |https://en.help.roblox.com/hc/ko/articles/203625344-%EC%B2%B4%ED%97%98%EC%9D%84-%EC%A0%9C%EC%9E%91%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95
 [Roblox 스튜디오](./Roblox 스튜디오.html) |https://en.help.roblox.com/hc/ko/articles/203313860-Roblox-%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4
 [스튜디오에서 편집 및 테스트 (편집 모드)](./스튜디오에서 편집 및 테스트 (편집 모드).html) |https://en.help.roblox.com/hc/ko/articles/203313870-%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4%EC%97%90%EC%84%9C-%ED%8E%B8%EC%A7%91-%EB%B0%8F-%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%8E%B8%EC%A7%91-%EB%AA%A8%EB%93%9C-
-[게임 복사 허용하지 않기](./게임 복사 허용하지 않기.html) |https://en.help.roblox.com/hc/ko/articles/203313940-%EA%B2%8C%EC%9E%84-%EB%B3%B5%EC%82%AC-%ED%97%88%EC%9A%A9%ED%95%98%EC%A7%80-%EC%95%8A%EA%B8%B0-
+[체험 복사 허용하지 않기](./체험 복사 허용하지 않기.html) |https://en.help.roblox.com/hc/ko/articles/203313940-%EC%B2%B4%ED%97%98-%EB%B3%B5%EC%82%AC-%ED%97%88%EC%9A%A9%ED%95%98%EC%A7%80-%EC%95%8A%EA%B8%B0-
 [플레이스 게시/업로드 방법](./플레이스 게시-업로드 방법.html) |https://en.help.roblox.com/hc/ko/articles/203313890-%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4-%EA%B2%8C%EC%8B%9C-%EC%97%85%EB%A1%9C%EB%93%9C-%EB%B0%A9%EB%B2%95
-[그룹 게임](./그룹 게임.html) |https://en.help.roblox.com/hc/ko/articles/203313760-%EA%B7%B8%EB%A3%B9-%EA%B2%8C%EC%9E%84
+[그룹 체험](./그룹 체험.html) |https://en.help.roblox.com/hc/ko/articles/203313760-%EA%B7%B8%EB%A3%B9-%EC%B2%B4%ED%97%98
 [공개 게임을 만들고 창출하기](./공개 게임을 만들고 창출하기.html) |https://en.help.roblox.com/hc/ko/articles/203313950-%EA%B3%B5%EA%B0%9C-%EA%B2%8C%EC%9E%84%EC%9D%84-%EB%A7%8C%EB%93%A4%EA%B3%A0-%EC%B0%BD%EC%B6%9C%ED%95%98%EA%B8%B0
 [내 체험에서 어떻게 VIP/비공개 서버를 활성화할 수 있나요?](./내 체험에서 어떻게 VIP-비공개 서버를 활성화할 수 있나요-.html) |https://en.help.roblox.com/hc/ko/articles/360000781023-%EB%82%B4-%EC%B2%B4%ED%97%98%EC%97%90%EC%84%9C-%EC%96%B4%EB%96%BB%EA%B2%8C-VIP-%EB%B9%84%EA%B3%B5%EA%B0%9C-%EC%84%9C%EB%B2%84%EB%A5%BC-%ED%99%9C%EC%84%B1%ED%99%94%ED%95%A0-%EC%88%98-%EC%9E%88%EB%82%98%EC%9A%94-
 [체험을 복사하는 방법](./체험을 복사하는 방법.html) |https://en.help.roblox.com/hc/ko/articles/203313900-%EC%B2%B4%ED%97%98%EC%9D%84-%EB%B3%B5%EC%82%AC%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95
