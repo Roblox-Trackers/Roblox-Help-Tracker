@@ -8,4 +8,4 @@ Name|URL
 [규칙 위반을 신고하는 방법](./규칙 위반을 신고하는 방법.html) |https://en.help.roblox.com/hc/ko/articles/203312410-%EA%B7%9C%EC%B9%99-%EC%9C%84%EB%B0%98%EC%9D%84-%EC%8B%A0%EA%B3%A0%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95
 [사용자 차단을 해제하는 방법](./사용자 차단을 해제하는 방법.html) |https://en.help.roblox.com/hc/ko/articles/360033386312-%EC%82%AC%EC%9A%A9%EC%9E%90-%EC%B0%A8%EB%8B%A8%EC%9D%84-%ED%95%B4%EC%A0%9C%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95
 [다른 사용자를 차단하는 방법](./다른 사용자를 차단하는 방법.html) |https://en.help.roblox.com/hc/ko/articles/203314270-%EB%8B%A4%EB%A5%B8-%EC%82%AC%EC%9A%A9%EC%9E%90%EB%A5%BC-%EC%B0%A8%EB%8B%A8%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95
-[Xbox One 앱: 다른 플레이어 신고](./Xbox One 앱- 다른 플레이어 신고.html) |https://en.help.roblox.com/hc/ko/articles/206210440-Xbox-One-%EC%95%B1-%EB%8B%A4%EB%A5%B8-%ED%94%8C%EB%A0%88%EC%9D%B4%EC%96%B4-%EC%8B%A0%EA%B3%A0
+[Xbox One 앱에서 다른 플레이어 신고하기](./Xbox One 앱에서 다른 플레이어 신고하기.html) |https://en.help.roblox.com/hc/ko/articles/206210440-Xbox-One-%EC%95%B1%EC%97%90%EC%84%9C-%EB%8B%A4%EB%A5%B8-%ED%94%8C%EB%A0%88%EC%9D%B4%EC%96%B4-%EC%8B%A0%EA%B3%A0%ED%95%98%EA%B8%B0
