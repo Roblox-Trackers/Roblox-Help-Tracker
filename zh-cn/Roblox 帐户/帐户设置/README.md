@@ -4,7 +4,7 @@ Name|URL
 -|-
 [我忘记了我的 PIN 码](./我忘记了我的 PIN 码.html) |https://en.help.roblox.com/hc/zh-cn/articles/360031292471-%E6%88%91%E5%BF%98%E8%AE%B0%E4%BA%86%E6%88%91%E7%9A%84-PIN-%E7%A0%81
 [如何更改我的年龄？](./如何更改我的年龄？.html) |https://en.help.roblox.com/hc/zh-cn/articles/360031323611-%E5%A6%82%E4%BD%95%E6%9B%B4%E6%94%B9%E6%88%91%E7%9A%84%E5%B9%B4%E9%BE%84-
-[添加或删除账户 PIN  码](./添加或删除账户 PIN  码.html) |https://en.help.roblox.com/hc/zh-cn/articles/360031680051-%E6%B7%BB%E5%8A%A0%E6%88%96%E5%88%A0%E9%99%A4%E8%B4%A6%E6%88%B7-PIN-%E7%A0%81
+[如何添加或删除账户 PIN  码？](./如何添加或删除账户 PIN  码？.html) |https://en.help.roblox.com/hc/zh-cn/articles/360031680051-%E5%A6%82%E4%BD%95%E6%B7%BB%E5%8A%A0%E6%88%96%E5%88%A0%E9%99%A4%E8%B4%A6%E6%88%B7-PIN-%E7%A0%81-
 [更改隐私和聊天设置](./更改隐私和聊天设置.html) |https://en.help.roblox.com/hc/zh-cn/articles/360031751471-%E6%9B%B4%E6%94%B9%E9%9A%90%E7%A7%81%E5%92%8C%E8%81%8A%E5%A4%A9%E8%AE%BE%E7%BD%AE
 [如何更改我的密码？](./如何更改我的密码？.html) |https://en.help.roblox.com/hc/zh-cn/articles/203313100-%E5%A6%82%E4%BD%95%E6%9B%B4%E6%94%B9%E6%88%91%E7%9A%84%E5%AF%86%E7%A0%81-
 [如何删除我的账户？](./如何删除我的账户？.html) |https://en.help.roblox.com/hc/zh-cn/articles/203313050-%E5%A6%82%E4%BD%95%E5%88%A0%E9%99%A4%E6%88%91%E7%9A%84%E8%B4%A6%E6%88%B7-
