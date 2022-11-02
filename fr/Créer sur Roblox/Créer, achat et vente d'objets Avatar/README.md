@@ -6,7 +6,7 @@ Name|URL
 [Pourrai-je récupérer mes Robux si je supprime/je n’ai pas aimé un objet ?](./Pourrai-je récupérer mes Robux si je supprime-je n’ai pas aimé un objet -.html) |https://en.help.roblox.com/hc/fr/articles/203313290-Pourrai-je-r%C3%A9cup%C3%A9rer-mes-Robux-si-je-supprime-je-n-ai-pas-aim%C3%A9-un-objet-
 [La page de détails de l'article et comment acheter des articles](./La page de détails de l'article et comment acheter des articles.html) |https://en.help.roblox.com/hc/fr/articles/206142306-La-page-de-d%C3%A9tails-de-l-article-et-comment-acheter-des-articles
 [Vêtements : tee-shirts, chemises et pantalons](./Vêtements - tee-shirts, chemises et pantalons.html) |https://en.help.roblox.com/hc/fr/articles/203313170-V%C3%AAtements-tee-shirts-chemises-et-pantalons
-[Que sont les Équipements Virtuels ?](./Que sont les Équipements Virtuels -.html) |https://en.help.roblox.com/hc/fr/articles/203313630-Que-sont-les-%C3%89quipements-Virtuels-
+[Qu'est-ce que l'Équipement Virtuel?](./Qu'est-ce que l'Équipement Virtuel-.html) |https://en.help.roblox.com/hc/fr/articles/203313630-Qu-est-ce-que-l-%C3%89quipement-Virtuel-
 [Le Catalogue](./Le Catalogue.html) |https://en.help.roblox.com/hc/fr/articles/203313300-Le-Catalogue
 [Comment vendre des articles (Où se trouve l'article que je viens d'acheter ?)](./Comment vendre des articles (Où se trouve l'article que je viens d'acheter -).html) |https://en.help.roblox.com/hc/fr/articles/203313260-Comment-vendre-des-articles-O%C3%B9-se-trouve-l-article-que-je-viens-d-acheter-
 [Vendre des vêtements](./Vendre des vêtements.html) |https://en.help.roblox.com/hc/fr/articles/203313180-Vendre-des-v%C3%AAtements
