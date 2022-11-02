@@ -18,7 +18,7 @@ Name|URL
 [Les serveurs de test](./Les serveurs de test.html) |https://en.help.roblox.com/hc/fr/articles/203314170-Les-serveurs-de-test
 [Comment Faire une Capture d’Écran ?](./Comment Faire une Capture d’Écran -.html) |https://en.help.roblox.com/hc/fr/articles/203314160-Comment-Faire-une-Capture-d-%C3%89cran-
 [Comment enregistrer des vidéos](./Comment enregistrer des vidéos.html) |https://en.help.roblox.com/hc/fr/articles/203314190-Comment-enregistrer-des-vid%C3%A9os
-[Application bêta Roblox](./Application bêta Roblox.html) |https://en.help.roblox.com/hc/fr/articles/360054053812-Application-b%C3%AAta-Roblox
+[L'appli Roblox PC](./L'appli Roblox PC.html) |https://en.help.roblox.com/hc/fr/articles/360054053812-L-appli-Roblox-PC
 [La qualité graphique](./La qualité graphique.html) |https://en.help.roblox.com/hc/fr/articles/203314310-La-qualit%C3%A9-graphique
 [Comment Réduire le Décalage et Optimiser la Vitesse](./Comment Réduire le Décalage et Optimiser la Vitesse.html) |https://en.help.roblox.com/hc/fr/articles/203314150-Comment-R%C3%A9duire-le-D%C3%A9calage-et-Optimiser-la-Vitesse
 [Tests A|B - Pourquoi y a-t-il une nouvelle fonctionnalité visible seulement pour certains joueurs ?](./Tests A-B - Pourquoi y a-t-il une nouvelle fonctionnalité visible seulement pour certains joueurs -.html) |https://en.help.roblox.com/hc/fr/articles/203312530-Tests-A-B-Pourquoi-y-a-t-il-une-nouvelle-fonctionnalit%C3%A9-visible-seulement-pour-certains-joueurs-
