@@ -3,7 +3,7 @@
 Name|URL
 -|-
 [Roblox를 설치 및 플레이하는 방법](./Roblox를 설치 및 플레이하는 방법.html) |https://en.help.roblox.com/hc/ko/articles/204473560-Roblox%EB%A5%BC-%EC%84%A4%EC%B9%98-%EB%B0%8F-%ED%94%8C%EB%A0%88%EC%9D%B4%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95
-[Roblox 이용 시 발생할 수 있는 일반적인 데스크톱 관련 문제](./Roblox 이용 시 발생할 수 있는 일반적인 데스크톱 관련 문제.html) |https://en.help.roblox.com/hc/ko/articles/203312870-Roblox-%EC%9D%B4%EC%9A%A9-%EC%8B%9C-%EB%B0%9C%EC%83%9D%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8A%94-%EC%9D%BC%EB%B0%98%EC%A0%81%EC%9D%B8-%EB%8D%B0%EC%8A%A4%ED%81%AC%ED%86%B1-%EA%B4%80%EB%A0%A8-%EB%AC%B8%EC%A0%9C
+[일반적인 데스크톱 관련 문제](./일반적인 데스크톱 관련 문제.html) |https://en.help.roblox.com/hc/ko/articles/203312870-%EC%9D%BC%EB%B0%98%EC%A0%81%EC%9D%B8-%EB%8D%B0%EC%8A%A4%ED%81%AC%ED%86%B1-%EA%B4%80%EB%A0%A8-%EB%AC%B8%EC%A0%9C
 [컴퓨터의 일반 채팅/키보드 문제](./컴퓨터의 일반 채팅-키보드 문제.html) |https://en.help.roblox.com/hc/ko/articles/203313040-%EC%BB%B4%ED%93%A8%ED%84%B0%EC%9D%98-%EC%9D%BC%EB%B0%98-%EC%B1%84%ED%8C%85-%ED%82%A4%EB%B3%B4%EB%93%9C-%EB%AC%B8%EC%A0%9C
 [일반적인 연결 관련 문제](./일반적인 연결 관련 문제.html) |https://en.help.roblox.com/hc/ko/articles/203312880-%EC%9D%BC%EB%B0%98%EC%A0%81%EC%9D%B8-%EC%97%B0%EA%B2%B0-%EA%B4%80%EB%A0%A8-%EB%AC%B8%EC%A0%9C
 [Mac 관련 문제 해결 방법](./Mac 관련 문제 해결 방법.html) |https://en.help.roblox.com/hc/ko/articles/203312990-Mac-%EA%B4%80%EB%A0%A8-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0-%EB%B0%A9%EB%B2%95
