@@ -2,7 +2,7 @@
 ### Articles in this section
 Name|URL
 -|-
-[Réglages de base de la Place : Nom et description](./Réglages de base de la Place - Nom et description.html) |https://en.help.roblox.com/hc/fr/articles/203314030-R%C3%A9glages-de-base-de-la-Place-Nom-et-description
+[Réglages de base de la Place: Nom et description](./Réglages de base de la Place- Nom et description.html) |https://en.help.roblox.com/hc/fr/articles/203314030-R%C3%A9glages-de-base-de-la-Place-Nom-et-description
 [Liens vers les médias sociaux dans les descriptions des expériences](./Liens vers les médias sociaux dans les descriptions des expériences.html) |https://en.help.roblox.com/hc/fr/articles/360000910966-Liens-vers-les-m%C3%A9dias-sociaux-dans-les-descriptions-des-exp%C3%A9riences
 [Apprenez à créer des expériences](./Apprenez à créer des expériences.html) |https://en.help.roblox.com/hc/fr/articles/203625344-Apprenez-%C3%A0-cr%C3%A9er-des-exp%C3%A9riences
 [Le Studio Roblox](./Le Studio Roblox.html) |https://en.help.roblox.com/hc/fr/articles/203313860-Le-Studio-Roblox
