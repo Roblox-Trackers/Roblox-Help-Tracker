@@ -5,7 +5,7 @@ Name|URL
 [Roblox게임](./Roblox게임.html) |https://en.help.roblox.com/hc/ko/articles/115004734603-Roblox%EA%B2%8C%EC%9E%84
 [크리에이터에게 문의하기](./크리에이터에게 문의하기.html) |https://en.help.roblox.com/hc/ko/articles/6566665691924-%ED%81%AC%EB%A6%AC%EC%97%90%EC%9D%B4%ED%84%B0%EC%97%90%EA%B2%8C-%EB%AC%B8%EC%9D%98%ED%95%98%EA%B8%B0
 [컴퓨터 하드웨어 및 운영 체제 요구 사항](./컴퓨터 하드웨어 및 운영 체제 요구 사항.html) |https://en.help.roblox.com/hc/ko/articles/203312800-%EC%BB%B4%ED%93%A8%ED%84%B0-%ED%95%98%EB%93%9C%EC%9B%A8%EC%96%B4-%EB%B0%8F-%EC%9A%B4%EC%98%81-%EC%B2%B4%EC%A0%9C-%EC%9A%94%EA%B5%AC-%EC%82%AC%ED%95%AD
-[게임 내 설정에 대한 도움말](./게임 내 설정에 대한 도움말.html) |https://en.help.roblox.com/hc/ko/articles/203314230-%EA%B2%8C%EC%9E%84-%EB%82%B4-%EC%84%A4%EC%A0%95%EC%97%90-%EB%8C%80%ED%95%9C-%EB%8F%84%EC%9B%80%EB%A7%90
+[경험 내 설정과 도움말](./경험 내 설정과 도움말.html) |https://en.help.roblox.com/hc/ko/articles/203314230-%EA%B2%BD%ED%97%98-%EB%82%B4-%EC%84%A4%EC%A0%95%EA%B3%BC-%EB%8F%84%EC%9B%80%EB%A7%90
 [장비와 배낭 사용 방법](./장비와 배낭 사용 방법.html) |https://en.help.roblox.com/hc/ko/articles/203314280-%EC%9E%A5%EB%B9%84%EC%99%80-%EB%B0%B0%EB%82%AD-%EC%82%AC%EC%9A%A9-%EB%B0%A9%EB%B2%95
 [아바타를 재설정하는 방법 - 게임 내](./아바타를 재설정하는 방법 - 게임 내.html) |https://en.help.roblox.com/hc/ko/articles/203314290-%EC%95%84%EB%B0%94%ED%83%80%EB%A5%BC-%EC%9E%AC%EC%84%A4%EC%A0%95%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-%EA%B2%8C%EC%9E%84-%EB%82%B4
 [애니메이션 시스템 (이모티콘)](./애니메이션 시스템 (이모티콘).html) |https://en.help.roblox.com/hc/ko/articles/203314300-%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%9D%B4%EB%AA%A8%ED%8B%B0%EC%BD%98-
