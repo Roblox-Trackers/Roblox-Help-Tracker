@@ -12,7 +12,7 @@ Name|URL
 [Comment quitter un jeu ?](./Comment quitter un jeu -.html) |https://en.help.roblox.com/hc/fr/articles/203314240-Comment-quitter-un-jeu-
 [Comment suivre ou joindre un autre joueur dans les jeux](./Comment suivre ou joindre un autre joueur dans les jeux.html) |https://en.help.roblox.com/hc/fr/articles/203314220-Comment-suivre-ou-joindre-un-autre-joueur-dans-les-jeux
 [Comment Mettre un Endroit dans mes Favoris](./Comment Mettre un Endroit dans mes Favoris.html) |https://en.help.roblox.com/hc/fr/articles/203313670-Comment-Mettre-un-Endroit-dans-mes-Favoris
-[Classements et notifications dans le jeu](./Classements et notifications dans le jeu.html) |https://en.help.roblox.com/hc/fr/articles/204343250-Classements-et-notifications-dans-le-jeu
+[Classements et notifications dans l'expérience](./Classements et notifications dans l'expérience.html) |https://en.help.roblox.com/hc/fr/articles/204343250-Classements-et-notifications-dans-l-exp%C3%A9rience
 [Comment puis-je changer la couleur de mon nom dans un jeu ?](./Comment puis-je changer la couleur de mon nom dans un jeu -.html) |https://en.help.roblox.com/hc/fr/articles/203314200-Comment-puis-je-changer-la-couleur-de-mon-nom-dans-un-jeu-
 [Comment acheter et configurer des Serveur Privé/VIP ?](./Comment acheter et configurer des Serveur Privé-VIP -.html) |https://en.help.roblox.com/hc/fr/articles/205345050-Comment-acheter-et-configurer-des-Serveur-Priv%C3%A9-VIP-
 [Les serveurs de test](./Les serveurs de test.html) |https://en.help.roblox.com/hc/fr/articles/203314170-Les-serveurs-de-test
