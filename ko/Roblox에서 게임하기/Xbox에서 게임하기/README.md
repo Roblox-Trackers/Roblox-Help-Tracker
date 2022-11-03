@@ -2,7 +2,7 @@
 ### Articles in this section
 Name|URL
 -|-
-[Xbox One으로 제가 Roblox의 어떤 것을 할 수 있습니까?](./Xbox One으로 제가 Roblox의 어떤 것을 할 수 있습니까-.html) |https://en.help.roblox.com/hc/ko/articles/207850783-Xbox-One%EC%9C%BC%EB%A1%9C-%EC%A0%9C%EA%B0%80-Roblox%EC%9D%98-%EC%96%B4%EB%96%A4-%EA%B2%83%EC%9D%84-%ED%95%A0-%EC%88%98-%EC%9E%88%EC%8A%B5%EB%8B%88%EA%B9%8C-
+[Xbox One으로 Roblox에서 무엇을 할 수 있나요?](./Xbox One으로 Roblox에서 무엇을 할 수 있나요-.html) |https://en.help.roblox.com/hc/ko/articles/207850783-Xbox-One%EC%9C%BC%EB%A1%9C-Roblox%EC%97%90%EC%84%9C-%EB%AC%B4%EC%97%87%EC%9D%84-%ED%95%A0-%EC%88%98-%EC%9E%88%EB%82%98%EC%9A%94-
 [Xbox One 앱: Roblox 계정에 로그인 하기](./Xbox One 앱- Roblox 계정에 로그인 하기.html) |https://en.help.roblox.com/hc/ko/articles/205662594-Xbox-One-%EC%95%B1-Roblox-%EA%B3%84%EC%A0%95%EC%97%90-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%ED%95%98%EA%B8%B0
 [Xbox One 앱: Roblox 체험을 플레이하는 방법](./Xbox One 앱- Roblox 체험을 플레이하는 방법.html) |https://en.help.roblox.com/hc/ko/articles/205091984-Xbox-One-%EC%95%B1-Roblox-%EC%B2%B4%ED%97%98%EC%9D%84-%ED%94%8C%EB%A0%88%EC%9D%B4%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95
 [Xbox One 앱: 제 국가에서 Roblox를 할 수 있습니까?](./Xbox One 앱- 제 국가에서 Roblox를 할 수 있습니까-.html) |https://en.help.roblox.com/hc/ko/articles/360000334743-Xbox-One-%EC%95%B1-%EC%A0%9C-%EA%B5%AD%EA%B0%80%EC%97%90%EC%84%9C-Roblox%EB%A5%BC-%ED%95%A0-%EC%88%98-%EC%9E%88%EC%8A%B5%EB%8B%88%EA%B9%8C-
