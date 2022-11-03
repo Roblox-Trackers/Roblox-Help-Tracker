@@ -20,5 +20,5 @@ Name|URL
 [Comment enregistrer des vidéos](./Comment enregistrer des vidéos.html) |https://en.help.roblox.com/hc/fr/articles/203314190-Comment-enregistrer-des-vid%C3%A9os
 [L'appli Roblox PC](./L'appli Roblox PC.html) |https://en.help.roblox.com/hc/fr/articles/360054053812-L-appli-Roblox-PC
 [La qualité graphique](./La qualité graphique.html) |https://en.help.roblox.com/hc/fr/articles/203314310-La-qualit%C3%A9-graphique
-[Comment Réduire le Décalage et Optimiser la Vitesse](./Comment Réduire le Décalage et Optimiser la Vitesse.html) |https://en.help.roblox.com/hc/fr/articles/203314150-Comment-R%C3%A9duire-le-D%C3%A9calage-et-Optimiser-la-Vitesse
+[Comment réduire la latence et accélérer le jeu](./Comment réduire la latence et accélérer le jeu.html) |https://en.help.roblox.com/hc/fr/articles/203314150-Comment-r%C3%A9duire-la-latence-et-acc%C3%A9l%C3%A9rer-le-jeu
 [Tests A|B - Pourquoi y a-t-il une nouvelle fonctionnalité visible seulement pour certains joueurs ?](./Tests A-B - Pourquoi y a-t-il une nouvelle fonctionnalité visible seulement pour certains joueurs -.html) |https://en.help.roblox.com/hc/fr/articles/203312530-Tests-A-B-Pourquoi-y-a-t-il-une-nouvelle-fonctionnalit%C3%A9-visible-seulement-pour-certains-joueurs-
