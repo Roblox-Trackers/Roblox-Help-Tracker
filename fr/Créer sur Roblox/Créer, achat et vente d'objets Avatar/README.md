@@ -3,7 +3,7 @@
 Name|URL
 -|-
 [Où est l'article que je viens d'acheter ?](./Où est l'article que je viens d'acheter -.html) |https://en.help.roblox.com/hc/fr/articles/360029542532-O%C3%B9-est-l-article-que-je-viens-d-acheter-
-[Pourrai-je récupérer mes Robux si je supprime/je n’ai pas aimé un objet ?](./Pourrai-je récupérer mes Robux si je supprime-je n’ai pas aimé un objet -.html) |https://en.help.roblox.com/hc/fr/articles/203313290-Pourrai-je-r%C3%A9cup%C3%A9rer-mes-Robux-si-je-supprime-je-n-ai-pas-aim%C3%A9-un-objet-
+[Vais-je récupérer mon Robux si je supprime/n'aime pas un article ?](./Vais-je récupérer mon Robux si je supprime-n'aime pas un article -.html) |https://en.help.roblox.com/hc/fr/articles/203313290-Vais-je-r%C3%A9cup%C3%A9rer-mon-Robux-si-je-supprime-n-aime-pas-un-article-
 [La page de détails de l'article et comment acheter des articles](./La page de détails de l'article et comment acheter des articles.html) |https://en.help.roblox.com/hc/fr/articles/206142306-La-page-de-d%C3%A9tails-de-l-article-et-comment-acheter-des-articles
 [Vêtements : tee-shirts, chemises et pantalons](./Vêtements - tee-shirts, chemises et pantalons.html) |https://en.help.roblox.com/hc/fr/articles/203313170-V%C3%AAtements-tee-shirts-chemises-et-pantalons
 [Qu'est-ce que l'Équipement Virtuel?](./Qu'est-ce que l'Équipement Virtuel-.html) |https://en.help.roblox.com/hc/fr/articles/203313630-Qu-est-ce-que-l-%C3%89quipement-Virtuel-
