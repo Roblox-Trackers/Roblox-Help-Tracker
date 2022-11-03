@@ -2,7 +2,7 @@
 ### Articles in this section
 Name|URL
 -|-
-[Roblox게임](./Roblox게임.html) |https://en.help.roblox.com/hc/ko/articles/115004734603-Roblox%EA%B2%8C%EC%9E%84
+[Roblox 경험](./Roblox 경험.html) |https://en.help.roblox.com/hc/ko/articles/115004734603-Roblox-%EA%B2%BD%ED%97%98
 [크리에이터에게 문의하기](./크리에이터에게 문의하기.html) |https://en.help.roblox.com/hc/ko/articles/6566665691924-%ED%81%AC%EB%A6%AC%EC%97%90%EC%9D%B4%ED%84%B0%EC%97%90%EA%B2%8C-%EB%AC%B8%EC%9D%98%ED%95%98%EA%B8%B0
 [컴퓨터 하드웨어 및 운영 체제 요구 사항](./컴퓨터 하드웨어 및 운영 체제 요구 사항.html) |https://en.help.roblox.com/hc/ko/articles/203312800-%EC%BB%B4%ED%93%A8%ED%84%B0-%ED%95%98%EB%93%9C%EC%9B%A8%EC%96%B4-%EB%B0%8F-%EC%9A%B4%EC%98%81-%EC%B2%B4%EC%A0%9C-%EC%9A%94%EA%B5%AC-%EC%82%AC%ED%95%AD
 [경험 내 설정과 도움말](./경험 내 설정과 도움말.html) |https://en.help.roblox.com/hc/ko/articles/203314230-%EA%B2%BD%ED%97%98-%EB%82%B4-%EC%84%A4%EC%A0%95%EA%B3%BC-%EB%8F%84%EC%9B%80%EB%A7%90
