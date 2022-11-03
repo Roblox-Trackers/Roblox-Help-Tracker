@@ -20,5 +20,5 @@ Name|URL
 [Wie man Videos aufzeichnet](./Wie man Videos aufzeichnet.html) |https://en.help.roblox.com/hc/de/articles/203314190-Wie-man-Videos-aufzeichnet
 [Roblox PC App](./Roblox PC App.html) |https://en.help.roblox.com/hc/de/articles/360054053812-Roblox-PC-App
 [Grafikqualität](./Grafikqualität.html) |https://en.help.roblox.com/hc/de/articles/203314310-Grafikqualit%C3%A4t
-[Wie man “Lag”(Verzögerungen) verringert und das Spiel beschleunigt](./Wie man “Lag”(Verzögerungen) verringert und das Spiel beschleunigt.html) |https://en.help.roblox.com/hc/de/articles/203314150-Wie-man-Lag-Verz%C3%B6gerungen-verringert-und-das-Spiel-beschleunigt
+[So reduzieren Sie Verzögerungen und beschleunigen das Spiel](./So reduzieren Sie Verzögerungen und beschleunigen das Spiel.html) |https://en.help.roblox.com/hc/de/articles/203314150-So-reduzieren-Sie-Verz%C3%B6gerungen-und-beschleunigen-das-Spiel
 [A|B Tests - Warum gibt es nur für bestimmte Spieler ein neues Feature?](./A-B Tests - Warum gibt es nur für bestimmte Spieler ein neues Feature-.html) |https://en.help.roblox.com/hc/de/articles/203312530-A-B-Tests-Warum-gibt-es-nur-f%C3%BCr-bestimmte-Spieler-ein-neues-Feature-
