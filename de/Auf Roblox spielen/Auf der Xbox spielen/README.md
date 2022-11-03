@@ -4,7 +4,7 @@ Name|URL
 -|-
 [Was kann ich mit Roblox auf der Xbox One machen?](./Was kann ich mit Roblox auf der Xbox One machen-.html) |https://en.help.roblox.com/hc/de/articles/207850783-Was-kann-ich-mit-Roblox-auf-der-Xbox-One-machen-
 [Xbox One App: Anmelden mit Ihrem Roblox-Konto](./Xbox One App- Anmelden mit Ihrem Roblox-Konto.html) |https://en.help.roblox.com/hc/de/articles/205662594-Xbox-One-App-Anmelden-mit-Ihrem-Roblox-Konto
-[Xbox One App: Wie man ein Roblox Spiel spielt](./Xbox One App- Wie man ein Roblox Spiel spielt.html) |https://en.help.roblox.com/hc/de/articles/205091984-Xbox-One-App-Wie-man-ein-Roblox-Spiel-spielt
+[Xbox One App: Wie man ein Roblox Erlebnis spielt](./Xbox One App- Wie man ein Roblox Erlebnis spielt.html) |https://en.help.roblox.com/hc/de/articles/205091984-Xbox-One-App-Wie-man-ein-Roblox-Erlebnis-spielt
 [Xbox One App: Kann ich Roblox in meinem Land spielen?](./Xbox One App- Kann ich Roblox in meinem Land spielen-.html) |https://en.help.roblox.com/hc/de/articles/360000334743-Xbox-One-App-Kann-ich-Roblox-in-meinem-Land-spielen-
 [Xbox One App: Wie ändere ich die Sprache](./Xbox One App- Wie ändere ich die Sprache.html) |https://en.help.roblox.com/hc/de/articles/360000273466-Xbox-One-App-Wie-%C3%A4ndere-ich-die-Sprache
 [Xbox One App: Zugriff für Familienkonten erlauben](./Xbox One App- Zugriff für Familienkonten erlauben.html) |https://en.help.roblox.com/hc/de/articles/115001279786-Xbox-One-App-Zugriff-f%C3%BCr-Familienkonten-erlauben
