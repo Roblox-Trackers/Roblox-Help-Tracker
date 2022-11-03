@@ -9,7 +9,7 @@ Name|URL
 [Xbox One App: Wie ändere ich die Sprache](./Xbox One App- Wie ändere ich die Sprache.html) |https://en.help.roblox.com/hc/de/articles/360000273466-Xbox-One-App-Wie-%C3%A4ndere-ich-die-Sprache
 [Xbox One App: Zugriff für Familienkonten erlauben](./Xbox One App- Zugriff für Familienkonten erlauben.html) |https://en.help.roblox.com/hc/de/articles/115001279786-Xbox-One-App-Zugriff-f%C3%BCr-Familienkonten-erlauben
 [Xbox One App: Wie kann ich mit Freunden spielen?](./Xbox One App- Wie kann ich mit Freunden spielen-.html) |https://en.help.roblox.com/hc/de/articles/360000334526-Xbox-One-App-Wie-kann-ich-mit-Freunden-spielen-
-[Xbox One App: Ein Spiel bewerten](./Xbox One App- Ein Spiel bewerten.html) |https://en.help.roblox.com/hc/de/articles/205355420-Xbox-One-App-Ein-Spiel-bewerten
+[Xbox One App: Eine Erfahrung bewerten](./Xbox One App- Eine Erfahrung bewerten.html) |https://en.help.roblox.com/hc/de/articles/205355420-Xbox-One-App-Eine-Erfahrung-bewerten
 [Xbox One App: Sprachchat](./Xbox One App- Sprachchat.html) |https://en.help.roblox.com/hc/de/articles/205355430-Xbox-One-App-Sprachchat
 [Kann ich ein Roblox-Erlebnis erstellen und es auf Xbox spielen?](./Kann ich ein Roblox-Erlebnis erstellen und es auf Xbox spielen-.html) |https://en.help.roblox.com/hc/de/articles/205091994-Kann-ich-ein-Roblox-Erlebnis-erstellen-und-es-auf-Xbox-spielen-
 [Nutzungsbedingungen und Datenschutzbestimmungen](./Nutzungsbedingungen und Datenschutzbestimmungen.html) |https://en.help.roblox.com/hc/de/articles/205358110-Nutzungsbedingungen-und-Datenschutzbestimmungen
