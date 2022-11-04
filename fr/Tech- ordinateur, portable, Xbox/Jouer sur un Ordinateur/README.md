@@ -9,9 +9,9 @@ Name|URL
 [Dépannage pour les Utilisateurs de Mac](./Dépannage pour les Utilisateurs de Mac.html) |https://en.help.roblox.com/hc/fr/articles/203312990-D%C3%A9pannage-pour-les-Utilisateurs-de-Mac
 [Comment puis-je réinstaller le logiciel Roblox?](./Comment puis-je réinstaller le logiciel Roblox-.html) |https://en.help.roblox.com/hc/fr/articles/203312910-Comment-puis-je-r%C3%A9installer-le-logiciel-Roblox-
 [Comment désinstaller Roblox](./Comment désinstaller Roblox.html) |https://en.help.roblox.com/hc/fr/articles/203312980-Comment-d%C3%A9sinstaller-Roblox
-[Problèmes de Pare-feu et de Routeur](./Problèmes de Pare-feu et de Routeur.html) |https://en.help.roblox.com/hc/fr/articles/203312840-Probl%C3%A8mes-de-Pare-feu-et-de-Routeur
+[Problèmes de pare-feu et de routeur](./Problèmes de pare-feu et de routeur.html) |https://en.help.roblox.com/hc/fr/articles/203312840-Probl%C3%A8mes-de-pare-feu-et-de-routeur
 [Mac: Contrôle parental](./Mac- Contrôle parental.html) |https://en.help.roblox.com/hc/fr/articles/203313010-Mac-Contr%C3%B4le-parental
-[Mac: Message d'Échec de la mise à niveau](./Mac- Message d'Échec de la mise à niveau.html) |https://en.help.roblox.com/hc/fr/articles/203313000-Mac-Message-d-%C3%89chec-de-la-mise-%C3%A0-niveau
+[Mac : message d'échec de la mise à jour](./Mac - message d'échec de la mise à jour.html) |https://en.help.roblox.com/hc/fr/articles/203313000-Mac-message-d-%C3%A9chec-de-la-mise-%C3%A0-jour
 [Problèmes graphiques sur les ordinateurs](./Problèmes graphiques sur les ordinateurs.html) |https://en.help.roblox.com/hc/fr/articles/203312790-Probl%C3%A8mes-graphiques-sur-les-ordinateurs
 [Boucle infinie « Téléchargement de la dernière version Roblox »](./Boucle infinie « Téléchargement de la dernière version Roblox ».html) |https://en.help.roblox.com/hc/fr/articles/203312940-Boucle-infinie-T%C3%A9l%C3%A9chargement-de-la-derni%C3%A8re-version-Roblox-
 [Roblox Launcher Plugin](./Roblox Launcher Plugin.html) |https://en.help.roblox.com/hc/fr/articles/203313020-Roblox-Launcher-Plugin

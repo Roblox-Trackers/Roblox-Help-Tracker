@@ -6,11 +6,11 @@ Name|URL
 [Contactez un développeur de jeux pour obtenir de l'aide](./Contactez un développeur de jeux pour obtenir de l'aide.html) |https://en.help.roblox.com/hc/fr/articles/6566665691924-Contactez-un-d%C3%A9veloppeur-de-jeux-pour-obtenir-de-l-aide
 [Les prérequis matériels et de système d'exploitation](./Les prérequis matériels et de système d'exploitation.html) |https://en.help.roblox.com/hc/fr/articles/203312800-Les-pr%C3%A9requis-mat%C3%A9riels-et-de-syst%C3%A8me-d-exploitation
 [Configuration des Paramètres et Aide en jeu](./Configuration des Paramètres et Aide en jeu.html) |https://en.help.roblox.com/hc/fr/articles/203314230-Configuration-des-Param%C3%A8tres-et-Aide-en-jeu
-[Comment utiliser l’Équipement et le Sac à Dos ?](./Comment utiliser l’Équipement et le Sac à Dos -.html) |https://en.help.roblox.com/hc/fr/articles/203314280-Comment-utiliser-l-%C3%89quipement-et-le-Sac-%C3%A0-Dos-
+[Comment utiliser l'équipement et le sac à dos](./Comment utiliser l'équipement et le sac à dos.html) |https://en.help.roblox.com/hc/fr/articles/203314280-Comment-utiliser-l-%C3%A9quipement-et-le-sac-%C3%A0-dos
 [Comment relancer votre Avatar - Dans un jeu](./Comment relancer votre Avatar - Dans un jeu.html) |https://en.help.roblox.com/hc/fr/articles/203314290-Comment-relancer-votre-Avatar-Dans-un-jeu
 [Système d'animation (émoticônes)](./Système d'animation (émoticônes).html) |https://en.help.roblox.com/hc/fr/articles/203314300-Syst%C3%A8me-d-animation-%C3%A9motic%C3%B4nes-
 [Comment quitter un jeu ?](./Comment quitter un jeu -.html) |https://en.help.roblox.com/hc/fr/articles/203314240-Comment-quitter-un-jeu-
-[Comment suivre ou joindre un autre joueur dans les jeux](./Comment suivre ou joindre un autre joueur dans les jeux.html) |https://en.help.roblox.com/hc/fr/articles/203314220-Comment-suivre-ou-joindre-un-autre-joueur-dans-les-jeux
+[Comment suivre ou rejoindre un autre joueur dans les Expériences](./Comment suivre ou rejoindre un autre joueur dans les Expériences.html) |https://en.help.roblox.com/hc/fr/articles/203314220-Comment-suivre-ou-rejoindre-un-autre-joueur-dans-les-Exp%C3%A9riences
 [Comment Mettre un Endroit dans mes Favoris](./Comment Mettre un Endroit dans mes Favoris.html) |https://en.help.roblox.com/hc/fr/articles/203313670-Comment-Mettre-un-Endroit-dans-mes-Favoris
 [Classements et notifications dans l'expérience](./Classements et notifications dans l'expérience.html) |https://en.help.roblox.com/hc/fr/articles/204343250-Classements-et-notifications-dans-l-exp%C3%A9rience
 [Comment puis-je changer la couleur de mon nom dans un jeu ?](./Comment puis-je changer la couleur de mon nom dans un jeu -.html) |https://en.help.roblox.com/hc/fr/articles/203314200-Comment-puis-je-changer-la-couleur-de-mon-nom-dans-un-jeu-
