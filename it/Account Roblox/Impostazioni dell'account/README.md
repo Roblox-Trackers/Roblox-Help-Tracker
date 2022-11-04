@@ -2,7 +2,7 @@
 ### Articles in this section
 Name|URL
 -|-
-[Ho dimenticato il mio PIN](./Ho dimenticato il mio PIN.html) |https://en.help.roblox.com/hc/it/articles/360031292471-Ho-dimenticato-il-mio-PIN
+[Ho Dimenticato il PIN](./Ho Dimenticato il PIN.html) |https://en.help.roblox.com/hc/it/articles/360031292471-Ho-Dimenticato-il-PIN
 [Come posso cambiare la mia età](./Come posso cambiare la mia età.html) |https://en.help.roblox.com/hc/it/articles/360031323611-Come-posso-cambiare-la-mia-et%C3%A0
 [Come faccio ad aggiungere o rimuovere un PIN account?](./Come faccio ad aggiungere o rimuovere un PIN account-.html) |https://en.help.roblox.com/hc/it/articles/360031680051-Come-faccio-ad-aggiungere-o-rimuovere-un-PIN-account-
 [Modifica delle Impostazioni di Privacy e Chat](./Modifica delle Impostazioni di Privacy e Chat.html) |https://en.help.roblox.com/hc/it/articles/360031751471-Modifica-delle-Impostazioni-di-Privacy-e-Chat
