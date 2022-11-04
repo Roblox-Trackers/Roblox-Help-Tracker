@@ -18,12 +18,12 @@
      <ul>
       <li>
        <span style="font-weight: 400;">
-        Ein "Grafikkarte ist zu alt" -Fehler erscheint beim Versuch, Spiele zu starten
+        Ein "Grafikkarte ist zu alt" -Fehler erscheint beim Versuch, Erlebnisse zu starten
        </span>
       </li>
       <li>
        <span style="font-weight: 400;">
-        Roblox stürzt während des Spiels ab und meldet einen Grafikfehler
+        Roblox stürzt während des Erlebnisses ab und meldet einen Grafikfehler
        </span>
       </li>
       <li>
@@ -33,7 +33,7 @@
       </li>
       <li>
        <span style="font-weight: 400;">
-        Alle Spiele sehen beim Spielen ungewöhnlich aus, wie zum Beispiel seltsam aussehende Texturen, Bildverzerrungen oder unverständlicher Text
+        Alle Erlebnisse sehen beim Spielen ungewöhnlich aus, wie zum Beispiel seltsam aussehende Texturen, Bildverzerrungen oder unverständlicher Text
        </span>
       </li>
      </ul>
@@ -46,9 +46,7 @@
      </h1>
      <ul>
       <li>
-       <span style="font-weight: 400;">
-        Computer verfügt nicht über die neueste Version von DirectX (Roblox erfordert Version 9 oder höher)
-       </span>
+       Der PC verfügt nicht über DirectX10 oder eine höhere Funktionsstufe
       </li>
       <li>
        <span style="font-weight: 400;">
@@ -131,72 +129,74 @@
      <p>
      </p>
      <h2 class="wysiwyg-indent1">
-      <span style="font-weight: 400;">
-       Testen Sie Ihr DirectX-Paket
-      </span>
+      Erkennen der unterstützten DirectX-Funktionsstufe
      </h2>
      <p class="wysiwyg-indent2">
-      <span style="font-weight: 400;">
-       Wenn Sie Windows 7 oder höher haben, haben Sie wahrscheinlich DirectX 9 oder eine neuere Version. Nur für den Fall, müssen Sie folgendes tun:
-      </span>
+      So überprüfen Sie die unterstützte Funktionsstufe von DirectX:
      </p>
      <ol>
       <ol>
        <li>
-        <span style="font-weight: 400;">
-         Start&gt;
-         <strong>
-          Ausführen
-         </strong>
-         oder halten Sie die Windows-Taste Ihrer Tastatur gedrückt und drücken Sie S (Windows 8 / 8.1 / 10)
-        </span>
+        Drücken Sie die Tastenkombination
+        <strong>
+         Windows + R
+        </strong>
+        , um die Eingabeaufforderung
+        <strong>
+         Ausführen
+        </strong>
+        aufzurufen.
        </li>
        <li>
-        <span style="font-weight: 400;">
-         Geben Sie dxdiag ein und drücken Sie die Eingabetaste auf Ihrer Tastatur
-        </span>
+        Tippen Sie "dxdiag" (ohne Anführungszeichen) ein und drücken Sie die
+        <strong>
+         Eingabetaste
+        </strong>
+        .
        </li>
        <li>
-        <span style="font-weight: 400;">
-         Überprüfen Sie Ihre "DirectX-Version", die sich am unteren Ende der Systeminformationen befindet, um sicherzustellen, dass es DirectX 9 oder höher ist.
-        </span>
+        Klicken Sie im DirectX-Fenster in der Panel-Ansicht auf die Registerkarte
+        <strong>
+         Anzeige
+        </strong>
+        oder
+        <strong>
+         Anzeige 1
+        </strong>
+        und
+        <strong>
+         Anzeige 2
+        </strong>
+        , falls vorhanden.
+        <br/>
+        <ul>
+         <li>
+          Für Windows 8.1/10 suchen Sie nach
+          <strong>
+           Funktionsstufen
+          </strong>
+          . Für Windows 7 suchen Sie nach
+          <strong>
+           DDI Version
+          </strong>
+          .
+         </li>
+        </ul>
        </li>
       </ol>
      </ol>
      <p class="wysiwyg-indent2">
-      <span style="font-weight: 400;">
-       Bitte öffnen Sie auch die Registerkarte "Anzeige" (oder "Anzeige 1"). Auf dieser Registerkarte befinden sich drei Zeilen im Feld "DirectX-Funktionen": DirectDraw-Beschleunigung, Direct3D-Beschleunigung und AGP-Texturbeschleunigung. Bestätigen Sie, dass alle 3 aktiviert sind. Wenn dies nicht der Fall ist, sollten Sie sicherstellen, dass die Hardwarebeschleunigung vollständig aktiviert ist. Hilfe hierzu finden Sie auf der Website Ihres Grafikkartenherstellers im Hilfebereich.
-      </span>
+      Wenn Sie in der Zeile "DDI Version" oder " Funktionsstufen" nicht "10" oder höher sehen, unterstützt Ihre Grafikkarte nicht DX10 oder höher und Sie können nicht auf die Anwendung zugreifen.
      </p>
      <p class="wysiwyg-indent2">
      </p>
      <h2 class="wysiwyg-indent1">
       <span style="font-weight: 400;">
-       Aktualisieren Sie notwendig DirectX
+       Reduzieren Sie die Farbqualität Ihres Displays
       </span>
      </h2>
      <p class="wysiwyg-indent2">
-      <span style="font-weight: 400;">
-       Wenn Sie nicht über die neueste Version von DirectX verfügen, aktualisieren Sie das von der Website, indem Sie
-       <a href="http://support.microsoft.com/kb/179113" rel="noopener" target="_blank">
-        hier klicken
-       </a>
-       .
-      </span>
-     </p>
-     <p class="wysiwyg-indent2">
-     </p>
-     <h2 class="wysiwyg-indent1">
-      <span style="font-weight: 400;">
-       Verringern Sie die Farbqualität Ihrer Anzeige
-      </span>
-     </h2>
-     <p class="wysiwyg-indent2">
-      <span style="font-weight: 400;">
-       Es ist möglich, dass Ihre Grafikkarte kein 3D-Rendering mit der für den normalen Desktop-Betrieb verwendeten Farbqualität unterstützt. Sie können versuchen, die Bittiefe auf 16 Bit zu verringern, um zu sehen, ob das hilft.
-      </span>
-     </p>
-     <p class="wysiwyg-indent2">
+      Es ist möglich, dass Ihre Grafikkarte die 3D-Wiedergabe in der Farbqualität, die Sie für den normalen Desktop-Betrieb verwenden, nicht unterstützt. Sie können versuchen, die Bittiefe auf 16 Bit zu verringern, um zu sehen, ob das hilft.
      </p>
      <p class="wysiwyg-indent2">
      </p>
@@ -253,6 +253,40 @@
       <span style="font-weight: 400;">
        Besuchen Sie die Supportseite des Herstellers Ihrer Grafikkarte und laden Sie den neuesten Treiber für Ihr Modell herunter.
       </span>
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h2 class="wysiwyg-indent1">
+      Kompatibilitätsmodus überprüfen
+     </h2>
+     <p>
+      Wenn Sie eine Meldung erhalten, dass Ihre Grafik veraltet ist, Ihr Computer aber die Mindestanforderungen erfüllt, können Sie prüfen, ob die Anwendung im Kompatibilitätsmodus läuft.
+     </p>
+     <ol>
+      <li>
+       Klicken Sie mit der rechten Maustaste auf die Roblox- oder Roblox Studio-App und wählen Sie
+       <strong>
+        Eigenschaften
+       </strong>
+       .
+      </li>
+      <li>
+       Wählen Sie die Registerkarte
+       <strong>
+        Kompatibilität
+       </strong>
+       .
+      </li>
+      <li>
+       Wenn das Feld
+       <strong>
+        Dieses Programm im Kompatibilitätsmodus ausführen
+       </strong>
+       markiert ist, deaktivieren Sie es.
+      </li>
+     </ol>
+     <p>
+      Bitte besuchen Sie die Support-Seite des Herstellers Ihrer Grafikkarte und laden Sie den neuesten Treiber für Ihr bestimmtes Modell herunter.
      </p>
     </div>
     <div class="article-attachments">
