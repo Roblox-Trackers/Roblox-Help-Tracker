@@ -5,7 +5,7 @@ Name|URL
 [Erlebnisse auf Roblox](./Erlebnisse auf Roblox.html) |https://en.help.roblox.com/hc/de/articles/115004734603-Erlebnisse-auf-Roblox
 [Kontaktaufnahme mit den Erstellern eines Erlebnisses für Hilfe](./Kontaktaufnahme mit den Erstellern eines Erlebnisses für Hilfe.html) |https://en.help.roblox.com/hc/de/articles/6566665691924-Kontaktaufnahme-mit-den-Erstellern-eines-Erlebnisses-f%C3%BCr-Hilfe
 [Computer Hardware & Betriebssystemanforderungen](./Computer Hardware & Betriebssystemanforderungen.html) |https://en.help.roblox.com/hc/de/articles/203312800-Computer-Hardware-Betriebssystemanforderungen
-[Einstellungen und Hilfe im Spiel](./Einstellungen und Hilfe im Spiel.html) |https://en.help.roblox.com/hc/de/articles/203314230-Einstellungen-und-Hilfe-im-Spiel
+[Einstellungen und Hilfe im Erlebnis](./Einstellungen und Hilfe im Erlebnis.html) |https://en.help.roblox.com/hc/de/articles/203314230-Einstellungen-und-Hilfe-im-Erlebnis
 [Wie man Ausrüstung und den Rucksack benutzt](./Wie man Ausrüstung und den Rucksack benutzt.html) |https://en.help.roblox.com/hc/de/articles/203314280-Wie-man-Ausr%C3%BCstung-und-den-Rucksack-benutzt
 [Wie man sein Avatar im Spiel zurücksetzt](./Wie man sein Avatar im Spiel zurücksetzt.html) |https://en.help.roblox.com/hc/de/articles/203314290-Wie-man-sein-Avatar-im-Spiel-zur%C3%BCcksetzt
 [Animationssystem (Emotes)](./Animationssystem (Emotes).html) |https://en.help.roblox.com/hc/de/articles/203314300-Animationssystem-Emotes-
