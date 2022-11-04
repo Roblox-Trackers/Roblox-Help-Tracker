@@ -4,7 +4,7 @@ Name|URL
 -|-
 [Comment installer et jouer à Roblox ?](./Comment installer et jouer à Roblox -.html) |https://en.help.roblox.com/hc/fr/articles/204473560-Comment-installer-et-jouer-%C3%A0-Roblox-
 [Problèmes généraux liés à la version de bureau de Roblox](./Problèmes généraux liés à la version de bureau de Roblox.html) |https://en.help.roblox.com/hc/fr/articles/203312870-Probl%C3%A8mes-g%C3%A9n%C3%A9raux-li%C3%A9s-%C3%A0-la-version-de-bureau-de-Roblox
-[Questions Générales Concernant le Chat / le Clavier sur un Ordinateur](./Questions Générales Concernant le Chat - le Clavier sur un Ordinateur.html) |https://en.help.roblox.com/hc/fr/articles/203313040-Questions-G%C3%A9n%C3%A9rales-Concernant-le-Chat-le-Clavier-sur-un-Ordinateur
+[Problèmes généraux de chat/clavier sur ordinateur](./Problèmes généraux de chat-clavier sur ordinateur.html) |https://en.help.roblox.com/hc/fr/articles/203313040-Probl%C3%A8mes-g%C3%A9n%C3%A9raux-de-chat-clavier-sur-ordinateur
 [Principaux problèmes de Connexion](./Principaux problèmes de Connexion.html) |https://en.help.roblox.com/hc/fr/articles/203312880-Principaux-probl%C3%A8mes-de-Connexion
 [Dépannage pour les Utilisateurs de Mac](./Dépannage pour les Utilisateurs de Mac.html) |https://en.help.roblox.com/hc/fr/articles/203312990-D%C3%A9pannage-pour-les-Utilisateurs-de-Mac
 [Comment puis-je réinstaller le logiciel Roblox?](./Comment puis-je réinstaller le logiciel Roblox-.html) |https://en.help.roblox.com/hc/fr/articles/203312910-Comment-puis-je-r%C3%A9installer-le-logiciel-Roblox-
