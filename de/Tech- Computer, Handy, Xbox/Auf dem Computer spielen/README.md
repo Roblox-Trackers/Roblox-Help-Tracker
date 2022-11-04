@@ -3,7 +3,7 @@
 Name|URL
 -|-
 [Wie man Roblox installiert und spielt](./Wie man Roblox installiert und spielt.html) |https://en.help.roblox.com/hc/de/articles/204473560-Wie-man-Roblox-installiert-und-spielt
-[Allgemeine Roblox-Computer-Probleme](./Allgemeine Roblox-Computer-Probleme.html) |https://en.help.roblox.com/hc/de/articles/203312870-Allgemeine-Roblox-Computer-Probleme
+[Allgemeine Desktop-Roblox-Probleme](./Allgemeine Desktop-Roblox-Probleme.html) |https://en.help.roblox.com/hc/de/articles/203312870-Allgemeine-Desktop-Roblox-Probleme
 [Allgemeine Chat- / Tastaturprobleme auf dem Computer](./Allgemeine Chat- - Tastaturprobleme auf dem Computer.html) |https://en.help.roblox.com/hc/de/articles/203313040-Allgemeine-Chat-Tastaturprobleme-auf-dem-Computer
 [Allgemeine Verbindungsprobleme](./Allgemeine Verbindungsprobleme.html) |https://en.help.roblox.com/hc/de/articles/203312880-Allgemeine-Verbindungsprobleme
 [Mac: Fehlerbehebung](./Mac- Fehlerbehebung.html) |https://en.help.roblox.com/hc/de/articles/203312990-Mac-Fehlerbehebung
