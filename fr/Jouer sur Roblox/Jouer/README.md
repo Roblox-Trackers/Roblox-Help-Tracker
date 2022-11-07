@@ -13,7 +13,7 @@ Name|URL
 [Comment suivre ou rejoindre un autre joueur dans les Expériences](./Comment suivre ou rejoindre un autre joueur dans les Expériences.html) |https://en.help.roblox.com/hc/fr/articles/203314220-Comment-suivre-ou-rejoindre-un-autre-joueur-dans-les-Exp%C3%A9riences
 [Comment Mettre un Endroit dans mes Favoris](./Comment Mettre un Endroit dans mes Favoris.html) |https://en.help.roblox.com/hc/fr/articles/203313670-Comment-Mettre-un-Endroit-dans-mes-Favoris
 [Classements et notifications dans l'expérience](./Classements et notifications dans l'expérience.html) |https://en.help.roblox.com/hc/fr/articles/204343250-Classements-et-notifications-dans-l-exp%C3%A9rience
-[Comment puis-je changer la couleur de mon nom dans un jeu ?](./Comment puis-je changer la couleur de mon nom dans un jeu -.html) |https://en.help.roblox.com/hc/fr/articles/203314200-Comment-puis-je-changer-la-couleur-de-mon-nom-dans-un-jeu-
+[Comment puis-je changer la couleur de mon nom dans une expérience ?](./Comment puis-je changer la couleur de mon nom dans une expérience -.html) |https://en.help.roblox.com/hc/fr/articles/203314200-Comment-puis-je-changer-la-couleur-de-mon-nom-dans-une-exp%C3%A9rience-
 [Comment acheter et configurer des Serveur Privé/VIP ?](./Comment acheter et configurer des Serveur Privé-VIP -.html) |https://en.help.roblox.com/hc/fr/articles/205345050-Comment-acheter-et-configurer-des-Serveur-Priv%C3%A9-VIP-
 [Les serveurs de test](./Les serveurs de test.html) |https://en.help.roblox.com/hc/fr/articles/203314170-Les-serveurs-de-test
 [Comment Faire une Capture d’Écran ?](./Comment Faire une Capture d’Écran -.html) |https://en.help.roblox.com/hc/fr/articles/203314160-Comment-Faire-une-Capture-d-%C3%89cran-
