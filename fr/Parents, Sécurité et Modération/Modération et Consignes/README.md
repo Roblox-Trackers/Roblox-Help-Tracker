@@ -7,4 +7,4 @@ Name|URL
 [Puis-je faire appel pour un ami ?](./Puis-je faire appel pour un ami -.html) |https://en.help.roblox.com/hc/fr/articles/360000240183-Puis-je-faire-appel-pour-un-ami-
 [Faux rapport](./Faux rapport.html) |https://en.help.roblox.com/hc/fr/articles/203312470-Faux-rapport
 [Règles d'expériences personnalisées](./Règles d'expériences personnalisées.html) |https://en.help.roblox.com/hc/fr/articles/203312500-R%C3%A8gles-d-exp%C3%A9riences-personnalis%C3%A9es
-[Comprendre les messages de modération](./Comprendre les messages de modération.html) |https://en.help.roblox.com/hc/fr/articles/360020870412-Comprendre-les-messages-de-mod%C3%A9ration
+[Comprendre les Messages de Modération](./Comprendre les Messages de Modération.html) |https://en.help.roblox.com/hc/fr/articles/360020870412-Comprendre-les-Messages-de-Mod%C3%A9ration
