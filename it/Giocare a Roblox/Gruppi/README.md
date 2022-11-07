@@ -9,7 +9,7 @@ Name|URL
 [Come gestire un gruppo](./Come gestire un gruppo.html) |https://en.help.roblox.com/hc/it/articles/203313810-Come-gestire-un-gruppo
 [Ruoli / gradi e autorizzazioni di gruppo](./Ruoli - gradi e autorizzazioni di gruppo.html) |https://en.help.roblox.com/hc/it/articles/203313770-Ruoli-gradi-e-autorizzazioni-di-gruppo
 [Come allegare un'immagine a un gruppo](./Come allegare un'immagine a un gruppo.html) |https://en.help.roblox.com/hc/it/articles/203313800-Come-allegare-un-immagine-a-un-gruppo
-[Cambiare il nome di un gruppo](./Cambiare il nome di un gruppo.html) |https://en.help.roblox.com/hc/it/articles/4414930974228-Cambiare-il-nome-di-un-gruppo
+[Cambiare il Nome di un Gruppo](./Cambiare il Nome di un Gruppo.html) |https://en.help.roblox.com/hc/it/articles/4414930974228-Cambiare-il-Nome-di-un-Gruppo
 [Come Gestire un Gruppo](./Come Gestire un Gruppo.html) |https://en.help.roblox.com/hc/it/articles/203313780-Come-Gestire-un-Gruppo
 [Come pubblicizzare un gruppo](./Come pubblicizzare un gruppo.html) |https://en.help.roblox.com/hc/it/articles/203313820-Come-pubblicizzare-un-gruppo
 [Link sociali sulle descrizioni dei gruppi](./Link sociali sulle descrizioni dei gruppi.html) |https://en.help.roblox.com/hc/it/articles/360000910946-Link-sociali-sulle-descrizioni-dei-gruppi
