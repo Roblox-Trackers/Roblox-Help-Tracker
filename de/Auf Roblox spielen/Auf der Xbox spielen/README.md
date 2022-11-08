@@ -2,7 +2,7 @@
 ### Articles in this section
 Name|URL
 -|-
-[Was kann ich mit Roblox auf der Xbox One machen?](./Was kann ich mit Roblox auf der Xbox One machen-.html) |https://en.help.roblox.com/hc/de/articles/207850783-Was-kann-ich-mit-Roblox-auf-der-Xbox-One-machen-
+[Was kann ich bei Roblox auf der Xbox One tun?](./Was kann ich bei Roblox auf der Xbox One tun-.html) |https://en.help.roblox.com/hc/de/articles/207850783-Was-kann-ich-bei-Roblox-auf-der-Xbox-One-tun-
 [Xbox One App: Anmelden mit Ihrem Roblox-Konto](./Xbox One App- Anmelden mit Ihrem Roblox-Konto.html) |https://en.help.roblox.com/hc/de/articles/205662594-Xbox-One-App-Anmelden-mit-Ihrem-Roblox-Konto
 [Xbox One App: Wie man ein Roblox Erlebnis spielt](./Xbox One App- Wie man ein Roblox Erlebnis spielt.html) |https://en.help.roblox.com/hc/de/articles/205091984-Xbox-One-App-Wie-man-ein-Roblox-Erlebnis-spielt
 [Xbox One App: Kann ich Roblox in meinem Land spielen?](./Xbox One App- Kann ich Roblox in meinem Land spielen-.html) |https://en.help.roblox.com/hc/de/articles/360000334743-Xbox-One-App-Kann-ich-Roblox-in-meinem-Land-spielen-
