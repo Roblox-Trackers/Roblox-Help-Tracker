@@ -13,5 +13,5 @@ Name|URL
 [Le Système d'Échange](./Le Système d'Échange.html) |https://en.help.roblox.com/hc/fr/articles/203313310-Le-Syst%C3%A8me-d-%C3%89change
 [Tout sur les objets-cadeaux](./Tout sur les objets-cadeaux.html) |https://en.help.roblox.com/hc/fr/articles/205630374-Tout-sur-les-objets-cadeaux
 [Comment puis-je obtenir des articles promotionnels ou de concours ?](./Comment puis-je obtenir des articles promotionnels ou de concours -.html) |https://en.help.roblox.com/hc/fr/articles/203313270-Comment-puis-je-obtenir-des-articles-promotionnels-ou-de-concours-
-[13+ articles de catalogue](./13+ articles de catalogue.html) |https://en.help.roblox.com/hc/fr/articles/203313320-13-articles-de-catalogue
+[13+ Articles de la Boutique d'Avatars](./13+ Articles de la Boutique d'Avatars.html) |https://en.help.roblox.com/hc/fr/articles/203313320-13-articles-de-catalogue
 [Tout sur les Chemises VIP](./Tout sur les Chemises VIP.html) |https://en.help.roblox.com/hc/fr/articles/203314080-Tout-sur-les-Chemises-VIP
