@@ -20,5 +20,5 @@ Name|URL
 [Come faccio a costruire con le GUI?](./Come faccio a costruire con le GUI-.html) |https://en.help.roblox.com/hc/it/articles/203313960-Come-faccio-a-costruire-con-le-GUI-
 [Configurazione dello stile di chat del tuo luogo](./Configurazione dello stile di chat del tuo luogo.html) |https://en.help.roblox.com/hc/it/articles/360019904552-Configurazione-dello-stile-di-chat-del-tuo-luogo
 [Che cos'è questo pacchetto infetto al mio luogo?](./Che cos'è questo pacchetto infetto al mio luogo-.html) |https://en.help.roblox.com/hc/it/articles/203312920-Che-cos-%C3%A8-questo-pacchetto-infetto-al-mio-luogo-
-[Forum degli sviluppatori Roblox](./Forum degli sviluppatori Roblox.html) |https://en.help.roblox.com/hc/it/articles/360000240223-Forum-degli-sviluppatori-Roblox
+[Forum Degli Sviluppatori Roblox](./Forum Degli Sviluppatori Roblox.html) |https://en.help.roblox.com/hc/it/articles/360000240223-Forum-Degli-Sviluppatori-Roblox
 [Utilizzo di musica con licenza su Roblox](./Utilizzo di musica con licenza su Roblox.html) |https://en.help.roblox.com/hc/it/articles/360000927163-Utilizzo-di-musica-con-licenza-su-Roblox
