@@ -16,7 +16,7 @@ Name|URL
 [체험에서 이름의 색깔을 어떻게 변경하나요?](./체험에서 이름의 색깔을 어떻게 변경하나요-.html) |https://en.help.roblox.com/hc/ko/articles/203314200-%EC%B2%B4%ED%97%98%EC%97%90%EC%84%9C-%EC%9D%B4%EB%A6%84%EC%9D%98-%EC%83%89%EA%B9%94%EC%9D%84-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%B3%80%EA%B2%BD%ED%95%98%EB%82%98%EC%9A%94-
 [비공개/VIP 서버는 어떻게 구매하고 구성하나요?](./비공개-VIP 서버는 어떻게 구매하고 구성하나요-.html) |https://en.help.roblox.com/hc/ko/articles/205345050-%EB%B9%84%EA%B3%B5%EA%B0%9C-VIP-%EC%84%9C%EB%B2%84%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EA%B5%AC%EB%A7%A4%ED%95%98%EA%B3%A0-%EA%B5%AC%EC%84%B1%ED%95%98%EB%82%98%EC%9A%94-
 [테스트 서버](./테스트 서버.html) |https://en.help.roblox.com/hc/ko/articles/203314170-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%84%9C%EB%B2%84
-[스크린숏을 찍으려면 어떻게 하면 되나요?](./스크린숏을 찍으려면 어떻게 하면 되나요-.html) |https://en.help.roblox.com/hc/ko/articles/203314160-%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%88%8F%EC%9D%84-%EC%B0%8D%EC%9C%BC%EB%A0%A4%EB%A9%B4-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%98%EB%A9%B4-%EB%90%98%EB%82%98%EC%9A%94-
+[스크린샷을 찍으려면 어떻게 하면 되나요?](./스크린샷을 찍으려면 어떻게 하면 되나요-.html) |https://en.help.roblox.com/hc/ko/articles/203314160-%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%EC%9D%84-%EC%B0%8D%EC%9C%BC%EB%A0%A4%EB%A9%B4-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%98%EB%A9%B4-%EB%90%98%EB%82%98%EC%9A%94-
 [비디오를 녹화하는 방법](./비디오를 녹화하는 방법.html) |https://en.help.roblox.com/hc/ko/articles/203314190-%EB%B9%84%EB%94%94%EC%98%A4%EB%A5%BC-%EB%85%B9%ED%99%94%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95
 [Roblox PC 앱](./Roblox PC 앱.html) |https://en.help.roblox.com/hc/ko/articles/360054053812-Roblox-PC-%EC%95%B1
 [그래픽 품질](./그래픽 품질.html) |https://en.help.roblox.com/hc/ko/articles/203314310-%EA%B7%B8%EB%9E%98%ED%94%BD-%ED%92%88%EC%A7%88
