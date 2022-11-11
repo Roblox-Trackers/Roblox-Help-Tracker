@@ -7,5 +7,5 @@ Name|URL
 [Come posso vedere cosa sta facendo mio figlio su Roblox?](./Come posso vedere cosa sta facendo mio figlio su Roblox-.html) |https://en.help.roblox.com/hc/it/articles/360031384652-Come-posso-vedere-cosa-sta-facendo-mio-figlio-su-Roblox-
 [Come Segnalare Violazioni Delle Regole](./Come Segnalare Violazioni Delle Regole.html) |https://en.help.roblox.com/hc/it/articles/203312410-Come-Segnalare-Violazioni-Delle-Regole
 [Come sbloccare un utente](./Come sbloccare un utente.html) |https://en.help.roblox.com/hc/it/articles/360033386312-Come-sbloccare-un-utente
-[Come bloccare un altro utente](./Come bloccare un altro utente.html) |https://en.help.roblox.com/hc/it/articles/203314270-Come-bloccare-un-altro-utente
+[Come Bloccare un Altro Utente](./Come Bloccare un Altro Utente.html) |https://en.help.roblox.com/hc/it/articles/203314270-Come-Bloccare-un-Altro-Utente
 [App Xbox One: segnalazione di un altro giocatore](./App Xbox One- segnalazione di un altro giocatore.html) |https://en.help.roblox.com/hc/it/articles/206210440-App-Xbox-One-segnalazione-di-un-altro-giocatore
