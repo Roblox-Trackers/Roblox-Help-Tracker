@@ -12,6 +12,7 @@ Name|URL
 [Come cancello il mio account?](./Come cancello il mio account-.html) |https://en.help.roblox.com/hc/it/articles/115004804623-Come-cancello-il-mio-account-
 [Modifica della lingua o del paese dell'account](./Modifica della lingua o del paese dell'account.html) |https://en.help.roblox.com/hc/it/articles/360001216486-Modifica-della-lingua-o-del-paese-dell-account
 [Modificare il Tuo Nome Visualizzato](./Modificare il Tuo Nome Visualizzato.html) |https://en.help.roblox.com/hc/it/articles/4401938870292-Modificare-il-Tuo-Nome-Visualizzato
+[Verifica Dell'Età](./Verifica Dell'Età.html) |https://en.help.roblox.com/hc/it/articles/4407282410644-Verifica-Dell-Et%C3%A0
 [Age ID Verification FAQs](./Age ID Verification FAQs.html) |https://en.help.roblox.com/hc/it/articles/4407276151188-Age-ID-Verification-FAQs
 [Modifica del tema del tuo account](./Modifica del tema del tuo account.html) |https://en.help.roblox.com/hc/it/articles/360022922852-Modifica-del-tema-del-tuo-account
 [FAQ Domande frequenti Importatore Contatti](./FAQ Domande frequenti Importatore Contatti.html) |https://en.help.roblox.com/hc/it/articles/7416652004884-FAQ-Domande-frequenti-Importatore-Contatti-
