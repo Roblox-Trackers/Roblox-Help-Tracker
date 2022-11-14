@@ -9,7 +9,7 @@ Name|URL
 [Modifier et Tester dans Studio (Mode d’Édition)](./Modifier et Tester dans Studio (Mode d’Édition).html) |https://en.help.roblox.com/hc/fr/articles/203313870-Modifier-et-Tester-dans-Studio-Mode-d-%C3%89dition-
 [Interdire la copie de votre expérience](./Interdire la copie de votre expérience.html) |https://en.help.roblox.com/hc/fr/articles/203313940-Interdire-la-copie-de-votre-exp%C3%A9rience
 [Comment publier/télécharger un emplacement](./Comment publier-télécharger un emplacement.html) |https://en.help.roblox.com/hc/fr/articles/203313890-Comment-publier-t%C3%A9l%C3%A9charger-un-emplacement
-[Expériences de groupe](./Expériences de groupe.html) |https://en.help.roblox.com/hc/fr/articles/203313760--Exp%C3%A9riences-de-groupe
+[Expériences de groupe](./Expériences de groupe.html) |https://en.help.roblox.com/hc/fr/articles/203313760-Exp%C3%A9riences-de-groupe
 [Créer des expériences et les rendre publiques](./Créer des expériences et les rendre publiques.html) |https://en.help.roblox.com/hc/fr/articles/203313950-Cr%C3%A9er-des-exp%C3%A9riences-et-les-rendre-publiques
 [Comment puis-je activer les serveurs VIP/privés sur mes expériences ?](./Comment puis-je activer les serveurs VIP-privés sur mes expériences -.html) |https://en.help.roblox.com/hc/fr/articles/360000781023-Comment-puis-je-activer-les-serveurs-VIP-priv%C3%A9s-sur-mes-exp%C3%A9riences-
 [Comment copier une expérience](./Comment copier une expérience.html) |https://en.help.roblox.com/hc/fr/articles/203313900-Comment-copier-une-exp%C3%A9rience
