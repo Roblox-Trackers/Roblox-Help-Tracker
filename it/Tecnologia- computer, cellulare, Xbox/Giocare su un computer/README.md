@@ -7,7 +7,7 @@ Name|URL
 [Problemi Generali di Chat e Tastiera sul Computer](./Problemi Generali di Chat e Tastiera sul Computer.html) |https://en.help.roblox.com/hc/it/articles/203313040-Problemi-Generali-di-Chat-e-Tastiera-sul-Computer
 [Problemi generali di connessione](./Problemi generali di connessione.html) |https://en.help.roblox.com/hc/it/articles/203312880-Problemi-generali-di-connessione
 [Mac: risoluzione dei problemi](./Mac- risoluzione dei problemi.html) |https://en.help.roblox.com/hc/it/articles/203312990-Mac-risoluzione-dei-problemi
-[Come reinstallare il software Roblox?](./Come reinstallare il software Roblox-.html) |https://en.help.roblox.com/hc/it/articles/203312910-Come-reinstallare-il-software-Roblox-
+[Come Reinstallare il Software Roblox?](./Come Reinstallare il Software Roblox-.html) |https://en.help.roblox.com/hc/it/articles/203312910-Come-Reinstallare-il-Software-Roblox-
 [Come disinstallare Roblox](./Come disinstallare Roblox.html) |https://en.help.roblox.com/hc/it/articles/203312980-Come-disinstallare-Roblox
 [Problemi di Firewall e Router](./Problemi di Firewall e Router.html) |https://en.help.roblox.com/hc/it/articles/203312840-Problemi-di-Firewall-e-Router
 [Mac: Controllo genitori](./Mac- Controllo genitori.html) |https://en.help.roblox.com/hc/it/articles/203313010-Mac-Controllo-genitori
