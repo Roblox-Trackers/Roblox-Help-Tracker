@@ -1,4 +1,4 @@
-# Здание   
+# Здание  
 ### Articles in this section
 Name|URL
 -|-
