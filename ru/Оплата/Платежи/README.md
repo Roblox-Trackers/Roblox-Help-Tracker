@@ -2,7 +2,7 @@
 ### Articles in this section
 Name|URL
 -|-
-[Моя кредитная карта отклонена](./Моя кредитная карта отклонена.html) |https://en.help.roblox.com/hc/ru/articles/360000359923-%D0%9C%D0%BE%D1%8F-%D0%BA%D1%80%D0%B5%D0%B4%D0%B8%D1%82%D0%BD%D0%B0%D1%8F-%D0%BA%D0%B0%D1%80%D1%82%D0%B0-%D0%BE%D1%82%D0%BA%D0%BB%D0%BE%D0%BD%D0%B5%D0%BD%D0%B0
+[Кредитная карта отклонена или в ожидании платежа](./Кредитная карта отклонена или в ожидании платежа.html) |https://en.help.roblox.com/hc/ru/articles/360000359923-%D0%9A%D1%80%D0%B5%D0%B4%D0%B8%D1%82%D0%BD%D0%B0%D1%8F-%D0%BA%D0%B0%D1%80%D1%82%D0%B0-%D0%BE%D1%82%D0%BA%D0%BB%D0%BE%D0%BD%D0%B5%D0%BD%D0%B0-%D0%B8%D0%BB%D0%B8-%D0%B2-%D0%BE%D0%B6%D0%B8%D0%B4%D0%B0%D0%BD%D0%B8%D0%B8-%D0%BF%D0%BB%D0%B0%D1%82%D0%B5%D0%B6%D0%B0
 [Проверка  транзакции  Xsolla (микротранзакции)](./Проверка  транзакции  Xsolla (микротранзакции).html) |https://en.help.roblox.com/hc/ru/articles/360016750311-%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0-%D1%82%D1%80%D0%B0%D0%BD%D0%B7%D0%B0%D0%BA%D1%86%D0%B8%D0%B8-Xsolla-%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D1%82%D1%80%D0%B0%D0%BD%D0%B7%D0%B0%D0%BA%D1%86%D0%B8%D0%B8-
 [Ошибки предоплаченной кредитной карты](./Ошибки предоплаченной кредитной карты.html) |https://en.help.roblox.com/hc/ru/articles/203312680-%D0%9E%D1%88%D0%B8%D0%B1%D0%BA%D0%B8-%D0%BF%D1%80%D0%B5%D0%B4%D0%BE%D0%BF%D0%BB%D0%B0%D1%87%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9-%D0%BA%D1%80%D0%B5%D0%B4%D0%B8%D1%82%D0%BD%D0%BE%D0%B9-%D0%BA%D0%B0%D1%80%D1%82%D1%8B
 [iTunes, Google Play and Amazon платежи.](./iTunes, Google Play and Amazon платежи..html) |https://en.help.roblox.com/hc/ru/articles/203312760-iTunes-Google-Play-and-Amazon-%D0%BF%D0%BB%D0%B0%D1%82%D0%B5%D0%B6%D0%B8-
