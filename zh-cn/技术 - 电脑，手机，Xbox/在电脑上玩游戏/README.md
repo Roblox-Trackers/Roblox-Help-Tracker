@@ -1,4 +1,4 @@
-# 在电脑上玩游戏   
+# 在电脑上玩游戏  
 ### Articles in this section
 Name|URL
 -|-
