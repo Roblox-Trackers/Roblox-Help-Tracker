@@ -15,7 +15,7 @@ Name|URL
 [So kopieren Sie eine Erfahrung](./So kopieren Sie eine Erfahrung.html) |https://en.help.roblox.com/hc/de/articles/203313900--So-kopieren-Sie-eine-Erfahrung
 [Wie man zu älteren Versionen eines Platzes zurückkehrt](./Wie man zu älteren Versionen eines Platzes zurückkehrt.html) |https://en.help.roblox.com/hc/de/articles/203313850-Wie-man-zu-%C3%A4lteren-Versionen-eines-Platzes-zur%C3%BCckkehrt
 [Den Platz zu einer Startvorlage zurücksetzen](./Den Platz zu einer Startvorlage zurücksetzen.html) |https://en.help.roblox.com/hc/de/articles/203313920-Den-Platz-zu-einer-Startvorlage-zur%C3%BCcksetzen
-[Ausrüstung zum Erlebnis hinzufügen](./Ausrüstung zum Erlebnis hinzufügen.html) |https://en.help.roblox.com/hc/de/articles/203314050--Ausr%C3%BCstung-zum-Erlebnis-hinzuf%C3%BCgen
+[Ausrüstung zum Erlebnis hinzufügen](./Ausrüstung zum Erlebnis hinzufügen.html) |https://en.help.roblox.com/hc/de/articles/203314050-Ausr%C3%BCstung-zum-Erlebnis-hinzuf%C3%BCgen
 [Wie erstelle ich Erfahrungsabzeichen?](./Wie erstelle ich Erfahrungsabzeichen-.html) |https://en.help.roblox.com/hc/de/articles/203313650-Wie-erstelle-ich-Erfahrungsabzeichen-
 [Wie baue ich mit GUIs?](./Wie baue ich mit GUIs-.html) |https://en.help.roblox.com/hc/de/articles/203313960-Wie-baue-ich-mit-GUIs-
 [Konfigurierung des Chat-Stils Ihres Ortes](./Konfigurierung des Chat-Stils Ihres Ortes.html) |https://en.help.roblox.com/hc/de/articles/360019904552-Konfigurierung-des-Chat-Stils-Ihres-Ortes
