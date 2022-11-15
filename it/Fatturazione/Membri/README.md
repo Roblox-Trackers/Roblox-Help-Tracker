@@ -3,7 +3,7 @@
 Name|URL
 -|-
 [Annulla l'abbonamento ricorrente](./Annulla l'abbonamento ricorrente.html) |https://en.help.roblox.com/hc/it/articles/203312540-Annulla-l-abbonamento-ricorrente
-[Annullamento di un abbonamento per dispositivi mobili](./Annullamento di un abbonamento per dispositivi mobili.html) |https://en.help.roblox.com/hc/it/articles/360029312472-Annullamento-di-un-abbonamento-per-dispositivi-mobili
+[Annullamento di un Abbonamento per Dispositivi Mobili](./Annullamento di un Abbonamento per Dispositivi Mobili.html) |https://en.help.roblox.com/hc/it/articles/360029312472-Annullamento-di-un-Abbonamento-per-Dispositivi-Mobili
 [Dov'è la mia iscrizione?](./Dov'è la mia iscrizione-.html) |https://en.help.roblox.com/hc/it/articles/360029482412-Dov-%C3%A8-la-mia-iscrizione-
 [Posso acquistare solo un mese di abbonamento?](./Posso acquistare solo un mese di abbonamento-.html) |https://en.help.roblox.com/hc/it/articles/203312780-Posso-acquistare-solo-un-mese-di-abbonamento-
 [Abbonamento Premium](./Abbonamento Premium.html) |https://en.help.roblox.com/hc/it/articles/360024256251-Abbonamento-Premium
