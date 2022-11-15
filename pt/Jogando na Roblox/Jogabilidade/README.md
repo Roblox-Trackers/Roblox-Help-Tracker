@@ -4,7 +4,7 @@ Name|URL
 -|-
 [Experiências no Roblox](./Experiências no Roblox.html) |https://en.help.roblox.com/hc/pt-br/articles/115004734603-Experi%C3%AAncias-no-Roblox
 [Contatando os Criadores de Uma Experiência](./Contatando os Criadores de Uma Experiência.html) |https://en.help.roblox.com/hc/pt-br/articles/6566665691924-Contatando-os-Criadores-de-Uma-Experi%C3%AAncia-
-[Hardware do Computador e Requisitos do Sistema Operacional](./Hardware do Computador e Requisitos do Sistema Operacional.html) |https://en.help.roblox.com/hc/pt-br/articles/203312800--Hardware-do-Computador-e-Requisitos-do-Sistema-Operacional
+[Hardware do Computador e Requisitos do Sistema Operacional](./Hardware do Computador e Requisitos do Sistema Operacional.html) |https://en.help.roblox.com/hc/pt-br/articles/203312800-Hardware-do-Computador-e-Requisitos-do-Sistema-Operacional
 [Configurações e Ajuda na Experiência](./Configurações e Ajuda na Experiência.html) |https://en.help.roblox.com/hc/pt-br/articles/203314230-Configura%C3%A7%C3%B5es-e-Ajuda-na-Experi%C3%AAncia
 [Como Usar Equipamentos e a Mochila?](./Como Usar Equipamentos e a Mochila-.html) |https://en.help.roblox.com/hc/pt-br/articles/203314280-Como-Usar-Equipamentos-e-a-Mochila-
 [Como Redefinir o Avatar - No Jogo](./Como Redefinir o Avatar - No Jogo.html) |https://en.help.roblox.com/hc/pt-br/articles/203314290-Como-Redefinir-o-Avatar-No-Jogo
@@ -15,7 +15,7 @@ Name|URL
 [Tabelas de Classificação e Notificações em Experiências](./Tabelas de Classificação e Notificações em Experiências.html) |https://en.help.roblox.com/hc/pt-br/articles/204343250-Tabelas-de-Classifica%C3%A7%C3%A3o-e-Notifica%C3%A7%C3%B5es-em-Experi%C3%AAncias
 [Como Altero a Cor do Meu Nome em uma Experiência?](./Como Altero a Cor do Meu Nome em uma Experiência-.html) |https://en.help.roblox.com/hc/pt-br/articles/203314200-Como-Altero-a-Cor-do-Meu-Nome-em-uma-Experi%C3%AAncia-
 [Como Comprar e Configurar Servidores Privados?](./Como Comprar e Configurar Servidores Privados-.html) |https://en.help.roblox.com/hc/pt-br/articles/205345050-Como-Comprar-e-Configurar-Servidores-Privados-
-[Testes de Servidor](./Testes de Servidor.html) |https://en.help.roblox.com/hc/pt-br/articles/203314170-Testes-de-Servidor-
+[Testes de Servidor](./Testes de Servidor.html) |https://en.help.roblox.com/hc/pt-br/articles/203314170-Testes-de-Servidor
 [Como Tiro Uma Captura de Tela?](./Como Tiro Uma Captura de Tela-.html) |https://en.help.roblox.com/hc/pt-br/articles/203314160-Como-Tiro-Uma-Captura-de-Tela-
 [Como Gravar Vídeos](./Como Gravar Vídeos.html) |https://en.help.roblox.com/hc/pt-br/articles/203314190-Como-Gravar-V%C3%ADdeos
 [Aplicativo Roblox Beta](./Aplicativo Roblox Beta.html) |https://en.help.roblox.com/hc/pt-br/articles/360054053812-Aplicativo-Roblox-Beta

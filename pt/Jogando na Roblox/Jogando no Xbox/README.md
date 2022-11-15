@@ -12,4 +12,4 @@ Name|URL
 [Aplicativo Xbox One: Avaliando uma Experiência](./Aplicativo Xbox One- Avaliando uma Experiência.html) |https://en.help.roblox.com/hc/pt-br/articles/205355420-Aplicativo-Xbox-One-Avaliando-uma-Experi%C3%AAncia
 [Aplicativo Xbox One: Chat por voz](./Aplicativo Xbox One- Chat por voz.html) |https://en.help.roblox.com/hc/pt-br/articles/205355430-Aplicativo-Xbox-One-Chat-por-voz
 [Posso Criar um Jogo Roblox e Jogá-lo no Xbox?](./Posso Criar um Jogo Roblox e Jogá-lo no Xbox-.html) |https://en.help.roblox.com/hc/pt-br/articles/205091994-Posso-Criar-um-Jogo-Roblox-e-Jog%C3%A1-lo-no-Xbox-
-[Termos de uso e Politica de Privacidade](./Termos de uso e Politica de Privacidade.html) |https://en.help.roblox.com/hc/pt-br/articles/205358110-Termos-de-uso-e-Politica-de-Privacidade-
+[Termos de uso e Politica de Privacidade](./Termos de uso e Politica de Privacidade.html) |https://en.help.roblox.com/hc/pt-br/articles/205358110-Termos-de-uso-e-Politica-de-Privacidade

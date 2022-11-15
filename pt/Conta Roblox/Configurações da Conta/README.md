@@ -6,7 +6,7 @@ Name|URL
 [Como Altero Minha Idade?](./Como Altero Minha Idade-.html) |https://en.help.roblox.com/hc/pt-br/articles/360031323611-Como-Altero-Minha-Idade-
 [Como faço para adicionar ou remover um PIN?](./Como faço para adicionar ou remover um PIN-.html) |https://en.help.roblox.com/hc/pt-br/articles/360031680051-Como-fa%C3%A7o-para-adicionar-ou-remover-um-PIN-
 [Alterando as Configurações de Privacidade e Chat](./Alterando as Configurações de Privacidade e Chat.html) |https://en.help.roblox.com/hc/pt-br/articles/360031751471-Alterando-as-Configura%C3%A7%C3%B5es-de-Privacidade-e-Chat
-[Como altero minha senha?](./Como altero minha senha-.html) |https://en.help.roblox.com/hc/pt-br/articles/203313100--Como-altero-minha-senha-
+[Como altero minha senha?](./Como altero minha senha-.html) |https://en.help.roblox.com/hc/pt-br/articles/203313100-Como-altero-minha-senha-
 [Como excluo minha conta?](./Como excluo minha conta-.html) |https://en.help.roblox.com/hc/pt-br/articles/203313050-Como-excluo-minha-conta-
 [Como altero meu endereço de e-mail?](./Como altero meu endereço de e-mail-.html) |https://en.help.roblox.com/hc/pt-br/articles/360000229603-Como-altero-meu-endere%C3%A7o-de-e-mail-
 [Como adiciono ou altero meu número de telefone?](./Como adiciono ou altero meu número de telefone-.html) |https://en.help.roblox.com/hc/pt-br/articles/115004804623-Como-adiciono-ou-altero-meu-n%C3%BAmero-de-telefone-

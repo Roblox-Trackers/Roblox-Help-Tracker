@@ -13,5 +13,5 @@ Name|URL
 [Sistema de Trocas](./Sistema de Trocas.html) |https://en.help.roblox.com/hc/pt-br/articles/203313310-Sistema-de-Trocas
 [Tudo sobre itens de presente](./Tudo sobre itens de presente.html) |https://en.help.roblox.com/hc/pt-br/articles/205630374-Tudo-sobre-itens-de-presente
 [Como faço para obter itens promocionais ou de concursos?](./Como faço para obter itens promocionais ou de concursos-.html) |https://en.help.roblox.com/hc/pt-br/articles/203313270-Como-fa%C3%A7o-para-obter-itens-promocionais-ou-de-concursos-
-[Itens +13 na Loja do Avatar](./Itens +13 na Loja do Avatar.html) |https://en.help.roblox.com/hc/pt-br/articles/203313320-Itens-13-na-Loja-do-Avatar-
-[Tudo sobre Camisas  VIP](./Tudo sobre Camisas  VIP.html) |https://en.help.roblox.com/hc/pt-br/articles/203314080--Tudo-sobre-Camisas-VIP-
+[Itens +13 na Loja do Avatar](./Itens +13 na Loja do Avatar.html) |https://en.help.roblox.com/hc/pt-br/articles/203313320-Itens-13-na-Loja-do-Avatar
+[Tudo sobre Camisas  VIP](./Tudo sobre Camisas  VIP.html) |https://en.help.roblox.com/hc/pt-br/articles/203314080-Tudo-sobre-Camisas-VIP
