@@ -2,7 +2,7 @@
 ### Articles in this section
 Name|URL
 -|-
-[Come riscattare le gift cards](./Come riscattare le gift cards.html) |https://en.help.roblox.com/hc/it/articles/115005566223-Come-riscattare-le-gift-cards
+[Come Riscattare le Gift Cards](./Come Riscattare le Gift Cards.html) |https://en.help.roblox.com/hc/it/articles/115005566223-Come-Riscattare-le-Gift-Cards
 [Dov'è il credito della mia carta di gioco?](./Dov'è il credito della mia carta di gioco-.html) |https://en.help.roblox.com/hc/it/articles/360000291806-Dov-%C3%A8-il-credito-della-mia-carta-di-gioco-
 [Dov'è l'oggetto esclusivo della mia carta da gioco?](./Dov'è l'oggetto esclusivo della mia carta da gioco-.html) |https://en.help.roblox.com/hc/it/articles/360000230863-Dov-%C3%A8-l-oggetto-esclusivo-della-mia-carta-da-gioco-
 [Utilizzo del credito della Gift Card](./Utilizzo del credito della Gift Card.html) |https://en.help.roblox.com/hc/it/articles/360000291786-Utilizzo-del-credito-della-Gift-Card
