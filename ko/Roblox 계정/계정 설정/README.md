@@ -16,4 +16,4 @@ Name|URL
 [나이 인증](./나이 인증.html) |https://en.help.roblox.com/hc/ko/articles/4407282410644-%EB%82%98%EC%9D%B4-%EC%9D%B8%EC%A6%9D
 [나이 인증 관련 자주 묻는 질문](./나이 인증 관련 자주 묻는 질문.html) |https://en.help.roblox.com/hc/ko/articles/4407276151188-%EB%82%98%EC%9D%B4-%EC%9D%B8%EC%A6%9D-%EA%B4%80%EB%A0%A8-%EC%9E%90%EC%A3%BC-%EB%AC%BB%EB%8A%94-%EC%A7%88%EB%AC%B8
 [계정 테마 변경하기](./계정 테마 변경하기.html) |https://en.help.roblox.com/hc/ko/articles/360022922852-%EA%B3%84%EC%A0%95-%ED%85%8C%EB%A7%88-%EB%B3%80%EA%B2%BD%ED%95%98%EA%B8%B0
-[연락처 가져오기 기능 FAQs](./연락처 가져오기 기능 FAQs.html) |https://en.help.roblox.com/hc/ko/articles/7416652004884-%EC%97%B0%EB%9D%BD%EC%B2%98-%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0-%EA%B8%B0%EB%8A%A5-FAQs-
+[연락처 가져오기 기능 FAQs](./연락처 가져오기 기능 FAQs.html) |https://en.help.roblox.com/hc/ko/articles/7416652004884-%EC%97%B0%EB%9D%BD%EC%B2%98-%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0-%EA%B8%B0%EB%8A%A5-FAQs
