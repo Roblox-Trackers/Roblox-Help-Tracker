@@ -14,4 +14,4 @@ Name|URL
 [Tutto sugli articoli da regalo](./Tutto sugli articoli da regalo.html) |https://en.help.roblox.com/hc/it/articles/205630374-Tutto-sugli-articoli-da-regalo
 [Come posso ottenere articoli promozionali o di concorso?](./Come posso ottenere articoli promozionali o di concorso-.html) |https://en.help.roblox.com/hc/it/articles/203313270-Come-posso-ottenere-articoli-promozionali-o-di-concorso-
 [Oggetti 13+ del Negozio di Avatar](./Oggetti 13+ del Negozio di Avatar.html) |https://en.help.roblox.com/hc/it/articles/203313320-Oggetti-13-del-Negozio-di-Avatar
-[Tutto sulle magliette VIP](./Tutto sulle magliette VIP.html) |https://en.help.roblox.com/hc/it/articles/203314080-Tutto-sulle-magliette-VIP
+[Tutto Sulle Magliette VIP](./Tutto Sulle Magliette VIP.html) |https://en.help.roblox.com/hc/it/articles/203314080-Tutto-Sulle-Magliette-VIP
