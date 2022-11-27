@@ -3,7 +3,7 @@
 Name|URL
 -|-
 [Cómo instalar y jugar Roblox](./Cómo instalar y jugar Roblox.html) |https://en.help.roblox.com/hc/es/articles/204473560-C%C3%B3mo-instalar-y-jugar-Roblox
-[Problemas generales de Roblox de escritorio](./Problemas generales de Roblox de escritorio.html) |https://en.help.roblox.com/hc/es/articles/203312870--Problemas-generales-de-Roblox-de-escritorio
+[Problemas generales de Roblox de escritorio](./Problemas generales de Roblox de escritorio.html) |https://en.help.roblox.com/hc/es/articles/203312870-Problemas-generales-de-Roblox-de-escritorio
 [Problemas Generales de Chat/Teclado en la Computadora](./Problemas Generales de Chat-Teclado en la Computadora.html) |https://en.help.roblox.com/hc/es/articles/203313040-Problemas-Generales-de-Chat-Teclado-en-la-Computadora
 [Problemas Generales de Conexión](./Problemas Generales de Conexión.html) |https://en.help.roblox.com/hc/es/articles/203312880-Problemas-Generales-de-Conexi%C3%B3n
 [Mac: Solución de problemas](./Mac- Solución de problemas.html) |https://en.help.roblox.com/hc/es/articles/203312990-Mac-Soluci%C3%B3n-de-problemas
@@ -13,7 +13,6 @@ Name|URL
 [Mac: Controles Parentales](./Mac- Controles Parentales.html) |https://en.help.roblox.com/hc/es/articles/203313010-Mac-Controles-Parentales
 [Mac: Mensaje de Falla de Actualización](./Mac- Mensaje de Falla de Actualización.html) |https://en.help.roblox.com/hc/es/articles/203313000-Mac-Mensaje-de-Falla-de-Actualizaci%C3%B3n
 [Problemas de Gráficos en Computadoras](./Problemas de Gráficos en Computadoras.html) |https://en.help.roblox.com/hc/es/articles/203312790-Problemas-de-Gr%C3%A1ficos-en-Computadoras
-[He iniciado sesión, pero aparezco como invitado dentro de las experiencias](./He iniciado sesión, pero aparezco como invitado dentro de las experiencias.html) |https://en.help.roblox.com/hc/es/articles/205211416-He-iniciado-sesi%C3%B3n-pero-aparezco-como-invitado-dentro-de-las-experiencias
 [Ciclo Infinito de "Getting Latest Roblox"](./Ciclo Infinito de -Getting Latest Roblox-.html) |https://en.help.roblox.com/hc/es/articles/203312940-Ciclo-Infinito-de-Getting-Latest-Roblox-
 [Plugin Roblox Launcher](./Plugin Roblox Launcher.html) |https://en.help.roblox.com/hc/es/articles/203313020-Plugin-Roblox-Launcher
 [Qué Hacer si Tu Antivirus ha Marcado a Roblox](./Qué Hacer si Tu Antivirus ha Marcado a Roblox.html) |https://en.help.roblox.com/hc/es/articles/203313030-Qu%C3%A9-Hacer-si-Tu-Antivirus-ha-Marcado-a-Roblox

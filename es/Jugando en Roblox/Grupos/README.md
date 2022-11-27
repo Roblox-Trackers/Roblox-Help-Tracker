@@ -4,7 +4,7 @@ Name|URL
 -|-
 [Cómo hacer y unirte a grupos](./Cómo hacer y unirte a grupos.html) |https://en.help.roblox.com/hc/es/articles/203313730-C%C3%B3mo-hacer-y-unirte-a-grupos
 [Móvil: Grupos](./Móvil- Grupos.html) |https://en.help.roblox.com/hc/es/articles/203313490-M%C3%B3vil-Grupos
-[Cómo Dejar un Grupo](./Cómo Dejar un Grupo.html) |https://en.help.roblox.com/hc/es/articles/203313790-C%C3%B3mo-Dejar-un-Grupo-
+[Cómo Dejar un Grupo](./Cómo Dejar un Grupo.html) |https://en.help.roblox.com/hc/es/articles/203313790-C%C3%B3mo-Dejar-un-Grupo
 [Grupo Principal](./Grupo Principal.html) |https://en.help.roblox.com/hc/es/articles/203313740-Grupo-Principal
 [Cómo Administrar un Grupo](./Cómo Administrar un Grupo.html) |https://en.help.roblox.com/hc/es/articles/203313810-C%C3%B3mo-Administrar-un-Grupo
 [Roles de Grupo/Rangos y Permisos](./Roles de Grupo-Rangos y Permisos.html) |https://en.help.roblox.com/hc/es/articles/203313770-Roles-de-Grupo-Rangos-y-Permisos

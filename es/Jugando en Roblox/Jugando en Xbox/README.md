@@ -10,6 +10,6 @@ Name|URL
 [Aplicación Xbox One: Cómo permitir el acceso en cuentas familiares](./Aplicación Xbox One- Cómo permitir el acceso en cuentas familiares.html) |https://en.help.roblox.com/hc/es/articles/115001279786-Aplicaci%C3%B3n-Xbox-One-C%C3%B3mo-permitir-el-acceso-en-cuentas-familiares
 [Xbox One App: Como puedo jugar con amigos?](./Xbox One App- Como puedo jugar con amigos-.html) |https://en.help.roblox.com/hc/es/articles/360000334526-Xbox-One-App-Como-puedo-jugar-con-amigos-
 [Aplicación Xbox One: Calificación De Una Experiencia](./Aplicación Xbox One- Calificación De Una Experiencia.html) |https://en.help.roblox.com/hc/es/articles/205355420-Aplicaci%C3%B3n-Xbox-One-Calificaci%C3%B3n-De-Una-Experiencia
-[Aplicación Xbox One: Chat de Voz](./Aplicación Xbox One- Chat de Voz.html) |https://en.help.roblox.com/hc/es/articles/205355430-Aplicaci%C3%B3n-Xbox-One-Chat-de-Voz
+[Xbox One Chat Headset troubleshooting](./Xbox One Chat Headset troubleshooting.html) |https://en.help.roblox.com/hc/es/articles/205355430-Xbox-One-Chat-Headset-troubleshooting
 [¿Puedo crear una experiencia Roblox y jugarla en Xbox?](./¿Puedo crear una experiencia Roblox y jugarla en Xbox-.html) |https://en.help.roblox.com/hc/es/articles/205091994--Puedo-crear-una-experiencia-Roblox-y-jugarla-en-Xbox-
 [Términos de uso y política de privacidad](./Términos de uso y política de privacidad.html) |https://en.help.roblox.com/hc/es/articles/205358110-T%C3%A9rminos-de-uso-y-pol%C3%ADtica-de-privacidad

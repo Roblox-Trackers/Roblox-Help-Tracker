@@ -15,5 +15,5 @@ Name|URL
 [Cambiar su nombre de usuario](./Cambiar su nombre de usuario.html) |https://en.help.roblox.com/hc/es/articles/203313130-Cambiar-su-nombre-de-usuario
 [Verificación de identificación de edad](./Verificación de identificación de edad.html) |https://en.help.roblox.com/hc/es/articles/4407282410644-Verificaci%C3%B3n-de-identificaci%C3%B3n-de-edad
 [Preguntas frecuentes sobre la verificación de identificación de edad](./Preguntas frecuentes sobre la verificación de identificación de edad.html) |https://en.help.roblox.com/hc/es/articles/4407276151188-Preguntas-frecuentes-sobre-la-verificaci%C3%B3n-de-identificaci%C3%B3n-de-edad
-[Como cambiar el tema de tu cuenta de Roblox](./Como cambiar el tema de tu cuenta de Roblox.html) |https://en.help.roblox.com/hc/es/articles/360022922852-Como-cambiar-el-tema-de-tu-cuenta-de-Roblox
+[Cambiar el tema de su cuenta](./Cambiar el tema de su cuenta.html) |https://en.help.roblox.com/hc/es/articles/360022922852-Cambiar-el-tema-de-su-cuenta
 [Preguntas frecuentes sobre la importación de contactos](./Preguntas frecuentes sobre la importación de contactos.html) |https://en.help.roblox.com/hc/es/articles/7416652004884-Preguntas-frecuentes-sobre-la-importaci%C3%B3n-de-contactos
