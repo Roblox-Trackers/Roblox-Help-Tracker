@@ -14,6 +14,7 @@ Name|URL
 [Roblox Rating Integrity](./Roblox Rating Integrity.html) |https://en.help.roblox.com/hc/en-us/articles/7235818866964-Roblox-Rating-Integrity
 [Roblox Facial Animation Privacy Notice](./Roblox Facial Animation Privacy Notice.html) |https://en.help.roblox.com/hc/en-us/articles/8064749848980-Roblox-Facial-Animation-Privacy-Notice
 [Roblox SMS Terms of Service](./Roblox SMS Terms of Service.html) |https://en.help.roblox.com/hc/en-us/articles/9483830673556-Roblox-SMS-Terms-of-Service
+[Creator Analytics Terms of Use](./Creator Analytics Terms of Use.html) |https://en.help.roblox.com/hc/en-us/articles/10949046065044-Creator-Analytics-Terms-of-Use
 [Promo Codes on Roblox](./Promo Codes on Roblox.html) |https://en.help.roblox.com/hc/en-us/articles/10549651908244-Promo-Codes-on-Roblox
 [Using Licensed Music in Videos](./Using Licensed Music in Videos.html) |https://en.help.roblox.com/hc/en-us/articles/360038525351-Using-Licensed-Music-in-Videos
 [California Consumer Privacy Act](./California Consumer Privacy Act.html) |https://en.help.roblox.com/hc/en-us/articles/4402871541140-California-Consumer-Privacy-Act
