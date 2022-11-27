@@ -18,7 +18,7 @@ Name|URL
 [Ajouter de l'équipement à l'expérience](./Ajouter de l'équipement à l'expérience.html) |https://en.help.roblox.com/hc/fr/articles/203314050-Ajouter-de-l-%C3%A9quipement-%C3%A0-l-exp%C3%A9rience
 [Comment créer des badges d'expérience ?](./Comment créer des badges d'expérience -.html) |https://en.help.roblox.com/hc/fr/articles/203313650--Comment-cr%C3%A9er-des-badges-d-exp%C3%A9rience-
 [Comment construire avec des interfaces graphiques ?](./Comment construire avec des interfaces graphiques -.html) |https://en.help.roblox.com/hc/fr/articles/203313960-Comment-construire-avec-des-interfaces-graphiques-
-[Configuration du style de conversation de votre emplacement](./Configuration du style de conversation de votre emplacement.html) |https://en.help.roblox.com/hc/fr/articles/360019904552-Configuration-du-style-de-conversation-de-votre-emplacement-
+[Configuration du style de conversation de votre emplacement](./Configuration du style de conversation de votre emplacement.html) |https://en.help.roblox.com/hc/fr/articles/360019904552-Configuration-du-style-de-conversation-de-votre-emplacement
 [Qu'est-ce que ce paquet compromis sur mon Emplacement ?](./Qu'est-ce que ce paquet compromis sur mon Emplacement -.html) |https://en.help.roblox.com/hc/fr/articles/203312920-Qu-est-ce-que-ce-paquet-compromis-sur-mon-Emplacement-
 [Le Forum des Développeurs Roblox](./Le Forum des Développeurs Roblox.html) |https://en.help.roblox.com/hc/fr/articles/360000240223-Le-Forum-des-D%C3%A9veloppeurs-Roblox
 [Utilisation de la musique sous licence sur Roblox](./Utilisation de la musique sous licence sur Roblox.html) |https://en.help.roblox.com/hc/fr/articles/360000927163-Utilisation-de-la-musique-sous-licence-sur-Roblox

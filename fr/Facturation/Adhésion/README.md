@@ -9,6 +9,6 @@ Name|URL
 [Adhésion Premium](./Adhésion Premium.html) |https://en.help.roblox.com/hc/fr/articles/360024256251-Adh%C3%A9sion-Premium
 [Puis-je transférer mon adhésion sur un autre compte Roblox ?](./Puis-je transférer mon adhésion sur un autre compte Roblox -.html) |https://en.help.roblox.com/hc/fr/articles/203312640-Puis-je-transf%C3%A9rer-mon-adh%C3%A9sion-sur-un-autre-compte-Roblox-
 [Les boutons de l'adhésion sont grisés](./Les boutons de l'adhésion sont grisés.html) |https://en.help.roblox.com/hc/fr/articles/203312690-Les-boutons-de-l-adh%C3%A9sion-sont-gris%C3%A9s
-[Est-ce que mon adhésion sera renouvelée automatiquement ?](./Est-ce que mon adhésion sera renouvelée automatiquement -.html) |https://en.help.roblox.com/hc/fr/articles/203312630--Est-ce-que-mon-adh%C3%A9sion-sera-renouvel%C3%A9e-automatiquement-
-[Élever ou Diminuer une Adhésion](./Élever ou Diminuer une Adhésion.html) |https://en.help.roblox.com/hc/fr/articles/203312750-%C3%89lever-ou-Diminuer-une-Adh%C3%A9sion
+[Est-ce que mon adhésion sera renouvelée automatiquement ?](./Est-ce que mon adhésion sera renouvelée automatiquement -.html) |https://en.help.roblox.com/hc/fr/articles/203312630-Est-ce-que-mon-adh%C3%A9sion-sera-renouvel%C3%A9e-automatiquement-
+[Élever ou Diminuer l'Adhésion](./Élever ou Diminuer l'Adhésion.html) |https://en.help.roblox.com/hc/fr/articles/203312750-%C3%89lever-ou-Diminuer-l-Adh%C3%A9sion
 [Est-ce que Roblox offre un abonnement familial ?](./Est-ce que Roblox offre un abonnement familial -.html) |https://en.help.roblox.com/hc/fr/articles/203312610-Est-ce-que-Roblox-offre-un-abonnement-familial-
