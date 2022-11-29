@@ -2,6 +2,7 @@
 ### Articles in this section
 Name|URL
 -|-
+[Help Center FAQs for Law Enforcement](./Help Center FAQs for Law Enforcement.html) |https://en.help.roblox.com/hc/en-us/articles/11219680442260-Help-Center-FAQs-for-Law-Enforcement
 [Roblox Terms of Use](./Roblox Terms of Use.html) |https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use
 [Roblox Privacy and Cookie Policy](./Roblox Privacy and Cookie Policy.html) |https://en.help.roblox.com/hc/en-us/articles/115004630823-Roblox-Privacy-and-Cookie-Policy-
 [Roblox Community Standards](./Roblox Community Standards.html) |https://en.help.roblox.com/hc/en-us/articles/203313410-Roblox-Community-Standards
