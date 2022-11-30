@@ -13,7 +13,6 @@ Name|URL
 [Mac: Kindersicherung](./Mac- Kindersicherung.html) |https://en.help.roblox.com/hc/de/articles/203313010-Mac-Kindersicherung
 [Mac: Upgrade Fehlermeldung](./Mac- Upgrade Fehlermeldung.html) |https://en.help.roblox.com/hc/de/articles/203313000-Mac-Upgrade-Fehlermeldung
 [Grafikprobleme auf Computern](./Grafikprobleme auf Computern.html) |https://en.help.roblox.com/hc/de/articles/203312790-Grafikprobleme-auf-Computern
-[Ich bin eingeloggt, jedoch werde ich im Erlebnis als Gast angezeigt](./Ich bin eingeloggt, jedoch werde ich im Erlebnis als Gast angezeigt.html) |https://en.help.roblox.com/hc/de/articles/205211416-Ich-bin-eingeloggt-jedoch-werde-ich-im-Erlebnis-als-Gast-angezeigt
 [Unendliche Schleife "Neueste Version von Roblox besorgen"](./Unendliche Schleife -Neueste Version von Roblox besorgen-.html) |https://en.help.roblox.com/hc/de/articles/203312940-Unendliche-Schleife-Neueste-Version-von-Roblox-besorgen-
 [Roblox Launcher Plugin](./Roblox Launcher Plugin.html) |https://en.help.roblox.com/hc/de/articles/203313020-Roblox-Launcher-Plugin
 [Was zu tun ist, wenn Ihr Anti-Virus Roblox markiert hat](./Was zu tun ist, wenn Ihr Anti-Virus Roblox markiert hat.html) |https://en.help.roblox.com/hc/de/articles/203313030-Was-zu-tun-ist-wenn-Ihr-Anti-Virus-Roblox-markiert-hat
