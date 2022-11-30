@@ -14,7 +14,6 @@ Name|URL
 [Integridad de Calificación de Roblox](./Integridad de Calificación de Roblox.html) |https://en.help.roblox.com/hc/es/articles/7235818866964-Integridad-de-Calificaci%C3%B3n-de-Roblox
 [Aviso de privacidad de animación facial de Roblox](./Aviso de privacidad de animación facial de Roblox.html) |https://en.help.roblox.com/hc/es/articles/8064749848980-Aviso-de-privacidad-de-animaci%C3%B3n-facial-de-Roblox
 [Términos de servicio de SMS de Roblox](./Términos de servicio de SMS de Roblox.html) |https://en.help.roblox.com/hc/es/articles/9483830673556-T%C3%A9rminos-de-servicio-de-SMS-de-Roblox
-[Condiciones de uso de Creator Analytics](./Condiciones de uso de Creator Analytics.html) |https://en.help.roblox.com/hc/es/articles/10949046065044-Condiciones-de-uso-de-Creator-Analytics
 [Códigos promocionales en Roblox](./Códigos promocionales en Roblox.html) |https://en.help.roblox.com/hc/es/articles/10549651908244-C%C3%B3digos-promocionales-en-Roblox
 [Cómo usar música con licencia en videos](./Cómo usar música con licencia en videos.html) |https://en.help.roblox.com/hc/es/articles/360038525351-C%C3%B3mo-usar-m%C3%BAsica-con-licencia-en-videos
 [Ley de Privacidad del Consumidor de California](./Ley de Privacidad del Consumidor de California.html) |https://en.help.roblox.com/hc/es/articles/4402871541140-Ley-de-Privacidad-del-Consumidor-de-California
