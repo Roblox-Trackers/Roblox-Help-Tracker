@@ -15,4 +15,4 @@ Name|URL
 [年齢認証について](./年齢認証について.html) |https://en.help.roblox.com/hc/ja/articles/4407282410644-%E5%B9%B4%E9%BD%A2%E8%AA%8D%E8%A8%BC%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6
 [年齢認証に関するよくある質問](./年齢認証に関するよくある質問.html) |https://en.help.roblox.com/hc/ja/articles/4407276151188-%E5%B9%B4%E9%BD%A2%E8%AA%8D%E8%A8%BC%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%82%88%E3%81%8F%E3%81%82%E3%82%8B%E8%B3%AA%E5%95%8F
 [アカウントテーマの変更](./アカウントテーマの変更.html) |https://en.help.roblox.com/hc/ja/articles/360022922852-%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E3%83%86%E3%83%BC%E3%83%9E%E3%81%AE%E5%A4%89%E6%9B%B4
-[連絡先インポーターに関するFAQ](./連絡先インポーターに関するFAQ.html) |https://en.help.roblox.com/hc/ja/articles/7416652004884-%E9%80%A3%E7%B5%A1%E5%85%88%E3%82%A4%E3%83%B3%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%BC%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8BFAQ-
+[連絡先インポーターに関するよくあるご質問](./連絡先インポーターに関するよくあるご質問.html) |https://en.help.roblox.com/hc/ja/articles/7416652004884-%E9%80%A3%E7%B5%A1%E5%85%88%E3%82%A4%E3%83%B3%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%BC%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%82%88%E3%81%8F%E3%81%82%E3%82%8B%E3%81%94%E8%B3%AA%E5%95%8F
