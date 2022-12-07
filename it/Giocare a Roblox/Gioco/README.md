@@ -11,7 +11,7 @@ Name|URL
 [Sistema di Animazione (Emotes)](./Sistema di Animazione (Emotes).html) |https://en.help.roblox.com/hc/it/articles/203314300-Sistema-di-Animazione-Emotes-
 [Come uscire da un'esperienza un gioco](./Come uscire da un'esperienza un gioco.html) |https://en.help.roblox.com/hc/it/articles/203314240-Come-uscire-da-un-esperienza-un-gioco
 [Come Seguire o Partecipare a un Altro Giocatore Nelle Esperienze](./Come Seguire o Partecipare a un Altro Giocatore Nelle Esperienze.html) |https://en.help.roblox.com/hc/it/articles/203314220-Come-Seguire-o-Partecipare-a-un-Altro-Giocatore-Nelle-Esperienze
-[Come Aggiungere un Luogo ai Preferiti](./Come Aggiungere un Luogo ai Preferiti.html) |https://en.help.roblox.com/hc/it/articles/203313670-Come-Aggiungere-un-Luogo-ai-Preferiti-
+[Come Aggiungere un Luogo ai Preferiti](./Come Aggiungere un Luogo ai Preferiti.html) |https://en.help.roblox.com/hc/it/articles/203313670-Come-Aggiungere-un-Luogo-ai-Preferiti
 [Classifiche e Notifiche nell'Esperienza](./Classifiche e Notifiche nell'Esperienza.html) |https://en.help.roblox.com/hc/it/articles/204343250-Classifiche-e-Notifiche-nell-Esperienza
 [Come Posso Cambiare il Colore del mio Nome in un'Esperienza?](./Come Posso Cambiare il Colore del mio Nome in un'Esperienza-.html) |https://en.help.roblox.com/hc/it/articles/203314200-Come-Posso-Cambiare-il-Colore-del-mio-Nome-in-un-Esperienza-
 [Come acquistare e configurare i server VIP?](./Come acquistare e configurare i server VIP-.html) |https://en.help.roblox.com/hc/it/articles/205345050-Come-acquistare-e-configurare-i-server-VIP-
