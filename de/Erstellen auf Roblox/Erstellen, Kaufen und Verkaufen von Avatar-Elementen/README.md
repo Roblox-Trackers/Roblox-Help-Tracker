@@ -8,7 +8,7 @@ Name|URL
 [Kleidung: T-Shirts, Hemden und Hosen](./Kleidung- T-Shirts, Hemden und Hosen.html) |https://en.help.roblox.com/hc/de/articles/203313170-Kleidung-T-Shirts-Hemden-und-Hosen
 [Was sind die Virtuellen Ausrüstungen?](./Was sind die Virtuellen Ausrüstungen-.html) |https://en.help.roblox.com/hc/de/articles/203313630-Was-sind-die-Virtuellen-Ausr%C3%BCstungen-
 [Der Avatar-Shop](./Der Avatar-Shop.html) |https://en.help.roblox.com/hc/de/articles/203313300-Der-Avatar-Shop
-[Wie verkaufe ich Gegenstände (Wo ist der Gegenstand, den ich gerade gekauft habe?)](./Wie verkaufe ich Gegenstände (Wo ist der Gegenstand, den ich gerade gekauft habe-).html) |https://en.help.roblox.com/hc/de/articles/203313260-Wie-verkaufe-ich-Gegenst%C3%A4nde-Wo-ist-der-Gegenstand-den-ich-gerade-gekauft-habe-
+[Wie man Gegenstände verkauft](./Wie man Gegenstände verkauft.html) |https://en.help.roblox.com/hc/de/articles/203313260-Wie-man-Gegenst%C3%A4nde-verkauft
 [Kleidung verkaufen](./Kleidung verkaufen.html) |https://en.help.roblox.com/hc/de/articles/203313180-Kleidung-verkaufen
 [Handelssystem](./Handelssystem.html) |https://en.help.roblox.com/hc/de/articles/203313310-Handelssystem
 [Alles über Geschenkartikel](./Alles über Geschenkartikel.html) |https://en.help.roblox.com/hc/de/articles/205630374-Alles-%C3%BCber-Geschenkartikel
