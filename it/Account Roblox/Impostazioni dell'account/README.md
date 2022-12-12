@@ -13,7 +13,7 @@ Name|URL
 [Modifica della lingua o del paese dell'account](./Modifica della lingua o del paese dell'account.html) |https://en.help.roblox.com/hc/it/articles/360001216486-Modifica-della-lingua-o-del-paese-dell-account
 [Modificare il Tuo Nome Visualizzato](./Modificare il Tuo Nome Visualizzato.html) |https://en.help.roblox.com/hc/it/articles/4401938870292-Modificare-il-Tuo-Nome-Visualizzato
 [Modifica  del Nome Utente](./Modifica  del Nome Utente.html) |https://en.help.roblox.com/hc/it/articles/203313130-Modifica-del-Nome-Utente
-[Verifica Dell'Età](./Verifica Dell'Età.html) |https://en.help.roblox.com/hc/it/articles/4407282410644-Verifica-Dell-Et%C3%A0
-[Age ID Verification FAQs](./Age ID Verification FAQs.html) |https://en.help.roblox.com/hc/it/articles/4407276151188-Age-ID-Verification-FAQs
+[Verifica dell'Età](./Verifica dell'Età.html) |https://en.help.roblox.com/hc/it/articles/4407282410644-Verifica-dell-Et%C3%A0
+[Domande Frequenti Sulla Verifica dell'Età](./Domande Frequenti Sulla Verifica dell'Età.html) |https://en.help.roblox.com/hc/it/articles/4407276151188-Domande-Frequenti-Sulla-Verifica-dell-Et%C3%A0
 [Modifica del tema del tuo account](./Modifica del tema del tuo account.html) |https://en.help.roblox.com/hc/it/articles/360022922852-Modifica-del-tema-del-tuo-account
 [FAQ Domande frequenti Importatore Contatti](./FAQ Domande frequenti Importatore Contatti.html) |https://en.help.roblox.com/hc/it/articles/7416652004884-FAQ-Domande-frequenti-Importatore-Contatti-
