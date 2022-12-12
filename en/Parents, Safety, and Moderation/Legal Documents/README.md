@@ -3,7 +3,7 @@
 Name|URL
 -|-
 [Roblox Terms of Use](./Roblox Terms of Use.html) |https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use
-[Roblox Privacy and Cookie Policy](./Roblox Privacy and Cookie Policy.html) |https://en.help.roblox.com/hc/en-us/articles/115004630823-Roblox-Privacy-and-Cookie-Policy-
+[Roblox Privacy and Cookie Policy](./Roblox Privacy and Cookie Policy.html) |https://en.help.roblox.com/hc/en-us/articles/115004630823-Roblox-Privacy-and-Cookie-Policy
 [Roblox Community Standards](./Roblox Community Standards.html) |https://en.help.roblox.com/hc/en-us/articles/203313410-Roblox-Community-Standards
 [Roblox Dictionary](./Roblox Dictionary.html) |https://en.help.roblox.com/hc/en-us/articles/4415545981332-Roblox-Dictionary
 [Developer Exchange Terms of Use](./Developer Exchange Terms of Use.html) |https://en.help.roblox.com/hc/en-us/articles/115005718246-Developer-Exchange-Terms-of-Use
