@@ -16,4 +16,4 @@ Name|URL
 [Verificação de Idade por Identidade](./Verificação de Idade por Identidade.html) |https://en.help.roblox.com/hc/pt-br/articles/4407282410644-Verifica%C3%A7%C3%A3o-de-Idade-por-Identidade
 [Perguntas Frequentes: Verificação de Idade por Identidade](./Perguntas Frequentes- Verificação de Idade por Identidade.html) |https://en.help.roblox.com/hc/pt-br/articles/4407276151188-Perguntas-Frequentes-Verifica%C3%A7%C3%A3o-de-Idade-por-Identidade
 [Mudando o Tema da Sua Conta](./Mudando o Tema da Sua Conta.html) |https://en.help.roblox.com/hc/pt-br/articles/360022922852-Mudando-o-Tema-da-Sua-Conta
-[Perguntas Frequentes – Importador de Contatos](./Perguntas Frequentes – Importador de Contatos.html) |https://en.help.roblox.com/hc/pt-br/articles/7416652004884-Perguntas-Frequentes-Importador-de-Contatos
+[Perguntas Frequentes – Importador de contatos](./Perguntas Frequentes – Importador de contatos.html) |https://en.help.roblox.com/hc/pt-br/articles/7416652004884-Perguntas-Frequentes-Importador-de-contatos
