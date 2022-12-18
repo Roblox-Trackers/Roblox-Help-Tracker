@@ -9,5 +9,5 @@ Name|URL
 [Como Fazer Decalques](./Como Fazer Decalques.html) |https://en.help.roblox.com/hc/pt-br/articles/203313930-Como-Fazer-Decalques
 [Como Criar Um Pacote](./Como Criar Um Pacote.html) |https://en.help.roblox.com/hc/pt-br/articles/203313910-Como-Criar-Um-Pacote
 [Arquivos de Áudio](./Arquivos de Áudio.html) |https://en.help.roblox.com/hc/pt-br/articles/203314070-Arquivos-de-%C3%81udio
-[Passes de Experiências](./Passes de Experiências.html) |https://en.help.roblox.com/hc/pt-br/articles/203314040--Passes-de-Experi%C3%AAncias
+[Passes de Experiências](./Passes de Experiências.html) |https://en.help.roblox.com/hc/pt-br/articles/203314040-Passes-de-Experi%C3%AAncias
 [Vendendo Acesso a Experiências (Acesso Pago)](./Vendendo Acesso a Experiências (Acesso Pago).html) |https://en.help.roblox.com/hc/pt-br/articles/203314090-Vendendo-Acesso-a-Experi%C3%AAncias-Acesso-Pago-
