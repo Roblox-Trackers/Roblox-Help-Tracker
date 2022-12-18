@@ -2,7 +2,7 @@
 ### Articles in this section
 Name|URL
 -|-
-[Sécurité du compte : préserver la sécurité de ton compte](./Sécurité du compte - préserver la sécurité de ton compte.html) |https://en.help.roblox.com/hc/fr/articles/203313380-S%C3%A9curit%C3%A9-du-compte-pr%C3%A9server-la-s%C3%A9curit%C3%A9-de-ton-compte
+[Préserver la sécurité de votre compte](./Préserver la sécurité de votre compte.html) |https://en.help.roblox.com/hc/fr/articles/203313380-Pr%C3%A9server-la-s%C3%A9curit%C3%A9-de-votre-compte
 [Mon compte a été piraté - Que dois-je faire ?](./Mon compte a été piraté - Que dois-je faire -.html) |https://en.help.roblox.com/hc/fr/articles/203313390-Mon-compte-a-%C3%A9t%C3%A9-pirat%C3%A9-Que-dois-je-faire-
 [Vérifier votre adresse email ou votre numéro de téléphone](./Vérifier votre adresse email ou votre numéro de téléphone.html) |https://en.help.roblox.com/hc/fr/articles/203313350-V%C3%A9rifier-votre-adresse-email-ou-votre-num%C3%A9ro-de-t%C3%A9l%C3%A9phone
 [Informations générales sur le code PIN parental](./Informations générales sur le code PIN parental.html) |https://en.help.roblox.com/hc/fr/articles/360000239523-Informations-g%C3%A9n%C3%A9rales-sur-le-code-PIN-parental
