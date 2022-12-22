@@ -7,6 +7,7 @@ Name|URL
 [Roblox Community-Regeln](./Roblox Community-Regeln.html) |https://en.help.roblox.com/hc/de/articles/203313410-Roblox-Community-Regeln
 [Nutzungsbedingungen für Developer Exchange](./Nutzungsbedingungen für Developer Exchange.html) |https://en.help.roblox.com/hc/de/articles/115005718246-Nutzungsbedingungen-f%C3%BCr-Developer-Exchange
 [Nutzungsleitlinien für die Community in Bezug auf Namen und Logo von Roblox](./Nutzungsleitlinien für die Community in Bezug auf Namen und Logo von Roblox.html) |https://en.help.roblox.com/hc/de/articles/115001708126-Nutzungsleitlinien-f%C3%BCr-die-Community-in-Bezug-auf-Namen-und-Logo-von-Roblox
+[ROBLOX BIOMETRISCHE DATENSCHUTZHINWEISE](./ROBLOX BIOMETRISCHE DATENSCHUTZHINWEISE.html) |https://en.help.roblox.com/hc/de/articles/4412863575316-ROBLOX-BIOMETRISCHE-DATENSCHUTZHINWEISE
 [Erklärung zur Barrierefreiheit von Roblox](./Erklärung zur Barrierefreiheit von Roblox.html) |https://en.help.roblox.com/hc/de/articles/360059080071-Erkl%C3%A4rung-zur-Barrierefreiheit-von-Roblox
 [Integrität der Roblox-Bewertung](./Integrität der Roblox-Bewertung.html) |https://en.help.roblox.com/hc/de/articles/7235818866964-Integrit%C3%A4t-der-Roblox-Bewertung
 [Roblox-Gesichtsanimation Datenschutzhinweis](./Roblox-Gesichtsanimation Datenschutzhinweis.html) |https://en.help.roblox.com/hc/de/articles/8064749848980-Roblox-Gesichtsanimation-Datenschutzhinweis
