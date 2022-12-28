@@ -15,7 +15,7 @@ Name|URL
 [如何复制体验](./如何复制体验.html) |https://en.help.roblox.com/hc/zh-cn/articles/203313900-%E5%A6%82%E4%BD%95%E5%A4%8D%E5%88%B6%E4%BD%93%E9%AA%8C
 [如何恢复旧版本的场景](./如何恢复旧版本的场景.html) |https://en.help.roblox.com/hc/zh-cn/articles/203313850-%E5%A6%82%E4%BD%95%E6%81%A2%E5%A4%8D%E6%97%A7%E7%89%88%E6%9C%AC%E7%9A%84%E5%9C%BA%E6%99%AF
 [把场景重置到起始模板](./把场景重置到起始模板.html) |https://en.help.roblox.com/hc/zh-cn/articles/203313920-%E6%8A%8A%E5%9C%BA%E6%99%AF%E9%87%8D%E7%BD%AE%E5%88%B0%E8%B5%B7%E5%A7%8B%E6%A8%A1%E6%9D%BF
-[在体验中添加装备](./在体验中添加装备.html) |https://en.help.roblox.com/hc/zh-cn/articles/203314050-%E5%9C%A8%E4%BD%93%E9%AA%8C%E4%B8%AD%E6%B7%BB%E5%8A%A0%E8%A3%85%E5%A4%87
+[在作品中添加装备](./在作品中添加装备.html) |https://en.help.roblox.com/hc/zh-cn/articles/203314050-%E5%9C%A8%E4%BD%9C%E5%93%81%E4%B8%AD%E6%B7%BB%E5%8A%A0%E8%A3%85%E5%A4%87
 [如何制作作品徽章？](./如何制作作品徽章？.html) |https://en.help.roblox.com/hc/zh-cn/articles/203313650-%E5%A6%82%E4%BD%95%E5%88%B6%E4%BD%9C%E4%BD%9C%E5%93%81%E5%BE%BD%E7%AB%A0-
 [如何使用 GUI 构建？](./如何使用 GUI 构建？.html) |https://en.help.roblox.com/hc/zh-cn/articles/203313960-%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8-GUI-%E6%9E%84%E5%BB%BA-
 [配置你的场景的聊天风格](./配置你的场景的聊天风格.html) |https://en.help.roblox.com/hc/zh-cn/articles/360019904552-%E9%85%8D%E7%BD%AE%E4%BD%A0%E7%9A%84%E5%9C%BA%E6%99%AF%E7%9A%84%E8%81%8A%E5%A4%A9%E9%A3%8E%E6%A0%BC
