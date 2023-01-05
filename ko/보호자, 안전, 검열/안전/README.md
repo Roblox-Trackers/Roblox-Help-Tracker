@@ -9,3 +9,4 @@ Name|URL
 [사용자 차단을 해제하는 방법](./사용자 차단을 해제하는 방법.html) |https://en.help.roblox.com/hc/ko/articles/360033386312-%EC%82%AC%EC%9A%A9%EC%9E%90-%EC%B0%A8%EB%8B%A8%EC%9D%84-%ED%95%B4%EC%A0%9C%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95
 [다른 사용자를 차단하려면 어떻게 해야하나요?](./다른 사용자를 차단하려면 어떻게 해야하나요-.html) |https://en.help.roblox.com/hc/ko/articles/203314270-%EB%8B%A4%EB%A5%B8-%EC%82%AC%EC%9A%A9%EC%9E%90%EB%A5%BC-%EC%B0%A8%EB%8B%A8%ED%95%98%EB%A0%A4%EB%A9%B4-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%B4%EC%95%BC%ED%95%98%EB%82%98%EC%9A%94-
 [Xbox One 앱에서 다른 플레이어 신고하기](./Xbox One 앱에서 다른 플레이어 신고하기.html) |https://en.help.roblox.com/hc/ko/articles/206210440-Xbox-One-%EC%95%B1%EC%97%90%EC%84%9C-%EB%8B%A4%EB%A5%B8-%ED%94%8C%EB%A0%88%EC%9D%B4%EC%96%B4-%EC%8B%A0%EA%B3%A0%ED%95%98%EA%B8%B0
+[인재 허브 보호자 가이드](./인재 허브 보호자 가이드.html) |https://en.help.roblox.com/hc/ko/articles/4404630280980-%EC%9D%B8%EC%9E%AC-%ED%97%88%EB%B8%8C-%EB%B3%B4%ED%98%B8%EC%9E%90-%EA%B0%80%EC%9D%B4%EB%93%9C
