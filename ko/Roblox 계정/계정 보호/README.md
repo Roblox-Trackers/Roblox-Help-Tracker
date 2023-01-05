@@ -2,7 +2,7 @@
 ### Articles in this section
 Name|URL
 -|-
-[계정을 안전하게 보호하세요](./계정을 안전하게 보호하세요.html) |https://en.help.roblox.com/hc/ko/articles/203313380-%EA%B3%84%EC%A0%95%EC%9D%84-%EC%95%88%EC%A0%84%ED%95%98%EA%B2%8C-%EB%B3%B4%ED%98%B8%ED%95%98%EC%84%B8%EC%9A%94
+[계정을 안전하게 유지하세요](./계정을 안전하게 유지하세요.html) |https://en.help.roblox.com/hc/ko/articles/203313380-%EA%B3%84%EC%A0%95%EC%9D%84-%EC%95%88%EC%A0%84%ED%95%98%EA%B2%8C-%EC%9C%A0%EC%A7%80%ED%95%98%EC%84%B8%EC%9A%94
 [제 계정이 해킹을 당했어요. 어떻게 해야 하나요?](./제 계정이 해킹을 당했어요. 어떻게 해야 하나요-.html) |https://en.help.roblox.com/hc/ko/articles/203313390-%EC%A0%9C-%EA%B3%84%EC%A0%95%EC%9D%B4-%ED%95%B4%ED%82%B9%EC%9D%84-%EB%8B%B9%ED%96%88%EC%96%B4%EC%9A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%B4%EC%95%BC-%ED%95%98%EB%82%98%EC%9A%94-
 [이메일 또는 휴대폰 번호 인증하기](./이메일 또는 휴대폰 번호 인증하기.html) |https://en.help.roblox.com/hc/ko/articles/203313350-%EC%9D%B4%EB%A9%94%EC%9D%BC-%EB%98%90%EB%8A%94-%ED%9C%B4%EB%8C%80%ED%8F%B0-%EB%B2%88%ED%98%B8-%EC%9D%B8%EC%A6%9D%ED%95%98%EA%B8%B0
 [보호자 PIN 관련 정보 확인하기](./보호자 PIN 관련 정보 확인하기.html) |https://en.help.roblox.com/hc/ko/articles/360000239523-%EB%B3%B4%ED%98%B8%EC%9E%90-PIN-%EA%B4%80%EB%A0%A8-%EC%A0%95%EB%B3%B4-%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0
