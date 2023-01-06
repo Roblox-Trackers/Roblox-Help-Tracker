@@ -9,7 +9,7 @@ Name|URL
 [Come usare Gear e The Backpack](./Come usare Gear e The Backpack.html) |https://en.help.roblox.com/hc/it/articles/203314280-Come-usare-Gear-e-The-Backpack
 [Come resettare l'avatar - in un'esperienza](./Come resettare l'avatar - in un'esperienza.html) |https://en.help.roblox.com/hc/it/articles/203314290-Come-resettare-l-avatar-in-un-esperienza
 [Sistema di Animazione (Emotes)](./Sistema di Animazione (Emotes).html) |https://en.help.roblox.com/hc/it/articles/203314300-Sistema-di-Animazione-Emotes-
-[Come uscire da un'esperienza un gioco](./Come uscire da un'esperienza un gioco.html) |https://en.help.roblox.com/hc/it/articles/203314240-Come-uscire-da-un-esperienza-un-gioco
+[Come uscire da un'esperienza](./Come uscire da un'esperienza.html) |https://en.help.roblox.com/hc/it/articles/203314240-Come-uscire-da-un-esperienza
 [Come Seguire o Partecipare a un Altro Giocatore Nelle Esperienze](./Come Seguire o Partecipare a un Altro Giocatore Nelle Esperienze.html) |https://en.help.roblox.com/hc/it/articles/203314220-Come-Seguire-o-Partecipare-a-un-Altro-Giocatore-Nelle-Esperienze
 [Come Aggiungere un Luogo ai Preferiti](./Come Aggiungere un Luogo ai Preferiti.html) |https://en.help.roblox.com/hc/it/articles/203313670-Come-Aggiungere-un-Luogo-ai-Preferiti
 [Classifiche e Notifiche nell'Esperienza](./Classifiche e Notifiche nell'Esperienza.html) |https://en.help.roblox.com/hc/it/articles/204343250-Classifiche-e-Notifiche-nell-Esperienza
