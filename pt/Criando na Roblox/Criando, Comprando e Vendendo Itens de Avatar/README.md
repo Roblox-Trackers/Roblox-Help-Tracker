@@ -8,7 +8,7 @@ Name|URL
 [Vestuário: Camisetas, Camisas e Calças](./Vestuário- Camisetas, Camisas e Calças.html) |https://en.help.roblox.com/hc/pt-br/articles/203313170-Vestu%C3%A1rio-Camisetas-Camisas-e-Cal%C3%A7as
 [O Que é Equipamento Virtual?](./O Que é Equipamento Virtual-.html) |https://en.help.roblox.com/hc/pt-br/articles/203313630-O-Que-%C3%A9-Equipamento-Virtual-
 [A Loja do Avatar](./A Loja do Avatar.html) |https://en.help.roblox.com/hc/pt-br/articles/203313300-A-Loja-do-Avatar
-[Como Vender Itens](./Como Vender Itens.html) |https://en.help.roblox.com/hc/pt-br/articles/203313260-Como-Vender-Itens
+[Como vender itens](./Como vender itens.html) |https://en.help.roblox.com/hc/pt-br/articles/203313260-Como-vender-itens
 [Vendendo Roupas](./Vendendo Roupas.html) |https://en.help.roblox.com/hc/pt-br/articles/203313180-Vendendo-Roupas
 [Sistema de Trocas](./Sistema de Trocas.html) |https://en.help.roblox.com/hc/pt-br/articles/203313310-Sistema-de-Trocas
 [Tudo sobre itens de presente](./Tudo sobre itens de presente.html) |https://en.help.roblox.com/hc/pt-br/articles/205630374-Tudo-sobre-itens-de-presente
