@@ -9,3 +9,4 @@ Name|URL
 [Comment débloquer un utilisateur](./Comment débloquer un utilisateur.html) |https://en.help.roblox.com/hc/fr/articles/360033386312-Comment-d%C3%A9bloquer-un-utilisateur
 [Comment bloquer un autre utilisateur](./Comment bloquer un autre utilisateur.html) |https://en.help.roblox.com/hc/fr/articles/203314270-Comment-bloquer-un-autre-utilisateur
 [Application Xbox One: Signaler le comportement d’un autre joueur](./Application Xbox One- Signaler le comportement d’un autre joueur.html) |https://en.help.roblox.com/hc/fr/articles/206210440-Application-Xbox-One-Signaler-le-comportement-d-un-autre-joueur
+[Conseils aux parents sur Talent Hub](./Conseils aux parents sur Talent Hub.html) |https://en.help.roblox.com/hc/fr/articles/4404630280980-Conseils-aux-parents-sur-Talent-Hub
