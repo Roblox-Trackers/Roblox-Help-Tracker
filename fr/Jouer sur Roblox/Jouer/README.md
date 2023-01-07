@@ -9,7 +9,7 @@ Name|URL
 [Comment utiliser l'équipement et le sac à dos](./Comment utiliser l'équipement et le sac à dos.html) |https://en.help.roblox.com/hc/fr/articles/203314280-Comment-utiliser-l-%C3%A9quipement-et-le-sac-%C3%A0-dos
 [Comment relancer votre Avatar - Dans une expérience](./Comment relancer votre Avatar - Dans une expérience.html) |https://en.help.roblox.com/hc/fr/articles/203314290-Comment-relancer-votre-Avatar-Dans-une-exp%C3%A9rience
 [Système d'animation (émoticônes)](./Système d'animation (émoticônes).html) |https://en.help.roblox.com/hc/fr/articles/203314300-Syst%C3%A8me-d-animation-%C3%A9motic%C3%B4nes-
-[Comment quitter une expérience ?](./Comment quitter une expérience -.html) |https://en.help.roblox.com/hc/fr/articles/203314240-Comment-quitter-une-exp%C3%A9rience-
+[Comment quitter une expérience](./Comment quitter une expérience.html) |https://en.help.roblox.com/hc/fr/articles/203314240-Comment-quitter-une-exp%C3%A9rience
 [Comment suivre ou rejoindre un autre joueur dans les Expériences](./Comment suivre ou rejoindre un autre joueur dans les Expériences.html) |https://en.help.roblox.com/hc/fr/articles/203314220-Comment-suivre-ou-rejoindre-un-autre-joueur-dans-les-Exp%C3%A9riences
 [Comment Mettre un Endroit dans mes Favoris](./Comment Mettre un Endroit dans mes Favoris.html) |https://en.help.roblox.com/hc/fr/articles/203313670-Comment-Mettre-un-Endroit-dans-mes-Favoris
 [Classements et notifications dans l'Expérience](./Classements et notifications dans l'Expérience.html) |https://en.help.roblox.com/hc/fr/articles/204343250-Classements-et-notifications-dans-l-Exp%C3%A9rience

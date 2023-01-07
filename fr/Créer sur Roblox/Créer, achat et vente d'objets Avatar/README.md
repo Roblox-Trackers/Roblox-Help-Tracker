@@ -8,7 +8,7 @@ Name|URL
 [Vêtements : Tee-shirts, chemises et pantalons](./Vêtements - Tee-shirts, chemises et pantalons.html) |https://en.help.roblox.com/hc/fr/articles/203313170-V%C3%AAtements-Tee-shirts-chemises-et-pantalons
 [Qu'est-ce que l'Équipement Virtuel?](./Qu'est-ce que l'Équipement Virtuel-.html) |https://en.help.roblox.com/hc/fr/articles/203313630-Qu-est-ce-que-l-%C3%89quipement-Virtuel-
 [La Boutique d'Avatars](./La Boutique d'Avatars.html) |https://en.help.roblox.com/hc/fr/articles/203313300-La-Boutique-d-Avatars
-[Comment vendre des objets](./Comment vendre des objets.html) |https://en.help.roblox.com/hc/fr/articles/203313260-Comment-vendre-des-objets
+[Comment vendre des items](./Comment vendre des items.html) |https://en.help.roblox.com/hc/fr/articles/203313260-Comment-vendre-des-items
 [Vendre des vêtements](./Vendre des vêtements.html) |https://en.help.roblox.com/hc/fr/articles/203313180-Vendre-des-v%C3%AAtements
 [Le Système d'Échange](./Le Système d'Échange.html) |https://en.help.roblox.com/hc/fr/articles/203313310-Le-Syst%C3%A8me-d-%C3%89change
 [Tout sur les objets-cadeaux](./Tout sur les objets-cadeaux.html) |https://en.help.roblox.com/hc/fr/articles/205630374-Tout-sur-les-objets-cadeaux
