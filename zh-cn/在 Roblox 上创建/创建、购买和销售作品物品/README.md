@@ -2,7 +2,7 @@
 ### Articles in this section
 Name|URL
 -|-
-[作者市集](./作者市集.html) |https://en.help.roblox.com/hc/zh-cn/articles/206580683-%E4%BD%9C%E8%80%85%E5%B8%82%E9%9B%86
+[创作者市场](./创作者市场.html) |https://en.help.roblox.com/hc/zh-cn/articles/206580683-%E5%88%9B%E4%BD%9C%E8%80%85%E5%B8%82%E5%9C%BA
 [如何存档资产和作品](./如何存档资产和作品.html) |https://en.help.roblox.com/hc/zh-cn/articles/360031253052-%E5%A6%82%E4%BD%95%E5%AD%98%E6%A1%A3%E8%B5%84%E4%BA%A7%E5%92%8C%E4%BD%9C%E5%93%81
 [我如何使一些项目成为公共领域?](./我如何使一些项目成为公共领域-.html) |https://en.help.roblox.com/hc/zh-cn/articles/203313230-%E6%88%91%E5%A6%82%E4%BD%95%E4%BD%BF%E4%B8%80%E4%BA%9B%E9%A1%B9%E7%9B%AE%E6%88%90%E4%B8%BA%E5%85%AC%E5%85%B1%E9%A2%86%E5%9F%9F-
 [如何编辑模组/我可以在目录中出售模组吗？](./如何编辑模组-我可以在目录中出售模组吗？.html) |https://en.help.roblox.com/hc/zh-cn/articles/203313250-%E5%A6%82%E4%BD%95%E7%BC%96%E8%BE%91%E6%A8%A1%E7%BB%84-%E6%88%91%E5%8F%AF%E4%BB%A5%E5%9C%A8%E7%9B%AE%E5%BD%95%E4%B8%AD%E5%87%BA%E5%94%AE%E6%A8%A1%E7%BB%84%E5%90%97-
