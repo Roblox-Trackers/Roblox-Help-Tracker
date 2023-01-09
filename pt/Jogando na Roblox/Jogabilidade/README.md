@@ -9,7 +9,7 @@ Name|URL
 [Como Usar Equipamentos e a Mochila?](./Como Usar Equipamentos e a Mochila-.html) |https://en.help.roblox.com/hc/pt-br/articles/203314280-Como-Usar-Equipamentos-e-a-Mochila-
 [Como Redefinir o Avatar - No Jogo](./Como Redefinir o Avatar - No Jogo.html) |https://en.help.roblox.com/hc/pt-br/articles/203314290-Como-Redefinir-o-Avatar-No-Jogo
 [Sistema de Animação (Emotes)](./Sistema de Animação (Emotes).html) |https://en.help.roblox.com/hc/pt-br/articles/203314300-Sistema-de-Anima%C3%A7%C3%A3o-Emotes-
-[Como Sair de uma Experiência](./Como Sair de uma Experiência.html) |https://en.help.roblox.com/hc/pt-br/articles/203314240-Como-Sair-de-uma-Experi%C3%AAncia
+[Como sair de uma experiência](./Como sair de uma experiência.html) |https://en.help.roblox.com/hc/pt-br/articles/203314240-Como-sair-de-uma-experi%C3%AAncia
 [Como Seguir Ou Se Juntar A Outro Jogador Em Experiências](./Como Seguir Ou Se Juntar A Outro Jogador Em Experiências.html) |https://en.help.roblox.com/hc/pt-br/articles/203314220-Como-Seguir-Ou-Se-Juntar-A-Outro-Jogador-Em-Experi%C3%AAncias
 [Como Favoritar um Lugar](./Como Favoritar um Lugar.html) |https://en.help.roblox.com/hc/pt-br/articles/203313670-Como-Favoritar-um-Lugar
 [Tabelas de Classificação e Notificações em Experiências](./Tabelas de Classificação e Notificações em Experiências.html) |https://en.help.roblox.com/hc/pt-br/articles/204343250-Tabelas-de-Classifica%C3%A7%C3%A3o-e-Notifica%C3%A7%C3%B5es-em-Experi%C3%AAncias
