@@ -2,7 +2,7 @@
 ### Articles in this section
 Name|URL
 -|-
-[So erstellen Sie Anzeigen](./So erstellen Sie Anzeigen.html) |https://en.help.roblox.com/hc/de/articles/203313840-So-erstellen-Sie-Anzeigen
+[Wie man Anzeigen macht](./Wie man Anzeigen macht.html) |https://en.help.roblox.com/hc/de/articles/203313840-Wie-man-Anzeigen-macht
 [Gesponserte Erlebnisse](./Gesponserte Erlebnisse.html) |https://en.help.roblox.com/hc/de/articles/206455923-Gesponserte-Erlebnisse
 [Vorschaubilder, Videos und Bildzeichen für Erlebnisse](./Vorschaubilder, Videos und Bildzeichen für Erlebnisse.html) |https://en.help.roblox.com/hc/de/articles/203314060-Vorschaubilder-Videos-und-Bildzeichen-f%C3%BCr-Erlebnisse
 [Video-Werbemittel](./Video-Werbemittel.html) |https://en.help.roblox.com/hc/de/articles/203312520-Video-Werbemittel
