@@ -11,4 +11,4 @@ Name|URL
 [Cómo desbloquear a un usuario](./Cómo desbloquear a un usuario.html) |https://en.help.roblox.com/hc/es/articles/360033386312-C%C3%B3mo-desbloquear-a-un-usuario
 [Cómo bloquear a otro usuario](./Cómo bloquear a otro usuario.html) |https://en.help.roblox.com/hc/es/articles/203314270-C%C3%B3mo-bloquear-a-otro-usuario
 [Aplicación Xbox One: Reportando a otro jugador](./Aplicación Xbox One- Reportando a otro jugador.html) |https://en.help.roblox.com/hc/es/articles/206210440-Aplicaci%C3%B3n-Xbox-One-Reportando-a-otro-jugador
-[Orientación para padres sobre Talent Hub](./Orientación para padres sobre Talent Hub.html) |https://en.help.roblox.com/hc/es/articles/4404630280980-Orientaci%C3%B3n-para-padres-sobre-Talent-Hub
+[Orientación para padres sobre el Centro de talentos](./Orientación para padres sobre el Centro de talentos.html) |https://en.help.roblox.com/hc/es/articles/4404630280980-Orientaci%C3%B3n-para-padres-sobre-el-Centro-de-talentos
