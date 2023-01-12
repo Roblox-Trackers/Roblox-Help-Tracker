@@ -10,3 +10,4 @@ Name|URL
 [Como Desbloquear um Usuário](./Como Desbloquear um Usuário.html) |https://en.help.roblox.com/hc/pt-br/articles/360033386312-Como-Desbloquear-um-Usu%C3%A1rio
 [Como Bloquear Outro Usuário](./Como Bloquear Outro Usuário.html) |https://en.help.roblox.com/hc/pt-br/articles/203314270-Como-Bloquear-Outro-Usu%C3%A1rio
 [Aplicativo Xbox One: Reportando Outro Jogador](./Aplicativo Xbox One- Reportando Outro Jogador.html) |https://en.help.roblox.com/hc/pt-br/articles/206210440-Aplicativo-Xbox-One-Reportando-Outro-Jogador
+[Orientação a responsáveis sobre Central de Talentos](./Orientação a responsáveis sobre Central de Talentos.html) |https://en.help.roblox.com/hc/pt-br/articles/4404630280980-Orienta%C3%A7%C3%A3o-a-respons%C3%A1veis-sobre-Central-de-Talentos
