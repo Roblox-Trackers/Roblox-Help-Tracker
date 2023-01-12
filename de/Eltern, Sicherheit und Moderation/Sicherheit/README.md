@@ -10,3 +10,4 @@ Name|URL
 [So entsperren Sie einen Benutzer](./So entsperren Sie einen Benutzer.html) |https://en.help.roblox.com/hc/de/articles/360033386312-So-entsperren-Sie-einen-Benutzer
 [Einen anderen Benutzer blockieren](./Einen anderen Benutzer blockieren.html) |https://en.help.roblox.com/hc/de/articles/203314270-Einen-anderen-Benutzer-blockieren
 [Xbox One App: Melden einen anderen Spieler](./Xbox One App- Melden einen anderen Spieler.html) |https://en.help.roblox.com/hc/de/articles/206210440-Xbox-One-App-Melden-einen-anderen-Spieler
+[Elternratgeber zum Talent Hub](./Elternratgeber zum Talent Hub.html) |https://en.help.roblox.com/hc/de/articles/4404630280980-Elternratgeber-zum-Talent-Hub
