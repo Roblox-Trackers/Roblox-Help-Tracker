@@ -5,7 +5,7 @@ Name|URL
 [Impostazioni di base del Luogo: nome e descrizione](./Impostazioni di base del Luogo- nome e descrizione.html) |https://en.help.roblox.com/hc/it/articles/203314030-Impostazioni-di-base-del-Luogo-nome-e-descrizione
 [Link Social Media per le Esperienze](./Link Social Media per le Esperienze.html) |https://en.help.roblox.com/hc/it/articles/360000910966-Link-Social-Media-per-le-Esperienze
 [Impara Come Creare Esperienze](./Impara Come Creare Esperienze.html) |https://en.help.roblox.com/hc/it/articles/203625344-Impara-Come-Creare-Esperienze
-[Lo studio di Roblox](./Lo studio di Roblox.html) |https://en.help.roblox.com/hc/it/articles/203313860-Lo-studio-di-Roblox
+[Roblox Studio](./Roblox Studio.html) |https://en.help.roblox.com/hc/it/articles/203313860-Roblox-Studio
 [Modifica e Test in Studio (Modalità Modifica)](./Modifica e Test in Studio (Modalità Modifica).html) |https://en.help.roblox.com/hc/it/articles/203313870-Modifica-e-Test-in-Studio-Modalit%C3%A0-Modifica-
 [Non Consentire la Copia Della Tua Esperienza](./Non Consentire la Copia Della Tua Esperienza.html) |https://en.help.roblox.com/hc/it/articles/203313940-Non-Consentire-la-Copia-Della-Tua-Esperienza
 [Come pubblicare/caricare un luogo](./Come pubblicare-caricare un luogo.html) |https://en.help.roblox.com/hc/it/articles/203313890-Come-pubblicare-caricare-un-luogo
