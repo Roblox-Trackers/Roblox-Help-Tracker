@@ -12,7 +12,7 @@ Name|URL
 [Esperienze del Gruppo](./Esperienze del Gruppo.html) |https://en.help.roblox.com/hc/it/articles/203313760-Esperienze-del-Gruppo
 [Creazione e Costruzione di Esperienze Pubbliche](./Creazione e Costruzione di Esperienze Pubbliche.html) |https://en.help.roblox.com/hc/it/articles/203313950-Creazione-e-Costruzione-di-Esperienze-Pubbliche
 [Come posso abilitare i server VIP / privati ​​sui miei giochi?](./Come posso abilitare i server VIP - privati ​​sui miei giochi-.html) |https://en.help.roblox.com/hc/it/articles/360000781023-Come-posso-abilitare-i-server-VIP-privati-sui-miei-giochi-
-[Come copiare un gioco](./Come copiare un gioco.html) |https://en.help.roblox.com/hc/it/articles/203313900-Come-copiare-un-gioco
+[Come Copiare un'Esperienza](./Come Copiare un'Esperienza.html) |https://en.help.roblox.com/hc/it/articles/203313900-Come-Copiare-un-Esperienza
 [Come ripristinare le versioni precedenti di un luogo](./Come ripristinare le versioni precedenti di un luogo.html) |https://en.help.roblox.com/hc/it/articles/203313850-Come-ripristinare-le-versioni-precedenti-di-un-luogo
 [Ripristina Luogo su un modello iniziale](./Ripristina Luogo su un modello iniziale.html) |https://en.help.roblox.com/hc/it/articles/203313920-Ripristina-Luogo-su-un-modello-iniziale
 [Aggiungi Equipaggiamento all'Esperienza](./Aggiungi Equipaggiamento all'Esperienza.html) |https://en.help.roblox.com/hc/it/articles/203314050-Aggiungi-Equipaggiamento-all-Esperienza
