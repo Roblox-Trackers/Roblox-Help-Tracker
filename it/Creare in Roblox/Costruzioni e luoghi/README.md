@@ -14,7 +14,7 @@ Name|URL
 [Come posso abilitare i server VIP / privati ​​sui miei giochi?](./Come posso abilitare i server VIP - privati ​​sui miei giochi-.html) |https://en.help.roblox.com/hc/it/articles/360000781023-Come-posso-abilitare-i-server-VIP-privati-sui-miei-giochi-
 [Come Copiare un'Esperienza](./Come Copiare un'Esperienza.html) |https://en.help.roblox.com/hc/it/articles/203313900-Come-Copiare-un-Esperienza
 [Come ripristinare le versioni precedenti di un luogo](./Come ripristinare le versioni precedenti di un luogo.html) |https://en.help.roblox.com/hc/it/articles/203313850-Come-ripristinare-le-versioni-precedenti-di-un-luogo
-[Ripristina Luogo su un modello iniziale](./Ripristina Luogo su un modello iniziale.html) |https://en.help.roblox.com/hc/it/articles/203313920-Ripristina-Luogo-su-un-modello-iniziale
+[Reimposta il Luogo su un Modello di Partenza](./Reimposta il Luogo su un Modello di Partenza.html) |https://en.help.roblox.com/hc/it/articles/203313920-Reimposta-il-Luogo-su-un-Modello-di-Partenza
 [Aggiungi Equipaggiamento all'Esperienza](./Aggiungi Equipaggiamento all'Esperienza.html) |https://en.help.roblox.com/hc/it/articles/203314050-Aggiungi-Equipaggiamento-all-Esperienza
 [Come faccio a creare badge Esperienza?](./Come faccio a creare badge Esperienza-.html) |https://en.help.roblox.com/hc/it/articles/203313650-Come-faccio-a-creare-badge-Esperienza-
 [Come faccio a costruire con le GUI?](./Come faccio a costruire con le GUI-.html) |https://en.help.roblox.com/hc/it/articles/203313960-Come-faccio-a-costruire-con-le-GUI-
