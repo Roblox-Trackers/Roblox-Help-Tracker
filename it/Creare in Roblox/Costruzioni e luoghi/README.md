@@ -11,7 +11,7 @@ Name|URL
 [Come pubblicare/caricare un luogo](./Come pubblicare-caricare un luogo.html) |https://en.help.roblox.com/hc/it/articles/203313890-Come-pubblicare-caricare-un-luogo
 [Esperienze del Gruppo](./Esperienze del Gruppo.html) |https://en.help.roblox.com/hc/it/articles/203313760-Esperienze-del-Gruppo
 [Creazione e Costruzione di Esperienze Pubbliche](./Creazione e Costruzione di Esperienze Pubbliche.html) |https://en.help.roblox.com/hc/it/articles/203313950-Creazione-e-Costruzione-di-Esperienze-Pubbliche
-[Come posso abilitare i server VIP / privati ​​sui miei giochi?](./Come posso abilitare i server VIP - privati ​​sui miei giochi-.html) |https://en.help.roblox.com/hc/it/articles/360000781023-Come-posso-abilitare-i-server-VIP-privati-sui-miei-giochi-
+[Come posso abilitare i server VIP/privati ​​sulle mie esperienze?](./Come posso abilitare i server VIP-privati ​​sulle mie esperienze-.html) |https://en.help.roblox.com/hc/it/articles/360000781023-Come-posso-abilitare-i-server-VIP-privati-sulle-mie-esperienze-
 [Come Copiare un'Esperienza](./Come Copiare un'Esperienza.html) |https://en.help.roblox.com/hc/it/articles/203313900-Come-Copiare-un-Esperienza
 [Come ripristinare le versioni precedenti di un luogo](./Come ripristinare le versioni precedenti di un luogo.html) |https://en.help.roblox.com/hc/it/articles/203313850-Come-ripristinare-le-versioni-precedenti-di-un-luogo
 [Reimposta il Luogo su un Modello di Partenza](./Reimposta il Luogo su un Modello di Partenza.html) |https://en.help.roblox.com/hc/it/articles/203313920-Reimposta-il-Luogo-su-un-Modello-di-Partenza
