@@ -9,3 +9,4 @@ Name|URL
 [如何解锁用户](./如何解锁用户.html) |https://en.help.roblox.com/hc/zh-cn/articles/360033386312-%E5%A6%82%E4%BD%95%E8%A7%A3%E9%94%81%E7%94%A8%E6%88%B7
 [如何屏蔽其他用户](./如何屏蔽其他用户.html) |https://en.help.roblox.com/hc/zh-cn/articles/203314270-%E5%A6%82%E4%BD%95%E5%B1%8F%E8%94%BD%E5%85%B6%E4%BB%96%E7%94%A8%E6%88%B7
 [Xbox One App：举报其他玩家](./Xbox One App：举报其他玩家.html) |https://en.help.roblox.com/hc/zh-cn/articles/206210440-Xbox-One-App-%E4%B8%BE%E6%8A%A5%E5%85%B6%E4%BB%96%E7%8E%A9%E5%AE%B6
+[人才中心家长指南](./人才中心家长指南.html) |https://en.help.roblox.com/hc/zh-cn/articles/4404630280980-%E4%BA%BA%E6%89%8D%E4%B8%AD%E5%BF%83%E5%AE%B6%E9%95%BF%E6%8C%87%E5%8D%97
