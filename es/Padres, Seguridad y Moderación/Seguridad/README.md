@@ -5,7 +5,7 @@ Name|URL
 [Seguridad y civismo en Roblox](./Seguridad y civismo en Roblox.html) |https://en.help.roblox.com/hc/es/articles/4407444339348-Seguridad-y-civismo-en-Roblox
 [Funciones de seguridad: chat, privacidad y filtrado](./Funciones de seguridad- chat, privacidad y filtrado.html) |https://en.help.roblox.com/hc/es/articles/203313120-Funciones-de-seguridad-chat-privacidad-y-filtrado
 [Guiando a su Prospecto Desarrollador de Roblox](./Guiando a su Prospecto Desarrollador de Roblox.html) |https://en.help.roblox.com/hc/es/articles/4438648708756-Guiando-a-su-Prospecto-Desarrollador-de-Roblox
-[Preguntas Frecuentes sobre el Código de Diseño Apropiado para la edad](./Preguntas Frecuentes sobre el Código de Diseño Apropiado para la edad.html) |https://en.help.roblox.com/hc/es/articles/4406238486676-Preguntas-Frecuentes-sobre-el-C%C3%B3digo-de-Dise%C3%B1o-Apropiado-para-la-edad
+[Preguntas frecuentes sobre el Código de diseño apropiado a la edad](./Preguntas frecuentes sobre el Código de diseño apropiado a la edad.html) |https://en.help.roblox.com/hc/es/articles/4406238486676-Preguntas-frecuentes-sobre-el-C%C3%B3digo-de-dise%C3%B1o-apropiado-a-la-edad
 [¿Cómo puedo ver lo que mi hijo está haciendo en Roblox?](./¿Cómo puedo ver lo que mi hijo está haciendo en Roblox-.html) |https://en.help.roblox.com/hc/es/articles/360031384652--C%C3%B3mo-puedo-ver-lo-que-mi-hijo-est%C3%A1-haciendo-en-Roblox-
 [Cómo denunciar infracciones de las reglas](./Cómo denunciar infracciones de las reglas.html) |https://en.help.roblox.com/hc/es/articles/203312410-C%C3%B3mo-denunciar-infracciones-de-las-reglas
 [Cómo desbloquear a un usuario](./Cómo desbloquear a un usuario.html) |https://en.help.roblox.com/hc/es/articles/360033386312-C%C3%B3mo-desbloquear-a-un-usuario
