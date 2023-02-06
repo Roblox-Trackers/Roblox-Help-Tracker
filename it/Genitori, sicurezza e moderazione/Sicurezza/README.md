@@ -4,6 +4,7 @@ Name|URL
 -|-
 [Sicurezza e Civiltà in Roblox](./Sicurezza e Civiltà in Roblox.html) |https://en.help.roblox.com/hc/it/articles/4407444339348-Sicurezza-e-Civilt%C3%A0-in-Roblox
 [Funzioni di sicurezza: chat, privacy e filtri](./Funzioni di sicurezza- chat, privacy e filtri.html) |https://en.help.roblox.com/hc/it/articles/203313120-Funzioni-di-sicurezza-chat-privacy-e-filtri
+[Guida per lo sviluppatore Roblox emergente](./Guida per lo sviluppatore Roblox emergente.html) |https://en.help.roblox.com/hc/it/articles/4438648708756-Guida-per-lo-sviluppatore-Roblox-emergente
 [Domande frequenti sul codice di progettazione appropriato per l'età](./Domande frequenti sul codice di progettazione appropriato per l'età.html) |https://en.help.roblox.com/hc/it/articles/4406238486676-Domande-frequenti-sul-codice-di-progettazione-appropriato-per-l-et%C3%A0
 [Come posso vedere cosa sta facendo mio figlio su Roblox?](./Come posso vedere cosa sta facendo mio figlio su Roblox-.html) |https://en.help.roblox.com/hc/it/articles/360031384652-Come-posso-vedere-cosa-sta-facendo-mio-figlio-su-Roblox-
 [Come Segnalare Violazioni Delle Regole](./Come Segnalare Violazioni Delle Regole.html) |https://en.help.roblox.com/hc/it/articles/203312410-Come-Segnalare-Violazioni-Delle-Regole
