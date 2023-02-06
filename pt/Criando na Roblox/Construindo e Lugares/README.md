@@ -21,4 +21,4 @@ Name|URL
 [Configurando o Estilo do Chat do Seu Local](./Configurando o Estilo do Chat do Seu Local.html) |https://en.help.roblox.com/hc/pt-br/articles/360019904552-Configurando-o-Estilo-do-Chat-do-Seu-Local
 [O Que É Este Modelo Infectado no Meu Lugar?](./O Que É Este Modelo Infectado no Meu Lugar-.html) |https://en.help.roblox.com/hc/pt-br/articles/203312920-O-Que-%C3%89-Este-Modelo-Infectado-no-Meu-Lugar-
 [Fórum de Desenvolvedores Roblox](./Fórum de Desenvolvedores Roblox.html) |https://en.help.roblox.com/hc/pt-br/articles/360000240223-F%C3%B3rum-de-Desenvolvedores-Roblox
-[Usando Música Licenciada no Roblox](./Usando Música Licenciada no Roblox.html) |https://en.help.roblox.com/hc/pt-br/articles/360000927163-Usando-M%C3%BAsica-Licenciada-no-Roblox
+[Usando música licenciada na Roblox](./Usando música licenciada na Roblox.html) |https://en.help.roblox.com/hc/pt-br/articles/360000927163-Usando-m%C3%BAsica-licenciada-na-Roblox
