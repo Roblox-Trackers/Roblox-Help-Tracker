@@ -6,3 +6,4 @@ Name|URL
 [크리에이터 애널리틱스 이용 약관](./크리에이터 애널리틱스 이용 약관.html) |https://en.help.roblox.com/hc/ko/articles/10949046065044-%ED%81%AC%EB%A6%AC%EC%97%90%EC%9D%B4%ED%84%B0-%EC%95%A0%EB%84%90%EB%A6%AC%ED%8B%B1%EC%8A%A4-%EC%9D%B4%EC%9A%A9-%EC%95%BD%EA%B4%80
 [Roblox 프로모션 코드](./Roblox 프로모션 코드.html) |https://en.help.roblox.com/hc/ko/articles/10549651908244-Roblox-%ED%94%84%EB%A1%9C%EB%AA%A8%EC%85%98-%EC%BD%94%EB%93%9C
 [법 집행 기관 관련 자주 묻는 질문](./법 집행 기관 관련 자주 묻는 질문.html) |https://en.help.roblox.com/hc/ko/articles/11219680442260-%EB%B2%95-%EC%A7%91%ED%96%89-%EA%B8%B0%EA%B4%80-%EA%B4%80%EB%A0%A8-%EC%9E%90%EC%A3%BC-%EB%AC%BB%EB%8A%94-%EC%A7%88%EB%AC%B8
+[사용 허가된 음악의 동영상 내 활용](./사용 허가된 음악의 동영상 내 활용.html) |https://en.help.roblox.com/hc/ko/articles/360038525351-%EC%82%AC%EC%9A%A9-%ED%97%88%EA%B0%80%EB%90%9C-%EC%9D%8C%EC%95%85%EC%9D%98-%EB%8F%99%EC%98%81%EC%83%81-%EB%82%B4-%ED%99%9C%EC%9A%A9
