@@ -15,4 +15,5 @@ Name|URL
 [Creator-Analytics-Nutzungsbedingungen](./Creator-Analytics-Nutzungsbedingungen.html) |https://en.help.roblox.com/hc/de/articles/10949046065044-Creator-Analytics-Nutzungsbedingungen
 [Help-Center-FAQs für Strafverfolgungsbehörden](./Help-Center-FAQs für Strafverfolgungsbehörden.html) |https://en.help.roblox.com/hc/de/articles/11219680442260-Help-Center-FAQs-f%C3%BCr-Strafverfolgungsbeh%C3%B6rden
 [Verwendung von lizenzierter Musik in Videos](./Verwendung von lizenzierter Musik in Videos.html) |https://en.help.roblox.com/hc/de/articles/360038525351-Verwendung-von-lizenzierter-Musik-in-Videos
+[Gesetz über digitale Dienste](./Gesetz über digitale Dienste.html) |https://en.help.roblox.com/hc/de/articles/13061336948244-Gesetz-%C3%BCber-digitale-Dienste
 [Impressum](./Impressum.html) |https://en.help.roblox.com/hc/de/articles/4401758349844-Impressum

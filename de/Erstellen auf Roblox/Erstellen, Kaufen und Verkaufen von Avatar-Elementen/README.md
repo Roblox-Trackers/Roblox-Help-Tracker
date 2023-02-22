@@ -2,13 +2,13 @@
 ### Articles in this section
 Name|URL
 -|-
-[Wo ist der Artikel den ich gerade gekauft habe?](./Wo ist der Artikel den ich gerade gekauft habe-.html) |https://en.help.roblox.com/hc/de/articles/360029542532-Wo-ist-der-Artikel-den-ich-gerade-gekauft-habe-
+[Wo ist das Item, das ich gerade mit Robux gekauft habe?](./Wo ist das Item, das ich gerade mit Robux gekauft habe-.html) |https://en.help.roblox.com/hc/de/articles/360029542532-Wo-ist-das-Item-das-ich-gerade-mit-Robux-gekauft-habe-
 [Erhalte ich meine Robux zurück, wenn ich einen Gegenstand lösche oder er mir nicht gefällt?](./Erhalte ich meine Robux zurück, wenn ich einen Gegenstand lösche oder er mir nicht gefällt-.html) |https://en.help.roblox.com/hc/de/articles/203313290-Erhalte-ich-meine-Robux-zur%C3%BCck-wenn-ich-einen-Gegenstand-l%C3%B6sche-oder-er-mir-nicht-gef%C3%A4llt-
 [Die Artikeldetailseite und das Kaufen von Artikeln](./Die Artikeldetailseite und das Kaufen von Artikeln.html) |https://en.help.roblox.com/hc/de/articles/206142306-Die-Artikeldetailseite-und-das-Kaufen-von-Artikeln
 [Kleidung: T-Shirts, Hemden und Hosen](./Kleidung- T-Shirts, Hemden und Hosen.html) |https://en.help.roblox.com/hc/de/articles/203313170-Kleidung-T-Shirts-Hemden-und-Hosen
 [Was sind die Virtuellen Ausrüstungen?](./Was sind die Virtuellen Ausrüstungen-.html) |https://en.help.roblox.com/hc/de/articles/203313630-Was-sind-die-Virtuellen-Ausr%C3%BCstungen-
 [Der Avatar-Shop](./Der Avatar-Shop.html) |https://en.help.roblox.com/hc/de/articles/203313300-Der-Avatar-Shop
-[Wie man Gegenstände verkauft](./Wie man Gegenstände verkauft.html) |https://en.help.roblox.com/hc/de/articles/203313260-Wie-man-Gegenst%C3%A4nde-verkauft
+[Wie man Items verkauft](./Wie man Items verkauft.html) |https://en.help.roblox.com/hc/de/articles/203313260-Wie-man-Items-verkauft
 [Kleidung verkaufen](./Kleidung verkaufen.html) |https://en.help.roblox.com/hc/de/articles/203313180-Kleidung-verkaufen
 [Handelssystem](./Handelssystem.html) |https://en.help.roblox.com/hc/de/articles/203313310-Handelssystem
 [Alles über Geschenkartikel](./Alles über Geschenkartikel.html) |https://en.help.roblox.com/hc/de/articles/205630374-Alles-%C3%BCber-Geschenkartikel
