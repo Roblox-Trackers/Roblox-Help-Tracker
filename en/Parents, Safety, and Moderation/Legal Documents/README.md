@@ -19,3 +19,4 @@ Name|URL
 [Help Center FAQs for Law Enforcement](./Help Center FAQs for Law Enforcement.html) |https://en.help.roblox.com/hc/en-us/articles/11219680442260-Help-Center-FAQs-for-Law-Enforcement
 [Using Licensed Music in Videos](./Using Licensed Music in Videos.html) |https://en.help.roblox.com/hc/en-us/articles/360038525351-Using-Licensed-Music-in-Videos
 [CPRA Privacy Policy](./CPRA Privacy Policy.html) |https://en.help.roblox.com/hc/en-us/articles/4402871541140-CPRA-Privacy-Policy
+[Digital Services Act](./Digital Services Act.html) |https://en.help.roblox.com/hc/en-us/articles/13061336948244-Digital-Services-Act
