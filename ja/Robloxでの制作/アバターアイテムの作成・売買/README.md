@@ -9,7 +9,7 @@ Name|URL
 [バーチャルギアとは？](./バーチャルギアとは？.html) |https://en.help.roblox.com/hc/ja/articles/203313630-%E3%83%90%E3%83%BC%E3%83%81%E3%83%A3%E3%83%AB%E3%82%AE%E3%82%A2%E3%81%A8%E3%81%AF-
 [アバターショップ](./アバターショップ.html) |https://en.help.roblox.com/hc/ja/articles/203313300-%E3%82%A2%E3%83%90%E3%82%BF%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97
 [アイテムの販売方法](./アイテムの販売方法.html) |https://en.help.roblox.com/hc/ja/articles/203313260-%E3%82%A2%E3%82%A4%E3%83%86%E3%83%A0%E3%81%AE%E8%B2%A9%E5%A3%B2%E6%96%B9%E6%B3%95
-[コスチュームの販売](./コスチュームの販売.html) |https://en.help.roblox.com/hc/ja/articles/203313180-%E3%82%B3%E3%82%B9%E3%83%81%E3%83%A5%E3%83%BC%E3%83%A0%E3%81%AE%E8%B2%A9%E5%A3%B2
+[服の販売](./服の販売.html) |https://en.help.roblox.com/hc/ja/articles/203313180-%E6%9C%8D%E3%81%AE%E8%B2%A9%E5%A3%B2
 [トレードシステム](./トレードシステム.html) |https://en.help.roblox.com/hc/ja/articles/203313310-%E3%83%88%E3%83%AC%E3%83%BC%E3%83%89%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0
 [ギフトアイテムについて](./ギフトアイテムについて.html) |https://en.help.roblox.com/hc/ja/articles/205630374-%E3%82%AE%E3%83%95%E3%83%88%E3%82%A2%E3%82%A4%E3%83%86%E3%83%A0%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6
 [プロモーションアイテムやコンテストアイテムを入手するにはどうすればよいですか？](./プロモーションアイテムやコンテストアイテムを入手するにはどうすればよいですか？.html) |https://en.help.roblox.com/hc/ja/articles/203313270-%E3%83%97%E3%83%AD%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%A2%E3%82%A4%E3%83%86%E3%83%A0%E3%82%84%E3%82%B3%E3%83%B3%E3%83%86%E3%82%B9%E3%83%88%E3%82%A2%E3%82%A4%E3%83%86%E3%83%A0%E3%82%92%E5%85%A5%E6%89%8B%E3%81%99%E3%82%8B%E3%81%AB%E3%81%AF%E3%81%A9%E3%81%86%E3%81%99%E3%82%8C%E3%81%B0%E3%82%88%E3%81%84%E3%81%A7%E3%81%99%E3%81%8B-

@@ -2,7 +2,7 @@
 ### Articles in this section
 Name|URL
 -|-
-[アカウントの規制内容に対して申し立てをする場合](./アカウントの規制内容に対して申し立てをする場合.html) |https://en.help.roblox.com/hc/ja/articles/360000245263-%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E3%81%AE%E8%A6%8F%E5%88%B6%E5%86%85%E5%AE%B9%E3%81%AB%E5%AF%BE%E3%81%97%E3%81%A6%E7%94%B3%E3%81%97%E7%AB%8B%E3%81%A6%E3%82%92%E3%81%99%E3%82%8B%E5%A0%B4%E5%90%88
+[アカウントのモデレート不服申立て](./アカウントのモデレート不服申立て.html) |https://en.help.roblox.com/hc/ja/articles/360000245263-%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E3%81%AE%E3%83%A2%E3%83%87%E3%83%AC%E3%83%BC%E3%83%88%E4%B8%8D%E6%9C%8D%E7%94%B3%E7%AB%8B%E3%81%A6
 [コンテンツのモデレーションに異議を申し立てる](./コンテンツのモデレーションに異議を申し立てる.html) |https://en.help.roblox.com/hc/ja/articles/360000272703-%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84%E3%81%AE%E3%83%A2%E3%83%87%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AB%E7%95%B0%E8%AD%B0%E3%82%92%E7%94%B3%E3%81%97%E7%AB%8B%E3%81%A6%E3%82%8B
 [友達の代わりに異議申し立てできますか？](./友達の代わりに異議申し立てできますか？.html) |https://en.help.roblox.com/hc/ja/articles/360000240183-%E5%8F%8B%E9%81%94%E3%81%AE%E4%BB%A3%E3%82%8F%E3%82%8A%E3%81%AB%E7%95%B0%E8%AD%B0%E7%94%B3%E3%81%97%E7%AB%8B%E3%81%A6%E3%81%A7%E3%81%8D%E3%81%BE%E3%81%99%E3%81%8B-
 [誤った規約違反の報告](./誤った規約違反の報告.html) |https://en.help.roblox.com/hc/ja/articles/203312470-%E8%AA%A4%E3%81%A3%E3%81%9F%E8%A6%8F%E7%B4%84%E9%81%95%E5%8F%8D%E3%81%AE%E5%A0%B1%E5%91%8A
