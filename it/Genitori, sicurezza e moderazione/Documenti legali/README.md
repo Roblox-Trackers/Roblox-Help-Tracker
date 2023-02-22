@@ -4,6 +4,7 @@ Name|URL
 -|-
 [Privacy Roblox e Cookie Policy](./Privacy Roblox e Cookie Policy.html) |https://en.help.roblox.com/hc/it/articles/115004630823-Privacy-Roblox-e-Cookie-Policy
 [Linee guida per l'utilizzo di nomi e logo Roblox da parte della community](./Linee guida per l'utilizzo di nomi e logo Roblox da parte della community.html) |https://en.help.roblox.com/hc/it/articles/115001708126-Linee-guida-per-l-utilizzo-di-nomi-e-logo-Roblox-da-parte-della-community
+[Termini di servizio SMS di Roblox](./Termini di servizio SMS di Roblox.html) |https://en.help.roblox.com/hc/it/articles/9483830673556-Termini-di-servizio-SMS-di-Roblox
 [Condizioni d'uso di Creator Analytics](./Condizioni d'uso di Creator Analytics.html) |https://en.help.roblox.com/hc/it/articles/10949046065044-Condizioni-d-uso-di-Creator-Analytics
 [Codici promozionali su Roblox](./Codici promozionali su Roblox.html) |https://en.help.roblox.com/hc/it/articles/10549651908244-Codici-promozionali-su-Roblox
 [Domande frequenti sul Centro assistenza per le forze dell'ordine](./Domande frequenti sul Centro assistenza per le forze dell'ordine.html) |https://en.help.roblox.com/hc/it/articles/11219680442260-Domande-frequenti-sul-Centro-assistenza-per-le-forze-dell-ordine
