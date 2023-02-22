@@ -7,7 +7,7 @@ Name|URL
 [Aprenda a Construir Experiências](./Aprenda a Construir Experiências.html) |https://en.help.roblox.com/hc/pt-br/articles/203625344-Aprenda-a-Construir-Experi%C3%AAncias
 [Roblox Studio](./Roblox Studio.html) |https://en.help.roblox.com/hc/pt-br/articles/203313860-Roblox-Studio
 [Edição e Teste no Studio (Modo de Edição)](./Edição e Teste no Studio (Modo de Edição).html) |https://en.help.roblox.com/hc/pt-br/articles/203313870-Edi%C3%A7%C3%A3o-e-Teste-no-Studio-Modo-de-Edi%C3%A7%C3%A3o-
-[Proibir a Cópia da sua Experiência](./Proibir a Cópia da sua Experiência.html) |https://en.help.roblox.com/hc/pt-br/articles/203313940-Proibir-a-C%C3%B3pia-da-sua-Experi%C3%AAncia
+[Proibindo cópia de sua Experiência](./Proibindo cópia de sua Experiência.html) |https://en.help.roblox.com/hc/pt-br/articles/203313940-Proibindo-c%C3%B3pia-de-sua-Experi%C3%AAncia
 [Como Publicar/Fazer Upload De Um Lugar](./Como Publicar-Fazer Upload De Um Lugar.html) |https://en.help.roblox.com/hc/pt-br/articles/203313890-Como-Publicar-Fazer-Upload-De-Um-Lugar
 [Experiências de Grupo](./Experiências de Grupo.html) |https://en.help.roblox.com/hc/pt-br/articles/203313760-Experi%C3%AAncias-de-Grupo
 [Criando e Fazendo Experiências Públicas](./Criando e Fazendo Experiências Públicas.html) |https://en.help.roblox.com/hc/pt-br/articles/203313950-Criando-e-Fazendo-Experi%C3%AAncias-P%C3%BAblicas

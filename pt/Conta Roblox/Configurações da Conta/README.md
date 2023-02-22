@@ -14,6 +14,6 @@ Name|URL
 [Alterando Seu Nome De Exibição](./Alterando Seu Nome De Exibição.html) |https://en.help.roblox.com/hc/pt-br/articles/4401938870292-Alterando-Seu-Nome-De-Exibi%C3%A7%C3%A3o
 [Alterando Seu Nome de Usuário](./Alterando Seu Nome de Usuário.html) |https://en.help.roblox.com/hc/pt-br/articles/203313130-Alterando-Seu-Nome-de-Usu%C3%A1rio
 [Verificação de Idade por Identidade](./Verificação de Idade por Identidade.html) |https://en.help.roblox.com/hc/pt-br/articles/4407282410644-Verifica%C3%A7%C3%A3o-de-Idade-por-Identidade
-[Perguntas Frequentes: Verificação de Idade por Identidade](./Perguntas Frequentes- Verificação de Idade por Identidade.html) |https://en.help.roblox.com/hc/pt-br/articles/4407276151188-Perguntas-Frequentes-Verifica%C3%A7%C3%A3o-de-Idade-por-Identidade
+[Perguntas frequentes sobre verificação de idade](./Perguntas frequentes sobre verificação de idade.html) |https://en.help.roblox.com/hc/pt-br/articles/4407276151188-Perguntas-frequentes-sobre-verifica%C3%A7%C3%A3o-de-idade
 [Mudando o Tema da Sua Conta](./Mudando o Tema da Sua Conta.html) |https://en.help.roblox.com/hc/pt-br/articles/360022922852-Mudando-o-Tema-da-Sua-Conta
 [Perguntas Frequentes – Importador de contatos](./Perguntas Frequentes – Importador de contatos.html) |https://en.help.roblox.com/hc/pt-br/articles/7416652004884-Perguntas-Frequentes-Importador-de-contatos
