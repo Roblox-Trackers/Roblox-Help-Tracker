@@ -2,6 +2,7 @@
 ### Articles in this section
 Name|URL
 -|-
+[Условия использования программы текстовых сообщений от Roblox](./Условия использования программы текстовых сообщений от Roblox.html) |https://en.help.roblox.com/hc/ru/articles/9483830673556-%D0%A3%D1%81%D0%BB%D0%BE%D0%B2%D0%B8%D1%8F-%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B-%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D1%85-%D1%81%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D0%B9-%D0%BE%D1%82-Roblox
 [Условия использования Панели аналитики (Creator Dashboard)](./Условия использования Панели аналитики (Creator Dashboard).html) |https://en.help.roblox.com/hc/ru/articles/10949046065044-%D0%A3%D1%81%D0%BB%D0%BE%D0%B2%D0%B8%D1%8F-%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-%D0%9F%D0%B0%D0%BD%D0%B5%D0%BB%D0%B8-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B8-Creator-Dashboard-
 [Промокоды в Roblox](./Промокоды в Roblox.html) |https://en.help.roblox.com/hc/ru/articles/10549651908244-%D0%9F%D1%80%D0%BE%D0%BC%D0%BE%D0%BA%D0%BE%D0%B4%D1%8B-%D0%B2-Roblox
 [Ответы на вопросы правоохранительных органов](./Ответы на вопросы правоохранительных органов.html) |https://en.help.roblox.com/hc/ru/articles/11219680442260-%D0%9E%D1%82%D0%B2%D0%B5%D1%82%D1%8B-%D0%BD%D0%B0-%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D1%8B-%D0%BF%D1%80%D0%B0%D0%B2%D0%BE%D0%BE%D1%85%D1%80%D0%B0%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85-%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D0%BE%D0%B2
