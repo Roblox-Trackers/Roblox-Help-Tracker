@@ -2,7 +2,7 @@
 ### Articles in this section
 Name|URL
 -|-
-[Où est l'article que je viens d'acheter avec Robux ?](./Où est l'article que je viens d'acheter avec Robux -.html) |https://en.help.roblox.com/hc/fr/articles/360029542532-O%C3%B9-est-l-article-que-je-viens-d-acheter-avec-Robux-
+[Où est l'article que je viens d'acheter avec des Robux ?](./Où est l'article que je viens d'acheter avec des Robux -.html) |https://en.help.roblox.com/hc/fr/articles/360029542532-O%C3%B9-est-l-article-que-je-viens-d-acheter-avec-des-Robux-
 [Vais-je récupérer mon Robux si je supprime/n'aime pas un article ?](./Vais-je récupérer mon Robux si je supprime-n'aime pas un article -.html) |https://en.help.roblox.com/hc/fr/articles/203313290-Vais-je-r%C3%A9cup%C3%A9rer-mon-Robux-si-je-supprime-n-aime-pas-un-article-
 [La page de détails de l'article et comment acheter des articles](./La page de détails de l'article et comment acheter des articles.html) |https://en.help.roblox.com/hc/fr/articles/206142306-La-page-de-d%C3%A9tails-de-l-article-et-comment-acheter-des-articles
 [Vêtements : Tee-shirts, chemises et pantalons](./Vêtements - Tee-shirts, chemises et pantalons.html) |https://en.help.roblox.com/hc/fr/articles/203313170-V%C3%AAtements-Tee-shirts-chemises-et-pantalons
