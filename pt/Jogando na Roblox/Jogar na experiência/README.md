@@ -3,7 +3,7 @@
 Name|URL
 -|-
 [Experiências no Roblox](./Experiências no Roblox.html) |https://en.help.roblox.com/hc/pt-br/articles/115004734603-Experi%C3%AAncias-no-Roblox
-[Contatando os Criadores de Uma Experiência](./Contatando os Criadores de Uma Experiência.html) |https://en.help.roblox.com/hc/pt-br/articles/6566665691924-Contatando-os-Criadores-de-Uma-Experi%C3%AAncia-
+[Contatando os Criadores de Uma Experiência](./Contatando os Criadores de Uma Experiência.html) |https://en.help.roblox.com/hc/pt-br/articles/6566665691924-Contatando-os-Criadores-de-Uma-Experi%C3%AAncia
 [Hardware do Computador e Requisitos do Sistema Operacional](./Hardware do Computador e Requisitos do Sistema Operacional.html) |https://en.help.roblox.com/hc/pt-br/articles/203312800-Hardware-do-Computador-e-Requisitos-do-Sistema-Operacional
 [Configurações e Ajuda na Experiência](./Configurações e Ajuda na Experiência.html) |https://en.help.roblox.com/hc/pt-br/articles/203314230-Configura%C3%A7%C3%B5es-e-Ajuda-na-Experi%C3%AAncia
 [Como Usar Equipamentos e a Mochila?](./Como Usar Equipamentos e a Mochila-.html) |https://en.help.roblox.com/hc/pt-br/articles/203314280-Como-Usar-Equipamentos-e-a-Mochila-

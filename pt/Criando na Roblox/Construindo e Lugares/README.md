@@ -15,7 +15,6 @@ Name|URL
 [Como Copiar uma Experiência](./Como Copiar uma Experiência.html) |https://en.help.roblox.com/hc/pt-br/articles/203313900-Como-Copiar-uma-Experi%C3%AAncia
 [Como Reverter um Local Para Versões Anteriores?](./Como Reverter um Local Para Versões Anteriores-.html) |https://en.help.roblox.com/hc/pt-br/articles/203313850-Como-Reverter-um-Local-Para-Vers%C3%B5es-Anteriores-
 [Redefinir um Lugar Para o Padrão Inicial](./Redefinir um Lugar Para o Padrão Inicial.html) |https://en.help.roblox.com/hc/pt-br/articles/203313920-Redefinir-um-Lugar-Para-o-Padr%C3%A3o-Inicial
-[Adicionar Equipamento a Experiência](./Adicionar Equipamento a Experiência.html) |https://en.help.roblox.com/hc/pt-br/articles/203314050-Adicionar-Equipamento-a-Experi%C3%AAncia
 [Como Eu Faço Emblemas de Experiências?](./Como Eu Faço Emblemas de Experiências-.html) |https://en.help.roblox.com/hc/pt-br/articles/203313650-Como-Eu-Fa%C3%A7o-Emblemas-de-Experi%C3%AAncias-
 [Como Construo com GUIs?](./Como Construo com GUIs-.html) |https://en.help.roblox.com/hc/pt-br/articles/203313960-Como-Construo-com-GUIs-
 [Configurando o Estilo do Chat do Seu Local](./Configurando o Estilo do Chat do Seu Local.html) |https://en.help.roblox.com/hc/pt-br/articles/360019904552-Configurando-o-Estilo-do-Chat-do-Seu-Local
