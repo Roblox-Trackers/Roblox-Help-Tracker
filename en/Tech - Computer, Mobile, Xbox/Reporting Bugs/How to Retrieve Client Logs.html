@@ -1,4 +1,4 @@
-   <h1 class="article-title" title="How to Retrieve Client Logs">
+   <h1 class="article-title" id="article-title" title="How to Retrieve Client Logs">
     How to Retrieve Client Logs
    </h1>
    <div class="article-content">
@@ -13,56 +13,122 @@
        </em>
       </strong>
       <em>
-       Please do not retrieve or send in these logs unless requested to do so by a Roblox employee.
+       Please only send these logs when requested to do so by a Roblox employee!
       </em>
      </p>
+     <p class="wysiwyg-indent1">
+     </p>
      <h1>
-      Retrieve Client Logs
+      How to Retrieve Roblox logs
      </h1>
      <p class="wysiwyg-indent1">
-      The process for retrieving client logs varies depending on what operating system you are using. Please note that the following information does not apply to mobile devices.
+      Roblox and Roblox Studio Logs are both written to the same folder.
+     </p>
+     <ul>
+      <li>
+       On PC, press the WINDOWS KEY and R at the same time. A box called
+       <strong>
+        Run
+       </strong>
+       will appear. Copy and paste or type in the following without quotes: "%localappdata%\Roblox\logs"
+      </li>
+      <li>
+       On Mac, navigate to Macintosh HD &gt; Users &gt; [your user profile] &gt; Library &gt; Logs &gt; Roblox
+      </li>
+      <li>
+       <p data-renderer-start-pos="723">
+        We currently do not have an easy way for you to upload Android or iOS logs. Sorry, we’re working on it! &lt;TODO ios/android instructions?&gt;
+       </p>
+      </li>
+     </ul>
+     <h2>
+      There will likely be many log files in this folder
+     </h2>
+     <ul>
+      <li>
+       Roblox logs will look like: “0.&lt;major ver&gt;.&lt;minor ver&gt;.&lt;revision&gt;_&lt;date&gt;_Player_&lt;garbage&gt;_last.log
+       <ul>
+        <li>
+         For example 0.555.1.5550874_20221214T162601Z_Player_9aaf3_last.log
+        </li>
+       </ul>
+      </li>
+      <li>
+       Roblox Studio logs will look the same except says “Studio” instead of “Player
+       <ul>
+        <li>
+         For example 0.555.1.5550874_20221214T162601Z_Studio_9aaf3_last.log
+        </li>
+       </ul>
+      </li>
+      <li>
+       Bootstrapper logs will look like bootstrapper_&lt;garbage&gt;_1.txt
+       <ul>
+        <li>
+         Unless the issue is happening when launching Roblox or RobloxStudio from your web browser, or during update, you most likely do not need to send bootstrapper logs.
+        </li>
+       </ul>
+      </li>
+     </ul>
+     <p>
+     </p>
+     <h2>
+      To identify the correct log file to send you can either
+     </h2>
+     <ul>
+      <li>
+       Use the file timestamps to determine which log file corresponds to the incident you want to report
+      </li>
+      <li>
+       Delete all files in this directory, reproduce the issue you wish to report, and then send all contents in this folder
+      </li>
+      <li>
+       If you’re confused, you can just sort by date and send the most recent 10 files.
+      </li>
+     </ul>
+     <p>
+     </p>
+     <h1>
+      Sending Logs to Roblox Employees
+     </h1>
+     <p>
+      After reporting an issue on Dev Forum, a Roblox employee may instruct you to follow these instructions to send them your logs. Only retrieve and send logs to Roblox employees!!! To identify a Roblox Employee on Dev Forum, make sure it says “Roblox Staff” next to their account name:
+     </p>
+     <p class="wysiwyg-text-align-center">
+      <img alt="Roblox_Employee_on_DevForum.png" src="/hc/article_attachments/14020304096788"/>
+     </p>
+     <p>
+      The Roblox Employee will start a private thread or DM with you to request the log files. Please ensure the DM is coming from a Roblox Employee. Use the
+      <strong>
+       upload
+      </strong>
+      button to upload your log files you found in the previous information.
+     </p>
+     <p class="wysiwyg-text-align-center">
+      <img alt="DevForum_Reply_Window_with_Upload_Selected.png" height="187" src="/hc/article_attachments/14020297089428" width="564"/>
+     </p>
+     <p>
+     </p>
+     <h1>
+      Enabling Additional Logging in Roblox Studio
+     </h1>
+     <p>
+      If this is a Roblox Studio issue you are reporting, you may be asked to enable additional logging. To enable additional logging in Roblox Studio:
      </p>
      <ol>
       <li>
        Open
        <strong>
-        Roblox Studio
+        Settings
        </strong>
-       by:
-       <br/>
-       <em>
-        Windows 7 / 10:
-       </em>
-       Start &gt; All Programs (or All Apps) &gt; Roblox &gt; Roblox Studio
-       <br/>
-       <em>
-        Windows 8:
-       </em>
-       Click on the Windows logo in the lower-left corner and then type
+       by clicking on
        <strong>
-        Roblox Studio
+        File
        </strong>
-       when the tiled start screen comes up. Select
-       <strong>
-        Roblox Studio
-       </strong>
-       from the search list that appears on the right of the screen.
-       <br/>
-       <em>
-        Mac:
-       </em>
-       Command + Space Bar &gt; Type in
-       <strong>
-        RobloxStudio
-       </strong>
-       &gt; Enter
-      </li>
-      <li>
-       Open
+       &gt;
        <strong>
         Settings
        </strong>
-       by clicking on File &gt; Settings
       </li>
       <li>
        In the left pane, click on
@@ -99,41 +165,7 @@
        </em>
       </li>
       <li>
-       Close Roblox
-      </li>
-      <li>
-       Press on your keyboard WINDOWS KEY and R at the same time.
-       <br/>
-       <em>
-        For Mac:
-       </em>
-       Macintosh HD &gt; Users &gt; [your user profile] &gt; Library &gt; Logs &gt; Roblox
-       <br/>
-       <em>
-        Note: Mac users skip step 7
-       </em>
-      </li>
-      <li>
-       A box called
-       <strong>
-        Run
-       </strong>
-       will appear. Copy and paste or type in the following without quotes:
-       <br/>
-       <em>
-        If Using Windows 7 / 8 / 10:
-       </em>
-       "%localappdata%\Roblox\logs"
-       <br/>
-       Delete everything in the folder.
-      </li>
-      <li>
-       Try to play Roblox the normal way you try to play.
-      </li>
-      <li>
-       When it doesn't work, close Roblox and repeat Steps 6 and 7.
-       <br/>
-       There will be several files in the folder now. Please send them as a reply to your support message making sure to reference the situation in question that necessitated logs.
+       Close Roblox Studio and reproduce the issue
       </li>
      </ol>
      <p>
