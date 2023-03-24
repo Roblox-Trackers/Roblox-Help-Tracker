@@ -4,11 +4,14 @@ Name|URL
 -|-
 [Conditions d'utilisation de Roblox](./Conditions d'utilisation de Roblox.html) |https://en.help.roblox.com/hc/fr/articles/115004647846-Conditions-d-utilisation-de-Roblox
 [Politique de confidentialité et de cookies de Roblox](./Politique de confidentialité et de cookies de Roblox.html) |https://en.help.roblox.com/hc/fr/articles/115004630823-Politique-de-confidentialit%C3%A9-et-de-cookies-de-Roblox
-[Règles de la communauté Roblox](./Règles de la communauté Roblox.html) |https://en.help.roblox.com/hc/fr/articles/203313410-R%C3%A8gles-de-la-communaut%C3%A9-Roblox
+[Conditions d'utilisation de Roblox](./Conditions d'utilisation de Roblox.html) |https://en.help.roblox.com/hc/fr/articles/203313410-Conditions-d-utilisation-de-Roblox
+[Dictionnaire Roblox](./Dictionnaire Roblox.html) |https://en.help.roblox.com/hc/fr/articles/4415545981332-Dictionnaire-Roblox
 [Conditions d'utilisation de Developer Exchange](./Conditions d'utilisation de Developer Exchange.html) |https://en.help.roblox.com/hc/fr/articles/115005718246-Conditions-d-utilisation-de-Developer-Exchange
 [Directives d'utilisation communautaire du nom et logo Roblox](./Directives d'utilisation communautaire du nom et logo Roblox.html) |https://en.help.roblox.com/hc/fr/articles/115001708126-Directives-d-utilisation-communautaire-du-nom-et-logo-Roblox
+[CONFIDENTIALITÉ SUR LA BIOMÉTRIE DE ROBLOX](./CONFIDENTIALITÉ SUR LA BIOMÉTRIE DE ROBLOX.html) |https://en.help.roblox.com/hc/fr/articles/4412863575316-CONFIDENTIALIT%C3%89-SUR-LA-BIOM%C3%89TRIE-DE-ROBLOX
 [Avis général sur la santé](./Avis général sur la santé.html) |https://en.help.roblox.com/hc/fr/articles/360031603131-Avis-g%C3%A9n%C3%A9ral-sur-la-sant%C3%A9
 [Charte d'accessibilité de Roblox](./Charte d'accessibilité de Roblox.html) |https://en.help.roblox.com/hc/fr/articles/360059080071-Charte-d-accessibilit%C3%A9-de-Roblox
+[Avis de confidentialité de l'animation faciale de Roblox](./Avis de confidentialité de l'animation faciale de Roblox.html) |https://en.help.roblox.com/hc/fr/articles/8064749848980-Avis-de-confidentialit%C3%A9-de-l-animation-faciale-de-Roblox
 [Conditions d'utilisation des SMS de Roblox](./Conditions d'utilisation des SMS de Roblox.html) |https://en.help.roblox.com/hc/fr/articles/9483830673556-Conditions-d-utilisation-des-SMS-de-Roblox
 [Conditions d'utilisation de Creator Analytics](./Conditions d'utilisation de Creator Analytics.html) |https://en.help.roblox.com/hc/fr/articles/10949046065044-Conditions-d-utilisation-de-Creator-Analytics
 [Codes promotionnels sur Roblox](./Codes promotionnels sur Roblox.html) |https://en.help.roblox.com/hc/fr/articles/10549651908244-Codes-promotionnels-sur-Roblox

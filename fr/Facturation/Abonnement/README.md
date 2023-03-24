@@ -2,7 +2,7 @@
 ### Articles in this section
 Name|URL
 -|-
-[Annuler un abonnement renouvelable](./Annuler un abonnement renouvelable.html) |https://en.help.roblox.com/hc/fr/articles/203312540-Annuler-un-abonnement-renouvelable
+[Annuler un abonnement récurrent](./Annuler un abonnement récurrent.html) |https://en.help.roblox.com/hc/fr/articles/203312540-Annuler-un-abonnement-r%C3%A9current
 [Annuler un abonnement mobile](./Annuler un abonnement mobile.html) |https://en.help.roblox.com/hc/fr/articles/360029312472-Annuler-un-abonnement-mobile
 [Où est mon abonnement ?](./Où est mon abonnement -.html) |https://en.help.roblox.com/hc/fr/articles/360029482412-O%C3%B9-est-mon-abonnement-
 [Puis-je acheter une Adhésion pour un seul mois ?](./Puis-je acheter une Adhésion pour un seul mois -.html) |https://en.help.roblox.com/hc/fr/articles/203312780-Puis-je-acheter-une-Adh%C3%A9sion-pour-un-seul-mois-
