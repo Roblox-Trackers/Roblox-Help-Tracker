@@ -3,7 +3,9 @@
 Name|URL
 -|-
 [Roblox 개인정보 처리방침 및 쿠키 정책](./Roblox 개인정보 처리방침 및 쿠키 정책.html) |https://en.help.roblox.com/hc/ko/articles/115004630823-Roblox-%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4-%EC%B2%98%EB%A6%AC%EB%B0%A9%EC%B9%A8-%EB%B0%8F-%EC%BF%A0%ED%82%A4-%EC%A0%95%EC%B1%85
+[Roblox 커뮤니티 규정](./Roblox 커뮤니티 규정.html) |https://en.help.roblox.com/hc/ko/articles/203313410-Roblox-%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0-%EA%B7%9C%EC%A0%95
 [Roblox 접근성 정책](./Roblox 접근성 정책.html) |https://en.help.roblox.com/hc/ko/articles/360059080071-Roblox-%EC%A0%91%EA%B7%BC%EC%84%B1-%EC%A0%95%EC%B1%85
+[Roblox 얼굴 애니메이션 개인정보 처리방침](./Roblox 얼굴 애니메이션 개인정보 처리방침.html) |https://en.help.roblox.com/hc/ko/articles/8064749848980-Roblox-%EC%96%BC%EA%B5%B4-%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98-%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4-%EC%B2%98%EB%A6%AC%EB%B0%A9%EC%B9%A8
 [Roblox SMS 서비스 약관](./Roblox SMS 서비스 약관.html) |https://en.help.roblox.com/hc/ko/articles/9483830673556-Roblox-SMS-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%95%BD%EA%B4%80
 [크리에이터 애널리틱스 이용 약관](./크리에이터 애널리틱스 이용 약관.html) |https://en.help.roblox.com/hc/ko/articles/10949046065044-%ED%81%AC%EB%A6%AC%EC%97%90%EC%9D%B4%ED%84%B0-%EC%95%A0%EB%84%90%EB%A6%AC%ED%8B%B1%EC%8A%A4-%EC%9D%B4%EC%9A%A9-%EC%95%BD%EA%B4%80
 [Roblox 프로모션 코드](./Roblox 프로모션 코드.html) |https://en.help.roblox.com/hc/ko/articles/10549651908244-Roblox-%ED%94%84%EB%A1%9C%EB%AA%A8%EC%85%98-%EC%BD%94%EB%93%9C
