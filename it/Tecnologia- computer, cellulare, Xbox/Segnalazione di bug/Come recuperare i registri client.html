@@ -1,4 +1,4 @@
-   <h1 class="article-title" title="Come recuperare i registri client">
+   <h1 class="article-title" id="article-title" title="Come recuperare i registri client">
     Come recuperare i registri client
    </h1>
    <div class="article-content">
@@ -9,80 +9,126 @@
      <p class="wysiwyg-indent1">
       <strong>
        <em>
-        Note:
+        Nota:
        </em>
       </strong>
       <em>
-       Non recuperare o inviare questi registri se non richiesto da un dipendente Roblox.
+       Invia questi registri solo quando richiesto da un dipendente Roblox!
       </em>
      </p>
+     <p class="wysiwyg-indent1">
+     </p>
      <h1>
-      Recuperare i registri client
+      Come Recuperare i Log di Roblox
      </h1>
      <p class="wysiwyg-indent1">
-      Il processo per il recupero dei registri client varia a seconda del sistema operativo che tu stai usando. Tieni presente che le seguenti informazioni non si applicano ai dispositivi mobili.
+      I Registri di Roblox e di Roblox Studio vengono scritti entrambi nella stessa cartella.
+     </p>
+     <ul>
+      <li>
+       Su PC, premi contemporaneamente il TASTO WINDOWS e R. Apparirà una finestra chiamata
+       <strong>
+        Esegui
+       </strong>
+       . Copia e incolla oppure digita quanto segue senza virgolette: "%localappdata%\Roblox\logs"
+      </li>
+      <li>
+       Su Mac, vai a Macintosh HD &gt; Utenti &gt; [il tuo profilo utente] &gt; Libreria &gt; Registri &gt; Roblox
+      </li>
+      <li>
+       <p data-renderer-start-pos="723">
+        Al momento non disponiamo di un modo semplice per caricare i registri Android o iOS. Siamo spiacenti, ci stiamo lavorando! &lt;TODO ios/android instructions?&gt;
+       </p>
+      </li>
+     </ul>
+     <h2>
+      Probabilmente ci saranno molti file di registro in questa cartella
+     </h2>
+     <ul>
+      <li>
+       I registri di Roblox saranno simili a: “0.&lt;major ver&gt;.&lt;minor ver&gt;.&lt;revision&gt;_&lt;date&gt;_Player_&lt;garbage&gt;_last.log
+       <ul>
+        <li>
+         Per esempio 0.555.1.5550874_20221214T162601Z_Player_9aaf3_last.log
+        </li>
+       </ul>
+      </li>
+      <li>
+       I registri di Roblox Studio avranno lo stesso aspetto tranne che dice "Studio" invece di "Giocatore
+       <ul>
+        <li>
+         Per esempio 0.555.1.5550874_20221214T162601Z_Studio_9aaf3_last.log
+        </li>
+       </ul>
+      </li>
+      <li>
+       I registri del bootstrapper appariranno come bootstrapper_&lt;garbage&gt;_1.txt
+       <ul>
+        <li>
+         A meno che il problema non si verifichi all'avvio di Roblox o di Roblox Studio dal browser web o durante l'aggiornamento, molto probabilmente non è necessario inviare i registri del programma di avvio automatico.
+        </li>
+       </ul>
+      </li>
+     </ul>
+     <p>
+     </p>
+     <h2>
+      Per identificare il file di registro corretto da inviare è possibile in alternativa
+     </h2>
+     <ul>
+      <li>
+       Utilizzare i timestamp del file per determinare quale file di registro corrisponde all'incidente che si desidera segnalare
+      </li>
+      <li>
+       Eliminare tutti i file in questa directory, riprodurre il problema che si desidera segnalare, e quindi inviare tutto il contenuto in questa cartella
+      </li>
+      <li>
+       Se sei confuso, puoi semplicemente ordinare per data e inviare i 10 file più recenti.
+      </li>
+     </ul>
+     <p>
+     </p>
+     <h1>
+      Inviare Registri ai Dipendenti Roblox
+     </h1>
+     <p>
+      Dopo aver segnalato un problema su Dev Forum, un dipendente di Roblox può chiederti di seguire queste istruzioni per inviare loro i tuoi registri. Recupera e invia i registri solo ai dipendenti Roblox!!! Per identificare un dipendente Roblox su Dev Forum, assicurati che sia indicato "Roblox Staff" accanto al nome dell'account:
+     </p>
+     <p class="wysiwyg-text-align-center">
+      <img alt="Roblox_Employee_on_DevForum.png" src="https://en.help.roblox.com/hc/article_attachments/14020304096788"/>
+     </p>
+     <p>
+      L'Impiegato Roblox avvierà un thread privato o un DM con te per richiedere i file di registro. Assicurati che il DM (Messaggio Privato) provenga da un Dipendente Roblox. Utilizza il pulsante
+      <strong>
+       carica
+      </strong>
+      per caricare i file di registro che hai trovato nelle informazioni precedenti.
+     </p>
+     <p class="wysiwyg-text-align-center">
+      <img alt="DevForum_Reply_Window_with_Upload_Selected.png" height="187" src="https://en.help.roblox.com/hc/article_attachments/14020297089428" width="564"/>
+     </p>
+     <p>
+     </p>
+     <h1>
+      Abilitare Registrazioni Aggiuntive in Roblox Studio
+     </h1>
+     <p>
+      Se quello che stai segnalando è un problema di Roblox Studio, ti potrebbe essere chiesto di abilitare la registrazione aggiuntiva. Per abilitare la registrazione aggiuntiva in Roblox Studio:
      </p>
      <ol>
       <li>
        Apri
        <strong>
-        Roblox Studio
+        Impostazioni
        </strong>
-       da:
-       <br/>
-       <em>
-        Windows 7 / 10:
-       </em>
-       Start &gt;
-       <span class="VIiyi" jsaction="mouseup:BR6jm" jsname="jqKxS" lang="it">
-        <span class="JLqJ4b" data-language-for-alternatives="it" data-language-to-translate-into="en" data-phrase-index="0" jsaction="agoMJf:PFBcW;usxOmf:aWLT7;jhKsnd:P7O7bd,F8DmGf;Q4AGo:Gm7gYd,qAKMYb;uFUCPb:pvnm0e,pfE8Hb,PFBcW;f56efd:dJXsye;EnoYf:KNzws,ZJsZZ,JgVSJc;zdMJQc:cCQNKb,ZJsZZ,zchEXc;Ytrrj:JJDvdc;tNR8yc:GeFvjb;oFN6Ye:hij5Wb" jscontroller="Zl5N8" jsdata="uqLsIf;_;$22" jsmodel="SsMkhd" jsname="txFAF">
-         <span jsaction="click:qtZ4nf,GFf3ac,tMZCfe; contextmenu:Nqw7Te,QP7LD; mouseout:Nqw7Te; mouseover:qtZ4nf,c2aHje" jsname="W297wb">
-          Tutti i programmi (o Tutte le app) &gt; Roblox &gt; Roblox Studio
-         </span>
-        </span>
-       </span>
-       <br/>
-       <em>
-        Windows 8:
-       </em>
-       <span class="VIiyi" jsaction="mouseup:BR6jm" jsname="jqKxS" lang="it">
-        <span class="JLqJ4b" data-language-for-alternatives="it" data-language-to-translate-into="en" data-phrase-index="0" jsaction="agoMJf:PFBcW;usxOmf:aWLT7;jhKsnd:P7O7bd,F8DmGf;Q4AGo:Gm7gYd,qAKMYb;uFUCPb:pvnm0e,pfE8Hb,PFBcW;f56efd:dJXsye;EnoYf:KNzws,ZJsZZ,JgVSJc;zdMJQc:cCQNKb,ZJsZZ,zchEXc;Ytrrj:JJDvdc;tNR8yc:GeFvjb;oFN6Ye:hij5Wb" jscontroller="Zl5N8" jsdata="uqLsIf;_;$22" jsmodel="SsMkhd" jsname="txFAF">
-         <span jsaction="click:qtZ4nf,GFf3ac,tMZCfe; contextmenu:Nqw7Te,QP7LD; mouseout:Nqw7Te; mouseover:qtZ4nf,c2aHje" jsname="W297wb">
-          cliccare sul logo di Windows nell'angolo in basso a sinistra e quindi digitare
-          <strong>
-           Roblox Studio
-          </strong>
-          quando viene visualizzata la schermata iniziale piastrellata. Seleziona
-          <strong>
-           Roblox Studio
-          </strong>
-          dall'elenco di ricerca che appare sulla destra dello schermo.
-         </span>
-        </span>
-       </span>
-       <br/>
-       <em>
-        Mac:
-       </em>
-       C
-       <span class="VIiyi" jsaction="mouseup:BR6jm" jsname="jqKxS" lang="it">
-        <span class="JLqJ4b" data-language-for-alternatives="it" data-language-to-translate-into="en" data-phrase-index="0" jsaction="agoMJf:PFBcW;usxOmf:aWLT7;jhKsnd:P7O7bd,F8DmGf;Q4AGo:Gm7gYd,qAKMYb;uFUCPb:pvnm0e,pfE8Hb,PFBcW;f56efd:dJXsye;EnoYf:KNzws,ZJsZZ,JgVSJc;zdMJQc:cCQNKb,ZJsZZ,zchEXc;Ytrrj:JJDvdc;tNR8yc:GeFvjb;oFN6Ye:hij5Wb" jscontroller="Zl5N8" jsdata="uqLsIf;_;$22" jsmodel="SsMkhd" jsname="txFAF">
-         <span jsaction="click:qtZ4nf,GFf3ac,tMZCfe; contextmenu:Nqw7Te,QP7LD; mouseout:Nqw7Te; mouseover:qtZ4nf,c2aHje" jsname="W297wb">
-          omando + barra spaziatrice &gt; digita
-          <strong>
-           RobloxStudio
-          </strong>
-          &gt; Invio
-         </span>
-        </span>
-       </span>
-      </li>
-      <li>
-       Apri
+       facendo clic su
+       <strong>
+        File
+       </strong>
+       &gt;
        <strong>
         Impostazioni
        </strong>
-       cliccando su File &gt; Impostazioni
       </li>
       <li>
        Nel riquadro di sinistra, cliccare su
@@ -107,8 +153,7 @@
        </em>
        <br/>
        <em>
-        PrintPhysicsErrors
-        <!--2-->
+        PrintPhysicsErrors2&gt;
         <br/>
         <em>
          PrintProperties
@@ -120,41 +165,7 @@
        </em>
       </li>
       <li>
-       Chiudi Roblox
-      </li>
-      <li>
-       Premi contemporaneamente il TASTO WINDOWS e R sulla tastiera.
-       <br/>
-       <em>
-        Per Mac:
-       </em>
-       Macintosh HD &gt; Utenti &gt; [il tuo profilo utente] &gt; Libreria &gt; Registri &gt; Roblox
-       <br/>
-       <em>
-        Nota: gli utenti Mac saltano il passaggio 7
-       </em>
-      </li>
-      <li>
-       Apparirà una finestra chiamata
-       <strong>
-        Esegui
-       </strong>
-       . Copia e incolla o digita quanto segue senza virgolette:
-       <br/>
-       <em>
-        Se utilizzi Windows 7/8/10:
-       </em>
-       "%localappdata%\Roblox\logs"
-       <br/>
-       Elimina tutto nella cartella.
-      </li>
-      <li>
-       Prova a giocare a Roblox nel modo normale in cui provi a giocare.
-      </li>
-      <li>
-       Quando non funziona, chiudi Roblox e ripeti i Passaggi 6 e 7.
-       <br/>
-       A questo punto ci saranno diversi file nella cartella. Inviali come risposta al tuo messaggio dell'assistenza assicurandoti di fare riferimento alla situazione in questione che ha richiesto i log.
+       Chiudi Roblox Studio e riproduci il problema
       </li>
      </ol>
      <p>
