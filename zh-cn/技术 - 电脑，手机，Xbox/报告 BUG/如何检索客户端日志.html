@@ -1,4 +1,4 @@
-   <h1 class="article-title" title="如何检索客户端日志">
+   <h1 class="article-title" id="article-title" title="如何检索客户端日志">
     如何检索客户端日志
    </h1>
    <div class="article-content">
@@ -7,67 +7,133 @@
       在某些情况下，Roblox员工可能会通过客户关怀电子邮件或DevForum公布请求客户端日志，以帮助调查某个问题。 本文描述如何检索这些日志。
      </p>
      <p class="wysiwyg-indent1">
+      <strong>
+       <em>
+        注意：
+       </em>
+      </strong>
       <em>
-       <strong>
-        注意
-       </strong>
-      </em>
-      <span style="font-weight: 400;">
-       :
-      </span>
-      <em>
-       <span style="font-weight: 400;">
-        除非Roblox员工要求，否则请不要检索或发送这些日志。
-       </span>
+       请仅在 Roblox 员工要求时发送这些日志！
       </em>
      </p>
+     <p class="wysiwyg-indent1">
+     </p>
      <h1>
-      检索客户端日志
+      如何取回 Roblox 日志
      </h1>
      <p class="wysiwyg-indent1">
-      检索客户端日志的过程因您使用的操作系统而异。 请注意以下信息不适用于移动设备。
+      Roblox 和 Roblox Studio 日志都写入同一个文件夹。
+     </p>
+     <ul>
+      <li>
+       在 PC 上，同时按下 WINDOWS 键和 R。
+       <span style="font-weight: 400;">
+        将出现一个名为
+       </span>
+       <strong>
+        Run
+       </strong>
+       <span style="font-weight: 400;">
+        的框。 复制并粘贴或键入以下内容（不带引号）：“%localappdata%\Roblox\logs”
+       </span>
+      </li>
+      <li>
+       在 Mac 上，导航至 Macintosh HD &gt; 用户&gt; [你的用户资料] &gt; 图书馆 &gt; 日志&gt; Roblox
+      </li>
+      <li>
+       <p data-renderer-start-pos="723">
+        我们目前没有简单的方法供您上传 Android 或 iOS 日志。 抱歉，我们正在努力！ &lt;TODO ios/android instructions?&gt;
+       </p>
+      </li>
+     </ul>
+     <h2>
+      此文件夹中可能会有很多日志文件
+     </h2>
+     <ul>
+      <li>
+       Roblox 日志将类似于：“0.&lt;major ver&gt;.&lt;minor ver&gt;.&lt;revision&gt;_&lt;date&gt;_Player_&lt;garbage&gt;_last.log
+       <ul>
+        <li>
+         例如 0.555.1.5550874_20221214T162601Z_Player_9aaf3_last.log
+        </li>
+       </ul>
+      </li>
+      <li>
+       Roblox Studio 日志看起来是一样的，只是说的是 “Studio” 而不是 “Player”
+       <ul>
+        <li>
+         例如 0.555.1.5550874_20221214T162601Z_Studio_9aaf3_last.log
+        </li>
+       </ul>
+      </li>
+      <li>
+       引导程序日志看起来像 bootstrapper_&lt;garbage&gt;_1.txt
+       <ul>
+        <li>
+         除非问题发生在从您的网络浏览器启动 Roblox 或 RobloxStudio 时，或者在更新期间，您很可能不需要发送引导程序日志。
+        </li>
+       </ul>
+      </li>
+     </ul>
+     <p>
+     </p>
+     <h2>
+      你可以确定要发送的正确日志文件
+     </h2>
+     <ul>
+      <li>
+       使用文件時間戳來確定哪個日誌文件對應於你要報告的事件
+      </li>
+      <li>
+       删除该目录下的所有文件，重现你要报告的问题，然后发送该文件夹下的所有内容
+      </li>
+      <li>
+       如果你感到困惑，你可以按日期排序并发送最近的 10 个文件。
+      </li>
+     </ul>
+     <p>
+     </p>
+     <h1>
+      向 Roblox 员工发送日志
+     </h1>
+     <p>
+      在 Dev Forum 上报告问题后，Roblox 员工可能会指导你按照这些说明向他们发送你的日志。 仅检索日志并将其发送给 Roblox 员工！！！ 要在开发论坛上识别 Roblox 员工，请确保其帐户名称旁边显示 “Roblox 员工”：
+     </p>
+     <p class="wysiwyg-text-align-center">
+      <img alt="Roblox_Employee_on_DevForum.png" src="https://en.help.roblox.com/hc/article_attachments/14020304096788"/>
+     </p>
+     <p>
+      Roblox 员工将启动私人贴文或 DM 并向你请求日志文件。 请确保 DM 来自 Roblox 员工。 使用
+      <strong>
+       上传
+      </strong>
+      按钮上传你在之前的信息中找到的日志文件。
+     </p>
+     <p class="wysiwyg-text-align-center">
+      <img alt="DevForum_Reply_Window_with_Upload_Selected.png" height="187" src="https://en.help.roblox.com/hc/article_attachments/14020297089428" width="564"/>
+     </p>
+     <p>
+     </p>
+     <h1>
+      在 Roblox Studio 中启用附加日志记录
+     </h1>
+     <p>
+      如果这是你报告的 Roblox Studio 问题，你可能会被要求启用额外的日志记录。 要在 Roblox Studio 中启用额外的日志记录：
      </p>
      <ol>
       <li>
-       通过以下方式打开
+       单击
        <strong>
-        Roblox Studio
+        文件
        </strong>
-       ：
-       <br/>
-       <em>
-        Windows 7 / 10：
-       </em>
-       开始 &gt; 所有程序（或所有应用程序）&gt; Roblox &gt; Roblox Studio
-       <br/>
-       <em>
-        Windows 8
-       </em>
-       ：单击左下角的 Windows 徽标，然后在平铺的开始屏幕出现时键入
-       <strong>
-        Roblox Studio
-       </strong>
-       。 从屏幕右侧显示的搜索列表中选择
-       <strong>
-        Roblox Studio
-       </strong>
-       。
-       <br/>
-       <em>
-        Mac：
-       </em>
-       Command + Space Bar &gt; 输入
-       <strong>
-        RobloxStudio
-       </strong>
-       &gt; 进入
-      </li>
-      <li>
-       通过单击“设置”&gt;“设置”以打开“
+       打开
        <strong>
         设置
        </strong>
-       ”
+       &gt;
+       <strong>
+        设置
+       </strong>
       </li>
       <li>
        <span style="font-weight: 400;">
@@ -95,36 +161,7 @@
        </span>
       </li>
       <li>
-       关闭 Roblox
-      </li>
-      <li>
-       同时按下键盘上的 WINDOWS KEY 和 R。
-       <br/>
-       <em>
-        对于 Mac：
-       </em>
-       Macintosh HD &gt; 用户&gt; [您的用户资料] &gt; 图书馆 &gt; 日志&gt; Roblox
-       <br/>
-       <em>
-        注意：Mac 用户跳过第 7 步
-       </em>
-      </li>
-      <li>
-       <span style="font-weight: 400;">
-        将出现一个名为
-       </span>
-       <strong>
-        Run
-       </strong>
-       <span style="font-weight: 400;">
-        的框。 复制粘贴或键入以下不带引号的内容:
-       </span>
-      </li>
-      <li>
-       试着用正常的方式玩Roblox。
-      </li>
-      <li>
-       当它不起作用时，请关闭Roblox并重复步骤6和7。 现在该文件夹中将有几个文件。 请发送给他们作为对您的支持消息的回复，确保确保参考了需要日志的问题情况。
+       关闭 Roblox Studio 并重现问题
       </li>
      </ol>
      <p>
