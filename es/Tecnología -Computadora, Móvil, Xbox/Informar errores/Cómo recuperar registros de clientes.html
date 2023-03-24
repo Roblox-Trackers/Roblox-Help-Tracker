@@ -1,4 +1,4 @@
-   <h1 class="article-title" title="Cómo recuperar registros de clientes">
+   <h1 class="article-title" id="article-title" title="Cómo recuperar registros de clientes">
     Cómo recuperar registros de clientes
    </h1>
    <div class="article-content">
@@ -16,47 +16,119 @@
        No recupere ni envíe estos registros a menos que lo solicite un empleado de Roblox.
       </em>
      </p>
+     <p class="wysiwyg-indent1">
+     </p>
      <h1>
-      Recuperar registros de clientes
+      Cómo recuperar registros de Roblox
      </h1>
      <p class="wysiwyg-indent1">
-      El proceso para recuperar registros de clientes varía según el sistema operativo que esté utilizando. Tenga en cuenta que la siguiente información no se aplica a dispositivos móviles.
+      Los registros de Roblox y Roblox Studio están escritos en la misma carpeta.
+     </p>
+     <ul>
+      <li>
+       En la PC, presione la TECLA WINDOWS y R al mismo tiempo. Aparecerá un cuadro llamado
+       <strong>
+        Ejecutar
+       </strong>
+       . Copie y pegue o escriba lo siguiente sin comillas: "%localappdata%\Roblox\logs"
+      </li>
+      <li>
+       En Mac, vaya a Macintosh HD &gt; Usuarios &gt; [su perfil de usuario] &gt; Biblioteca &gt; Registros &gt; Roblox
+      </li>
+      <li>
+       <p data-renderer-start-pos="723">
+        Actualmente no tenemos una manera fácil de cargar registros de Android o iOS. ¡Lo sentimos, estamos trabajando en ello! &lt;TODO ios/android instructions?&gt;
+       </p>
+      </li>
+     </ul>
+     <h2>
+      Es probable que haya muchos archivos de registro en esta carpeta
+     </h2>
+     <ul>
+      <li>
+       Los registros de Roblox se verán así: “0.&lt;major ver&gt;.&lt;minor ver&gt;.&lt;revision&gt;_&lt;date&gt;_Player_&lt;garbage&gt;_last.log
+       <ul>
+        <li>
+         Por ejemplo 0.555.1.5550874_20221214T162601Z_Player_9aaf3_last.log
+        </li>
+       </ul>
+      </li>
+      <li>
+       Los registros de Roblox Studio se verán iguales, excepto que dice "Studio" en lugar de "Player"
+       <ul>
+        <li>
+         Por ejemplo 0.555.1.5550874_20221214T162601Z_Studio_9aaf3_last.log
+        </li>
+       </ul>
+      </li>
+      <li>
+       Los registros de Bootstrapper se verán como bootstrapper_&lt;garbage&gt;_1.txt
+       <ul>
+        <li>
+         A menos que el problema ocurra al iniciar Roblox o RobloxStudio desde su navegador web, o durante la actualización, lo más probable es que no necesite enviar registros de arranque.
+        </li>
+       </ul>
+      </li>
+     </ul>
+     <p>
+     </p>
+     <h2>
+      Para identificar el archivo de registro correcto para enviar, puede
+     </h2>
+     <ul>
+      <li>
+       Use las marcas de tiempo del archivo para determinar qué archivo de registro corresponde al incidente que desea informar
+      </li>
+      <li>
+       Elimine todos los archivos en este directorio, reproduzca el problema que desea informar y luego envíe todo el contenido en esta carpeta
+      </li>
+      <li>
+       Si está confundido, puede ordenar por fecha y enviar los 10 archivos más recientes.
+      </li>
+     </ul>
+     <p>
+     </p>
+     <h1>
+      Envío de registros a los empleados de Roblox
+     </h1>
+     <p>
+      Después de informar un problema en Dev Forum, un empleado de Roblox puede indicarle que siga estas instrucciones para enviarles sus registros. ¡Solo recupere y envíe registros a los empleados de Roblox!!! Para identificar a un empleado de Roblox en el Foro de desarrollo, asegúrese de que diga "Personal de Roblox" junto al nombre de su cuenta:
+     </p>
+     <p class="wysiwyg-text-align-center">
+      <img alt="Roblox_Employee_on_DevForum.png" src="https://en.help.roblox.com/hc/article_attachments/14020304096788"/>
+     </p>
+     <p>
+      El empleado de Roblox iniciará un hilo privado o DM con usted para solicitar los archivos de registro. Asegúrese de que el DM venga de un empleado de Roblox. Utilice el botón
+      <strong>
+       cargar
+      </strong>
+      para cargar los archivos de registro que encontró en la información anterior.
+     </p>
+     <p class="wysiwyg-text-align-center">
+      <img alt="DevForum_Reply_Window_with_Upload_Selected.png" height="187" src="https://en.help.roblox.com/hc/article_attachments/14020297089428" width="564"/>
+     </p>
+     <p>
+     </p>
+     <h1>
+      Habilitación de inicio de sesión adicional en Roblox Studio
+     </h1>
+     <p>
+      Si este es un problema de Roblox Studio que está informando, es posible que se le solicite que habilite el registro adicional. Para habilitar el inicio de sesión adicional en Roblox Studio:
      </p>
      <ol>
       <li>
-       <em>
-        Windows XP / Vista / 7 / 10:
-       </em>
-       Start &gt; All Programs (or All Apps) &gt; Roblox &gt; Roblox Studio
-       <br/>
-       <em>
-        Windows 8:
-       </em>
-       Haga clic en el logotipo de Windows en la esquina inferior izquierda y luego escriba
+       Abra
        <strong>
-        Roblox Studio
+        Configuración
        </strong>
-       cuando la pantalla de inicio en mosaico aparezca. Seleccione
+       haciendo clic en
        <strong>
-        Roblox Studio
+        Archivo
        </strong>
-       en la lista de búsqueda que aparece a la derecha de la pantalla.
-       <br/>
-       <em>
-        Mac:
-       </em>
-       Command + Space Bar &gt; Type in
+       &gt;
        <strong>
-        RobloxStudio
+        Configuración
        </strong>
-       &gt; Enter
-      </li>
-      <li>
-       Abrir
-       <strong>
-        Configuraciones
-       </strong>
-       haciendo click en File &gt; Configuracion
       </li>
       <li>
        En el panel izquierdo, haga click en
@@ -73,41 +145,7 @@
        , asegúrese de que estas casillas de verificación estén seleccionadas:
       </li>
       <li>
-       Cierre Roblox
-      </li>
-      <li>
-       Presione en su teclado WINDOWS KEY y R al mismo tiempo.
-       <br/>
-       <br/>
-       <em>
-        Para Mac:
-       </em>
-       Macintosh HD &gt; Users &gt; [your user profile] &gt; Library &gt; Logs &gt; Roblox
-       <br/>
-       <br/>
-       <em>
-        Nota: Usuarios de Mac saltar paso 7
-       </em>
-      </li>
-      <li>
-       Aparecerá un cuadro llamado
-       <strong>
-        Ejecutar
-       </strong>
-       . Copie y pegue o escriba lo siguiente sin comillas:
-       <br/>
-       <em>
-        Si usa Windows 7 / 8 / 10:
-       </em>
-       "%localappdata%\Roblox\logs"
-       <br/>
-       Elimine todo en la carpeta.
-      </li>
-      <li>
-       Intenta jugar Roblox de la forma normal en que intentas jugar.
-      </li>
-      <li>
-       Cuando no funcione, cierre Roblox y repita los pasos 6 y 7. Habrá varios archivos en la carpeta ahora. Envíelos como respuesta a su mensaje de soporte y asegúrese de hacer referencia a la situación en cuestión que requirió registros.
+       Cerrar Roblox Studio y reproducir el problema
       </li>
      </ol>
      <p>
