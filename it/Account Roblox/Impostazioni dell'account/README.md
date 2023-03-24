@@ -16,4 +16,4 @@ Name|URL
 [Verifica dell'Età](./Verifica dell'Età.html) |https://en.help.roblox.com/hc/it/articles/4407282410644-Verifica-dell-Et%C3%A0
 [Domande Frequenti Sulla Verifica dell'Età](./Domande Frequenti Sulla Verifica dell'Età.html) |https://en.help.roblox.com/hc/it/articles/4407276151188-Domande-Frequenti-Sulla-Verifica-dell-Et%C3%A0
 [Modifica del tema del tuo account](./Modifica del tema del tuo account.html) |https://en.help.roblox.com/hc/it/articles/360022922852-Modifica-del-tema-del-tuo-account
-[FAQ Domande frequenti Importatore Contatti](./FAQ Domande frequenti Importatore Contatti.html) |https://en.help.roblox.com/hc/it/articles/7416652004884-FAQ-Domande-frequenti-Importatore-Contatti-
+[FAQ Domande frequenti Importatore Contatti](./FAQ Domande frequenti Importatore Contatti.html) |https://en.help.roblox.com/hc/it/articles/7416652004884-FAQ-Domande-frequenti-Importatore-Contatti
