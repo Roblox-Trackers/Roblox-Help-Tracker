@@ -10,7 +10,7 @@ Name|URL
 [Gruppenrollen / Ränge und Berechtigungen](./Gruppenrollen - Ränge und Berechtigungen.html) |https://en.help.roblox.com/hc/de/articles/203313770-Gruppenrollen-R%C3%A4nge-und-Berechtigungen
 [So hängen Sie ein Bild an eine Gruppe an](./So hängen Sie ein Bild an eine Gruppe an.html) |https://en.help.roblox.com/hc/de/articles/203313800-So-h%C3%A4ngen-Sie-ein-Bild-an-eine-Gruppe-an
 [Gruppennamen ändern](./Gruppennamen ändern.html) |https://en.help.roblox.com/hc/de/articles/4414930974228-Gruppennamen-%C3%A4ndern
-[Aktivität Ihrer Gruppe anzeigen (Gruppen Überwachungsprotokoll)](./Aktivität Ihrer Gruppe anzeigen (Gruppen Überwachungsprotokoll).html) |https://en.help.roblox.com/hc/de/articles/203313780-Aktivit%C3%A4t-Ihrer-Gruppe-anzeigen-Gruppen-%C3%9Cberwachungsprotokoll-
+[Wie man die Aktivität seiner Gruppe überprüft (Gruppen Überwachungsprotokoll)](./Wie man die Aktivität seiner Gruppe überprüft (Gruppen Überwachungsprotokoll).html) |https://en.help.roblox.com/hc/de/articles/203313780-Wie-man-die-Aktivit%C3%A4t-seiner-Gruppe-%C3%BCberpr%C3%BCft-Gruppen-%C3%9Cberwachungsprotokoll-
 [Wie man für eine Gruppe wirbt](./Wie man für eine Gruppe wirbt.html) |https://en.help.roblox.com/hc/de/articles/203313820-Wie-man-f%C3%BCr-eine-Gruppe-wirbt
 [Social Media Links zu Gruppenbeschreibungen](./Social Media Links zu Gruppenbeschreibungen.html) |https://en.help.roblox.com/hc/de/articles/360000910946-Social-Media-Links-zu-Gruppenbeschreibungen
 [Gruppenkleidung, Revenue Management und Auszahlungen](./Gruppenkleidung, Revenue Management und Auszahlungen.html) |https://en.help.roblox.com/hc/de/articles/203313830-Gruppenkleidung-Revenue-Management-und-Auszahlungen

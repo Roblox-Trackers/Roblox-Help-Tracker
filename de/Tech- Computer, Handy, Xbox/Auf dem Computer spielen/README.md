@@ -13,8 +13,8 @@ Name|URL
 [Mac: Kindersicherung](./Mac- Kindersicherung.html) |https://en.help.roblox.com/hc/de/articles/203313010-Mac-Kindersicherung
 [Mac: Upgrade Fehlermeldung](./Mac- Upgrade Fehlermeldung.html) |https://en.help.roblox.com/hc/de/articles/203313000-Mac-Upgrade-Fehlermeldung
 [Grafikprobleme auf Computern](./Grafikprobleme auf Computern.html) |https://en.help.roblox.com/hc/de/articles/203312790-Grafikprobleme-auf-Computern
-[Unendliche Schleife "Neueste Version von Roblox besorgen"](./Unendliche Schleife -Neueste Version von Roblox besorgen-.html) |https://en.help.roblox.com/hc/de/articles/203312940-Unendliche-Schleife-Neueste-Version-von-Roblox-besorgen-
-[Roblox Launcher Plugin](./Roblox Launcher Plugin.html) |https://en.help.roblox.com/hc/de/articles/203313020-Roblox-Launcher-Plugin
+[Endlosschleife "Neuester Roblox" bekommen](./Endlosschleife -Neuester Roblox- bekommen.html) |https://en.help.roblox.com/hc/de/articles/203312940-Endlosschleife-Neuester-Roblox-bekommen
+[Roblox-Launcher-Plugin](./Roblox-Launcher-Plugin.html) |https://en.help.roblox.com/hc/de/articles/203313020-Roblox-Launcher-Plugin
 [Was zu tun ist, wenn Ihr Anti-Virus Roblox markiert hat](./Was zu tun ist, wenn Ihr Anti-Virus Roblox markiert hat.html) |https://en.help.roblox.com/hc/de/articles/203313030-Was-zu-tun-ist-wenn-Ihr-Anti-Virus-Roblox-markiert-hat
 [Clock Reset oder Fehler beim Abrufen der URL: Httpsendrequest ist fehlgeschlagen, err = 0x2f05](./Clock Reset oder Fehler beim Abrufen der URL- Httpsendrequest ist fehlgeschlagen, err = 0x2f05.html) |https://en.help.roblox.com/hc/de/articles/203312830-Clock-Reset-oder-Fehler-beim-Abrufen-der-URL-Httpsendrequest-ist-fehlgeschlagen-err-0x2f05
-[Schuladministrator-Verbindung Information](./Schuladministrator-Verbindung Information.html) |https://en.help.roblox.com/hc/de/articles/115005744663-Schuladministrator-Verbindung-Information
+[Fehlersuche in Bildungsnetzwerken](./Fehlersuche in Bildungsnetzwerken.html) |https://en.help.roblox.com/hc/de/articles/115005744663-Fehlersuche-in-Bildungsnetzwerken
