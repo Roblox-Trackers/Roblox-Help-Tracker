@@ -15,7 +15,6 @@ Name|URL
 [Cómo copiar una experiencia](./Cómo copiar una experiencia.html) |https://en.help.roblox.com/hc/es/articles/203313900-C%C3%B3mo-copiar-una-experiencia
 [Cómo Volver a Versiones Anteriores de un Lugar](./Cómo Volver a Versiones Anteriores de un Lugar.html) |https://en.help.roblox.com/hc/es/articles/203313850-C%C3%B3mo-Volver-a-Versiones-Anteriores-de-un-Lugar
 [Restablecer Lugar a una Plantilla Inicial](./Restablecer Lugar a una Plantilla Inicial.html) |https://en.help.roblox.com/hc/es/articles/203313920-Restablecer-Lugar-a-una-Plantilla-Inicial
-[Agregar equipo a la experiencia](./Agregar equipo a la experiencia.html) |https://en.help.roblox.com/hc/es/articles/203314050-Agregar-equipo-a-la-experiencia
 [¿Cómo Hago Badges (Insignias) De Jugador?](./¿Cómo Hago Badges (Insignias) De Jugador-.html) |https://en.help.roblox.com/hc/es/articles/203313650--C%C3%B3mo-Hago-Badges-Insignias-De-Jugador-
 [¿Cómo Construyo con GUI?](./¿Cómo Construyo con GUI-.html) |https://en.help.roblox.com/hc/es/articles/203313960--C%C3%B3mo-Construyo-con-GUI-
 [Configurando el estilo de chat de tu sitio](./Configurando el estilo de chat de tu sitio.html) |https://en.help.roblox.com/hc/es/articles/360019904552-Configurando-el-estilo-de-chat-de-tu-sitio
