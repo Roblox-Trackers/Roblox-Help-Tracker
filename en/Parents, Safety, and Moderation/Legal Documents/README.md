@@ -11,6 +11,7 @@ Name|URL
 [ROBLOX BIOMETRIC PRIVACY NOTICE](./ROBLOX BIOMETRIC PRIVACY NOTICE.html) |https://en.help.roblox.com/hc/en-us/articles/4412863575316-ROBLOX-BIOMETRIC-PRIVACY-NOTICE
 [General Health Notice](./General Health Notice.html) |https://en.help.roblox.com/hc/en-us/articles/360031603131-General-Health-Notice
 [Roblox Accessibility Statement](./Roblox Accessibility Statement.html) |https://en.help.roblox.com/hc/en-us/articles/360059080071-Roblox-Accessibility-Statement
+[Advertising Standards](./Advertising Standards.html) |https://en.help.roblox.com/hc/en-us/articles/13722260778260-Advertising-Standards
 [Roblox Rating Integrity](./Roblox Rating Integrity.html) |https://en.help.roblox.com/hc/en-us/articles/7235818866964-Roblox-Rating-Integrity
 [Roblox Facial Animation Privacy Notice](./Roblox Facial Animation Privacy Notice.html) |https://en.help.roblox.com/hc/en-us/articles/8064749848980-Roblox-Facial-Animation-Privacy-Notice
 [Roblox SMS Terms of Service](./Roblox SMS Terms of Service.html) |https://en.help.roblox.com/hc/en-us/articles/9483830673556-Roblox-SMS-Terms-of-Service
