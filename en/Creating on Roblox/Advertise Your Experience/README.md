@@ -2,6 +2,7 @@
 ### Articles in this section
 Name|URL
 -|-
+[Getting Featured on Roblox Marketing Channels](./Getting Featured on Roblox Marketing Channels.html) |https://en.help.roblox.com/hc/en-us/articles/13265567553812-Getting-Featured-on-Roblox-Marketing-Channels
 [How to Make Ads](./How to Make Ads.html) |https://en.help.roblox.com/hc/en-us/articles/203313840-How-to-Make-Ads
 [Sponsored Experiences](./Sponsored Experiences.html) |https://en.help.roblox.com/hc/en-us/articles/206455923-Sponsored-Experiences
 [Experience Thumbnails, Videos, and Icons](./Experience Thumbnails, Videos, and Icons.html) |https://en.help.roblox.com/hc/en-us/articles/203314060-Experience-Thumbnails-Videos-and-Icons
