@@ -22,7 +22,7 @@
       How to Retrieve Roblox logs
      </h1>
      <p class="wysiwyg-indent1">
-      Roblox and Roblox Studio Logs are both written to the same folder.
+      Roblox Player and Roblox Studio Logs are both written to the same folder.
      </p>
      <ul>
       <li>
@@ -30,14 +30,24 @@
        <strong>
         Run
        </strong>
-       will appear. Copy and paste or type in the following without quotes: "%localappdata%\Roblox\logs"
+       will appear. Copy and paste or type in the following without quotes:
+       <ul>
+        <li>
+         <p>
+          For Win32: "%localappdata%\Roblox\logs"
+         </p>
+         <p>
+          For UWP: “%LOCALAPPDATA%\Packages\ROBLOXCorporation.ROBLOX_55nm5eh3cm0pr\LocalState\logs”
+         </p>
+        </li>
+       </ul>
       </li>
       <li>
        On Mac, navigate to Macintosh HD &gt; Users &gt; [your user profile] &gt; Library &gt; Logs &gt; Roblox
       </li>
       <li>
        <p data-renderer-start-pos="723">
-        We currently do not have an easy way for you to upload Android or iOS logs. Sorry, we’re working on it! &lt;TODO ios/android instructions?&gt;
+        We currently do not have an easy way for you to upload Android or iOS logs. Sorry, we’re working on it!
        </p>
       </li>
      </ul>
@@ -46,26 +56,46 @@
      </h2>
      <ul>
       <li>
-       Roblox logs will look like: “0.&lt;major ver&gt;.&lt;minor ver&gt;.&lt;revision&gt;_&lt;date&gt;_Player_&lt;garbage&gt;_last.log
+       <p>
+        Roblox logs will look like: “0.&lt;major ver&gt;.&lt;minor ver&gt;.&lt;revision&gt;_&lt;date&gt;_Player_&lt;garbage&gt;_last.log
+       </p>
        <ul>
         <li>
-         For example 0.555.1.5550874_20221214T162601Z_Player_9aaf3_last.log
+         <p>
+          For example 0.555.1.5550874_20221214T162601Z_
+          <strong>
+           Player
+          </strong>
+          _9aaf3_last.log
+         </p>
         </li>
        </ul>
       </li>
       <li>
-       Roblox Studio logs will look the same except says “Studio” instead of “Player
+       <p>
+        Roblox Studio logs will look the same except says “Studio” instead of “Player
+       </p>
        <ul>
         <li>
-         For example 0.555.1.5550874_20221214T162601Z_Studio_9aaf3_last.log
+         <p>
+          For example 0.555.1.5550874_20221214T162601Z_
+          <strong>
+           Studio
+          </strong>
+          _9aaf3_last.log
+         </p>
         </li>
        </ul>
       </li>
       <li>
-       Bootstrapper logs will look like bootstrapper_&lt;garbage&gt;_1.txt
+       <p>
+        Bootstrapper logs will look like bootstrapper_&lt;garbage&gt;_1.txt
+       </p>
        <ul>
         <li>
-         Unless the issue is happening when launching Roblox or RobloxStudio from your web browser, or during update, you most likely do not need to send bootstrapper logs.
+         <p>
+          Unless the issue is happening when launching Roblox or RobloxStudio from your web browser, or during update, you most likely do not need to send bootstrapper logs.
+         </p>
         </li>
        </ul>
       </li>
@@ -89,85 +119,39 @@
      <p>
      </p>
      <h1>
-      Sending Logs to Roblox Employees
+      Including log files when reporting bugs
      </h1>
      <p>
-      After reporting an issue on Dev Forum, a Roblox employee may instruct you to follow these instructions to send them your logs. Only retrieve and send logs to Roblox employees!!! To identify a Roblox Employee on Dev Forum, make sure it says “Roblox Staff” next to their account name:
+      When reporting bugs on the Roblox
+      <a href="https://devforum.roblox.com/c/bug-reports/10" rel="noopener" target="_blank">
+       Developer Forum
+      </a>
+      , you will have the option to upload the log file together with your bug report. If you need to upload logs after making the initial bug report, send a DM to the
+      <a href="https://devforum.roblox.com/g/bug-files" rel="noopener" target="_blank">
+       bug-files
+      </a>
+      group, include a link to the original bug report post, and tag any relevant Roblox employees:
      </p>
      <p class="wysiwyg-text-align-center">
-      <img alt="Roblox_Employee_on_DevForum.png" src="/hc/article_attachments/14020304096788"/>
+      <img alt="Report_Bug_Window_on_Developer_Forum.png" height="312" src="/hc/article_attachments/14397229029524" width="546"/>
      </p>
      <p>
-      The Roblox Employee will start a private thread or DM with you to request the log files. Please ensure the DM is coming from a Roblox Employee. Use the
-      <strong>
-       upload
-      </strong>
-      button to upload your log files you found in the previous information.
+     </p>
+     <p>
+      Only upload logs by sending to the bug-files group and only do so if a Roblox Employee asks you to. To identify a Roblox Employee on Dev Forum, make sure it says “Roblox Staff” next to their account name:
      </p>
      <p class="wysiwyg-text-align-center">
-      <img alt="DevForum_Reply_Window_with_Upload_Selected.png" height="187" src="/hc/article_attachments/14020297089428" width="564"/>
+      <img alt="Roblox_Employee_on_DevForum.png" src="/hc/article_attachments/14378571735060"/>
      </p>
      <p>
      </p>
-     <h1>
-      Enabling Additional Logging in Roblox Studio
-     </h1>
      <p>
-      If this is a Roblox Studio issue you are reporting, you may be asked to enable additional logging. To enable additional logging in Roblox Studio:
+      Please see
+      <a href="https://devforum.roblox.com/t/how-to-post-a-bug-report/24388/19" rel="noopener" target="_blank">
+       How to Post a Bug Report
+      </a>
+      for more detailed instructions!
      </p>
-     <ol>
-      <li>
-       Open
-       <strong>
-        Settings
-       </strong>
-       by clicking on
-       <strong>
-        File
-       </strong>
-       &gt;
-       <strong>
-        Settings
-       </strong>
-      </li>
-      <li>
-       In the left pane, click on
-       <strong>
-        Network
-       </strong>
-       . If it doesn't show up, close and re-open Roblox Studio.
-      </li>
-      <li>
-       Underneath
-       <strong>
-        Diagnostics
-       </strong>
-       , make sure these check boxes are selected:
-       <br/>
-       <em>
-        PrintEvents
-       </em>
-       <br/>
-       <em>
-        PrintInstances
-       </em>
-       <br/>
-       <em>
-        PrintPhysicsErrors
-       </em>
-       <br/>
-       <em>
-        PrintProperties
-       </em>
-       <br/>
-       <em>
-        PrintTouches
-       </em>
-      </li>
-      <li>
-       Close Roblox Studio and reproduce the issue
-      </li>
-     </ol>
      <p>
      </p>
      <p>
