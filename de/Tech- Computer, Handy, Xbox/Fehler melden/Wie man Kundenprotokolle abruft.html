@@ -22,22 +22,32 @@
       Wie man Roblox-Logs abruft
      </h1>
      <p class="wysiwyg-indent1">
-      Roblox und Roblox Studio Logs werden beide in denselben Ordner geschrieben.
+      Roblox Player- und Roblox Studio-Protokolle werden beide in demselben Ordner geschrieben.
      </p>
      <ul>
       <li>
-       Auf dem PC drückst du die WINDOWS-TASTE und R gleichzeitig. Ein Feld mit dem Namen
+       Auf dem PC, drücke gleichzeitig die Windows-Taste und die Taste R. Ein Kästchen mit dem Namen
        <strong>
-        Run
+        Ausführen
        </strong>
-       wird angezeigt. Kopiere Folgendes und füge es ein oder gib es ohne Anführungszeichen ein: "%localappdata%\Roblox\logs"
+       erscheint. Kopiere und füge Folgendes ein oder gebe es ein, aber ohne dass du die Ausführungszeichen kopierst:
+       <ul>
+        <li>
+         <p>
+          Für Win32: "%localappdata%\Roblox\logs"
+         </p>
+         <p>
+          Für UWP: “%LOCALAPPDATA%\Packages\ROBLOXCorporation.ROBLOX_55nm5eh3cm0pr\LocalState\logs”
+         </p>
+        </li>
+       </ul>
       </li>
       <li>
        Auf dem Mac navigierst du zu Macintosh HD &gt; Benutzer &gt; [dein Benutzerprofil] &gt; Bibliothek &gt; Logs &gt; Roblox
       </li>
       <li>
        <p data-renderer-start-pos="723">
-        Zurzeit gibt es keine einfache Möglichkeit für dich, Android- oder iOS-Logs hochzuladen. Entschuldigung, wir arbeiten daran! &lt;TODO ios/android instructions?&gt;
+        Zurzeit gibt es keine einfache Möglichkeit für dich, Android- oder iOS-Logs hochzuladen. Entschuldigung, wir arbeiten daran!
        </p>
       </li>
      </ul>
@@ -46,26 +56,46 @@
      </h2>
      <ul>
       <li>
-       Roblox-Logs sehen dann so aus: "0.&lt;major ver&gt;.&lt;minor ver&gt;.&lt;revision&gt;_&lt;date&gt;_Player_&lt;garbage&gt;_last.log
+       <p>
+        Roblox-Protokolle sehen folgendermaßen aus: „0.&lt;major ver&gt;.&lt;minor ver&gt;.&lt;revision&gt;_&lt;date&gt;_Player_&lt;garbage&gt;_last.log
+       </p>
        <ul>
         <li>
-         Zum Beispiel 0.555.1.5550874_20221214T162601Z_Player_9aaf3_last.log
+         <p>
+          Zum Beispiel 0.555.1.5550874_20221214T162601Z_
+          <strong>
+           Player
+          </strong>
+          _9aaf3_last.log
+         </p>
         </li>
        </ul>
       </li>
       <li>
-       Die Roblox Studio-Logs sehen genauso aus, nur dass hier "Studio" statt "Spieler" steht
+       <p>
+        Roblox Studio-Protokolle sehen gleich aus, außer dass „Studio“ anstelle von „Spieler“ steht
+       </p>
        <ul>
         <li>
-         Zum Beispiel 0.555.1.5550874_20221214T162601Z_Studio_9aaf3_last.log
+         <p>
+          Zum Beispiel 0.555.1.5550874_20221214T162601Z_
+          <strong>
+           Studio
+          </strong>
+          _9aaf3_last.log
+         </p>
         </li>
        </ul>
       </li>
       <li>
-       Die Bootstrapper-Logs sehen aus wie bootstrapper_&lt;garbage&gt;_1.txt
+       <p>
+        Bootstrapper-Protokolle sehen wie folgt aus: bootstrapper_&lt;garbage&gt;_1.txt
+       </p>
        <ul>
         <li>
-         Wenn das Problem nicht beim Starten von Roblox oder RobloxStudio über deinen Webbrowser oder während der Aktualisierung auftritt, musst du wahrscheinlich keine Bootstrapper-Logs senden.
+         <p>
+          Sofern das Problem nicht beim Starten von Roblox oder Roblox Studio über Ihren Webbrowser oder während des Updates auftritt, müssen Sie höchstwahrscheinlich keine Bootstrapper-Protokolle senden.
+         </p>
         </li>
        </ul>
       </li>
@@ -77,10 +107,10 @@
      </h2>
      <ul>
       <li>
-       Bestimme anhand der Datei-Zeitstempel, welche Protokolldatei dem Vorfall entspricht, den du melden möchtest
+       Anhand der Datei-Zeitstempel bestimmen, welche Protokolldatei dem Vorfall entspricht, den du melden möchtest
       </li>
       <li>
-       Lösche alle Dateien in diesem Verzeichnis, reproduziere das Problem, das du melden möchtest, und sende dann alle Inhalte in diesem Ordner
+       alle Dateien in diesem Verzeichnis löschen, das Problem reproduziere, das du melden möchtest, und dann alle Inhalte in diesem Ordner senden
       </li>
       <li>
        Wenn du verwirrt bist, kannst du einfach nach Datum sortieren und die letzten 10 Dateien senden.
@@ -89,85 +119,39 @@
      <p>
      </p>
      <h1>
-      Logs an Roblox-Mitarbeiter senden
+      Einschließen von Protokolldateien beim Melden von Fehlern
      </h1>
      <p>
-      Nachdem du ein Problem im Entwicklerforum gemeldet hast, kann es sein, dass ein Roblox-Mitarbeiter dich anweist, diese Anweisungen zu befolgen, um ihm deine Logs zu schicken. Rufe nur Logs ab und schicke sie an Roblox-Mitarbeiter!!! Um einen Roblox-Mitarbeiter im Dev-Forum zu identifizieren, achte darauf, dass neben seinem Kontonamen "Roblox Staff" steht:
+      Wenn du Fehler im
+      <a href="https://devforum.roblox.com/c/bug-reports/10" rel="noopener" target="_blank">
+       Entwicklerforum
+      </a>
+      von Roblox meldest, hast du die Möglichkeit, die Protokolldatei zusammen mit deinem Fehlerbericht hochzuladen. Wenn du Protokolle hochladen musst, nachdem du den ersten Fehlerbericht erstellt hast, sende eine Direktnachricht an die Gruppe
+      <a href="https://devforum.roblox.com/g/bug-files" rel="noopener" target="_blank">
+       Fehlerdateien
+      </a>
+      , füge einen Link zum ursprünglichen Fehlerberichtsbeitrag hinzu und markiere alle relevanten Roblox-Mitarbeiter:
      </p>
      <p class="wysiwyg-text-align-center">
-      <img alt="Roblox_Mitarbeiter_im_DevForum.png" src="https://en.help.roblox.com/hc/article_attachments/14020304096788"/>
+      <img alt="Fenster_Fehler_melden_im_DevForum.png" height="312" src="https://en.help.roblox.com/hc/article_attachments/14397229029524" width="546"/>
      </p>
      <p>
-      Der Roblox-Mitarbeiter wird einen privaten Thread oder eine DM mit dir starten, um die Logdateien anzufordern. Bitte stelle sicher, dass die DM von einem Roblox-Mitarbeiter kommt. Benutze die Schaltfläche
-      <strong>
-       Hochladen
-      </strong>
-      , um deine Logdateien hochzuladen, die du in den vorherigen Informationen gefunden hast.
+     </p>
+     <p>
+      Lade Protokolle nur hoch, indem du sie an die Fehlerdateigruppe sendest, und tue dies nur, wenn ein Roblox-Mitarbeiter dich darum bittet. Um einen Roblox-Mitarbeiter im Dev-Forum zu identifizieren, achte darauf, dass neben seinem Kontonamen "Roblox Staff" steht:
      </p>
      <p class="wysiwyg-text-align-center">
-      <img alt="DevForum_Reply_Window_mit_Hochladen_ausgewählt.png" height="187" src="https://en.help.roblox.com/hc/article_attachments/14020297089428" width="564"/>
+      <img alt="Roblox_Mitarbeiter_im_DevForum.png" src="https://en.help.roblox.com/hc/article_attachments/14378571735060"/>
      </p>
      <p>
      </p>
-     <h1>
-      Aktivieren der zusätzlichen Protokollierung in Roblox Studio
-     </h1>
      <p>
-      Wenn es sich um ein Roblox Studio-Problem handelt, das du meldest, wirst du möglicherweise aufgefordert, die zusätzliche Protokollierung zu aktivieren. So aktivierst du die zusätzliche Protokollierung in Roblox Studio:
+      Weitere detaillierte Anweisungen finden Sie unter
+      <a href="https://devforum.roblox.com/t/how-to-post-a-bug-report/24388/19" rel="noopener" target="_blank">
+       Einen Fehlerbericht veröffentlichen
+      </a>
+      !
      </p>
-     <ol>
-      <li>
-       Öffne
-       <strong>
-        Einstellungen
-       </strong>
-       durch Klicken auf
-       <strong>
-        Datei
-       </strong>
-       &gt;
-       <strong>
-        Einstellungen
-       </strong>
-      </li>
-      <li>
-       Klicke im linken Fensterbereich auf
-       <strong>
-        Netzwerk
-       </strong>
-       . Wenn es nicht angezeigt wird, schließe Roblox Studio und öffne es erneut.
-      </li>
-      <li>
-       Vergewissere dich unter
-       <strong>
-        Diagnose
-       </strong>
-       , dass diese Kontrollkästchen aktiviert sind:
-       <br/>
-       <em>
-        Ereignisse drucken
-       </em>
-       <br/>
-       <em>
-        Instanzen drucken
-       </em>
-       <br/>
-       <em>
-        PhysikFehler drucken
-       </em>
-       <br/>
-       <em>
-        Eigenschaften drucken
-       </em>
-       <br/>
-       <em>
-        Berührungen drucken
-       </em>
-      </li>
-      <li>
-       Schließe Roblox Studio und reproduziere das Problem
-      </li>
-     </ol>
      <p>
      </p>
      <p>
