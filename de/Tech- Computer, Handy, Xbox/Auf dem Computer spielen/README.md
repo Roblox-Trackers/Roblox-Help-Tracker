@@ -8,7 +8,7 @@ Name|URL
 [Allgemeine Verbindungsprobleme](./Allgemeine Verbindungsprobleme.html) |https://en.help.roblox.com/hc/de/articles/203312880-Allgemeine-Verbindungsprobleme
 [Mac: Fehlerbehebung](./Mac- Fehlerbehebung.html) |https://en.help.roblox.com/hc/de/articles/203312990-Mac-Fehlerbehebung
 [Wie installiere ich die Roblox Software neu?](./Wie installiere ich die Roblox Software neu-.html) |https://en.help.roblox.com/hc/de/articles/203312910-Wie-installiere-ich-die-Roblox-Software-neu-
-[Roblox deinstallieren](./Roblox deinstallieren.html) |https://en.help.roblox.com/hc/de/articles/203312980-Roblox-deinstallieren
+[Wie man Roblox deinstalliert](./Wie man Roblox deinstalliert.html) |https://en.help.roblox.com/hc/de/articles/203312980-Wie-man-Roblox-deinstalliert
 [Firewall- und Router-Probleme](./Firewall- und Router-Probleme.html) |https://en.help.roblox.com/hc/de/articles/203312840-Firewall-und-Router-Probleme
 [Mac: Kindersicherung](./Mac- Kindersicherung.html) |https://en.help.roblox.com/hc/de/articles/203313010-Mac-Kindersicherung
 [Mac: Upgrade Fehlermeldung](./Mac- Upgrade Fehlermeldung.html) |https://en.help.roblox.com/hc/de/articles/203313000-Mac-Upgrade-Fehlermeldung

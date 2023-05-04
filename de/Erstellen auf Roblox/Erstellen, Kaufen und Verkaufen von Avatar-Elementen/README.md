@@ -6,7 +6,7 @@ Name|URL
 [Erhalte ich meine Robux zurück, wenn ich einen Gegenstand lösche oder er mir nicht gefällt?](./Erhalte ich meine Robux zurück, wenn ich einen Gegenstand lösche oder er mir nicht gefällt-.html) |https://en.help.roblox.com/hc/de/articles/203313290-Erhalte-ich-meine-Robux-zur%C3%BCck-wenn-ich-einen-Gegenstand-l%C3%B6sche-oder-er-mir-nicht-gef%C3%A4llt-
 [Die Artikeldetailseite und das Kaufen von Artikeln](./Die Artikeldetailseite und das Kaufen von Artikeln.html) |https://en.help.roblox.com/hc/de/articles/206142306-Die-Artikeldetailseite-und-das-Kaufen-von-Artikeln
 [Kleidung: T-Shirts, Hemden und Hosen](./Kleidung- T-Shirts, Hemden und Hosen.html) |https://en.help.roblox.com/hc/de/articles/203313170-Kleidung-T-Shirts-Hemden-und-Hosen
-[Was sind die Virtuellen Ausrüstungen?](./Was sind die Virtuellen Ausrüstungen-.html) |https://en.help.roblox.com/hc/de/articles/203313630-Was-sind-die-Virtuellen-Ausr%C3%BCstungen-
+[Was ist virtuell Ausrüstung?](./Was ist virtuell Ausrüstung-.html) |https://en.help.roblox.com/hc/de/articles/203313630-Was-ist-virtuell-Ausr%C3%BCstung-
 [Der Avatar-Shop](./Der Avatar-Shop.html) |https://en.help.roblox.com/hc/de/articles/203313300-Der-Avatar-Shop
 [Wie man Items verkauft](./Wie man Items verkauft.html) |https://en.help.roblox.com/hc/de/articles/203313260-Wie-man-Items-verkauft
 [Kleidung verkaufen](./Kleidung verkaufen.html) |https://en.help.roblox.com/hc/de/articles/203313180-Kleidung-verkaufen
