@@ -30,14 +30,24 @@
        <strong>
         Ejecutar
        </strong>
-       . Copie y pegue o escriba lo siguiente sin comillas: "%localappdata%\Roblox\logs"
+       . Copie y pegue o escriba lo siguiente sin comillas: "\Roblox\logs":
+       <ul>
+        <li>
+         <p>
+          Para Win32: "%localappdata%\Roblox\logs"
+         </p>
+         <p>
+          Para UWP: “%LOCALAPPDATA%\Packages\ROBLOXCorporation.ROBLOX_55nm5eh3cm0pr\LocalState\logs”
+         </p>
+        </li>
+       </ul>
       </li>
       <li>
        En Mac, vaya a Macintosh HD &gt; Usuarios &gt; [su perfil de usuario] &gt; Biblioteca &gt; Registros &gt; Roblox
       </li>
       <li>
        <p data-renderer-start-pos="723">
-        Actualmente no tenemos una manera fácil de cargar registros de Android o iOS. ¡Lo sentimos, estamos trabajando en ello! &lt;TODO ios/android instructions?&gt;
+        Actualmente no tenemos una manera fácil de cargar registros de Android o iOS. ¡Lo sentimos, estamos trabajando en ello!
        </p>
       </li>
      </ul>
@@ -46,26 +56,46 @@
      </h2>
      <ul>
       <li>
-       Los registros de Roblox se verán así: “0.&lt;major ver&gt;.&lt;minor ver&gt;.&lt;revision&gt;_&lt;date&gt;_Player_&lt;garbage&gt;_last.log
+       <p>
+        Los registros de Roblox se verán así: “0.&lt;major ver&gt;.&lt;minor ver&gt;.&lt;revision&gt;_&lt;date&gt;_Player_&lt;garbage&gt;_último.log
+       </p>
        <ul>
         <li>
-         Por ejemplo 0.555.1.5550874_20221214T162601Z_Player_9aaf3_last.log
+         <p>
+          Por ejemplo 0.555.1.5550874_20221214T162601Z_20221214T162601Z_
+          <strong>
+           Jugador
+          </strong>
+          _9aaf3_último.log
+         </p>
         </li>
        </ul>
       </li>
       <li>
-       Los registros de Roblox Studio se verán iguales, excepto que dice "Studio" en lugar de "Player"
+       <p>
+        Los registros de Roblox Studio se verán iguales, excepto que dice "Studio" en lugar de "Jugador"
+       </p>
        <ul>
         <li>
-         Por ejemplo 0.555.1.5550874_20221214T162601Z_Studio_9aaf3_last.log
+         <p>
+          Por ejemplo 0.555.1.5550874_20221214T162601Z_20221214T162601Z_
+          <strong>
+           Studio
+          </strong>
+          _9aaf3_último.log
+         </p>
         </li>
        </ul>
       </li>
       <li>
-       Los registros de Bootstrapper se verán como bootstrapper_&lt;garbage&gt;_1.txt
+       <p>
+        Los registros de Bootstrapper se verán como bootstrapper_&lt;garbage&gt;_1.txt
+       </p>
        <ul>
         <li>
-         A menos que el problema ocurra al iniciar Roblox o RobloxStudio desde su navegador web, o durante la actualización, lo más probable es que no necesite enviar registros de arranque.
+         <p>
+          A menos que el problema ocurra al iniciar Roblox o RobloxStudio desde su navegador web, o durante la actualización, lo más probable es que no necesite enviar registros de arranque.
+         </p>
         </li>
        </ul>
       </li>
@@ -89,65 +119,39 @@
      <p>
      </p>
      <h1>
-      Envío de registros a los empleados de Roblox
+      Incluir archivos de registro al informar errores
      </h1>
      <p>
-      Después de informar un problema en Dev Forum, un empleado de Roblox puede indicarle que siga estas instrucciones para enviarles sus registros. ¡Solo recupere y envíe registros a los empleados de Roblox!!! Para identificar a un empleado de Roblox en el Foro de desarrollo, asegúrese de que diga "Personal de Roblox" junto al nombre de su cuenta:
+      Al informar errores en Roblox
+      <a href="https://devforum.roblox.com/c/bug-reports/10" rel="noopener" target="_blank">
+       Foro de desarrolladores
+      </a>
+      , tendrá la opción de cargar el archivo de registro junto con su informe de errores. Si necesita cargar registros después de hacer el informe de error inicial, envíe un DM a la
+      <a href="https://devforum.roblox.com/g/bug-files" rel="noopener" target="_blank">
+       archivos de errores
+      </a>
+      grupo, incluya un enlace a la publicación del informe de error original y etiquete a los empleados de Roblox relevantes:
      </p>
      <p class="wysiwyg-text-align-center">
-      <img alt="Roblox_Employee_on_DevForum.png" src="https://en.help.roblox.com/hc/article_attachments/14020304096788"/>
+      <img alt="Report_Bug_Window_on_Developer_Forum.png" height="312" src="https://en.help.roblox.com/hc/article_attachments/14397229029524" width="546"/>
      </p>
      <p>
-      El empleado de Roblox iniciará un hilo privado o DM con usted para solicitar los archivos de registro. Asegúrese de que el DM venga de un empleado de Roblox. Utilice el botón
-      <strong>
-       cargar
-      </strong>
-      para cargar los archivos de registro que encontró en la información anterior.
+     </p>
+     <p>
+      Solo cargue registros enviándolos al grupo de archivos de errores y solo hágalo si un empleado de Roblox se lo pide. Para identificar a un empleado de Roblox en el Foro de desarrollo, asegúrese de que diga "Personal de Roblox" junto al nombre de su cuenta:
      </p>
      <p class="wysiwyg-text-align-center">
-      <img alt="DevForum_Reply_Window_with_Upload_Selected.png" height="187" src="https://en.help.roblox.com/hc/article_attachments/14020297089428" width="564"/>
+      <img alt="Roblox_Employee_on_DevForum.png" src="https://en.help.roblox.com/hc/article_attachments/14378571735060"/>
      </p>
      <p>
      </p>
-     <h1>
-      Habilitación de inicio de sesión adicional en Roblox Studio
-     </h1>
      <p>
-      Si este es un problema de Roblox Studio que está informando, es posible que se le solicite que habilite el registro adicional. Para habilitar el inicio de sesión adicional en Roblox Studio:
+      Por favor mira
+      <a href="https://devforum.roblox.com/t/how-to-post-a-bug-report/24388/19" rel="noopener" target="_blank">
+       Cómo publicar un informe de error
+      </a>
+      para obtener instrucciones más detalladas!
      </p>
-     <ol>
-      <li>
-       Abra
-       <strong>
-        Configuración
-       </strong>
-       haciendo clic en
-       <strong>
-        Archivo
-       </strong>
-       &gt;
-       <strong>
-        Configuración
-       </strong>
-      </li>
-      <li>
-       En el panel izquierdo, haga click en
-       <strong>
-        Redes (Network)
-       </strong>
-       . Si no aparece, cierre y vuelva a abrir Roblox Studio.
-      </li>
-      <li>
-       Debajo de
-       <strong>
-        Diagnósticos
-       </strong>
-       , asegúrese de que estas casillas de verificación estén seleccionadas:
-      </li>
-      <li>
-       Cerrar Roblox Studio y reproducir el problema
-      </li>
-     </ol>
      <p>
      </p>
      <p>
