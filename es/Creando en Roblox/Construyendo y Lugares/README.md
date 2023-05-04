@@ -6,7 +6,7 @@ Name|URL
 [Enlaces de redes sociales para experiencias](./Enlaces de redes sociales para experiencias.html) |https://en.help.roblox.com/hc/es/articles/360000910966-Enlaces-de-redes-sociales-para-experiencias
 [Aprenda a crear experiencias](./Aprenda a crear experiencias.html) |https://en.help.roblox.com/hc/es/articles/203625344-Aprenda-a-crear-experiencias
 [Roblox Studio](./Roblox Studio.html) |https://en.help.roblox.com/hc/es/articles/203313860-Roblox-Studio
-[Edición y Prueba en Studio (Edit Mode)](./Edición y Prueba en Studio (Edit Mode).html) |https://en.help.roblox.com/hc/es/articles/203313870-Edici%C3%B3n-y-Prueba-en-Studio-Edit-Mode-
+[Pruebas en Estudio](./Pruebas en Estudio.html) |https://en.help.roblox.com/hc/es/articles/203313870-Pruebas-en-Estudio
 [Impedir la copia de su experiencia](./Impedir la copia de su experiencia.html) |https://en.help.roblox.com/hc/es/articles/203313940-Impedir-la-copia-de-su-experiencia
 [Cómo Publicar/Subir un Lugar](./Cómo Publicar-Subir un Lugar.html) |https://en.help.roblox.com/hc/es/articles/203313890-C%C3%B3mo-Publicar-Subir-un-Lugar
 [Experiencia Grupales](./Experiencia Grupales.html) |https://en.help.roblox.com/hc/es/articles/203313760-Experiencia-Grupales
