@@ -4,7 +4,7 @@
    <div class="article-content">
     <div class="article-body">
      <p>
-      Rblox직원은 문제를 조사하는 데 도움이되도록 고객 지원 메일 또는 DevForum의 게시물을 통해 클라이언트 로그를 요청하는 상황이 있을 수 있습니다.이 안내는 이런 로그들을 검색하는 방법에 대한 설명으로 가득합니다.
+      Rblox직원은 문제를 조사하는 데 도움이되도록 고객 지원 메일 또는 DevForum의 게시물을 통해 클라이언트 로그를 요청하는 상황이 있을 수 있습니다. 해당 도움말은 이런 로그들을 검색하는 방법에 대한 설명으로 가득합니다.
      </p>
      <p class="wysiwyg-indent1">
       <strong>
@@ -13,90 +13,143 @@
        </em>
       </strong>
       <em>
-       Roblox 직원이 요청하지 않으면 이 로그들을 검색하거나 보내지 마십시오.
+       Roblox 직원이 요청한 경우에만 이 로그를 보내주세요!
       </em>
+     </p>
+     <p class="wysiwyg-indent1">
      </p>
      <h1>
       클라이언트 로그를 검색하기
      </h1>
      <p class="wysiwyg-indent1">
-      클라이언트 로그를 검색하는 프로세스는 사용중인 운영 체제에 따라 다릅니다. 다음과 같은 정보는 휴대폰에는 적용되지않은 것에 주의 하십시오.
+      Roblox 및 Roblox Studio 로그는 모두 같은 폴더에 기록됩니다.
+     </p>
+     <ul>
+      <li>
+       PC에서는 WINDOWS 키와 R을 동시에 누릅니다.
+       <strong>
+        실행
+       </strong>
+       상자가 나타납니다. "%localappdata%\Roblox\logs"를 복사하여 붙여넣거나 따옴표 없이 입력합니다.
+      </li>
+      <li>
+       Mac에서는 Macintosh HD &gt; 사용자 &gt; [사용자 프로필] &gt; 라이브러리 &gt; 로그 &gt; Roblox로 이동합니다.
+      </li>
+      <li>
+       <p data-renderer-start-pos="723">
+        현재 Android 또는 iOS 로그를 쉽게 업로드할 수 있는 방법이 없습니다. 관련해서 해결책을 강구하고 있습니다. &lt;TODO ios/android instructions?&gt;
+       </p>
+      </li>
+     </ul>
+     <h2>
+      이 폴더에는 많은 로그 파일이 있을 수 있습니다.
+     </h2>
+     <ul>
+      <li>
+       Roblox 로그는 다음과 같습니다. “0.&lt;major ver&gt;.&lt;minor ver&gt;.&lt;revision&gt;_&lt;date&gt;_Player_&lt;garbage&gt;_last.log
+       <ul>
+        <li>
+         예를 들면 이와 같습니다. 0.555.1.5550874_20221214T162601Z_Player_9aaf3_last.log
+        </li>
+       </ul>
+      </li>
+      <li>
+       Roblox Studio 로그는 "Player" 대신 "Studio"라고 표시된 것을 제외하고 동일하게 보입니다.
+       <ul>
+        <li>
+         예를 들면 이와 같습니다. 0.555.1.5550874_20221214T162601Z_Studio_9aaf3_last.log
+        </li>
+       </ul>
+      </li>
+      <li>
+       부트스트래퍼 로그는 bootstrapper_&lt;garbage&gt;_1.txt와 같습니다.
+       <ul>
+        <li>
+         웹 브라우저에서 Roblox 또는 RobloxStudio를 시작할 때나 업데이트 중에 문제가 발생하지 않는 한 부트스트래퍼 로그를 보낼 필요가 없을 가능성이 높습니다.
+        </li>
+       </ul>
+      </li>
+     </ul>
+     <p>
+     </p>
+     <h2>
+      보낼 올바른 로그 파일을 식별해서 보내려면 다음 중 하나를 수행하세요.
+     </h2>
+     <ul>
+      <li>
+       파일 타임스탬프를 사용하여 보고하려는 사건에 해당하는 로그 파일을 결정합니다.
+      </li>
+      <li>
+       이 디렉터리의 모든 파일을 삭제하고 보고하려는 문제를 재현한 다음 이 폴더의 모든 콘텐츠를 보냅니다.
+      </li>
+      <li>
+       복잡스럽게 느껴진다면, 날짜별로 정렬하여 가장 최근 파일 10개를 보낼 수 있습니다.
+      </li>
+     </ul>
+     <p>
+     </p>
+     <h1>
+      Roblox 직원에게 로그 보내기
+     </h1>
+     <p>
+      개발자 포럼에서 문제를 보고한 후 Roblox 직원이 이러한 지침에 따라 로그를 보내도록 안내할 수 있습니다. Roblox 직원에게만 로그를 검색하고 전송하세요!!! 개발자 포럼에서 Roblox 직원을 식별하려면 계정 이름 옆에 "Roblox 직원"이라고 표시되어 있는지 확인하세요.
+     </p>
+     <p class="wysiwyg-text-align-center">
+      <img alt="Roblox_Employee_on_DevForum.png" src="https://en.help.roblox.com/hc/article_attachments/14020304096788"/>
+     </p>
+     <p>
+      Roblox 직원은 로그 파일을 요청하기 위해 비공개 스레드 또는 DM을 시작합니다. DM이 Roblox 직원에게서 온 것인지 확인하세요.
+      <strong>
+       업로드
+      </strong>
+      버튼을 사용하여 이전 정보에서 찾은 로그 파일을 업로드합니다.
+     </p>
+     <p class="wysiwyg-text-align-center">
+      <img alt="DevForum_Reply_Window_with_Upload_Selected.png" height="187" src="https://en.help.roblox.com/hc/article_attachments/14020297089428" width="564"/>
+     </p>
+     <p>
+     </p>
+     <h1>
+      Roblox Studio에서 추가 로깅 활성화하기
+     </h1>
+     <p>
+      보고하는 Roblox Studio 문제인 경우 추가 로깅을 활성화하라는 메시지가 표시될 수 있습니다. Roblox Studio에서 추가 로그인을 활성화하려면 다음을 따르세요.
      </p>
      <ol>
       <li>
-       <p>
-        <strong>
-         Roblox Studio
-        </strong>
-        를 엽니다:
-       </p>
-       <p>
-        <em>
-         Windows XP / Vista / 7 / 10:
-        </em>
-        Start &gt; All Programs (or All Apps) &gt; Roblox &gt; Roblox Studio
-        <br/>
-        <br/>
-        <em>
-         Windows 8:
-        </em>
-        왼쪽 하단에 있는 Windows 로고를 클릭하고 타일 모양의 시작 화면이 나타날 때 Roblox Studio를 입력합니다. 화면 오른쪽에 나타나는 검색 리스트에서 Roblox Studio를 선택하십시오.
-        <br/>
-        <br/>
-        <em>
-         Mac:
-        </em>
-        Command + Space Bar &gt; Type in
-        <strong>
-         RobloxStudio
-        </strong>
-        &gt; Enter
-       </p>
+       <strong>
+        파일 설정
+       </strong>
+       을 클릭하여
+       <strong>
+        설정
+       </strong>
+       을 엽니다.
       </li>
       <li>
-       <p>
-        파일을 클릭하여
-        <strong>
-         설정
-        </strong>
-        을 엽니다 &gt; 설정
-       </p>
+       왼쪽 창에서
+       <strong>
+        네트워크
+       </strong>
+       를 클릭합니다. 표시되지 않으면 Roblox Studio를 닫았다가 다시 엽니다.
       </li>
       <li>
-       <p>
-        왼쪽 창에서
-        <strong>
-         네트워크(Network)
-        </strong>
-        를 클릭하십시오
-        <strong>
-         .
-        </strong>
-        표시되지 않으면 Roblox Studio를 닫았다가 다시 엽니다.
-       </p>
-      </li>
-      <li>
-       <p>
-        <strong>
-         Diagnostics
-        </strong>
-        이란
-        <strong>
-        </strong>
-        아래에,다음 확인란이 선택되어 있는지 확인하십시오:
-       </p>
-       <p>
-        <em>
-         PrintEvents
-        </em>
-        <br/>
-        <em>
-         PrintInstances
-        </em>
-        <br/>
-        <em>
-         PrintPhysicsErrors
-        </em>
+       <strong>
+        Diagnostics
+       </strong>
+       아래에서 다음 확인란이 선택되어 있는지 확인합니다.
+       <br/>
+       <em>
+        PrintEvents
+       </em>
+       <br/>
+       <em>
+        PrintInstances
+       </em>
+       <br/>
+       <em>
+        PrintPhysicsErrors
+        <!--2-->
         <br/>
         <em>
          PrintProperties
@@ -105,87 +158,27 @@
         <em>
          PrintTouches
         </em>
-       </p>
+       </em>
       </li>
       <li>
-       <p>
-        Roblox를 닫다.
-       </p>
-      </li>
-      <li>
-       <p>
-        키보드의 WINDOWS KEY하고 R와 함께 누르십시오.
-        <br/>
-        <br/>
-        <em>
-         Mac이용 :
-        </em>
-        Macintosh HD &gt; Users &gt; [your user profile] &gt; Library &gt; Logs &gt; Roblox
-        <br/>
-        <br/>
-        <em>
-         참고: Mac의 사용자는  7번의 단계를  껀너뛰어도 됩니다.
-        </em>
-       </p>
-      </li>
-      <li>
-       <p>
-        <strong>
-         Run
-        </strong>
-        이라는 상자가 나타납니다. 따옴표 없이 다음을 복사하여 붙여 넣거나 입력하십시오.
-       </p>
-       <p>
-        <em>
-         Windows Vista / 7 / 8 / 10를 사용하면 :
-        </em>
-        "%localappdata%\Roblox\logs"
-        <br/>
-        <br/>
-        <em>
-         Windows XP를 사용하면 :
-        </em>
-        "%USERPROFILE%\Local Settings\Application Data\Roblox\logs"
-       </p>
-      </li>
-      <li>
-       <p>
-        폴더에 있는 모든 항목을 삭제합니다.
-       </p>
-      </li>
-      <li>
-       <p>
-        Roblox를 게임하는 일반적인 방법으로 한 번 해보십시오.
-       </p>
-      </li>
-      <li>
-       <p>
-        작동하지 않으면 Roblox를 닫고 6번 단계와 7번 단계를 다시 해보십시오.
-       </p>
-       <p>
-        현재는 폴더에 여러 파일이 있습니다.  로그를 필요로하는 문제 상황을 확실히 확인하려면
-        <a href="mailto:info@roblox.com">
-         info@roblox.com
-        </a>
-        으로 보내주십시오.
-       </p>
+       Roblox Studio를 닫고 문제를 재현합니다.
       </li>
      </ol>
      <p>
      </p>
      <p>
       <strong>
-       Additional Help
+       추가 도움말
       </strong>
      </p>
      <p class="wysiwyg-indent1">
-      <a href="/hc/articles/203312870" rel="noopener" target="_blank">
-       일반 데스톱 Roblox 문제
+      <a href="https://en.help.roblox.com/hc/articles/203312870" rel="noopener" target="_blank">
+       일반적인 데스크톱 관련 문제
       </a>
      </p>
      <p class="wysiwyg-indent1">
-      <a href="/hc/articles/203312990" rel="noopener" target="_blank">
-       Mac: 문제해
+      <a href="https://en.help.roblox.com/hc/articles/203312990" rel="noopener" target="_blank">
+       Mac 관련 문제 해결 방법
       </a>
      </p>
     </div>
