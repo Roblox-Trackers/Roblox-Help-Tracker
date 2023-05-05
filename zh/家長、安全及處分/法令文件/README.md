@@ -3,6 +3,8 @@
 Name|URL
 -|-
 [Roblox 隱私權和 Cookie 政策](./Roblox 隱私權和 Cookie 政策.html) |https://en.help.roblox.com/hc/zh-tw/articles/115004630823-Roblox-%E9%9A%B1%E7%A7%81%E6%AC%8A%E5%92%8C-Cookie-%E6%94%BF%E7%AD%96
+[Roblox 社群標準](./Roblox 社群標準.html) |https://en.help.roblox.com/hc/zh-tw/articles/203313410-Roblox-%E7%A4%BE%E7%BE%A4%E6%A8%99%E6%BA%96
+[廣告準則](./廣告準則.html) |https://en.help.roblox.com/hc/zh-tw/articles/13722260778260-%E5%BB%A3%E5%91%8A%E6%BA%96%E5%89%87
 [Roblox 簡訊服務條款](./Roblox 簡訊服務條款.html) |https://en.help.roblox.com/hc/zh-tw/articles/9483830673556-Roblox-%E7%B0%A1%E8%A8%8A%E6%9C%8D%E5%8B%99%E6%A2%9D%E6%AC%BE
 [創作者分析使用條款](./創作者分析使用條款.html) |https://en.help.roblox.com/hc/zh-tw/articles/10949046065044-%E5%89%B5%E4%BD%9C%E8%80%85%E5%88%86%E6%9E%90%E4%BD%BF%E7%94%A8%E6%A2%9D%E6%AC%BE
 [Roblox 的促銷序號](./Roblox 的促銷序號.html) |https://en.help.roblox.com/hc/zh-tw/articles/10549651908244-Roblox-%E7%9A%84%E4%BF%83%E9%8A%B7%E5%BA%8F%E8%99%9F

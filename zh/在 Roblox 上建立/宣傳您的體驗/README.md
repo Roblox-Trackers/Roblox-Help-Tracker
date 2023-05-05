@@ -2,6 +2,7 @@
 ### Articles in this section
 Name|URL
 -|-
+[成為 Roblox 銷售頻道上的精選](./成為 Roblox 銷售頻道上的精選.html) |https://en.help.roblox.com/hc/zh-tw/articles/13265567553812-%E6%88%90%E7%82%BA-Roblox-%E9%8A%B7%E5%94%AE%E9%A0%BB%E9%81%93%E4%B8%8A%E7%9A%84%E7%B2%BE%E9%81%B8
 [如何製作廣告](./如何製作廣告.html) |https://en.help.roblox.com/hc/zh-tw/articles/203313840-%E5%A6%82%E4%BD%95%E8%A3%BD%E4%BD%9C%E5%BB%A3%E5%91%8A
 [贊助體驗](./贊助體驗.html) |https://en.help.roblox.com/hc/zh-tw/articles/206455923-%E8%B4%8A%E5%8A%A9%E9%AB%94%E9%A9%97
 [體驗縮圖、影片和圖示](./體驗縮圖、影片和圖示.html) |https://en.help.roblox.com/hc/zh-tw/articles/203314060-%E9%AB%94%E9%A9%97%E7%B8%AE%E5%9C%96-%E5%BD%B1%E7%89%87%E5%92%8C%E5%9C%96%E7%A4%BA
