@@ -1,0 +1,22 @@
+# 法的文書  
+### Articles in this section
+Name|URL
+-|-
+[Roblox利用規約](./Roblox利用規約.html) |https://en.help.roblox.com/hc/ja/articles/115004647846-Roblox%E5%88%A9%E7%94%A8%E8%A6%8F%E7%B4%84
+[Roblox プライバシーおよびクッキーポリシー](./Roblox プライバシーおよびクッキーポリシー.html) |https://en.help.roblox.com/hc/ja/articles/115004630823-Roblox-%E3%83%97%E3%83%A9%E3%82%A4%E3%83%90%E3%82%B7%E3%83%BC%E3%81%8A%E3%82%88%E3%81%B3%E3%82%AF%E3%83%83%E3%82%AD%E3%83%BC%E3%83%9D%E3%83%AA%E3%82%B7%E3%83%BC
+[Robloxコミュニティ基準](./Robloxコミュニティ基準.html) |https://en.help.roblox.com/hc/ja/articles/203313410-Roblox%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3%E5%9F%BA%E6%BA%96
+[Robloxの名称とロゴ - コミュニティによる使用ガイドライン](./Robloxの名称とロゴ - コミュニティによる使用ガイドライン.html) |https://en.help.roblox.com/hc/ja/articles/115001708126-Roblox%E3%81%AE%E5%90%8D%E7%A7%B0%E3%81%A8%E3%83%AD%E3%82%B4-%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3%E3%81%AB%E3%82%88%E3%82%8B%E4%BD%BF%E7%94%A8%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3
+[ROBLOX生体認証プライバシー通知](./ROBLOX生体認証プライバシー通知.html) |https://en.help.roblox.com/hc/ja/articles/4412863575316-ROBLOX%E7%94%9F%E4%BD%93%E8%AA%8D%E8%A8%BC%E3%83%97%E3%83%A9%E3%82%A4%E3%83%90%E3%82%B7%E3%83%BC%E9%80%9A%E7%9F%A5
+[一般的な健康上のご注意](./一般的な健康上のご注意.html) |https://en.help.roblox.com/hc/ja/articles/360031603131-%E4%B8%80%E8%88%AC%E7%9A%84%E3%81%AA%E5%81%A5%E5%BA%B7%E4%B8%8A%E3%81%AE%E3%81%94%E6%B3%A8%E6%84%8F
+[Robloxのアクセシビリティに関する声明](./Robloxのアクセシビリティに関する声明.html) |https://en.help.roblox.com/hc/ja/articles/360059080071-Roblox%E3%81%AE%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B7%E3%83%93%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E5%A3%B0%E6%98%8E
+[広告基準](./広告基準.html) |https://en.help.roblox.com/hc/ja/articles/13722260778260-%E5%BA%83%E5%91%8A%E5%9F%BA%E6%BA%96
+[Robloxでの評価の正当性](./Robloxでの評価の正当性.html) |https://en.help.roblox.com/hc/ja/articles/7235818866964-Roblox%E3%81%A7%E3%81%AE%E8%A9%95%E4%BE%A1%E3%81%AE%E6%AD%A3%E5%BD%93%E6%80%A7
+[Robloxの表情アニメーションに関するプライバシーポリシーのお知らせ](./Robloxの表情アニメーションに関するプライバシーポリシーのお知らせ.html) |https://en.help.roblox.com/hc/ja/articles/8064749848980-Roblox%E3%81%AE%E8%A1%A8%E6%83%85%E3%82%A2%E3%83%8B%E3%83%A1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%83%97%E3%83%A9%E3%82%A4%E3%83%90%E3%82%B7%E3%83%BC%E3%83%9D%E3%83%AA%E3%82%B7%E3%83%BC%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B
+[Robloxショートメッセージ（SMS）利用規約](./Robloxショートメッセージ（SMS）利用規約.html) |https://en.help.roblox.com/hc/ja/articles/9483830673556-Roblox%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E3%83%A1%E3%83%83%E3%82%BB%E3%83%BC%E3%82%B8-SMS-%E5%88%A9%E7%94%A8%E8%A6%8F%E7%B4%84
+[クリエーター・アナリティクスの利用規約](./クリエーター・アナリティクスの利用規約.html) |https://en.help.roblox.com/hc/ja/articles/10949046065044-%E3%82%AF%E3%83%AA%E3%82%A8%E3%83%BC%E3%82%BF%E3%83%BC-%E3%82%A2%E3%83%8A%E3%83%AA%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B9%E3%81%AE%E5%88%A9%E7%94%A8%E8%A6%8F%E7%B4%84
+[Roblox（ロブロックス）でのプロモーションコード](./Roblox（ロブロックス）でのプロモーションコード.html) |https://en.help.roblox.com/hc/ja/articles/10549651908244-Roblox-%E3%83%AD%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%E3%82%B9-%E3%81%A7%E3%81%AE%E3%83%97%E3%83%AD%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%89
+[法執行機関向けのヘルプセンターでよくあるご質問](./法執行機関向けのヘルプセンターでよくあるご質問.html) |https://en.help.roblox.com/hc/ja/articles/11219680442260-%E6%B3%95%E5%9F%B7%E8%A1%8C%E6%A9%9F%E9%96%A2%E5%90%91%E3%81%91%E3%81%AE%E3%83%98%E3%83%AB%E3%83%97%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%A7%E3%82%88%E3%81%8F%E3%81%82%E3%82%8B%E3%81%94%E8%B3%AA%E5%95%8F
+[資金決済法に基づく表示](./資金決済法に基づく表示.html) |https://en.help.roblox.com/hc/ja/articles/360059193812-%E8%B3%87%E9%87%91%E6%B1%BA%E6%B8%88%E6%B3%95%E3%81%AB%E5%9F%BA%E3%81%A5%E3%81%8F%E8%A1%A8%E7%A4%BA
+[特定商取引法に基づく表示](./特定商取引法に基づく表示.html) |https://en.help.roblox.com/hc/ja/articles/360060428991-%E7%89%B9%E5%AE%9A%E5%95%86%E5%8F%96%E5%BC%95%E6%B3%95%E3%81%AB%E5%9F%BA%E3%81%A5%E3%81%8F%E8%A1%A8%E7%A4%BA
+[ビデオでのライセンスされた音楽の使用](./ビデオでのライセンスされた音楽の使用.html) |https://en.help.roblox.com/hc/ja/articles/360038525351-%E3%83%93%E3%83%87%E3%82%AA%E3%81%A7%E3%81%AE%E3%83%A9%E3%82%A4%E3%82%BB%E3%83%B3%E3%82%B9%E3%81%95%E3%82%8C%E3%81%9F%E9%9F%B3%E6%A5%BD%E3%81%AE%E4%BD%BF%E7%94%A8
+[デジタル サービス法](./デジタル サービス法.html) |https://en.help.roblox.com/hc/ja/articles/13061336948244-%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB-%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E6%B3%95
