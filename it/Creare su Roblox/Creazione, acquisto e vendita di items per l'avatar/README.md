@@ -7,7 +7,7 @@ Name|URL
 [La pagina dei dettagli dell'articolo e gli articoli d'acquisto](./La pagina dei dettagli dell'articolo e gli articoli d'acquisto.html) |https://en.help.roblox.com/hc/it/articles/206142306-La-pagina-dei-dettagli-dell-articolo-e-gli-articoli-d-acquisto
 [Abbigliamento: magliette, camicie e pantaloni](./Abbigliamento- magliette, camicie e pantaloni.html) |https://en.help.roblox.com/hc/it/articles/203313170-Abbigliamento-magliette-camicie-e-pantaloni
 [Cos'è un equipaggiamento virtuale?](./Cos'è un equipaggiamento virtuale-.html) |https://en.help.roblox.com/hc/it/articles/203313630-Cos-%C3%A8-un-equipaggiamento-virtuale-
-[Il Negozio Avatar](./Il Negozio Avatar.html) |https://en.help.roblox.com/hc/it/articles/203313300-Il-Negozio-Avatar
+[Il Mercato](./Il Mercato.html) |https://en.help.roblox.com/hc/it/articles/203313300-Il-Mercato
 [Come Vendere Oggetti](./Come Vendere Oggetti.html) |https://en.help.roblox.com/hc/it/articles/203313260-Come-Vendere-Oggetti
 [Vendere Vestiti](./Vendere Vestiti.html) |https://en.help.roblox.com/hc/it/articles/203313180-Vendere-Vestiti
 [Sistema di trading](./Sistema di trading.html) |https://en.help.roblox.com/hc/it/articles/203313310-Sistema-di-trading
