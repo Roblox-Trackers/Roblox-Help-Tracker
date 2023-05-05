@@ -2,7 +2,7 @@
 ### Articles in this section
 Name|URL
 -|-
-[Navegador: Personalizando seu Avatar](./Navegador- Personalizando seu Avatar.html) |https://en.help.roblox.com/hc/pt-br/articles/203313600-Navegador-Personalizando-seu-Avatar
+[Navegador: Personalizando seu avatar](./Navegador- Personalizando seu avatar.html) |https://en.help.roblox.com/hc/pt-br/articles/203313600-Navegador-Personalizando-seu-avatar
 [Dispositivo Móvel: personalizando seu avatar](./Dispositivo Móvel- personalizando seu avatar.html) |https://en.help.roblox.com/hc/pt-br/articles/203313510-Dispositivo-M%C3%B3vel-personalizando-seu-avatar
 [Aplicativo Xbox One: personalizando seu avatar](./Aplicativo Xbox One- personalizando seu avatar.html) |https://en.help.roblox.com/hc/pt-br/articles/205557353-Aplicativo-Xbox-One-personalizando-seu-avatar
 [Como faço meu avatar uma menina ou um menino?](./Como faço meu avatar uma menina ou um menino-.html) |https://en.help.roblox.com/hc/pt-br/articles/203313700-Como-fa%C3%A7o-meu-avatar-uma-menina-ou-um-menino-
