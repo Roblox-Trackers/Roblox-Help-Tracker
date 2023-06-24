@@ -2,4 +2,4 @@
 ### Articles in this section
 Name|URL
 -|-
-[Modalità VR di Roblox](./Modalità VR di Roblox.html) |https://en.help.roblox.com/hc/it/articles/208260046-Modalit%C3%A0-VR-di-Roblox
+[Configurazione della Realtà Virtuale (VR) per Roblox](./Configurazione della Realtà Virtuale (VR) per Roblox.html) |https://en.help.roblox.com/hc/it/articles/208260046-Configurazione-della-Realt%C3%A0-Virtuale-VR-per-Roblox
