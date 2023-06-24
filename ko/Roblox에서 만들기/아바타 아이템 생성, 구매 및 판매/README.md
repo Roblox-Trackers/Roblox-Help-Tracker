@@ -7,7 +7,7 @@ Name|URL
 [아이템의 정보 페이지 및 아이템 구매](./아이템의 정보 페이지 및 아이템 구매.html) |https://en.help.roblox.com/hc/ko/articles/206142306-%EC%95%84%EC%9D%B4%ED%85%9C%EC%9D%98-%EC%A0%95%EB%B3%B4-%ED%8E%98%EC%9D%B4%EC%A7%80-%EB%B0%8F-%EC%95%84%EC%9D%B4%ED%85%9C-%EA%B5%AC%EB%A7%A4
 [의류: 티셔츠, 셔츠 및 바지](./의류- 티셔츠, 셔츠 및 바지.html) |https://en.help.roblox.com/hc/ko/articles/203313170-%EC%9D%98%EB%A5%98-%ED%8B%B0%EC%85%94%EC%B8%A0-%EC%85%94%EC%B8%A0-%EB%B0%8F-%EB%B0%94%EC%A7%80
 [가상 장비가 무엇인가요?](./가상 장비가 무엇인가요-.html) |https://en.help.roblox.com/hc/ko/articles/203313630-%EA%B0%80%EC%83%81-%EC%9E%A5%EB%B9%84%EA%B0%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%EC%9A%94-
-[아바타 상점](./아바타 상점.html) |https://en.help.roblox.com/hc/ko/articles/203313300-%EC%95%84%EB%B0%94%ED%83%80-%EC%83%81%EC%A0%90
+[마켓플레이스](./마켓플레이스.html) |https://en.help.roblox.com/hc/ko/articles/203313300-%EB%A7%88%EC%BC%93%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4
 [아이템 판매 방법](./아이템 판매 방법.html) |https://en.help.roblox.com/hc/ko/articles/203313260-%EC%95%84%EC%9D%B4%ED%85%9C-%ED%8C%90%EB%A7%A4-%EB%B0%A9%EB%B2%95
 [의류 판매하기](./의류 판매하기.html) |https://en.help.roblox.com/hc/ko/articles/203313180-%EC%9D%98%EB%A5%98-%ED%8C%90%EB%A7%A4%ED%95%98%EA%B8%B0
 [거래 시스템 이용하기](./거래 시스템 이용하기.html) |https://en.help.roblox.com/hc/ko/articles/203313310-%EA%B1%B0%EB%9E%98-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%9D%B4%EC%9A%A9%ED%95%98%EA%B8%B0
