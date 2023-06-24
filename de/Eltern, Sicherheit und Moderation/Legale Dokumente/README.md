@@ -5,6 +5,7 @@ Name|URL
 [Nutzungsbedingungen von Roblox](./Nutzungsbedingungen von Roblox.html) |https://en.help.roblox.com/hc/de/articles/115004647846-Nutzungsbedingungen-von-Roblox
 [Datenschutz- und Cookie-Richtlinie von Roblox](./Datenschutz- und Cookie-Richtlinie von Roblox.html) |https://en.help.roblox.com/hc/de/articles/115004630823-Datenschutz-und-Cookie-Richtlinie-von-Roblox
 [Roblox Community-Regeln](./Roblox Community-Regeln.html) |https://en.help.roblox.com/hc/de/articles/203313410-Roblox-Community-Regeln
+[Roblox Wörterbuch](./Roblox Wörterbuch.html) |https://en.help.roblox.com/hc/de/articles/4415545981332-Roblox-W%C3%B6rterbuch
 [Nutzungsbedingungen für Developer Exchange](./Nutzungsbedingungen für Developer Exchange.html) |https://en.help.roblox.com/hc/de/articles/115005718246-Nutzungsbedingungen-f%C3%BCr-Developer-Exchange
 [Nutzungsleitlinien für die Community in Bezug auf Namen und Logo von Roblox](./Nutzungsleitlinien für die Community in Bezug auf Namen und Logo von Roblox.html) |https://en.help.roblox.com/hc/de/articles/115001708126-Nutzungsleitlinien-f%C3%BCr-die-Community-in-Bezug-auf-Namen-und-Logo-von-Roblox
 [ROBLOX BIOMETRISCHE DATENSCHUTZHINWEISE](./ROBLOX BIOMETRISCHE DATENSCHUTZHINWEISE.html) |https://en.help.roblox.com/hc/de/articles/4412863575316-ROBLOX-BIOMETRISCHE-DATENSCHUTZHINWEISE

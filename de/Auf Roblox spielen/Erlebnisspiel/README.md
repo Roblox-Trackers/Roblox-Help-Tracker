@@ -12,7 +12,7 @@ Name|URL
 [Wie man ein Erlebnis verlässt](./Wie man ein Erlebnis verlässt.html) |https://en.help.roblox.com/hc/de/articles/203314240-Wie-man-ein-Erlebnis-verl%C3%A4sst
 [Wie man einem anderen Spieler in Erlebnissen folgt oder beitritt](./Wie man einem anderen Spieler in Erlebnissen folgt oder beitritt.html) |https://en.help.roblox.com/hc/de/articles/203314220-Wie-man-einem-anderen-Spieler-in-Erlebnissen-folgt-oder-beitritt
 [Wie man einen Platz als Favorit markiert](./Wie man einen Platz als Favorit markiert.html) |https://en.help.roblox.com/hc/de/articles/203313670-Wie-man-einen-Platz-als-Favorit-markiert
-[Ranglisten und Benachrichtigungen im Erlebnis](./Ranglisten und Benachrichtigungen im Erlebnis.html) |https://en.help.roblox.com/hc/de/articles/204343250-Ranglisten-und-Benachrichtigungen-im-Erlebnis
+[Bestenlisten und Benachrichtigungen im Erlebnis](./Bestenlisten und Benachrichtigungen im Erlebnis.html) |https://en.help.roblox.com/hc/de/articles/204343250-Bestenlisten-und-Benachrichtigungen-im-Erlebnis
 [Wie ändere ich die Farbe meines Namens in einem Erlebnis?](./Wie ändere ich die Farbe meines Namens in einem Erlebnis-.html) |https://en.help.roblox.com/hc/de/articles/203314200-Wie-%C3%A4ndere-ich-die-Farbe-meines-Namens-in-einem-Erlebnis-
 [Wie kaufe und konfiguriere ich ein privaten/VIP-Server?](./Wie kaufe und konfiguriere ich ein privaten-VIP-Server-.html) |https://en.help.roblox.com/hc/de/articles/205345050-Wie-kaufe-und-konfiguriere-ich-ein-privaten-VIP-Server-
 [Die Testserver](./Die Testserver.html) |https://en.help.roblox.com/hc/de/articles/203314170-Die-Testserver

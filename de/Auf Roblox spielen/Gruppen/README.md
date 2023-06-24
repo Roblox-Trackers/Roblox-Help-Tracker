@@ -8,7 +8,7 @@ Name|URL
 [Hauptgruppe](./Hauptgruppe.html) |https://en.help.roblox.com/hc/de/articles/203313740-Hauptgruppe
 [Wie man eine Gruppe verwaltet](./Wie man eine Gruppe verwaltet.html) |https://en.help.roblox.com/hc/de/articles/203313810-Wie-man-eine-Gruppe-verwaltet
 [Gruppenrollen / Ränge und Berechtigungen](./Gruppenrollen - Ränge und Berechtigungen.html) |https://en.help.roblox.com/hc/de/articles/203313770-Gruppenrollen-R%C3%A4nge-und-Berechtigungen
-[So hängen Sie ein Bild an eine Gruppe an](./So hängen Sie ein Bild an eine Gruppe an.html) |https://en.help.roblox.com/hc/de/articles/203313800-So-h%C3%A4ngen-Sie-ein-Bild-an-eine-Gruppe-an
+[Anhängen eines Bildes an eine Gruppe](./Anhängen eines Bildes an eine Gruppe.html) |https://en.help.roblox.com/hc/de/articles/203313800-Anh%C3%A4ngen-eines-Bildes-an-eine-Gruppe
 [Gruppennamen ändern](./Gruppennamen ändern.html) |https://en.help.roblox.com/hc/de/articles/4414930974228-Gruppennamen-%C3%A4ndern
 [Wie man die Aktivität seiner Gruppe überprüft (Gruppen Überwachungsprotokoll)](./Wie man die Aktivität seiner Gruppe überprüft (Gruppen Überwachungsprotokoll).html) |https://en.help.roblox.com/hc/de/articles/203313780-Wie-man-die-Aktivit%C3%A4t-seiner-Gruppe-%C3%BCberpr%C3%BCft-Gruppen-%C3%9Cberwachungsprotokoll-
 [Wie man für eine Gruppe wirbt](./Wie man für eine Gruppe wirbt.html) |https://en.help.roblox.com/hc/de/articles/203313820-Wie-man-f%C3%BCr-eine-Gruppe-wirbt
