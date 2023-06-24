@@ -2,7 +2,7 @@
 ### Articles in this section
 Name|URL
 -|-
-[A Biblioteca](./A Biblioteca.html) |https://en.help.roblox.com/hc/pt-br/articles/206580683-A-Biblioteca
+[Mercado do Criador](./Mercado do Criador.html) |https://en.help.roblox.com/hc/pt-br/articles/206580683-Mercado-do-Criador
 [Como arquivar Assets e Experiências](./Como arquivar Assets e Experiências.html) |https://en.help.roblox.com/hc/pt-br/articles/360031253052-Como-arquivar-Assets-e-Experi%C3%AAncias
 [Como Faço Algo de Domínio Público?](./Como Faço Algo de Domínio Público-.html) |https://en.help.roblox.com/hc/pt-br/articles/203313230-Como-Fa%C3%A7o-Algo-de-Dom%C3%ADnio-P%C3%BAblico-
 [Como editar malha/posso vender malha no catálogo?](./Como editar malha-posso vender malha no catálogo-.html) |https://en.help.roblox.com/hc/pt-br/articles/203313250-Como-editar-malha-posso-vender-malha-no-cat%C3%A1logo-
