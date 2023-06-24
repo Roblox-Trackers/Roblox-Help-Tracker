@@ -5,7 +5,7 @@ Name|URL
 [基本的なプレイスの設定：名前と説明](./基本的なプレイスの設定：名前と説明.html) |https://en.help.roblox.com/hc/ja/articles/203314030-%E5%9F%BA%E6%9C%AC%E7%9A%84%E3%81%AA%E3%83%97%E3%83%AC%E3%82%A4%E3%82%B9%E3%81%AE%E8%A8%AD%E5%AE%9A-%E5%90%8D%E5%89%8D%E3%81%A8%E8%AA%AC%E6%98%8E
 [体験のソーシャルメディアリンク](./体験のソーシャルメディアリンク.html) |https://en.help.roblox.com/hc/ja/articles/360000910966-%E4%BD%93%E9%A8%93%E3%81%AE%E3%82%BD%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%AB%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%AF
 [体験を構築する方法を学ぶ](./体験を構築する方法を学ぶ.html) |https://en.help.roblox.com/hc/ja/articles/203625344-%E4%BD%93%E9%A8%93%E3%82%92%E6%A7%8B%E7%AF%89%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95%E3%82%92%E5%AD%A6%E3%81%B6
-[Robloxスタジオ](./Robloxスタジオ.html) |https://en.help.roblox.com/hc/ja/articles/203313860-Roblox%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA
+[Roblox Studio](./Roblox Studio.html) |https://en.help.roblox.com/hc/ja/articles/203313860-Roblox-Studio
 [Studioでの編集とテスト（編集モード）](./Studioでの編集とテスト（編集モード）.html) |https://en.help.roblox.com/hc/ja/articles/203313870-Studio%E3%81%A7%E3%81%AE%E7%B7%A8%E9%9B%86%E3%81%A8%E3%83%86%E3%82%B9%E3%83%88-%E7%B7%A8%E9%9B%86%E3%83%A2%E3%83%BC%E3%83%89-
 [体験のコピーを許可しない](./体験のコピーを許可しない.html) |https://en.help.roblox.com/hc/ja/articles/203313940-%E4%BD%93%E9%A8%93%E3%81%AE%E3%82%B3%E3%83%94%E3%83%BC%E3%82%92%E8%A8%B1%E5%8F%AF%E3%81%97%E3%81%AA%E3%81%84
 [プレイスを公開/アップロードする方法](./プレイスを公開-アップロードする方法.html) |https://en.help.roblox.com/hc/ja/articles/203313890-%E3%83%97%E3%83%AC%E3%82%A4%E3%82%B9%E3%82%92%E5%85%AC%E9%96%8B-%E3%82%A2%E3%83%83%E3%83%97%E3%83%AD%E3%83%BC%E3%83%89%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95
