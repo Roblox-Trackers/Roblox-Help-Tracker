@@ -6,4 +6,4 @@ Name|URL
 [Blog Roblox](./Blog Roblox.html) |https://en.help.roblox.com/hc/fr/articles/360029134331-Blog-Roblox
 [Comment puis-je activer un code promotionnel Roblox ?](./Comment puis-je activer un code promotionnel Roblox -.html) |https://en.help.roblox.com/hc/fr/articles/360029650831-Comment-puis-je-activer-un-code-promotionnel-Roblox-
 [Programme Video Stars de Roblox](./Programme Video Stars de Roblox.html) |https://en.help.roblox.com/hc/fr/articles/360026092011-Programme-Video-Stars-de-Roblox
-[Roblox Star Code](./Roblox Star Code.html) |https://en.help.roblox.com/hc/fr/articles/360026181292-Roblox-Star-Code-
+[Roblox Star Code](./Roblox Star Code.html) |https://en.help.roblox.com/hc/fr/articles/360026181292-Roblox-Star-Code

@@ -10,7 +10,7 @@ Name|URL
 [Rôles de Groupe/Rangs et Autorisations](./Rôles de Groupe-Rangs et Autorisations.html) |https://en.help.roblox.com/hc/fr/articles/203313770-R%C3%B4les-de-Groupe-Rangs-et-Autorisations
 [Comment attacher une image à un groupe](./Comment attacher une image à un groupe.html) |https://en.help.roblox.com/hc/fr/articles/203313800-Comment-attacher-une-image-%C3%A0-un-groupe
 [Changer le nom d'un groupe](./Changer le nom d'un groupe.html) |https://en.help.roblox.com/hc/fr/articles/4414930974228-Changer-le-nom-d-un-groupe
-[Visualiser l'activité de votre Groupe (Registre d'Audit de Groupe)](./Visualiser l'activité de votre Groupe (Registre d'Audit de Groupe).html) |https://en.help.roblox.com/hc/fr/articles/203313780-Visualiser-l-activit%C3%A9-de-votre-Groupe-Registre-d-Audit-de-Groupe-
+[Visualiser l'activité de votre Groupe (Journal d'Audit du Groupe)](./Visualiser l'activité de votre Groupe (Journal d'Audit du Groupe).html) |https://en.help.roblox.com/hc/fr/articles/203313780-Visualiser-l-activit%C3%A9-de-votre-Groupe-Journal-d-Audit-du-Groupe-
 [Comment Faire de la Pub pour un Groupe](./Comment Faire de la Pub pour un Groupe.html) |https://en.help.roblox.com/hc/fr/articles/203313820-Comment-Faire-de-la-Pub-pour-un-Groupe
 [Liens aux réseaux sociaux dans les descriptions de groupe](./Liens aux réseaux sociaux dans les descriptions de groupe.html) |https://en.help.roblox.com/hc/fr/articles/360000910946-Liens-aux-r%C3%A9seaux-sociaux-dans-les-descriptions-de-groupe
 [Vêtements de groupe, gestion des revenus et paiements](./Vêtements de groupe, gestion des revenus et paiements.html) |https://en.help.roblox.com/hc/fr/articles/203313830-V%C3%AAtements-de-groupe-gestion-des-revenus-et-paiements
