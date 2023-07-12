@@ -4,7 +4,7 @@ Name|URL
 -|-
 [Expériences sur Roblox](./Expériences sur Roblox.html) |https://en.help.roblox.com/hc/fr/articles/115004734603-Exp%C3%A9riences-sur-Roblox
 [Contacter les créateurs d'une expérience pour obtenir de l'aide](./Contacter les créateurs d'une expérience pour obtenir de l'aide.html) |https://en.help.roblox.com/hc/fr/articles/6566665691924-Contacter-les-cr%C3%A9ateurs-d-une-exp%C3%A9rience-pour-obtenir-de-l-aide
-[Les prérequis matériels et de système d'exploitation](./Les prérequis matériels et de système d'exploitation.html) |https://en.help.roblox.com/hc/fr/articles/203312800-Les-pr%C3%A9requis-mat%C3%A9riels-et-de-syst%C3%A8me-d-exploitation
+[Exigences en matière de matériel informatique et de système d'exploitation](./Exigences en matière de matériel informatique et de système d'exploitation.html) |https://en.help.roblox.com/hc/fr/articles/203312800-Exigences-en-mati%C3%A8re-de-mat%C3%A9riel-informatique-et-de-syst%C3%A8me-d-exploitation
 [Configuration des Paramètres et Aide dans l'Expérience](./Configuration des Paramètres et Aide dans l'Expérience.html) |https://en.help.roblox.com/hc/fr/articles/203314230-Configuration-des-Param%C3%A8tres-et-Aide-dans-l-Exp%C3%A9rience
 [Comment utiliser l'équipement et le sac à dos](./Comment utiliser l'équipement et le sac à dos.html) |https://en.help.roblox.com/hc/fr/articles/203314280-Comment-utiliser-l-%C3%A9quipement-et-le-sac-%C3%A0-dos
 [Comment réinitialiser l'avatar - Dans une expérience](./Comment réinitialiser l'avatar - Dans une expérience.html) |https://en.help.roblox.com/hc/fr/articles/203314290-Comment-r%C3%A9initialiser-l-avatar-Dans-une-exp%C3%A9rience
