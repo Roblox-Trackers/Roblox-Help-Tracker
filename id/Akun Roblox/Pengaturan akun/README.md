@@ -13,7 +13,7 @@ Name|URL
 [Mengubah Bahasa Akun Anda](./Mengubah Bahasa Akun Anda.html) |https://en.help.roblox.com/hc/id/articles/360001216486-Mengubah-Bahasa-Akun-Anda
 [Mengubah Nama Tampilan Anda](./Mengubah Nama Tampilan Anda.html) |https://en.help.roblox.com/hc/id/articles/4401938870292-Mengubah-Nama-Tampilan-Anda
 [Mengubah Nama Pengguna Anda](./Mengubah Nama Pengguna Anda.html) |https://en.help.roblox.com/hc/id/articles/203313130-Mengubah-Nama-Pengguna-Anda
-[Verifikasi Identitas Usia](./Verifikasi Identitas Usia.html) |https://en.help.roblox.com/hc/id/articles/4407282410644-Verifikasi-Identitas-Usia
+[Verifikasi Identitas (ID) Usia](./Verifikasi Identitas (ID) Usia.html) |https://en.help.roblox.com/hc/id/articles/4407282410644-Verifikasi-Identitas-ID-Usia
 [Pertanyaan yang Sering Diajukan Terkait Verifikasi Identitas Usia](./Pertanyaan yang Sering Diajukan Terkait Verifikasi Identitas Usia.html) |https://en.help.roblox.com/hc/id/articles/4407276151188-Pertanyaan-yang-Sering-Diajukan-Terkait-Verifikasi-Identitas-Usia
 [Mengubah Tema Akun Anda](./Mengubah Tema Akun Anda.html) |https://en.help.roblox.com/hc/id/articles/360022922852-Mengubah-Tema-Akun-Anda
 [Pertanyaan Umum tentang Impor Kontak](./Pertanyaan Umum tentang Impor Kontak.html) |https://en.help.roblox.com/hc/id/articles/7416652004884-Pertanyaan-Umum-tentang-Impor-Kontak
