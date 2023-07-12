@@ -25,3 +25,5 @@ Name|URL
 [Using Licensed Music in Videos](./Using Licensed Music in Videos.html) |https://en.help.roblox.com/hc/en-us/articles/360038525351-Using-Licensed-Music-in-Videos
 [CPRA Privacy Policy](./CPRA Privacy Policy.html) |https://en.help.roblox.com/hc/en-us/articles/4402871541140-CPRA-Privacy-Policy
 [Digital Services Act](./Digital Services Act.html) |https://en.help.roblox.com/hc/en-us/articles/13061336948244-Digital-Services-Act
+[Roblox is Updating our Terms of Use](./Roblox is Updating our Terms of Use.html) |https://en.help.roblox.com/hc/en-us/articles/14663412502676-Roblox-is-Updating-our-Terms-of-Use
+[Roblox Privacy and Cookie Policy](./Roblox Privacy and Cookie Policy.html) |https://en.help.roblox.com/hc/en-us/articles/14663460303380-Roblox-Privacy-and-Cookie-Policy
