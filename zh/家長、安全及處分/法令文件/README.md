@@ -10,3 +10,5 @@ Name|URL
 [Roblox 的促銷序號](./Roblox 的促銷序號.html) |https://en.help.roblox.com/hc/zh-tw/articles/10549651908244-Roblox-%E7%9A%84%E4%BF%83%E9%8A%B7%E5%BA%8F%E8%99%9F
 [執法單位支援中心問答集](./執法單位支援中心問答集.html) |https://en.help.roblox.com/hc/zh-tw/articles/11219680442260-%E5%9F%B7%E6%B3%95%E5%96%AE%E4%BD%8D%E6%94%AF%E6%8F%B4%E4%B8%AD%E5%BF%83%E5%95%8F%E7%AD%94%E9%9B%86
 [在影片使用授權音樂](./在影片使用授權音樂.html) |https://en.help.roblox.com/hc/zh-tw/articles/360038525351-%E5%9C%A8%E5%BD%B1%E7%89%87%E4%BD%BF%E7%94%A8%E6%8E%88%E6%AC%8A%E9%9F%B3%E6%A8%82
+[Roblox 正在更新使用條款](./Roblox 正在更新使用條款.html) |https://en.help.roblox.com/hc/zh-tw/articles/14663412502676-Roblox-%E6%AD%A3%E5%9C%A8%E6%9B%B4%E6%96%B0%E4%BD%BF%E7%94%A8%E6%A2%9D%E6%AC%BE
+[Roblox 隱私權與 Cookie 政策](./Roblox 隱私權與 Cookie 政策.html) |https://en.help.roblox.com/hc/zh-tw/articles/14663460303380-Roblox-%E9%9A%B1%E7%A7%81%E6%AC%8A%E8%88%87-Cookie-%E6%94%BF%E7%AD%96
