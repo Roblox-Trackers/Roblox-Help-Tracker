@@ -16,3 +16,5 @@ Name|URL
 [Roblox 프로모션 코드](./Roblox 프로모션 코드.html) |https://en.help.roblox.com/hc/ko/articles/10549651908244-Roblox-%ED%94%84%EB%A1%9C%EB%AA%A8%EC%85%98-%EC%BD%94%EB%93%9C
 [법 집행 기관 관련 자주 묻는 질문](./법 집행 기관 관련 자주 묻는 질문.html) |https://en.help.roblox.com/hc/ko/articles/11219680442260-%EB%B2%95-%EC%A7%91%ED%96%89-%EA%B8%B0%EA%B4%80-%EA%B4%80%EB%A0%A8-%EC%9E%90%EC%A3%BC-%EB%AC%BB%EB%8A%94-%EC%A7%88%EB%AC%B8
 [사용 허가된 음악의 동영상 내 활용](./사용 허가된 음악의 동영상 내 활용.html) |https://en.help.roblox.com/hc/ko/articles/360038525351-%EC%82%AC%EC%9A%A9-%ED%97%88%EA%B0%80%EB%90%9C-%EC%9D%8C%EC%95%85%EC%9D%98-%EB%8F%99%EC%98%81%EC%83%81-%EB%82%B4-%ED%99%9C%EC%9A%A9
+[Roblox는 이용 약관을 업데이트합니다](./Roblox는 이용 약관을 업데이트합니다.html) |https://en.help.roblox.com/hc/ko/articles/14663412502676-Roblox%EB%8A%94-%EC%9D%B4%EC%9A%A9-%EC%95%BD%EA%B4%80%EC%9D%84-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8%ED%95%A9%EB%8B%88%EB%8B%A4
+[Roblox 개인 정보 보호 및 쿠키 정책](./Roblox 개인 정보 보호 및 쿠키 정책.html) |https://en.help.roblox.com/hc/ko/articles/14663460303380-Roblox-%EA%B0%9C%EC%9D%B8-%EC%A0%95%EB%B3%B4-%EB%B3%B4%ED%98%B8-%EB%B0%8F-%EC%BF%A0%ED%82%A4-%EC%A0%95%EC%B1%85
