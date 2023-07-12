@@ -20,3 +20,5 @@ Name|URL
 [Verwendung von lizenzierter Musik in Videos](./Verwendung von lizenzierter Musik in Videos.html) |https://en.help.roblox.com/hc/de/articles/360038525351-Verwendung-von-lizenzierter-Musik-in-Videos
 [Gesetz über digitale Dienste](./Gesetz über digitale Dienste.html) |https://en.help.roblox.com/hc/de/articles/13061336948244-Gesetz-%C3%BCber-digitale-Dienste
 [Impressum](./Impressum.html) |https://en.help.roblox.com/hc/de/articles/4401758349844-Impressum
+[Roblox aktualisiert unsere Nutzungsbedingunge](./Roblox aktualisiert unsere Nutzungsbedingunge.html) |https://en.help.roblox.com/hc/de/articles/14663412502676-Roblox-aktualisiert-unsere-Nutzungsbedingunge
+[Roblox-Datenschutz- und Cookie-Richtlinie](./Roblox-Datenschutz- und Cookie-Richtlinie.html) |https://en.help.roblox.com/hc/de/articles/14663460303380-Roblox-Datenschutz-und-Cookie-Richtlinie
