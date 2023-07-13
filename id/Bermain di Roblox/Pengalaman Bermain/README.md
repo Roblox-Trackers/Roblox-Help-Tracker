@@ -4,7 +4,7 @@ Name|URL
 -|-
 [Pengalaman di Roblox](./Pengalaman di Roblox.html) |https://en.help.roblox.com/hc/id/articles/115004734603-Pengalaman-di-Roblox
 [Menghubungi Kreator Pengalaman untuk Bantuan](./Menghubungi Kreator Pengalaman untuk Bantuan.html) |https://en.help.roblox.com/hc/id/articles/6566665691924-Menghubungi-Kreator-Pengalaman-untuk-Bantuan
-[Persyaratan Perangkat Keras Komputer & Sistem Operasi](./Persyaratan Perangkat Keras Komputer & Sistem Operasi.html) |https://en.help.roblox.com/hc/id/articles/203312800-Persyaratan-Perangkat-Keras-Komputer-Sistem-Operasi
+[Persyaratan Hardware & Sistem Operasi Komputer](./Persyaratan Hardware & Sistem Operasi Komputer.html) |https://en.help.roblox.com/hc/id/articles/203312800-Persyaratan-Hardware-Sistem-Operasi-Komputer
 [Pengaturan dan Bantuan dalam pengalaman](./Pengaturan dan Bantuan dalam pengalaman.html) |https://en.help.roblox.com/hc/id/articles/203314230-Pengaturan-dan-Bantuan-dalam-pengalaman
 [Cara Menggunakan Perlengkapan dan Tas Ransel](./Cara Menggunakan Perlengkapan dan Tas Ransel.html) |https://en.help.roblox.com/hc/id/articles/203314280-Cara-Menggunakan-Perlengkapan-dan-Tas-Ransel
 [Cara Reset Avatar - Dalam Pengalaman](./Cara Reset Avatar - Dalam Pengalaman.html) |https://en.help.roblox.com/hc/id/articles/203314290-Cara-Reset-Avatar-Dalam-Pengalaman

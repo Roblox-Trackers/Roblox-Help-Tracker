@@ -7,7 +7,7 @@ Name|URL
 [Halaman Detail Item dan Pembelian Item](./Halaman Detail Item dan Pembelian Item.html) |https://en.help.roblox.com/hc/id/articles/206142306-Halaman-Detail-Item-dan-Pembelian-Item
 [Pakaian: Kaos, Baju dan Celana](./Pakaian- Kaos, Baju dan Celana.html) |https://en.help.roblox.com/hc/id/articles/203313170-Pakaian-Kaos-Baju-dan-Celana
 [Apa itu Perlengkapan Virtual?](./Apa itu Perlengkapan Virtual-.html) |https://en.help.roblox.com/hc/id/articles/203313630-Apa-itu-Perlengkapan-Virtual-
-[Pasar](./Pasar.html) |https://en.help.roblox.com/hc/id/articles/203313300-Pasar
+[Marketplace](./Marketplace.html) |https://en.help.roblox.com/hc/id/articles/203313300-Marketplace
 [Cara Menjual Items](./Cara Menjual Items.html) |https://en.help.roblox.com/hc/id/articles/203313260-Cara-Menjual-Items
 [Jual Pakaian](./Jual Pakaian.html) |https://en.help.roblox.com/hc/id/articles/203313180-Jual-Pakaian
 [Sistem Perdagangan](./Sistem Perdagangan.html) |https://en.help.roblox.com/hc/id/articles/203313310-Sistem-Perdagangan
