@@ -5,7 +5,6 @@ Name|URL
 [我刚用 Robux 买的物品在哪里了呢？](./我刚用 Robux 买的物品在哪里了呢？.html) |https://en.help.roblox.com/hc/zh-cn/articles/360029542532-%E6%88%91%E5%88%9A%E7%94%A8-Robux-%E4%B9%B0%E7%9A%84%E7%89%A9%E5%93%81%E5%9C%A8%E5%93%AA%E9%87%8C%E4%BA%86%E5%91%A2-
 [如果我删除或不喜欢某件物品，我能要回我的 Robux 吗？](./如果我删除或不喜欢某件物品，我能要回我的 Robux 吗？.html) |https://en.help.roblox.com/hc/zh-cn/articles/203313290-%E5%A6%82%E6%9E%9C%E6%88%91%E5%88%A0%E9%99%A4%E6%88%96%E4%B8%8D%E5%96%9C%E6%AC%A2%E6%9F%90%E4%BB%B6%E7%89%A9%E5%93%81-%E6%88%91%E8%83%BD%E8%A6%81%E5%9B%9E%E6%88%91%E7%9A%84-Robux-%E5%90%97-
 [道具详细信息页面和购买道具](./道具详细信息页面和购买道具.html) |https://en.help.roblox.com/hc/zh-cn/articles/206142306-%E9%81%93%E5%85%B7%E8%AF%A6%E7%BB%86%E4%BF%A1%E6%81%AF%E9%A1%B5%E9%9D%A2%E5%92%8C%E8%B4%AD%E4%B9%B0%E9%81%93%E5%85%B7
-[服装：T恤、衬衫和裤子](./服装：T恤、衬衫和裤子.html) |https://en.help.roblox.com/hc/zh-cn/articles/203313170-%E6%9C%8D%E8%A3%85-T%E6%81%A4-%E8%A1%AC%E8%A1%AB%E5%92%8C%E8%A3%A4%E5%AD%90
 [什么是虚拟装备？](./什么是虚拟装备？.html) |https://en.help.roblox.com/hc/zh-cn/articles/203313630-%E4%BB%80%E4%B9%88%E6%98%AF%E8%99%9A%E6%8B%9F%E8%A3%85%E5%A4%87-
 [虚拟形象商店](./虚拟形象商店.html) |https://en.help.roblox.com/hc/zh-cn/articles/203313300-%E8%99%9A%E6%8B%9F%E5%BD%A2%E8%B1%A1%E5%95%86%E5%BA%97
 [如何销售道具](./如何销售道具.html) |https://en.help.roblox.com/hc/zh-cn/articles/203313260-%E5%A6%82%E4%BD%95%E9%94%80%E5%94%AE%E9%81%93%E5%85%B7
