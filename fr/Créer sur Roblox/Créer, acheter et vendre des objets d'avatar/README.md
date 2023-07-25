@@ -5,7 +5,6 @@ Name|URL
 [Où est l'article que je viens d'acheter avec des Robux ?](./Où est l'article que je viens d'acheter avec des Robux -.html) |https://en.help.roblox.com/hc/fr/articles/360029542532-O%C3%B9-est-l-article-que-je-viens-d-acheter-avec-des-Robux-
 [Vais-je récupérer mon Robux si je supprime/n'aime pas un article ?](./Vais-je récupérer mon Robux si je supprime-n'aime pas un article -.html) |https://en.help.roblox.com/hc/fr/articles/203313290-Vais-je-r%C3%A9cup%C3%A9rer-mon-Robux-si-je-supprime-n-aime-pas-un-article-
 [La page Détails de l'Article et Achat d'Articles](./La page Détails de l'Article et Achat d'Articles.html) |https://en.help.roblox.com/hc/fr/articles/206142306-La-page-D%C3%A9tails-de-l-Article-et-Achat-d-Articles
-[Vêtements : Tee-shirts, chemises et pantalons](./Vêtements - Tee-shirts, chemises et pantalons.html) |https://en.help.roblox.com/hc/fr/articles/203313170-V%C3%AAtements-Tee-shirts-chemises-et-pantalons
 [Qu'est-ce que l'Équipement Virtuel?](./Qu'est-ce que l'Équipement Virtuel-.html) |https://en.help.roblox.com/hc/fr/articles/203313630-Qu-est-ce-que-l-%C3%89quipement-Virtuel-
 [Le Marketplace](./Le Marketplace.html) |https://en.help.roblox.com/hc/fr/articles/203313300-Le-Marketplace
 [Comment vendre des items](./Comment vendre des items.html) |https://en.help.roblox.com/hc/fr/articles/203313260-Comment-vendre-des-items
