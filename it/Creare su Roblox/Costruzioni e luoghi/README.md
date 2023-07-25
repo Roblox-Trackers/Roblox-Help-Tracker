@@ -10,7 +10,7 @@ Name|URL
 [Non Consentire la Copia Della Tua Esperienza](./Non Consentire la Copia Della Tua Esperienza.html) |https://en.help.roblox.com/hc/it/articles/203313940-Non-Consentire-la-Copia-Della-Tua-Esperienza
 [Come Pubblicare/Caricare un Luogo](./Come Pubblicare-Caricare un Luogo.html) |https://en.help.roblox.com/hc/it/articles/203313890-Come-Pubblicare-Caricare-un-Luogo
 [Esperienze del Gruppo](./Esperienze del Gruppo.html) |https://en.help.roblox.com/hc/it/articles/203313760-Esperienze-del-Gruppo
-[Creazione e costruzione di Esperienze pubbliche](./Creazione e costruzione di Esperienze pubbliche.html) |https://en.help.roblox.com/hc/it/articles/203313950-Creazione-e-costruzione-di-Esperienze-pubbliche
+[Creare e rendere le Esperienze pubbliche](./Creare e rendere le Esperienze pubbliche.html) |https://en.help.roblox.com/hc/it/articles/203313950-Creare-e-rendere-le-Esperienze-pubbliche
 [Come posso abilitare i server VIP/privati ​​sulle mie esperienze?](./Come posso abilitare i server VIP-privati ​​sulle mie esperienze-.html) |https://en.help.roblox.com/hc/it/articles/360000781023-Come-posso-abilitare-i-server-VIP-privati-sulle-mie-esperienze-
 [Come Copiare un'Esperienza](./Come Copiare un'Esperienza.html) |https://en.help.roblox.com/hc/it/articles/203313900-Come-Copiare-un-Esperienza
 [Come ripristinare le versioni precedenti di un luogo](./Come ripristinare le versioni precedenti di un luogo.html) |https://en.help.roblox.com/hc/it/articles/203313850-Come-ripristinare-le-versioni-precedenti-di-un-luogo
