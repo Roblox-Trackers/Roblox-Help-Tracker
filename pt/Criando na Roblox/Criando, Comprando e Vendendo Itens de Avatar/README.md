@@ -5,7 +5,6 @@ Name|URL
 [Onde está o item que acabei de comprar com Robux?](./Onde está o item que acabei de comprar com Robux-.html) |https://en.help.roblox.com/hc/pt-br/articles/360029542532-Onde-est%C3%A1-o-item-que-acabei-de-comprar-com-Robux-
 [Receberei Meu Robux de Volta Se Eu Excluir/Não Gostar de um Item?](./Receberei Meu Robux de Volta Se Eu Excluir-Não Gostar de um Item-.html) |https://en.help.roblox.com/hc/pt-br/articles/203313290-Receberei-Meu-Robux-de-Volta-Se-Eu-Excluir-N%C3%A3o-Gostar-de-um-Item-
 [A Página de Detalhes do Item e Comprando Itens](./A Página de Detalhes do Item e Comprando Itens.html) |https://en.help.roblox.com/hc/pt-br/articles/206142306-A-P%C3%A1gina-de-Detalhes-do-Item-e-Comprando-Itens
-[Roupas: camisetas, camisas e calças](./Roupas- camisetas, camisas e calças.html) |https://en.help.roblox.com/hc/pt-br/articles/203313170-Roupas-camisetas-camisas-e-cal%C3%A7as
 [O Que é Equipamento Virtual?](./O Que é Equipamento Virtual-.html) |https://en.help.roblox.com/hc/pt-br/articles/203313630-O-Que-%C3%A9-Equipamento-Virtual-
 [O Mercado](./O Mercado.html) |https://en.help.roblox.com/hc/pt-br/articles/203313300-O-Mercado
 [Como vender itens](./Como vender itens.html) |https://en.help.roblox.com/hc/pt-br/articles/203313260-Como-vender-itens
