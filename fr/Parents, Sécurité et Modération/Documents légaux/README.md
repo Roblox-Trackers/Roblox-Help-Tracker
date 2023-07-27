@@ -5,6 +5,7 @@ Name|URL
 [Conditions d'utilisation de Roblox](./Conditions d'utilisation de Roblox.html) |https://en.help.roblox.com/hc/fr/articles/115004647846-Conditions-d-utilisation-de-Roblox
 [Politique de confidentialité et de cookies de Roblox](./Politique de confidentialité et de cookies de Roblox.html) |https://en.help.roblox.com/hc/fr/articles/115004630823-Politique-de-confidentialit%C3%A9-et-de-cookies-de-Roblox
 [Conditions d'utilisation de Roblox](./Conditions d'utilisation de Roblox.html) |https://en.help.roblox.com/hc/fr/articles/203313410-Conditions-d-utilisation-de-Roblox
+[Politique Roblox 17+](./Politique Roblox 17+.html) |https://en.help.roblox.com/hc/fr/articles/15869919570708-Politique-Roblox-17-
 [Dictionnaire Roblox](./Dictionnaire Roblox.html) |https://en.help.roblox.com/hc/fr/articles/4415545981332-Dictionnaire-Roblox
 [Conditions d'utilisation de Developer Exchange](./Conditions d'utilisation de Developer Exchange.html) |https://en.help.roblox.com/hc/fr/articles/115005718246-Conditions-d-utilisation-de-Developer-Exchange
 [Directives d'utilisation communautaire du nom et logo Roblox](./Directives d'utilisation communautaire du nom et logo Roblox.html) |https://en.help.roblox.com/hc/fr/articles/115001708126-Directives-d-utilisation-communautaire-du-nom-et-logo-Roblox
