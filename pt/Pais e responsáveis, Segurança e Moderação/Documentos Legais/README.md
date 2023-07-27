@@ -5,6 +5,7 @@ Name|URL
 [Termos de Uso da Roblox](./Termos de Uso da Roblox.html) |https://en.help.roblox.com/hc/pt-br/articles/115004647846-Termos-de-Uso-da-Roblox
 [Política de Privacidade e de Cookies da Roblox](./Política de Privacidade e de Cookies da Roblox.html) |https://en.help.roblox.com/hc/pt-br/articles/115004630823-Pol%C3%ADtica-de-Privacidade-e-de-Cookies-da-Roblox
 [Regras da Comunidade Roblox](./Regras da Comunidade Roblox.html) |https://en.help.roblox.com/hc/pt-br/articles/203313410-Regras-da-Comunidade-Roblox
+[Padrões de Política +17 de Roblox](./Padrões de Política +17 de Roblox.html) |https://en.help.roblox.com/hc/pt-br/articles/15869919570708-Padr%C3%B5es-de-Pol%C3%ADtica-17-de-Roblox
 [Termos de Uso da Central do Desenvolvedor](./Termos de Uso da Central do Desenvolvedor.html) |https://en.help.roblox.com/hc/pt-br/articles/115005718246-Termos-de-Uso-da-Central-do-Desenvolvedor
 [Diretrizes de uso do nome e logotipo Roblox para a comunidade](./Diretrizes de uso do nome e logotipo Roblox para a comunidade.html) |https://en.help.roblox.com/hc/pt-br/articles/115001708126-Diretrizes-de-uso-do-nome-e-logotipo-Roblox-para-a-comunidade
 [AVISO DE PRIVACIDADE BIOMÉTRICA ROBLOX](./AVISO DE PRIVACIDADE BIOMÉTRICA ROBLOX.html) |https://en.help.roblox.com/hc/pt-br/articles/4412863575316-AVISO-DE-PRIVACIDADE-BIOM%C3%89TRICA-ROBLOX
