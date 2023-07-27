@@ -4,6 +4,7 @@ Name|URL
 -|-
 [Roblox 개인정보 처리방침 및 쿠키 정책](./Roblox 개인정보 처리방침 및 쿠키 정책.html) |https://en.help.roblox.com/hc/ko/articles/115004630823-Roblox-%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4-%EC%B2%98%EB%A6%AC%EB%B0%A9%EC%B9%A8-%EB%B0%8F-%EC%BF%A0%ED%82%A4-%EC%A0%95%EC%B1%85
 [Roblox 커뮤니티 규정](./Roblox 커뮤니티 규정.html) |https://en.help.roblox.com/hc/ko/articles/203313410-Roblox-%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0-%EA%B7%9C%EC%A0%95
+[Roblox 17세 이상 정책 표준](./Roblox 17세 이상 정책 표준.html) |https://en.help.roblox.com/hc/ko/articles/15869919570708-Roblox-17%EC%84%B8-%EC%9D%B4%EC%83%81-%EC%A0%95%EC%B1%85-%ED%91%9C%EC%A4%80
 [Roblox 이름 및 로고 - 커뮤니티 사용 가이드라인](./Roblox 이름 및 로고 - 커뮤니티 사용 가이드라인.html) |https://en.help.roblox.com/hc/ko/articles/115001708126-Roblox-%EC%9D%B4%EB%A6%84-%EB%B0%8F-%EB%A1%9C%EA%B3%A0-%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0-%EC%82%AC%EC%9A%A9-%EA%B0%80%EC%9D%B4%EB%93%9C%EB%9D%BC%EC%9D%B8
 [Roblox 개인 생체정보 처리방침](./Roblox 개인 생체정보 처리방침.html) |https://en.help.roblox.com/hc/ko/articles/4412863575316-Roblox-%EA%B0%9C%EC%9D%B8-%EC%83%9D%EC%B2%B4%EC%A0%95%EB%B3%B4-%EC%B2%98%EB%A6%AC%EB%B0%A9%EC%B9%A8
 [일반 건강 고지](./일반 건강 고지.html) |https://en.help.roblox.com/hc/ko/articles/360031603131-%EC%9D%BC%EB%B0%98-%EA%B1%B4%EA%B0%95-%EA%B3%A0%EC%A7%80
