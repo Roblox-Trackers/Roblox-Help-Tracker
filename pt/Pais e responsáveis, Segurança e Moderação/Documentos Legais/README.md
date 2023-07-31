@@ -6,7 +6,8 @@ Name|URL
 [Política de Privacidade e de Cookies da Roblox](./Política de Privacidade e de Cookies da Roblox.html) |https://en.help.roblox.com/hc/pt-br/articles/115004630823-Pol%C3%ADtica-de-Privacidade-e-de-Cookies-da-Roblox
 [Regras da Comunidade Roblox](./Regras da Comunidade Roblox.html) |https://en.help.roblox.com/hc/pt-br/articles/203313410-Regras-da-Comunidade-Roblox
 [Padrões de Política +17 de Roblox](./Padrões de Política +17 de Roblox.html) |https://en.help.roblox.com/hc/pt-br/articles/15869919570708-Padr%C3%B5es-de-Pol%C3%ADtica-17-de-Roblox
-[Termos de Uso da Central do Desenvolvedor](./Termos de Uso da Central do Desenvolvedor.html) |https://en.help.roblox.com/hc/pt-br/articles/115005718246-Termos-de-Uso-da-Central-do-Desenvolvedor
+[Dicionária Roblox](./Dicionária Roblox.html) |https://en.help.roblox.com/hc/pt-br/articles/4415545981332-Dicion%C3%A1ria-Roblox
+[Termos de Uso da Câmbio para desenvolvedores](./Termos de Uso da Câmbio para desenvolvedores.html) |https://en.help.roblox.com/hc/pt-br/articles/115005718246-Termos-de-Uso-da-C%C3%A2mbio-para-desenvolvedores
 [Diretrizes de uso do nome e logotipo Roblox para a comunidade](./Diretrizes de uso do nome e logotipo Roblox para a comunidade.html) |https://en.help.roblox.com/hc/pt-br/articles/115001708126-Diretrizes-de-uso-do-nome-e-logotipo-Roblox-para-a-comunidade
 [AVISO DE PRIVACIDADE BIOMÉTRICA ROBLOX](./AVISO DE PRIVACIDADE BIOMÉTRICA ROBLOX.html) |https://en.help.roblox.com/hc/pt-br/articles/4412863575316-AVISO-DE-PRIVACIDADE-BIOM%C3%89TRICA-ROBLOX
 [Aviso Geral de Saúde](./Aviso Geral de Saúde.html) |https://en.help.roblox.com/hc/pt-br/articles/360031603131-Aviso-Geral-de-Sa%C3%BAde
@@ -18,6 +19,6 @@ Name|URL
 [Termos de Uso de Dados Analíticos para Criadores](./Termos de Uso de Dados Analíticos para Criadores.html) |https://en.help.roblox.com/hc/pt-br/articles/10949046065044-Termos-de-Uso-de-Dados-Anal%C3%ADticos-para-Criadores
 [Códigos promocionais na Roblox](./Códigos promocionais na Roblox.html) |https://en.help.roblox.com/hc/pt-br/articles/10549651908244-C%C3%B3digos-promocionais-na-Roblox
 [Perguntas Frequentes da Página de Ajuda para Autoridades Legais](./Perguntas Frequentes da Página de Ajuda para Autoridades Legais.html) |https://en.help.roblox.com/hc/pt-br/articles/11219680442260-Perguntas-Frequentes-da-P%C3%A1gina-de-Ajuda-para-Autoridades-Legais
-[Uso de música licenciada em vídeos](./Uso de música licenciada em vídeos.html) |https://en.help.roblox.com/hc/pt-br/articles/360038525351-Uso-de-m%C3%BAsica-licenciada-em-v%C3%ADdeos
+[Como usar música licenciada em vídeos](./Como usar música licenciada em vídeos.html) |https://en.help.roblox.com/hc/pt-br/articles/360038525351-Como-usar-m%C3%BAsica-licenciada-em-v%C3%ADdeos
 [A Roblox está atualizando nossos Termos de Uso](./A Roblox está atualizando nossos Termos de Uso.html) |https://en.help.roblox.com/hc/pt-br/articles/14663412502676-A-Roblox-est%C3%A1-atualizando-nossos-Termos-de-Uso
 [Política de cookies e privacidade da Roblox](./Política de cookies e privacidade da Roblox.html) |https://en.help.roblox.com/hc/pt-br/articles/14663460303380-Pol%C3%ADtica-de-cookies-e-privacidade-da-Roblox
