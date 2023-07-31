@@ -14,6 +14,4 @@ Name|URL
 [Condiciones de uso de Panel analítico de creación](./Condiciones de uso de Panel analítico de creación.html) |https://en.help.roblox.com/hc/es/articles/10949046065044-Condiciones-de-uso-de-Panel-anal%C3%ADtico-de-creaci%C3%B3n
 [Códigos promocionales en Roblox](./Códigos promocionales en Roblox.html) |https://en.help.roblox.com/hc/es/articles/10549651908244-C%C3%B3digos-promocionales-en-Roblox
 [Preguntas frecuentes del Centro de ayuda para las fuerzas del orden](./Preguntas frecuentes del Centro de ayuda para las fuerzas del orden.html) |https://en.help.roblox.com/hc/es/articles/11219680442260-Preguntas-frecuentes-del-Centro-de-ayuda-para-las-fuerzas-del-orden
-[El uso de música con licencia en los videos](./El uso de música con licencia en los videos.html) |https://en.help.roblox.com/hc/es/articles/360038525351-C%C3%B3mo-usar-m%C3%BAsica-con-licencia-en-videos
-[Roblox está actualizando los Términos de uso](./Roblox está actualizando los Términos de uso.html) |https://en.help.roblox.com/hc/es/articles/14663412502676-Roblox-est%C3%A1-actualizando-los-T%C3%A9rminos-de-uso
-[Política de privacidad y de cookies de Roblox](./Política de privacidad y de cookies de Roblox.html) |https://en.help.roblox.com/hc/es/articles/14663460303380-Pol%C3%ADtica-de-privacidad-y-de-cookies-de-Roblox
+[El uso de música con licencia en los videos](./El uso de música con licencia en los videos.html) |https://en.help.roblox.com/hc/es/articles/360038525351-El-uso-de-m%C3%BAsica-con-licencia-en-los-videos
