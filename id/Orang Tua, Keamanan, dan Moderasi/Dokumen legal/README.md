@@ -20,5 +20,3 @@ Name|URL
 [Kode Promo di Roblox](./Kode Promo di Roblox.html) |https://en.help.roblox.com/hc/id/articles/10549651908244-Kode-Promo-di-Roblox
 [Pusat Bantuan untuk Penegak Hukum](./Pusat Bantuan untuk Penegak Hukum.html) |https://en.help.roblox.com/hc/id/articles/11219680442260-Pusat-Bantuan-untuk-Penegak-Hukum
 [Menggunakan Musik Berlisensi di Video](./Menggunakan Musik Berlisensi di Video.html) |https://en.help.roblox.com/hc/id/articles/360038525351-Menggunakan-Musik-Berlisensi-di-Video
-[Roblox Memperbarui Ketentuan Penggunaan Kami](./Roblox Memperbarui Ketentuan Penggunaan Kami.html) |https://en.help.roblox.com/hc/id/articles/14663412502676-Roblox-Memperbarui-Ketentuan-Penggunaan-Kami
-[Kebijakan Privasi dan Cookie Roblox](./Kebijakan Privasi dan Cookie Roblox.html) |https://en.help.roblox.com/hc/id/articles/14663460303380-Kebijakan-Privasi-dan-Cookie-Roblox
