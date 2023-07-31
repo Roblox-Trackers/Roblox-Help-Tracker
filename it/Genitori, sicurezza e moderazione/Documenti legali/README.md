@@ -2,9 +2,12 @@
 ### Articles in this section
 Name|URL
 -|-
+[Condizioni di utilizzo di Roblox](./Condizioni di utilizzo di Roblox.html) |https://en.help.roblox.com/hc/it/articles/115004647846-Condizioni-di-utilizzo-di-Roblox
 [Privacy Roblox e Cookie Policy](./Privacy Roblox e Cookie Policy.html) |https://en.help.roblox.com/hc/it/articles/115004630823-Privacy-Roblox-e-Cookie-Policy
 [Standard della comunità Roblox](./Standard della comunità Roblox.html) |https://en.help.roblox.com/hc/it/articles/203313410-Standard-della-comunit%C3%A0-Roblox
 [Regole di comportamento utenti 17+ Roblox](./Regole di comportamento utenti 17+ Roblox.html) |https://en.help.roblox.com/hc/it/articles/15869919570708-Regole-di-comportamento-utenti-17-Roblox
+[Dizionario Roblox](./Dizionario Roblox.html) |https://en.help.roblox.com/hc/it/articles/4415545981332-Dizionario-Roblox
+[Condizioni d'uso di Programma di scambio sviluppatori](./Condizioni d'uso di Programma di scambio sviluppatori.html) |https://en.help.roblox.com/hc/it/articles/115005718246-Condizioni-d-uso-di-Programma-di-scambio-sviluppatori
 [Linee guida per l'utilizzo di nomi e logo Roblox da parte della comunità](./Linee guida per l'utilizzo di nomi e logo Roblox da parte della comunità.html) |https://en.help.roblox.com/hc/it/articles/115001708126-Linee-guida-per-l-utilizzo-di-nomi-e-logo-Roblox-da-parte-della-comunit%C3%A0
 [INFORMATIVA SULLA PRIVACY BIOMETRICA DI ROBLOX](./INFORMATIVA SULLA PRIVACY BIOMETRICA DI ROBLOX.html) |https://en.help.roblox.com/hc/it/articles/4412863575316-INFORMATIVA-SULLA-PRIVACY-BIOMETRICA-DI-ROBLOX
 [Avviso generale sulla salute](./Avviso generale sulla salute.html) |https://en.help.roblox.com/hc/it/articles/360031603131-Avviso-generale-sulla-salute
