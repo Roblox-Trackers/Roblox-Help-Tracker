@@ -2,8 +2,12 @@
 ### Articles in this section
 Name|URL
 -|-
+[Roblox Ketentuan Penggunaan](./Roblox Ketentuan Penggunaan.html) |https://en.help.roblox.com/hc/id/articles/115004647846-Roblox-Ketentuan-Penggunaan
+[Kebijakan Privasi dan Cookie Roblox](./Kebijakan Privasi dan Cookie Roblox.html) |https://en.help.roblox.com/hc/id/articles/115004630823-Kebijakan-Privasi-dan-Cookie-Roblox
 [Standar Komunitas Roblox](./Standar Komunitas Roblox.html) |https://en.help.roblox.com/hc/id/articles/203313410-Standar-Komunitas-Roblox
 [Standar Kebijakan Roblox 17+](./Standar Kebijakan Roblox 17+.html) |https://en.help.roblox.com/hc/id/articles/15869919570708-Standar-Kebijakan-Roblox-17-
+[Kamus Roblox](./Kamus Roblox.html) |https://en.help.roblox.com/hc/id/articles/4415545981332-Kamus-Roblox
+[Ketentuan Penggunaan DevEx Bahasa Inggris](./Ketentuan Penggunaan DevEx Bahasa Inggris.html) |https://en.help.roblox.com/hc/id/articles/115005718246-Ketentuan-Penggunaan-DevEx-Bahasa-Inggris
 [Nama dan Logo Roblox - Panduan Penggunaan Komunitas](./Nama dan Logo Roblox - Panduan Penggunaan Komunitas.html) |https://en.help.roblox.com/hc/id/articles/115001708126-Nama-dan-Logo-Roblox-Panduan-Penggunaan-Komunitas
 [PEMBERITAHUAN PRIVASI BIOMETRIK ROBLOX](./PEMBERITAHUAN PRIVASI BIOMETRIK ROBLOX.html) |https://en.help.roblox.com/hc/id/articles/4412863575316-PEMBERITAHUAN-PRIVASI-BIOMETRIK-ROBLOX
 [Pemberitahuan Kesehatan Umum](./Pemberitahuan Kesehatan Umum.html) |https://en.help.roblox.com/hc/id/articles/360031603131-Pemberitahuan-Kesehatan-Umum
