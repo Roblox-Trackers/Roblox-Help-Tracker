@@ -6,6 +6,7 @@ Name|URL
 [Roblox 隐私和 Cookie 政策](./Roblox 隐私和 Cookie 政策.html) |https://en.help.roblox.com/hc/zh-cn/articles/115004630823-Roblox-%E9%9A%90%E7%A7%81%E5%92%8C-Cookie-%E6%94%BF%E7%AD%96
 [Roblox 社区标准](./Roblox 社区标准.html) |https://en.help.roblox.com/hc/zh-cn/articles/203313410-Roblox-%E7%A4%BE%E5%8C%BA%E6%A0%87%E5%87%86
 [Roblox 17+ 政策标准](./Roblox 17+ 政策标准.html) |https://en.help.roblox.com/hc/zh-cn/articles/15869919570708-Roblox-17-%E6%94%BF%E7%AD%96%E6%A0%87%E5%87%86
+[Roblox词典](./Roblox词典.html) |https://en.help.roblox.com/hc/zh-cn/articles/4415545981332-Roblox%E8%AF%8D%E5%85%B8
 [开发者交流项目使用条款](./开发者交流项目使用条款.html) |https://en.help.roblox.com/hc/zh-cn/articles/115005718246-%E5%BC%80%E5%8F%91%E8%80%85%E4%BA%A4%E6%B5%81%E9%A1%B9%E7%9B%AE%E4%BD%BF%E7%94%A8%E6%9D%A1%E6%AC%BE
 [Roblox 名称和商标 - 社区使用指南](./Roblox 名称和商标 - 社区使用指南.html) |https://en.help.roblox.com/hc/zh-cn/articles/115001708126-Roblox-%E5%90%8D%E7%A7%B0%E5%92%8C%E5%95%86%E6%A0%87-%E7%A4%BE%E5%8C%BA%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97
 [Roblox 生物识别隐私通知](./Roblox 生物识别隐私通知.html) |https://en.help.roblox.com/hc/zh-cn/articles/4412863575316-Roblox-%E7%94%9F%E7%89%A9%E8%AF%86%E5%88%AB%E9%9A%90%E7%A7%81%E9%80%9A%E7%9F%A5
