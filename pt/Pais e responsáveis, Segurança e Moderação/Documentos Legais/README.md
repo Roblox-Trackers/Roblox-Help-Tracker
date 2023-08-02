@@ -5,7 +5,7 @@ Name|URL
 [Termos de Uso da Roblox](./Termos de Uso da Roblox.html) |https://en.help.roblox.com/hc/pt-br/articles/115004647846-Termos-de-Uso-da-Roblox
 [Política de Privacidade e de Cookies da Roblox](./Política de Privacidade e de Cookies da Roblox.html) |https://en.help.roblox.com/hc/pt-br/articles/115004630823-Pol%C3%ADtica-de-Privacidade-e-de-Cookies-da-Roblox
 [Regras da Comunidade Roblox](./Regras da Comunidade Roblox.html) |https://en.help.roblox.com/hc/pt-br/articles/203313410-Regras-da-Comunidade-Roblox
-[Padrões de Política +17 de Roblox](./Padrões de Política +17 de Roblox.html) |https://en.help.roblox.com/hc/pt-br/articles/15869919570708-Padr%C3%B5es-de-Pol%C3%ADtica-17-de-Roblox
+[Padrões de Política para maiores de 17 anos ma Roblox](./Padrões de Política para maiores de 17 anos ma Roblox.html) |https://en.help.roblox.com/hc/pt-br/articles/15869919570708-Padr%C3%B5es-de-Pol%C3%ADtica-para-maiores-de-17-anos-ma-Roblox
 [Dicionária Roblox](./Dicionária Roblox.html) |https://en.help.roblox.com/hc/pt-br/articles/4415545981332-Dicion%C3%A1ria-Roblox
 [Termos de Uso da Câmbio para desenvolvedores](./Termos de Uso da Câmbio para desenvolvedores.html) |https://en.help.roblox.com/hc/pt-br/articles/115005718246-Termos-de-Uso-da-C%C3%A2mbio-para-desenvolvedores
 [Diretrizes de uso do nome e logotipo Roblox para a comunidade](./Diretrizes de uso do nome e logotipo Roblox para a comunidade.html) |https://en.help.roblox.com/hc/pt-br/articles/115001708126-Diretrizes-de-uso-do-nome-e-logotipo-Roblox-para-a-comunidade
