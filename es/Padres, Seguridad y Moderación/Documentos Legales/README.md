@@ -5,6 +5,7 @@ Name|URL
 [Términos de uso de Roblox](./Términos de uso de Roblox.html) |https://en.help.roblox.com/hc/es/articles/115004647846-T%C3%A9rminos-de-uso-de-Roblox
 [Política de privacidad y de cookies de Roblox](./Política de privacidad y de cookies de Roblox.html) |https://en.help.roblox.com/hc/es/articles/115004630823-Pol%C3%ADtica-de-privacidad-y-de-cookies-de-Roblox
 [Términos de uso de Roblox](./Términos de uso de Roblox.html) |https://en.help.roblox.com/hc/es/articles/203313410-T%C3%A9rminos-de-uso-de-Roblox
+[Normas de Roblox para mayores de 17 años](./Normas de Roblox para mayores de 17 años.html) |https://en.help.roblox.com/hc/es/articles/15869919570708-Normas-de-Roblox-para-mayores-de-17-a%C3%B1os
 [Diccionario de Roblox](./Diccionario de Roblox.html) |https://en.help.roblox.com/hc/es/articles/4415545981332-Diccionario-de-Roblox
 [Términos de uso de Cambio para Desarrolladores](./Términos de uso de Cambio para Desarrolladores.html) |https://en.help.roblox.com/hc/es/articles/115005718246-T%C3%A9rminos-de-uso-de-Cambio-para-Desarrolladores
 [Directrices de la comunidad para el uso del nombre y logotipo de Roblox](./Directrices de la comunidad para el uso del nombre y logotipo de Roblox.html) |https://en.help.roblox.com/hc/es/articles/115001708126-Directrices-de-la-comunidad-para-el-uso-del-nombre-y-logotipo-de-Roblox
