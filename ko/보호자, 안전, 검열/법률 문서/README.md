@@ -5,7 +5,7 @@ Name|URL
 [Roblox 이용 약관](./Roblox 이용 약관.html) |https://en.help.roblox.com/hc/ko/articles/115004647846-Roblox-%EC%9D%B4%EC%9A%A9-%EC%95%BD%EA%B4%80
 [Roblox 개인정보 처리방침 및 쿠키 정책](./Roblox 개인정보 처리방침 및 쿠키 정책.html) |https://en.help.roblox.com/hc/ko/articles/115004630823-Roblox-%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4-%EC%B2%98%EB%A6%AC%EB%B0%A9%EC%B9%A8-%EB%B0%8F-%EC%BF%A0%ED%82%A4-%EC%A0%95%EC%B1%85
 [Roblox 커뮤니티 규정](./Roblox 커뮤니티 규정.html) |https://en.help.roblox.com/hc/ko/articles/203313410-Roblox-%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0-%EA%B7%9C%EC%A0%95
-[Roblox 17세 이상 정책 표준](./Roblox 17세 이상 정책 표준.html) |https://en.help.roblox.com/hc/ko/articles/15869919570708-Roblox-17%EC%84%B8-%EC%9D%B4%EC%83%81-%EC%A0%95%EC%B1%85-%ED%91%9C%EC%A4%80
+[Roblox 17세 이용가 정책 표준](./Roblox 17세 이용가 정책 표준.html) |https://en.help.roblox.com/hc/ko/articles/15869919570708-Roblox-17%EC%84%B8-%EC%9D%B4%EC%9A%A9%EA%B0%80-%EC%A0%95%EC%B1%85-%ED%91%9C%EC%A4%80
 [Roblox 사전](./Roblox 사전.html) |https://en.help.roblox.com/hc/ko/articles/4415545981332-Roblox-%EC%82%AC%EC%A0%84
 [개발자 환전 이용 약관](./개발자 환전 이용 약관.html) |https://en.help.roblox.com/hc/ko/articles/115005718246-%EA%B0%9C%EB%B0%9C%EC%9E%90-%ED%99%98%EC%A0%84-%EC%9D%B4%EC%9A%A9-%EC%95%BD%EA%B4%80
 [Roblox 이름 및 로고 - 커뮤니티 사용 가이드라인](./Roblox 이름 및 로고 - 커뮤니티 사용 가이드라인.html) |https://en.help.roblox.com/hc/ko/articles/115001708126-Roblox-%EC%9D%B4%EB%A6%84-%EB%B0%8F-%EB%A1%9C%EA%B3%A0-%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0-%EC%82%AC%EC%9A%A9-%EA%B0%80%EC%9D%B4%EB%93%9C%EB%9D%BC%EC%9D%B8
