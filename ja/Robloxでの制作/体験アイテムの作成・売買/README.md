@@ -9,5 +9,5 @@ Name|URL
 [デカールの作り方](./デカールの作り方.html) |https://en.help.roblox.com/hc/ja/articles/203313930-%E3%83%87%E3%82%AB%E3%83%BC%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9
 [パッケージを作成する方法](./パッケージを作成する方法.html) |https://en.help.roblox.com/hc/ja/articles/203313910-%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%82%92%E4%BD%9C%E6%88%90%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95
 [オーディオファイル](./オーディオファイル.html) |https://en.help.roblox.com/hc/ja/articles/203314070-%E3%82%AA%E3%83%BC%E3%83%87%E3%82%A3%E3%82%AA%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB
-[エクスペリエンスパス](./エクスペリエンスパス.html) |https://en.help.roblox.com/hc/ja/articles/203314040-%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%9A%E3%83%AA%E3%82%A8%E3%83%B3%E3%82%B9%E3%83%91%E3%82%B9
+[バーチャル空間パス](./バーチャル空間パス.html) |https://en.help.roblox.com/hc/ja/articles/203314040-%E3%83%90%E3%83%BC%E3%83%81%E3%83%A3%E3%83%AB%E7%A9%BA%E9%96%93%E3%83%91%E3%82%B9
 [仮想空間アクセスの販売（有料アクセス）](./仮想空間アクセスの販売（有料アクセス）.html) |https://en.help.roblox.com/hc/ja/articles/203314090-%E4%BB%AE%E6%83%B3%E7%A9%BA%E9%96%93%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9%E3%81%AE%E8%B2%A9%E5%A3%B2-%E6%9C%89%E6%96%99%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9-

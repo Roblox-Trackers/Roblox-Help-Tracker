@@ -9,7 +9,7 @@ Name|URL
 [Studioでのテスト](./Studioでのテスト.html) |https://en.help.roblox.com/hc/ja/articles/203313870-Studio%E3%81%A7%E3%81%AE%E3%83%86%E3%82%B9%E3%83%88
 [体験のコピーを許可しない](./体験のコピーを許可しない.html) |https://en.help.roblox.com/hc/ja/articles/203313940-%E4%BD%93%E9%A8%93%E3%81%AE%E3%82%B3%E3%83%94%E3%83%BC%E3%82%92%E8%A8%B1%E5%8F%AF%E3%81%97%E3%81%AA%E3%81%84
 [プレイスを公開/アップロードする方法](./プレイスを公開-アップロードする方法.html) |https://en.help.roblox.com/hc/ja/articles/203313890-%E3%83%97%E3%83%AC%E3%82%A4%E3%82%B9%E3%82%92%E5%85%AC%E9%96%8B-%E3%82%A2%E3%83%83%E3%83%97%E3%83%AD%E3%83%BC%E3%83%89%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95
-[グループ仮想空間](./グループ仮想空間.html) |https://en.help.roblox.com/hc/ja/articles/203313760-%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E4%BB%AE%E6%83%B3%E7%A9%BA%E9%96%93
+[グループバーチャル空間](./グループバーチャル空間.html) |https://en.help.roblox.com/hc/ja/articles/203313760-%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E3%83%90%E3%83%BC%E3%83%81%E3%83%A3%E3%83%AB%E7%A9%BA%E9%96%93
 [仮想空間の制作と公開](./仮想空間の制作と公開.html) |https://en.help.roblox.com/hc/ja/articles/203313950-%E4%BB%AE%E6%83%B3%E7%A9%BA%E9%96%93%E3%81%AE%E5%88%B6%E4%BD%9C%E3%81%A8%E5%85%AC%E9%96%8B
 [体験内でVIPまたはプライベートサーバーを有効にする方法](./体験内でVIPまたはプライベートサーバーを有効にする方法.html) |https://en.help.roblox.com/hc/ja/articles/360000781023-%E4%BD%93%E9%A8%93%E5%86%85%E3%81%A7VIP%E3%81%BE%E3%81%9F%E3%81%AF%E3%83%97%E3%83%A9%E3%82%A4%E3%83%99%E3%83%BC%E3%83%88%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC%E3%82%92%E6%9C%89%E5%8A%B9%E3%81%AB%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95
 [体験をコピーする方法](./体験をコピーする方法.html) |https://en.help.roblox.com/hc/ja/articles/203313900-%E4%BD%93%E9%A8%93%E3%82%92%E3%82%B3%E3%83%94%E3%83%BC%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95
