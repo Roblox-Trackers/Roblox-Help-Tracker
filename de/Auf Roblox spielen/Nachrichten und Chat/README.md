@@ -2,7 +2,7 @@
 ### Articles in this section
 Name|URL
 -|-
-[So senden Sie Nachrichten an andere Spieler](./So senden Sie Nachrichten an andere Spieler.html) |https://en.help.roblox.com/hc/de/articles/203313610-So-senden-Sie-Nachrichten-an-andere-Spieler
+[Wie man Nachrichten an andere Spieler sendet](./Wie man Nachrichten an andere Spieler sendet.html) |https://en.help.roblox.com/hc/de/articles/203313610-Wie-man-Nachrichten-an-andere-Spieler-sendet
 [Mit Freunden chatten und spielen](./Mit Freunden chatten und spielen.html) |https://en.help.roblox.com/hc/de/articles/206224956-Mit-Freunden-chatten-und-spielen
 [Mobil: Mit Freunden chatten und spielen](./Mobil- Mit Freunden chatten und spielen.html) |https://en.help.roblox.com/hc/de/articles/360000432483-Mobil-Mit-Freunden-chatten-und-spielen
 [Wie man in Erlebnisse chattet](./Wie man in Erlebnisse chattet.html) |https://en.help.roblox.com/hc/de/articles/203314250-Wie-man-in-Erlebnisse-chattet
