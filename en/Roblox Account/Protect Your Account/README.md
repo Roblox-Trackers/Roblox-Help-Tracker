@@ -3,6 +3,7 @@
 Name|URL
 -|-
 [Keep Your Account Safe](./Keep Your Account Safe.html) |https://en.help.roblox.com/hc/en-us/articles/203313380-Keep-Your-Account-Safe
+[Account Session Protection](./Account Session Protection.html) |https://en.help.roblox.com/hc/en-us/articles/18765146769812-Account-Session-Protection
 [My account was hacked - What do I do?](./My account was hacked - What do I do-.html) |https://en.help.roblox.com/hc/en-us/articles/203313390-My-account-was-hacked-What-do-I-do-
 [Verify Your Email Address or Phone Number](./Verify Your Email Address or Phone Number.html) |https://en.help.roblox.com/hc/en-us/articles/203313350-Verify-Your-Email-Address-or-Phone-Number
 [Parent PIN General Information](./Parent PIN General Information.html) |https://en.help.roblox.com/hc/en-us/articles/360000239523-Parent-PIN-General-Information
