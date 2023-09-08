@@ -20,3 +20,4 @@ Name|URL
 [Codes promotionnels sur Roblox](./Codes promotionnels sur Roblox.html) |https://en.help.roblox.com/hc/fr/articles/10549651908244-Codes-promotionnels-sur-Roblox
 [Centre d'aide FAQ pour les forces de police et de sécurité](./Centre d'aide FAQ pour les forces de police et de sécurité.html) |https://en.help.roblox.com/hc/fr/articles/11219680442260-Centre-d-aide-FAQ-pour-les-forces-de-police-et-de-s%C3%A9curit%C3%A9
 [Utilisation de musique sous licence dans les vidéos](./Utilisation de musique sous licence dans les vidéos.html) |https://en.help.roblox.com/hc/fr/articles/360038525351-Utilisation-de-musique-sous-licence-dans-les-vid%C3%A9os
+[Règlement sur les services numériques](./Règlement sur les services numériques.html) |https://en.help.roblox.com/hc/fr/articles/13061336948244-R%C3%A8glement-sur-les-services-num%C3%A9riques
