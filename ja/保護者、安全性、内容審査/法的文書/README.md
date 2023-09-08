@@ -24,4 +24,4 @@ Name|URL
 [特定商取引法に基づく表示](./特定商取引法に基づく表示.html) |https://en.help.roblox.com/hc/ja/articles/360060428991-%E7%89%B9%E5%AE%9A%E5%95%86%E5%8F%96%E5%BC%95%E6%B3%95%E3%81%AB%E5%9F%BA%E3%81%A5%E3%81%8F%E8%A1%A8%E7%A4%BA
 [資金決済法に基づく表示（Roblox Gift Card・Roblox Credit）](./資金決済法に基づく表示（Roblox Gift Card・Roblox Credit）.html) |https://en.help.roblox.com/hc/ja/articles/15624460896788-%E8%B3%87%E9%87%91%E6%B1%BA%E6%B8%88%E6%B3%95%E3%81%AB%E5%9F%BA%E3%81%A5%E3%81%8F%E8%A1%A8%E7%A4%BA-Roblox-Gift-Card-Roblox-Credit-
 [ビデオでのライセンス音楽の使用](./ビデオでのライセンス音楽の使用.html) |https://en.help.roblox.com/hc/ja/articles/360038525351-%E3%83%93%E3%83%87%E3%82%AA%E3%81%A7%E3%81%AE%E3%83%A9%E3%82%A4%E3%82%BB%E3%83%B3%E3%82%B9%E9%9F%B3%E6%A5%BD%E3%81%AE%E4%BD%BF%E7%94%A8
-[デジタル サービス法](./デジタル サービス法.html) |https://en.help.roblox.com/hc/ja/articles/13061336948244-%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB-%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E6%B3%95
+[デジタルサービス法](./デジタルサービス法.html) |https://en.help.roblox.com/hc/ja/articles/13061336948244-%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E6%B3%95
