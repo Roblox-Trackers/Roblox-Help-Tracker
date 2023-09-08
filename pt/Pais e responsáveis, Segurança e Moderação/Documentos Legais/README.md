@@ -20,3 +20,4 @@ Name|URL
 [Códigos promocionais na Roblox](./Códigos promocionais na Roblox.html) |https://en.help.roblox.com/hc/pt-br/articles/10549651908244-C%C3%B3digos-promocionais-na-Roblox
 [Perguntas Frequentes da Página de Ajuda para Autoridades Legais](./Perguntas Frequentes da Página de Ajuda para Autoridades Legais.html) |https://en.help.roblox.com/hc/pt-br/articles/11219680442260-Perguntas-Frequentes-da-P%C3%A1gina-de-Ajuda-para-Autoridades-Legais
 [Como usar música licenciada em vídeos](./Como usar música licenciada em vídeos.html) |https://en.help.roblox.com/hc/pt-br/articles/360038525351-Como-usar-m%C3%BAsica-licenciada-em-v%C3%ADdeos
+[Regulamento dos Serviços Digitais](./Regulamento dos Serviços Digitais.html) |https://en.help.roblox.com/hc/pt-br/articles/13061336948244-Regulamento-dos-Servi%C3%A7os-Digitais
