@@ -3,7 +3,6 @@
 Name|URL
 -|-
 [Cómo proteger tu cuenta](./Cómo proteger tu cuenta.html) |https://en.help.roblox.com/hc/es/articles/203313380-C%C3%B3mo-proteger-tu-cuenta
-[Protección de sesión de cuenta](./Protección de sesión de cuenta.html) |https://en.help.roblox.com/hc/es/articles/18765146769812-Protecci%C3%B3n-de-sesi%C3%B3n-de-cuenta
 [Mi cuenta fue hackeada - ¿Qué hago?](./Mi cuenta fue hackeada - ¿Qué hago-.html) |https://en.help.roblox.com/hc/es/articles/203313390-Mi-cuenta-fue-hackeada-Qu%C3%A9-hago-
 [Verifique su dirección de correo electrónico o número de teléfono](./Verifique su dirección de correo electrónico o número de teléfono.html) |https://en.help.roblox.com/hc/es/articles/203313350-Verifique-su-direcci%C3%B3n-de-correo-electr%C3%B3nico-o-n%C3%BAmero-de-tel%C3%A9fono
 [Información general del PIN de los padres](./Información general del PIN de los padres.html) |https://en.help.roblox.com/hc/es/articles/360000239523-Informaci%C3%B3n-general-del-PIN-de-los-padres
