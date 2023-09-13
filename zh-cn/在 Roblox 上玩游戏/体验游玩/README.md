@@ -2,6 +2,7 @@
 ### Articles in this section
 Name|URL
 -|-
+[实现虚拟形象动画化的常见问题帮助](./实现虚拟形象动画化的常见问题帮助.html) |https://en.help.roblox.com/hc/zh-cn/articles/17877687557396-%E5%AE%9E%E7%8E%B0%E8%99%9A%E6%8B%9F%E5%BD%A2%E8%B1%A1%E5%8A%A8%E7%94%BB%E5%8C%96%E7%9A%84%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E5%B8%AE%E5%8A%A9
 [Roblox 上的作品](./Roblox 上的作品.html) |https://en.help.roblox.com/hc/zh-cn/articles/115004734603-Roblox-%E4%B8%8A%E7%9A%84%E4%BD%9C%E5%93%81
 [联系作品创作者寻求帮助](./联系作品创作者寻求帮助.html) |https://en.help.roblox.com/hc/zh-cn/articles/6566665691924-%E8%81%94%E7%B3%BB%E4%BD%9C%E5%93%81%E5%88%9B%E4%BD%9C%E8%80%85%E5%AF%BB%E6%B1%82%E5%B8%AE%E5%8A%A9
 [电脑硬件和操作系统要求](./电脑硬件和操作系统要求.html) |https://en.help.roblox.com/hc/zh-cn/articles/203312800-%E7%94%B5%E8%84%91%E7%A1%AC%E4%BB%B6%E5%92%8C%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E8%A6%81%E6%B1%82
