@@ -2,6 +2,7 @@
 ### Articles in this section
 Name|URL
 -|-
+[Pertanyaan Umum Bantuan tentang Membuat Animasi Avatar](./Pertanyaan Umum Bantuan tentang Membuat Animasi Avatar.html) |https://en.help.roblox.com/hc/id/articles/17877687557396-Pertanyaan-Umum-Bantuan-tentang-Membuat-Animasi-Avatar
 [Pengalaman di Roblox](./Pengalaman di Roblox.html) |https://en.help.roblox.com/hc/id/articles/115004734603-Pengalaman-di-Roblox
 [Menghubungi Kreator Pengalaman untuk Bantuan](./Menghubungi Kreator Pengalaman untuk Bantuan.html) |https://en.help.roblox.com/hc/id/articles/6566665691924-Menghubungi-Kreator-Pengalaman-untuk-Bantuan
 [Persyaratan Hardware & Sistem Operasi Komputer](./Persyaratan Hardware & Sistem Operasi Komputer.html) |https://en.help.roblox.com/hc/id/articles/203312800-Persyaratan-Hardware-Sistem-Operasi-Komputer
