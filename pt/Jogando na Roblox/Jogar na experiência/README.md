@@ -2,6 +2,7 @@
 ### Articles in this section
 Name|URL
 -|-
+[Perguntas Frequentes sobre a Ajuda da Animação do Avatar](./Perguntas Frequentes sobre a Ajuda da Animação do Avatar.html) |https://en.help.roblox.com/hc/pt-br/articles/17877687557396-Perguntas-Frequentes-sobre-a-Ajuda-da-Anima%C3%A7%C3%A3o-do-Avatar
 [Experiências no Roblox](./Experiências no Roblox.html) |https://en.help.roblox.com/hc/pt-br/articles/115004734603-Experi%C3%AAncias-no-Roblox
 [Contatando os Criadores de Uma Experiência](./Contatando os Criadores de Uma Experiência.html) |https://en.help.roblox.com/hc/pt-br/articles/6566665691924-Contatando-os-Criadores-de-Uma-Experi%C3%AAncia
 [Hardware do computador e requisitos do sistema operacional](./Hardware do computador e requisitos do sistema operacional.html) |https://en.help.roblox.com/hc/pt-br/articles/203312800-Hardware-do-computador-e-requisitos-do-sistema-operacional
