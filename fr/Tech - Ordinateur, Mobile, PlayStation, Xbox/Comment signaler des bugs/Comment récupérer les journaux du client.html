@@ -1,0 +1,174 @@
+   <h1 class="article-title" id="article-title" title="Comment récupérer les journaux du client">
+    Comment récupérer les journaux du client
+   </h1>
+   <div class="article-content">
+    <div class="article-body">
+     <p>
+      Dans certaines situations, un employé de Roblox demande les journaux des clients via un courrier électronique du Service Clientèle ou un message DevForum afin de faire des investigations sur un problème. Cet article explique comment récupérer ces journaux.
+     </p>
+     <p class="wysiwyg-indent1">
+      <strong>
+       <em>
+        Remarque :
+       </em>
+      </strong>
+      <em>
+       veuillez récupérer ou envoyer ces journaux seulement si un employé de Roblox vous le demande.
+      </em>
+     </p>
+     <p class="wysiwyg-indent1">
+     </p>
+     <h1>
+      Récupération des journaux du client
+     </h1>
+     <p class="wysiwyg-indent1">
+      Les journaux de Roblox Player et de Roblox Studio sont écrits dans le même dossier.
+     </p>
+     <ul>
+      <li>
+       Sur PC, appuyez simultanément sur les touches WINDOWS et R. Une boîte nommée
+       <strong>
+        Exécuter
+       </strong>
+       apparaîtra. Copiez et collez ou saisissez le message suivant sans les guillemets :
+       <ul>
+        <li>
+         <p>
+          Pour Win32 : "%localappdata%\Roblox\logs"
+         </p>
+         <p>
+          Pour UWP : “%LOCALAPPDATA%\Packages\ROBLOXCorporation.ROBLOX_55nm5eh3cm0pr\LocalState\logs”
+         </p>
+        </li>
+       </ul>
+      </li>
+      <li>
+       Sur Mac, accédez à Macintosh HD &gt; Utilisateurs &gt; [votre profil utilisateur] &gt; Bibliothèque&gt; Journaux &gt; Roblox
+      </li>
+      <li>
+       <p data-renderer-start-pos="723">
+        Nous n'avons actuellement pas de moyen simple pour vous de télécharger des journaux Android ou iOS. Désolé, nous y travaillons !
+       </p>
+      </li>
+     </ul>
+     <h2>
+      Il y aura probablement de nombreux fichiers journaux dans ce dossier
+     </h2>
+     <ul>
+      <li>
+       <p>
+        Les journaux de Roblox ressembleront à ce qui suit : “0.&lt;major ver&gt;.&lt;minor ver&gt;.&lt;revision&gt;_&lt;date&gt;_Player_&lt;garbage&gt;_last.log
+       </p>
+       <ul>
+        <li>
+         <p>
+          Par exemple 0.555.1.5550874_20221214T162601Z_
+          <strong>
+           Player
+          </strong>
+          _9aaf3_last.log
+         </p>
+        </li>
+       </ul>
+      </li>
+      <li>
+       <p>
+        Les journaux de Roblox Studio seront les mêmes, sauf qu'ils indiqueront "Studio" au lieu de "Player"
+       </p>
+       <ul>
+        <li>
+         <p>
+          Par exemple 0.555.1.5550874_20221214T162601Z_
+          <strong>
+           Studio
+          </strong>
+          _9aaf3_last.log
+         </p>
+        </li>
+       </ul>
+      </li>
+      <li>
+       <p>
+        Les journaux du bootstrapper ressembleront à bootstrapper_&lt;garbage&gt;_1.txt
+       </p>
+       <ul>
+        <li>
+         <p>
+          À moins que le problème ne se produise lors du lancement de Roblox ou de RobloxStudio à partir de votre navigateur web, ou lors d'une mise à jour, vous n'avez probablement pas besoin d'envoyer les journaux du bootstrapper.
+         </p>
+        </li>
+       </ul>
+      </li>
+     </ul>
+     <p>
+     </p>
+     <h2>
+      Pour identifier le bon fichier journal à envoyer, vous pouvez soit
+     </h2>
+     <ul>
+      <li>
+       Utilisez les horodatages des fichiers pour déterminer quel fichier journal correspond à l'incident que vous souhaitez signaler
+      </li>
+      <li>
+       Supprimez tous les fichiers de ce répertoire, reproduisez le problème que vous souhaitez signaler, puis envoyez tout le contenu de ce dossier
+      </li>
+      <li>
+       Si vous êtes confus, vous pouvez simplement trier par date et envoyer les 10 fichiers les plus récents.
+      </li>
+     </ul>
+     <p>
+     </p>
+     <h1>
+      Inclure des fichiers journaux dans les rapports de bogues
+     </h1>
+     <p>
+      Lorsque vous signalez des bogues sur le
+      <a href="https://devforum.roblox.com/c/bug-reports/10" rel="noopener" target="_blank">
+       Forum des développeurs
+      </a>
+      de Roblox, vous aurez la possibilité de télécharger le fichier journal en même temps que votre rapport de bogue. Si vous avez besoin de télécharger des journaux après avoir fait le rapport de bogue initial, envoyez un message direct au groupe
+      <a href="https://devforum.roblox.com/g/bug-files" rel="noopener" target="_blank">
+       bug-files
+      </a>
+      , incluez un lien vers le rapport de bogue original et taguez tous les employés de Roblox concernés :
+     </p>
+     <p class="wysiwyg-text-align-center">
+      <img alt="Fenêtre _Rapport_Beugue_sur_le_Forum_des_Développeurs.png" height="312" src="https://en.help.roblox.com/hc/article_attachments/14397229029524" width="546"/>
+     </p>
+     <p>
+     </p>
+     <p>
+      Ne téléchargez les journaux qu'en les envoyant au groupe des fichiers de bogues et ne le faites que si un employé de Roblox vous le demande. Pour identifier un employé Roblox sur le forum de développement, assurez-vous qu'il indique « Personnel Roblox » à côté de son nom de compte :
+     </p>
+     <p class="wysiwyg-text-align-center">
+      <img alt="Employé_Roblox_sur_DevForum.png" src="https://en.help.roblox.com/hc/article_attachments/14378571735060"/>
+     </p>
+     <p>
+     </p>
+     <p>
+      Veuillez consulter
+      <a href="https://devforum.roblox.com/t/how-to-post-a-bug-report/24388/19" rel="noopener" target="_blank">
+       Comment poster un rapport de bogue
+      </a>
+      pour des instructions plus détaillées !
+     </p>
+     <p>
+     </p>
+     <p>
+      <strong>
+       Aide supplémentaire
+      </strong>
+     </p>
+     <p class="wysiwyg-indent1">
+      <a href="https://en.help.roblox.com/hc/articles/203312870" rel="noopener" target="_blank">
+       Problèmes généraux liés à la version de bureau de Roblox
+      </a>
+     </p>
+     <p class="wysiwyg-indent1">
+      <a href="https://en.help.roblox.com/hc/articles/203312990" rel="noopener" target="_blank">
+       Mac : Dépannage
+      </a>
+     </p>
+    </div>
+    <!--           Add content tags to articles and posts -->
+   </div>

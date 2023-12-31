@@ -1,0 +1,358 @@
+   <h1 class="article-title" id="article-title" title="FAQ de Roblox Connect">
+    FAQ de Roblox Connect
+   </h1>
+   <div class="article-content">
+    <div class="article-body">
+     <h2 id="h_01HF4ZBVTDPTTCPB56ARZTX3EX">
+      Qu'est-ce que Roblox Connect ?
+     </h2>
+     <p>
+     </p>
+     <h3 class="wysiwyg-indent1" id="h_01HF4ZDMYMR7FCGC5GMYCNQQ9Q">
+      Qu'est-ce que Roblox Connect ?
+     </h3>
+     <p class="wysiwyg-indent2">
+      Connect est une expérience de Roblox où il est possible d'avoir une conversation avec un ami en tant qu'avatars, dans un espace immersif commun. Nous avons créé des options amusantes de lieux pour s'amuser entre amis. De plus, la technologie derrière Connect est intégralement en open-source afin d'aider les créateurs à intégrer des communications vocales et entre avatars dans toute expérience Roblox nouvelle ou existante.
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h3 class="wysiwyg-indent1" id="h_01HF4ZJTQ46WZBFFGND34S5G5F">
+      Qui peut utiliser Roblox Connect ?
+     </h3>
+     <p class="wysiwyg-indent2">
+      Les utilisateurs doivent être âgés de 13 ans ou plus et la discussion vocale doit être activée (par
+      <a href="https://en.help.roblox.com/hc/fr/articles/203313350-Vérifier-votre-adresse-email-ou-votre-numéro-de-téléphone">
+       vérification téléphonique
+      </a>
+      ou
+      <a href="https://en.help.roblox.com/hc/fr/articles/4407282410644">
+       vérification d'ID
+      </a>
+      ). Les utilisateurs doivent également mettre Roblox à jour pour disposer de la plus récente version et pouvoir utiliser Connect.
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h3 class="wysiwyg-indent1" id="h_01HF4ZV9JPYF3VP7HD22VX6JPX">
+      Pour quelles plateformes Roblox Connect sera-t-il disponible ?
+     </h3>
+     <p class="wysiwyg-indent2">
+      Roblox Connect sera disponible à la fois sur mobile (iOS et Android) et ordinateur dès le lancement. Prochainement disponible sur les autres plateformes.
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h3 class="wysiwyg-indent1" id="h_01HF4ZWB5Z8KYKVT9Y6R7EA5HG">
+      Les appels seront-ils disponibles dans le monde entier ?
+     </h3>
+     <p class="wysiwyg-indent2">
+      Les appels sont disponibles partout où le
+      <a href="https://create.roblox.com/docs/chat/spatial-voice">
+       chat vocal est disponible
+      </a>
+      et seront déployés dans davantage de pays à l'avenir.
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h3 class="wysiwyg-indent1" id="h_01HF507S7STN87MFRKNT5ZTZJ3">
+      Y a-t-il des restrictions sur les expériences qui peuvent utiliser les API ?
+     </h3>
+     <p class="wysiwyg-indent2">
+      Seules les expériences datant de plus d'une semaine pourront utiliser nos API d'appel.
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h2 id="h_01HF50A6AKBQ95JE7EJTSHZ3ZB">
+      Comment fonctionne Roblox Connect pour les créateurs ?
+     </h2>
+     <p>
+     </p>
+     <h3 class="wysiwyg-indent1" id="h_01HF50BXGEC82553M2Z61T67Y7">
+      Comment les créateurs peuvent-ils incorporer les API dans leurs expériences ?
+     </h3>
+     <p class="wysiwyg-indent2">
+      L'expérience Roblox Connect sera intégralement en open-source, ainsi que les API d'appel, afin que les développeurs puissent intégrer une communication synchrone entre avatars dans toute expérience Roblox. Il y a trois moyens pour les développeurs d'utiliser cette technologie :
+     </p>
+     <ol>
+      <li class="wysiwyg-indent2">
+       Incorporer la communication dans les expériences en utilisant les nouvelles API d'appel :
+       <a href="https://create.roblox.com/docs/reference/engine/classes/SocialService">
+        SocialService
+       </a>
+       et
+       <a href="https://create.roblox.com/docs/reference/engine/classes/PlayerViewService">
+        PlayerView
+       </a>
+       . Les créateurs pourront intégrer la fonctionnalité et l'interface Annuaire afin de permettre aux utilisateurs d'appeler facilement leurs amis depuis n'importe quelle expérience.
+      </li>
+      <li class="wysiwyg-indent2">
+       Activez les fonctionnalités de communication, comme
+       <a href="https://create.roblox.com/docs/reference/engine/classes/SocialService">
+        SelfView
+       </a>
+       , afin que les utilisateurs des expériences puissent se voir à la première personne. De plus, il y a trois vues que les API d'appel pourront activer :
+       <ul>
+        <li class="wysiwyg-indent2">
+         <strong>
+          <span class="wysiwyg-underline">
+           PIP (Picture-in-Picture)
+          </span>
+         </strong>
+         : quand un utilisateur ouvre Connect en passant ou en recevant un appel, nous activons SelfView pour votre première fois en mode PIP. SelfView apparaît dans le coin en bas à gauche de l'écran. Quand l'utilisateur le déplace, sa nouvelle position est mémorisée.
+        </li>
+        <li class="wysiwyg-indent2">
+         <strong>
+          <span class="wysiwyg-underline">
+           Jeu libre
+          </span>
+         </strong>
+         : le jeu libre est la caméra par défaut de Roblox, à la troisième personne, fournie pour chaque expérience.
+        </li>
+        <li class="wysiwyg-indent2">
+         <strong>
+          <span class="wysiwyg-underline">
+           Cinéma
+          </span>
+         </strong>
+         : le mode cinéma fournit une caméra dynamique. La position, la direction et la profondeur de champ de la caméra sont ajustées, avec une focalisation sur les deux sujets en jeu. D'autres facteurs sont également pris en compte, comme la distance entre les sujets et le format d'affichage, afin de fournir une expérience joueur souple et réactive.
+        </li>
+       </ul>
+      </li>
+      <li class="wysiwyg-indent2">
+       Bénéficiez des éléments environnementaux de Roblox Connect. En utilisant l'Aiguilleur d'environnement, les utilisateurs pourront accéder à différents lieux durant leur appel : dans la forêt (un feu de camp, un ponton, une chute d'eau) ou sur une île (sur une plage, dans une cabine ou au coin du feu). Vous pourrez vous téléporter à ces nouveaux lieux durant l'appel.
+      </li>
+     </ol>
+     <p class="wysiwyg-indent2">
+      Pour plus d'informations, veuillez consulter le
+      <a href="https://create.roblox.com/docs/resources/roblox-connect">
+       Guide de l'utilisateur de Roblox Connect
+      </a>
+      .
+     </p>
+     <p>
+     </p>
+     <h3 class="wysiwyg-indent1" id="h_01HF519WN61PC1VFD5MJTS7S5Y">
+      Les API d'appel disposeront-elles d'éléments sonores ?
+     </h3>
+     <p class="wysiwyg-indent2">
+      Tous les éléments sonores de Roblox Connect sont disponibles pour être utilisés par les développeurs.
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h3 class="wysiwyg-indent1" id="h_01HF51C8FRNGEY81CC9ZS42TTW">
+      Avec tous les nouveaux styles de communication (caméra, voix), quel sera l'impact sur les performances de mon expérience ?
+     </h3>
+     <p class="wysiwyg-indent2">
+      Nous avons optimisé et testé cette fonctionnalité sur différents appareils afin de minimiser l'impact sur les performances. Pour la plupart des créateurs et des utilisateurs, nous avons prévu d'avoir un impact minime ou inexistant sur ces fonctionnalités. Pour commencer, consultez le
+      <a href="https://create.roblox.com/docs/chat/spatial-voice">
+       Guide de l'utilisateur du chat vocal
+      </a>
+      et le
+      <a href="https://create.roblox.com/docs/resources/roblox-connect">
+       Guide de l'utilisateur de Roblox Connect
+      </a>
+      .
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h3 class="wysiwyg-indent1" id="h_01HF51H00P9FVT7YCNXP46R6K3">
+      L'activation des appels dans une expérience la rend-elle automatiquement réservée aux utilisateurs de 13 ans ou plus ?
+     </h3>
+     <p class="wysiwyg-indent2">
+      Non, l'ajout des appels dans l'expérience n'en change pas les directives, mais seuls les utilisateurs appropriés de cette expérience (13 ans ou plus, âge vérifié par téléphone ou carte d'identité) seront capables d'utiliser les fonctions d'appel.
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h2 id="h_01HF51J82BF0K716B64X33TJKW">
+      Comment fonctionne Roblox Connect pour les utilisateurs ?
+     </h2>
+     <p>
+     </p>
+     <h3 class="wysiwyg-indent1" id="h_01HF51K16HJJE5HVVR91DH9CH4">
+      Que pourrai-je faire avec Roblox Connect au lancement ?
+     </h3>
+     <p class="wysiwyg-indent2">
+      Vous pourrez appeler votre ami qui se trouve dans votre annuaire Roblox. L'appel sonnera directement sur son téléphone. Il pourra ensuite vous rejoindre directement dans Roblox Connect afin de débuter une conversation immersive, avec votre avatar, de véritables expressions et votre véritable voix.
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h3 class="wysiwyg-indent1" id="h_01HF51MAGFFX17VYZGSTXMXM0N">
+      Pour quelles plateformes Roblox Connect sera-t-il disponible ?
+     </h3>
+     <p class="wysiwyg-indent2">
+      Roblox Connect sera disponible à la fois sur mobile (iOS et Android) et ordinateur dès le lancement. Prochainement disponible sur les autres plateformes.
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h3 class="wysiwyg-indent1" id="h_01HF51NNYZA0HJNR9MECCBNDJP">
+      Pourrai-je appeler n'importe qui, même si la personne n'est pas sur Roblox ?
+     </h3>
+     <p class="wysiwyg-indent2">
+      Non. Actuellement, vous ne pourrez appeler que les amis inclus dans votre annuaire Roblox.
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h3 class="wysiwyg-indent1" id="h_01HF51PEZKBXSTMW9ZS6STXJ86">
+      Si quelqu'un ne souhaite pas utiliser sa caméra, peut-il néanmoins profiter de Roblox Connect ?
+     </h3>
+     <p class="wysiwyg-indent2">
+      Oui. L'utilisation de la caméra n'est pas obligatoire pour utiliser Roblox Connect. Vous pourrez passer et recevoir des appels et profiter de l'expérience, mais aucune animation faciale ne proviendra de votre caméra.
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h3 class="wysiwyg-indent1" id="h_01HF51QJ5H2J5PSNMSFSY3261R">
+      Quand les appels de groupe deviendront-ils disponibles ?
+     </h3>
+     <p class="wysiwyg-indent2">
+      C'est notre prochain objectif !
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h2 id="h_01HF51S8CCEP58D5V42YTF8T87">
+      Comment fonctionne la sécurité dans les appels Roblox Connect individuels ?
+     </h2>
+     <p>
+     </p>
+     <h3 class="wysiwyg-indent1" id="h_01HF51SY2671F3DRHQJ43AP8A2">
+      De quelles précautions disposons-nous pour régler les problèmes de spam, d'exploitation ou d'abus ?
+     </h3>
+     <p class="wysiwyg-indent2">
+      Il y a plusieurs garde-fous en place pour protéger tous les utilisateurs face à une exposition indésirable. Le système utilise de nombreux outils pour identifier les spams, notamment une logique de détection des spams (limiter la fréquence des appels répétés, suppression des appels), des conditions imposées aux appelants et la protection des expériences.
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h3 class="wysiwyg-indent1" id="h_01HF51V1FQ218S45SDVX770MG3">
+      <a name="What_options_does_a_user_have_when_they_experience_bad_behavior">
+      </a>
+      De quelles options dispose un utilisateur lorsqu'il est témoin d'un comportement déplacé ?
+     </h3>
+     <p class="wysiwyg-indent2">
+      Si un utilisateur ne souhaite pas recevoir d'appels ou est victime de mauvais comportement, il peut bloquer ou enlever de la liste d'amis un contact, directement depuis sa liste d'amis dans Roblox. Les utilisateurs peuvent également se rendre dans le menu Roblox, cliquer sur Signaler et identifier la personne à bloquer.
+     </p>
+     <p class="wysiwyg-indent2">
+      De plus, toutes les expériences de communication resteront assujetties aux infrastructures de modération vocale en place, dont les utilisateurs pourront se servir pour signaler un abus ou un problème de sécurité. Pour plus d'informations, consultez la
+      <a href="https://en.help.roblox.com/hc/articles/4405807645972">
+       FAQ du chat vocal
+      </a>
+      .
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h3 class="wysiwyg-indent1" id="h_01HFF4D8D3HB8A359TVW1PDYE4">
+      Comment nous assurer que les paramètres « Ne pas déranger » d'un utilisateur s'appliquent lors d'un appel entrant ?
+     </h3>
+     <p class="wysiwyg-indent2">
+      Veuillez noter que, tel que prévu par iOS, il est possible de recevoir des appels répétés en mode « Ne pas déranger » sur iOS. Pour désactiver cette fonction, vous pouvez interdire les appels répétés dans vos réglages de concentration. Allez dans les réglages
+      <img alt="iOSSettings.png" height="30" src="https://en.help.roblox.com/hc/article_attachments/21039871187732" width="31"/>
+      &gt; Concentration, puis choisissez un mode : Ne pas déranger, Temps pour soi, Repos ou Travail. Vous pouvez également en apprendre davantage
+      <a href="https://support.apple.com/fr-fr/guide/iphone/iph21d43af5b/ios#:~:text=Go%20to%20Settings%20%3E%20Focus%2C%20then,Personal%2C%20Sleep%2C%20or%20Work.&amp;text=%2C%20then%20select%20from%20your%20contacts,same%20person%20within%203%20minutes">
+       à cette adresse
+      </a>
+      .
+     </p>
+     <p class="wysiwyg-indent2">
+      Si vous disposez d'un appareil Android et souhaitez savoir quelles options sont disponibles pour vos paramètres « Ne pas déranger », vous pouvez en apprendre davantage
+      <a href="https://support.google.com/android/answer/9069335">
+       à cette adresse
+      </a>
+      .
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h3 class="wysiwyg-indent1" id="h_01HF86A1R95QFR4NGB2HH4MBH8">
+      De quelles options dispose un utilisateur pour désactiver ou ne pas poursuivre un appel ?
+     </h3>
+     <p class="wysiwyg-indent2">
+      Roblox Connect permet aux utilisateurs de se connecter et de communiquer avec leurs amis. Dans l'intervalle, si un utilisateur ne souhaite pas recevoir d'appels, vous pouvez bloquer ou enlever de la liste d'amis un contact, directement depuis l'annuaire ou votre liste d'amis dans Roblox.
+     </p>
+     <p class="wysiwyg-indent2">
+      De plus, sur Android, vous pouvez vous rendre dans les paramètres de notifications pour Roblox et l'option de désactiver les notifications d'appel sera disponible.
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h3 class="wysiwyg-indent1" id="h_01HF51WXB9DY6WK6R3J23Y7NEB">
+      Comment les données des utilisateurs sont-elles sécurisées lors des appels ?
+     </h3>
+     <p class="wysiwyg-indent2">
+      Les développeurs ne peuvent accéder qu'à l'identifiant de l'appelant et à certains statuts d'appel. Roblox Connect est également propulsé par le
+      <a href="https://create.roblox.com/docs/chat/spatial-voice">
+       chat vocal
+      </a>
+      ainsi que les
+      <a href="https://create.roblox.com/docs/art/characters/facial-animation">
+       animations faciales
+      </a>
+      , et utilise de ce fait l'infrastructure de vérification en place.
+     </p>
+     <p class="wysiwyg-indent2">
+      Pour plus d'informations, consultez notre
+      <a href="https://www.roblox.com/info/privacy">
+       politique de confidentialité
+      </a>
+      , l'
+      <a href="https://en.help.roblox.com/hc/articles/8064749848980">
+       avis sur la confidentialité de l'animation faciale de Roblox
+      </a>
+      , la
+      <a href="https://en.help.roblox.com/hc/articles/5704050147604">
+       FAQ du chat vocal
+      </a>
+      et le
+      <a href="https://create.roblox.com/docs/resources/roblox-connect">
+       Guide de l'utilisateur de Roblox Connect
+      </a>
+      .
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h3 class="wysiwyg-indent1" id="h_01HF524RTRAMHZWDVCM4XDRZRJ">
+      Les données sont-elles enregistrées par Roblox lorsque les utilisateurs activent leur caméra ?
+     </h3>
+     <p class="wysiwyg-indent2">
+      Non. Lorsque les utilisateurs activent la caméra pour animer leur avatar, les informations sont supprimées en temps réel après leur utilisation, et elles ne peuvent pas être partagées. Les vidéos enregistrées par la caméra ne quittent jamais l'appareil.
+     </p>
+     <p class="wysiwyg-indent2">
+      Pour en savoir plus, consultez l'
+      <a href="https://en.help.roblox.com/hc/articles/8064749848980">
+       avis sur la confidentialité de l'animation faciale
+      </a>
+      de Roblox.
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h3 class="wysiwyg-indent1" id="h_01HF527HC8Q90Q02YYZ2KH1HQH">
+      Qu'en est-il des conversations vocales ? Est-ce que Roblox les conserve ?
+     </h3>
+     <p class="wysiwyg-indent2">
+      Roblox utilise les enregistrements vocaux à des fins de modération, dont l'évaluation des signalements d'abus envoyés aux modérateurs, l'entraînement et l'évaluation des systèmes de détection automatique, ainsi que pour évaluer la sécurité générale de la plateforme. Pour plus d'informations, consultez la
+      <a href="https://www.roblox.com/info/privacy">
+       politique de confidentialité
+      </a>
+      .
+     </p>
+     <p class="wysiwyg-indent2">
+      Roblox ne partage aucun enregistrement vocal avec des tiers et n'utilise pas ces enregistrements en dehors des cas prescrits dans la politique de confidentialité.
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h3 class="wysiwyg-indent1" id="h_01HF52ABZ00KZ4FYNAH820VC4B">
+      Comment les enregistrements vocaux sont-ils conservés ?
+     </h3>
+     <p class="wysiwyg-indent2">
+      La sécurité de vos informations est importante pour nous. Nous avons mis en place des mesures pour protéger les données personnelles contre la perte, l'utilisation frauduleuse ou la falsification. Les enregistrements sont cryptés et ne sont accessibles qu'à certaines équipes internes.
+     </p>
+     <p class="wysiwyg-indent2">
+      Pour plus d'informations sur le chat vocal, consultez notre
+      <a href="https://en.help.roblox.com/hc/articles/5704050147604">
+       FAQ
+      </a>
+      sur les éléments vocaux.
+     </p>
+     <p class="wysiwyg-indent2">
+      Toutes les informations personnelles, dont les enregistrements vocaux, peuvent être supprimées par le biais d'une
+      <a href="https://en.help.roblox.com/hc/articles/203313050">
+       demande de confidentialité des données
+      </a>
+      (des restrictions peuvent s'appliquer pour des questions de sécurité et juridiques).
+     </p>
+    </div>
+    <!--           Add content tags to articles and posts -->
+   </div>
