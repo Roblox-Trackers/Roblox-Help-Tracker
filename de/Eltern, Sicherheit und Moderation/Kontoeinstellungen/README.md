@@ -7,5 +7,5 @@ Name|URL
 [Steuerung der Ausgabenbenachrichtigungen](./Steuerung der Ausgabenbenachrichtigungen.html) |https://en.help.roblox.com/hc/de/articles/4409139163412-Steuerung-der-Ausgabenbenachrichtigungen
 [Monatliche Ausgabenbeschränkungen FAQ](./Monatliche Ausgabenbeschränkungen FAQ.html) |https://en.help.roblox.com/hc/de/articles/4409558125460-Monatliche-Ausgabenbeschr%C3%A4nkungen-FAQ
 [Steuerung der Ausgabenbenachrichtigungen FAQ](./Steuerung der Ausgabenbenachrichtigungen FAQ.html) |https://en.help.roblox.com/hc/de/articles/4409296123796-Steuerung-der-Ausgabenbenachrichtigungen-FAQ
-[Altersempfehlungen](./Altersempfehlungen.html) |https://en.help.roblox.com/hc/de/articles/8862768451604-Altersempfehlungen
+[Erlebnisrichtlinien und Altersempfehlungen](./Erlebnisrichtlinien und Altersempfehlungen.html) |https://en.help.roblox.com/hc/de/articles/8862768451604-Erlebnisrichtlinien-und-Altersempfehlungen
 [Erlaubte Erlebnisse - Kontrollen](./Erlaubte Erlebnisse - Kontrollen.html) |https://en.help.roblox.com/hc/de/articles/8863284850196-Erlaubte-Erlebnisse-Kontrollen

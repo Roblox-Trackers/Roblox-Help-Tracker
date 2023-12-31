@@ -10,3 +10,4 @@ Name|URL
 [Wie lösche ich die Nachrichten in meinem Posteingang?](./Wie lösche ich die Nachrichten in meinem Posteingang-.html) |https://en.help.roblox.com/hc/de/articles/203313690-Wie-l%C3%B6sche-ich-die-Nachrichten-in-meinem-Posteingang-
 [Voice Chat](./Voice Chat.html) |https://en.help.roblox.com/hc/de/articles/4405807645972-Voice-Chat
 [FAQ zu Sprachaufnahmen](./FAQ zu Sprachaufnahmen.html) |https://en.help.roblox.com/hc/de/articles/5704050147604-FAQ-zu-Sprachaufnahmen
+[Roblox Connect – FAQ](./Roblox Connect – FAQ.html) |https://en.help.roblox.com/hc/de/articles/20918814627988-Roblox-Connect-FAQ
