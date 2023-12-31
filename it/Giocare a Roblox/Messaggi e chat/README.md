@@ -10,3 +10,4 @@ Name|URL
 [Come posso eliminare i messaggi nella mia casella di posta?](./Come posso eliminare i messaggi nella mia casella di posta-.html) |https://en.help.roblox.com/hc/it/articles/203313690-Come-posso-eliminare-i-messaggi-nella-mia-casella-di-posta-
 [Chat con Voce](./Chat con Voce.html) |https://en.help.roblox.com/hc/it/articles/4405807645972-Chat-con-Voce
 [Domande frequenti sulla registrazione vocale](./Domande frequenti sulla registrazione vocale.html) |https://en.help.roblox.com/hc/it/articles/5704050147604-Domande-frequenti-sulla-registrazione-vocale
+[FAQ Roblox Connect](./FAQ Roblox Connect.html) |https://en.help.roblox.com/hc/it/articles/20918814627988-FAQ-Roblox-Connect
