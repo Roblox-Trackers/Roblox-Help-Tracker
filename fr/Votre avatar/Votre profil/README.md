@@ -7,4 +7,4 @@ Name|URL
 [Puis-je déplacer des articles, des expériences ou des Robux d'un compte à un autre ?](./Puis-je déplacer des articles, des expériences ou des Robux d'un compte à un autre -.html) |https://en.help.roblox.com/hc/fr/articles/203313090-Puis-je-d%C3%A9placer-des-articles-des-exp%C3%A9riences-ou-des-Robux-d-un-compte-%C3%A0-un-autre-
 [Tout sur les profils, le texte de présentation et la personnalisation des profils](./Tout sur les profils, le texte de présentation et la personnalisation des profils.html) |https://en.help.roblox.com/hc/fr/articles/203313660-Tout-sur-les-profils-le-texte-de-pr%C3%A9sentation-et-la-personnalisation-des-profils
 [Que sont les badges ?](./Que sont les badges -.html) |https://en.help.roblox.com/hc/fr/articles/203313620-Que-sont-les-badges-
-[FAQ Badges Vérifiés](./FAQ Badges Vérifiés.html) |https://en.help.roblox.com/hc/fr/articles/7997207259156-FAQ-Badges-V%C3%A9rifi%C3%A9s
+[FAQ sur les badges vérifiés](./FAQ sur les badges vérifiés.html) |https://en.help.roblox.com/hc/fr/articles/7997207259156-FAQ-sur-les-badges-v%C3%A9rifi%C3%A9s
