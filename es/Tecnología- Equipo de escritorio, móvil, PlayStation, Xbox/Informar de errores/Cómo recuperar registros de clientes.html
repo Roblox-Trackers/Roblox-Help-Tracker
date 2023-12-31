@@ -1,0 +1,182 @@
+   <h1 class="article-title" id="article-title" title="Cómo recuperar registros de clientes">
+    Cómo recuperar registros de clientes
+   </h1>
+   <div class="article-content">
+    <div class="article-body">
+     <p>
+      Puede haber algunas situaciones en las que un empleado de Roblox solicite registros de clientes a través de un correo electrónico de Atención al Cliente o una publicación de DevForum para ayudar a investigar un problema. Este artículo describe cómo recuperar esos registros.
+     </p>
+     <p class="wysiwyg-indent1">
+      <strong>
+       <em>
+        Nota:
+       </em>
+      </strong>
+      <em>
+       No recupere ni envíe estos registros a menos que lo solicite un empleado de Roblox.
+      </em>
+     </p>
+     <p class="wysiwyg-indent1">
+     </p>
+     <h1>
+      Cómo recuperar registros de Roblox
+     </h1>
+     <p class="wysiwyg-indent1">
+      Los registros de Roblox y Roblox Studio están escritos en la misma carpeta.
+     </p>
+     <ul>
+      <li>
+       En la PC, presione la TECLA WINDOWS y R al mismo tiempo. Aparecerá un cuadro llamado
+       <strong>
+        Ejecutar
+       </strong>
+       . Copie y pegue o escriba lo siguiente sin comillas: "\Roblox\logs":
+       <ul>
+        <li>
+         <p>
+          Para Win32: "%localappdata%\Roblox\logs"
+         </p>
+         <p>
+          Para UWP: “%LOCALAPPDATA%\Packages\ROBLOXCorporation.ROBLOX_55nm5eh3cm0pr\LocalState\logs”
+         </p>
+        </li>
+       </ul>
+      </li>
+      <li>
+       En Mac, vaya a Macintosh HD &gt; Usuarios &gt; [su perfil de usuario] &gt; Biblioteca &gt; Registros &gt; Roblox
+      </li>
+      <li>
+       <p data-renderer-start-pos="723">
+        Actualmente no tenemos una manera fácil de cargar registros de Android o iOS. ¡Lo sentimos, estamos trabajando en ello!
+       </p>
+      </li>
+     </ul>
+     <h2>
+      Es probable que haya muchos archivos de registro en esta carpeta
+     </h2>
+     <ul>
+      <li>
+       <p>
+        Los registros de Roblox se verán así: “0.&lt;major ver&gt;.&lt;minor ver&gt;.&lt;revision&gt;_&lt;date&gt;_Player_&lt;garbage&gt;_último.log
+       </p>
+       <ul>
+        <li>
+         <p>
+          Por ejemplo 0.555.1.5550874_20221214T162601Z_20221214T162601Z_
+          <strong>
+           Jugador
+          </strong>
+          _9aaf3_último.log
+         </p>
+        </li>
+       </ul>
+      </li>
+      <li>
+       <p>
+        Los registros de Roblox Studio se verán iguales, excepto que dice "Studio" en lugar de "Jugador"
+       </p>
+       <ul>
+        <li>
+         <p>
+          Por ejemplo 0.555.1.5550874_20221214T162601Z_20221214T162601Z_
+          <strong>
+           Studio
+          </strong>
+          _9aaf3_último.log
+         </p>
+        </li>
+       </ul>
+      </li>
+      <li>
+       <p>
+        Los registros de Bootstrapper se verán como bootstrapper_&lt;garbage&gt;_1.txt
+       </p>
+       <ul>
+        <li>
+         <p>
+          A menos que el problema ocurra al iniciar Roblox o RobloxStudio desde su navegador web, o durante la actualización, lo más probable es que no necesite enviar registros de arranque.
+         </p>
+        </li>
+       </ul>
+      </li>
+     </ul>
+     <p>
+     </p>
+     <h2>
+      Para identificar el archivo de registro correcto para enviar, puede
+     </h2>
+     <ul>
+      <li>
+       Use las marcas de tiempo del archivo para determinar qué archivo de registro corresponde al incidente que desea informar
+      </li>
+      <li>
+       Elimine todos los archivos en este directorio, reproduzca el problema que desea informar y luego envíe todo el contenido en esta carpeta
+      </li>
+      <li>
+       Si está confundido, puede ordenar por fecha y enviar los 10 archivos más recientes.
+      </li>
+     </ul>
+     <p>
+     </p>
+     <h1>
+      Incluir archivos de registro al informar errores
+     </h1>
+     <p>
+      Si necesita cargar registros después de hacer el informe de error inicial, envíe un DM a la
+      <a href="https://devforum.roblox.com/g/bug-files" rel="noopener" target="_blank">
+       archivos de errores
+      </a>
+      grupo, incluya un enlace a la publicación del informe de error original y etiquete a los empleados de Roblox relevantes: Al informar errores en Roblox
+      <a href="https://devforum.roblox.com/c/bug-reports/10" rel="noopener" target="_blank">
+       Foro de desarrolladores
+      </a>
+      , tendrá la opción de cargar el archivo de registro junto con su informe de errores.
+     </p>
+     <p class="wysiwyg-text-align-center">
+      <img alt="Report_Bug_Window_on_Developer_Forum.png" height="312" src="https://en.help.roblox.com/hc/article_attachments/14397229029524" width="546"/>
+     </p>
+     <p>
+     </p>
+     <p>
+      Si necesita cargar registros después de hacer el informe de error inicial, envíe un DM a la
+      <a href="https://devforum.roblox.com/g/bug-files" rel="noopener" target="_blank">
+       archivos de errores
+      </a>
+      grupo, incluya un enlace a la publicación del informe de error original y etiquete a los empleados de Roblox relevantes: Al informar errores en Roblox
+      <a href="https://devforum.roblox.com/c/bug-reports/10" rel="noopener" target="_blank">
+       Foro de desarrolladores
+      </a>
+      , tendrá la opción de cargar el archivo de registro junto con su informe de errores.
+     </p>
+     <p class="wysiwyg-text-align-center">
+      <img alt="Roblox_Employee_on_DevForum.png" src="https://en.help.roblox.com/hc/article_attachments/14378571735060"/>
+     </p>
+     <p>
+     </p>
+     <p>
+      Por favor mira
+      <a href="https://devforum.roblox.com/t/how-to-post-a-bug-report/24388/19" rel="noopener" target="_blank">
+       Cómo publicar un informe de error
+      </a>
+      para obtener instrucciones más detalladas!
+     </p>
+     <p>
+     </p>
+     <p>
+      <strong>
+       Ayuda Adicional
+      </strong>
+     </p>
+     <p class="wysiwyg-indent1">
+      <a href="https://en.help.roblox.com/hc/articles/203312870" rel="noopener" target="_blank">
+       Problemas generales de escritorio de Roblox
+      </a>
+     </p>
+     <p class="wysiwyg-indent1">
+      <a href="https://en.help.roblox.com/hc/articles/203312990" rel="noopener" target="_blank">
+       Mac: Solución de problemas
+      </a>
+     </p>
+    </div>
+    <!--           Add content tags to articles and posts -->
+   </div>
