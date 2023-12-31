@@ -1,0 +1,252 @@
+   <h1 class="article-title" id="article-title" title="Problemi di grafica sui computer">
+    Problemi di grafica sui computer
+   </h1>
+   <div class="article-content">
+    <div class="article-body">
+     <p>
+      Si prega di leggere le seguenti informazioni se si verificano problemi di grafica con Roblox.
+     </p>
+     <p>
+     </p>
+     <h1>
+      Problemi Comuni Che Indicano un Problema di Grafica
+     </h1>
+     <ul>
+      <li>
+       Quando si tenta di avviare le esperienze viene visualizzato l'errore "scheda grafica troppo vecchia",
+      </li>
+      <li>
+       Roblox si arresta in modo anomalo durante il gioco e segnala un errore grafico,
+      </li>
+      <li>
+       Ricezione del messaggio: "Impossibile inizializzare le grafiche",
+      </li>
+      <li>
+       Durante il gioco, tutte le esperienze appaiono insolite, come texture dall'aspetto strano, distorsione dell'immagine o testo incomprensibile.
+      </li>
+     </ul>
+     <p>
+     </p>
+     <h1>
+      Perché succede
+     </h1>
+     <ul>
+      <li>
+       Il PC non dispone di DirectX10 o un supporto di livello di funzionalità superiore,
+      </li>
+      <li>
+       La scheda grafica non ha i driver più recenti,
+      </li>
+      <li>
+       La scheda grafica non è supportata da Roblox (questo è raramente il caso),
+      </li>
+      <li>
+       Il giocatore ha modificato le impostazioni grafiche di Roblox.
+      </li>
+     </ul>
+     <p>
+     </p>
+     <h1>
+      Cosa fare
+     </h1>
+     <p class="wysiwyg-indent1">
+      Prova quanto segue, un passaggio alla volta. Dopo ogni passaggio, verifica se il problema persiste. Se lo è, continua con quello successivo.
+     </p>
+     <p class="wysiwyg-indent1">
+     </p>
+     <h2 class="wysiwyg-indent1">
+      Ripristina la grafica Roblox
+     </h2>
+     <p class="wysiwyg-indent2">
+      Questo è appropriato solo se puoi effettivamente avviare Roblox senza arresti anomali
+     </p>
+     <ol>
+      <ol>
+       <li>
+        Apri Roblox Studio,
+       </li>
+       <li>
+        Apri il menu File e fai clic su
+        <strong>
+         Impostazioni,
+        </strong>
+       </li>
+       <li>
+        Fai clic su
+        <strong>
+         OK
+        </strong>
+        per procedere,
+       </li>
+       <li>
+        Fai clic sul pulsante
+        <strong>
+         Ripristina tutte le impostazioni
+        </strong>
+        , situato in basso a sinistra della finestra pop-up.
+       </li>
+      </ol>
+     </ol>
+     <p>
+     </p>
+     <h2 class="wysiwyg-indent1">
+      Rilevamento del tuo livello di funzionalità DirectX supportato
+     </h2>
+     <p class="wysiwyg-indent2">
+      Per verificare il tuo livello di funzionalità DirectX supportato:
+     </p>
+     <ol>
+      <ol>
+       <li>
+        Premi il tasto
+        <strong>
+         Windows + R
+        </strong>
+        per visualizzare il prompt
+        <strong>
+         Esegui,
+        </strong>
+       </li>
+       <li>
+        Digita "dxdiag" (senza virgolette) e premi il tasto
+        <strong>
+         Invio
+        </strong>
+        ,
+       </li>
+       <li>
+        Fai clic sulla scheda
+        <strong>
+         Display
+        </strong>
+        o
+        <strong>
+         Display 1
+        </strong>
+        e
+        <strong>
+         Display 2
+        </strong>
+        se disponibili, dalla vista pannello nella finestra DirectX.
+        <ul>
+         <li>
+          Fare clic sulla scheda
+          <strong>
+           Display
+          </strong>
+          o
+          <strong>
+           Display 1
+          </strong>
+          , e
+          <strong>
+           Display 2
+          </strong>
+          se disponibile, dalla vista pannello nella finestra DirectX,
+          <br/>
+          - Per Windows 8.1/10 cerca i
+          <strong>
+           Livelli di Funzionalità
+          </strong>
+          . Per Windows 7 cerca la
+          <strong>
+           versione DDI
+          </strong>
+          .
+         </li>
+        </ul>
+       </li>
+      </ol>
+     </ol>
+     <p class="wysiwyg-indent2">
+      Se non vedi "10" o una cifra superiore nella riga "Versione DDI" o "Livelli di funzionalità", la scheda grafica non supporta DX10 o versioni successive e non sarai in grado di accedere all'applicazione.
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h2 class="wysiwyg-indent1">
+      Riduci la qualità del colore del display
+     </h2>
+     <p class="wysiwyg-indent2">
+      È possibile che la tua scheda grafica non supporti il rendering 3D con la qualità del colore utilizzata per il normale funzionamento del desktop. Puoi provare a ridurre la profondità di bit a 16 bit, per vedere se questo aiuta.
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h2 class="wysiwyg-indent1">
+      Aggiorna il driver della tua scheda grafica
+     </h2>
+     <p class="wysiwyg-indent2">
+      Per scoprire quale scheda grafica utilizza attualmente Roblox, prova quanto segue:
+     </p>
+     <ol>
+      <ol>
+       <li>
+        Apri Roblox Studio,
+       </li>
+       <li>
+        Apri le
+        <strong>
+         Impostazioni di Roblox Studio
+        </strong>
+        ,
+       </li>
+       <li>
+        Fare clic su
+        <strong>
+         Diagnostica
+        </strong>
+        ,
+       </li>
+       <li>
+        Scorri verso il basso per trovare la riga denominata
+        <strong>
+         GfxCard
+        </strong>
+        ,
+       </li>
+       <li>
+        Questo elencherà quali schede grafiche sono attualmente utilizzate da Roblox.
+       </li>
+      </ol>
+     </ol>
+     <p class="wysiwyg-indent2">
+      Visita la pagina di supporto fornita dal produttore della scheda grafica e scarica il driver più recente per il tuo particolare modello.
+     </p>
+     <p class="wysiwyg-indent1">
+     </p>
+     <h2 class="wysiwyg-indent1">
+      Controlla la modalità di compatibilità
+     </h2>
+     <p class="wysiwyg-indent2">
+      Se ricevi un messaggio che ti informa che la tua grafica non è aggiornata, ma il tuo computer soddisfa i requisiti minimi di specifica, puoi verificare se l'applicazione è in esecuzione in modalità compatibilità.
+     </p>
+     <ol>
+      <ol>
+       <li>
+        Fare clic con il pulsante destro del mouse sull'applicazione Roblox o Roblox Studio e selezionare
+        <strong>
+         Proprietà
+        </strong>
+        ,
+       </li>
+       <li>
+        Seleziona la scheda
+        <strong>
+         Compatibilità
+        </strong>
+        ,
+       </li>
+       <li>
+        Se la casella
+        <strong>
+         Esegui questo programma in modalità compatibilità
+        </strong>
+        è selezionata, deselezionala.
+       </li>
+      </ol>
+     </ol>
+     <p class="wysiwyg-indent2">
+      Visita la pagina di supporto fornita dal produttore della scheda grafica e scarica il driver più recente per il tuo modello particolare.
+     </p>
+    </div>
+    <!--           Add content tags to articles and posts -->
+   </div>
