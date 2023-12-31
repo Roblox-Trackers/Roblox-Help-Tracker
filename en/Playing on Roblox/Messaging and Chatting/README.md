@@ -10,3 +10,4 @@ Name|URL
 [How Do I Delete the Messages in My Inbox?](./How Do I Delete the Messages in My Inbox-.html) |https://en.help.roblox.com/hc/en-us/articles/203313690-How-Do-I-Delete-the-Messages-in-My-Inbox-
 [Chat with Voice](./Chat with Voice.html) |https://en.help.roblox.com/hc/en-us/articles/4405807645972-Chat-with-Voice
 [Chat with Voice Recording Frequently Asked Questions](./Chat with Voice Recording Frequently Asked Questions.html) |https://en.help.roblox.com/hc/en-us/articles/5704050147604-Chat-with-Voice-Recording-Frequently-Asked-Questions
+[Roblox Connect FAQ](./Roblox Connect FAQ.html) |https://en.help.roblox.com/hc/en-us/articles/20918814627988-Roblox-Connect-FAQ

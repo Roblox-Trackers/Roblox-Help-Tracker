@@ -12,5 +12,4 @@ Name|URL
 [Trading System](./Trading System.html) |https://en.help.roblox.com/hc/en-us/articles/203313310-Trading-System
 [All About Gift Items](./All About Gift Items.html) |https://en.help.roblox.com/hc/en-us/articles/205630374-All-About-Gift-Items
 [How Do I Get Promotional or Contest Items?](./How Do I Get Promotional or Contest Items-.html) |https://en.help.roblox.com/hc/en-us/articles/203313270-How-Do-I-Get-Promotional-or-Contest-Items-
-[13+ Avatar Shop Items](./13+ Avatar Shop Items.html) |https://en.help.roblox.com/hc/en-us/articles/203313320-13-Avatar-Shop-Items
 [All About VIP Shirts](./All About VIP Shirts.html) |https://en.help.roblox.com/hc/en-us/articles/203314080-All-About-VIP-Shirts

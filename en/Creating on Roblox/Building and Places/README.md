@@ -14,7 +14,6 @@ Name|URL
 [How can I enable VIP/Private Servers on my experiences?](./How can I enable VIP-Private Servers on my experiences-.html) |https://en.help.roblox.com/hc/en-us/articles/360000781023-How-can-I-enable-VIP-Private-Servers-on-my-experiences-
 [How to Copy an Experience](./How to Copy an Experience.html) |https://en.help.roblox.com/hc/en-us/articles/203313900-How-to-Copy-an-Experience
 [How To Revert to Older Versions of a Place](./How To Revert to Older Versions of a Place.html) |https://en.help.roblox.com/hc/en-us/articles/203313850-How-To-Revert-to-Older-Versions-of-a-Place
-[Reset Place to a Starting Template](./Reset Place to a Starting Template.html) |https://en.help.roblox.com/hc/en-us/articles/203313920-Reset-Place-to-a-Starting-Template
 [How Do I Make Experience Badges?](./How Do I Make Experience Badges-.html) |https://en.help.roblox.com/hc/en-us/articles/203313650-How-Do-I-Make-Experience-Badges-
 [How Do I Build with GUIs?](./How Do I Build with GUIs-.html) |https://en.help.roblox.com/hc/en-us/articles/203313960-How-Do-I-Build-with-GUIs-
 [Configuring Your Place's Chat Style](./Configuring Your Place's Chat Style.html) |https://en.help.roblox.com/hc/en-us/articles/360019904552-Configuring-Your-Place-s-Chat-Style
