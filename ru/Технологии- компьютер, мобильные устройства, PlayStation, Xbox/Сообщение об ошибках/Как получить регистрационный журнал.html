@@ -1,0 +1,164 @@
+   <h1 class="article-title" id="article-title" title="Как получить регистрационный журнал">
+    Как получить регистрационный журнал
+   </h1>
+   <div class="article-content">
+    <div class="article-body">
+     <p>
+      Могут быть некоторые ситуации, в которых сотрудник Roblox может запросить регистрационный журнал клиента через электронную почту службы поддержки клиентов или публикацию на форуме DevForum, чтобы помочь в решении вопроса относительно запроса пользователя. В этой статье,  мы подробно описали как получить этот журнал.
+     </p>
+     <p class="wysiwyg-indent1">
+      <strong>
+       <em>
+        Примечание:
+       </em>
+      </strong>
+      <em>
+       Пожалуйста, отправляй эти журналы только по просьбе сотрудника Roblox!
+      </em>
+     </p>
+     <p class="wysiwyg-indent1">
+     </p>
+     <h1>
+      Как получить журнал Roblox
+     </h1>
+     <p class="wysiwyg-indent1">
+      Журналы Roblox Player и Roblox Studio записываются в одну и ту же папку.
+     </p>
+     <ul>
+      <li>
+       На ПК одновременно нажми клавишу WINDOWS и R. Появится окно с названием
+       <strong>
+        Запустить
+       </strong>
+       . Скопируй и вставь или введи без кавычек следующее: "%localappdata%\Roblox\logs"
+      </li>
+      <li>
+       На Mac перейди в Macintosh HD &gt; Пользователи &gt; [твой профиль пользователя] &gt; Библиотека &gt; Журналы &gt; Roblox
+      </li>
+      <li>
+       <p data-renderer-start-pos="723">
+        В настоящее время у нас нет удобного способа загрузки журналов Android или iOS. Извини, мы работаем над этим! &lt;TODO ios/android instructions?&gt;
+       </p>
+      </li>
+     </ul>
+     <h2>
+      В этой папке, вероятно, будет много файлов журнала
+     </h2>
+     <ul>
+      <li>
+       <p>
+        Журналы Roblox будут выглядеть следующим образом: “0.&lt;major ver&gt;.&lt;minor ver&gt;.&lt;revision&gt;_&lt;date&gt;_Player_&lt;garbage&gt;_last.log
+       </p>
+       <ul>
+        <li>
+         <p>
+          Например, 0.555.1.5550874_20221214T162601Z_
+          <strong>
+           Player
+          </strong>
+          _9aaf3_last.log
+         </p>
+        </li>
+       </ul>
+      </li>
+      <li>
+       <p>
+        Журналы Roblox Studio будут выглядеть так же, только вместо "Player" будет написано "Studio"
+       </p>
+       <ul>
+        <li>
+         <p>
+          Например, 0.555.1.5550874_20221214T162601Z_
+          <strong>
+           Studio
+          </strong>
+          _9aaf3_last.log
+         </p>
+        </li>
+       </ul>
+      </li>
+      <li>
+       <p>
+        Журналы Bootstrapper будут выглядеть как bootstrapper_&lt;garbage&gt;_1.txt
+       </p>
+       <ul>
+        <li>
+         <p>
+          Если проблема не возникает при запуске Roblox или RobloxStudio из браузера или во время обновления, скорее всего, тебе не нужно отправлять журналы bootstrapper.
+         </p>
+        </li>
+       </ul>
+      </li>
+     </ul>
+     <p>
+     </p>
+     <h2>
+      Чтобы определить правильный файл журнала для отправки, ты можешь
+     </h2>
+     <ul>
+      <li>
+       Использовать временные метки файлов, чтобы определить, какой файл журнала соответствует инциденту, о котором ты хочешь сообщить
+      </li>
+      <li>
+       Удалить все файлы в этом каталоге, воспроизвести проблему, о которой ты хочешь сообщить, а затем отправить всё содержимое этой папки
+      </li>
+      <li>
+       Если ты запутался, можно просто отсортировать по дате и отправить 10 последних файлов.
+      </li>
+     </ul>
+     <p>
+     </p>
+     <h1>
+      Добавление файлов с журналами при составлении отчётов об ошибках
+     </h1>
+     <p>
+      Когда ты сообщаешь об ошибках на
+      <a href="https://devforum.roblox.com/c/bug-reports/10" rel="noopener" target="_blank">
+       Форуме разработчиков
+      </a>
+      , у тебя будет возможность загрузить файл журнала вместе с сообщением об ошибке. Если тебе нужно загрузить журналы после первоначального сообщения об ошибке, отправь личное сообщение в
+      <a href="https://devforum.roblox.com/g/bug-files" rel="noopener" target="_blank">
+       bug-files
+      </a>
+      группу, включая ссылку на исходное сообщение об ошибке и отметь всех соответствующих сотрудников Roblox:
+     </p>
+     <p class="wysiwyg-text-align-center">
+      <img alt="Report_Bug_Window_on_Developer_Forum.png" height="312" src="https://en.help.roblox.com/hc/article_attachments/14397229029524" width="546"/>
+     </p>
+     <p>
+     </p>
+     <p>
+      Загружай журналы, отправляя их в группу bug-files, и делай это только в том случае, если сотрудник Roblox попросит тебя об этом. Чтобы определить сотрудника Roblox на Форуме разработчиков, убедись, что рядом с именем его аккаунта написано "Roblox Staff":
+     </p>
+     <p class="wysiwyg-text-align-center">
+      <img alt="Roblox_Employee_on_DevForum.png" src="https://en.help.roblox.com/hc/article_attachments/14378571735060"/>
+     </p>
+     <p>
+     </p>
+     <p>
+      Посмотри
+      <a href="https://devforum.roblox.com/t/how-to-post-a-bug-report/24388/19" rel="noopener" target="_blank">
+       как опубликовать отчёт об ошибке
+      </a>
+      для более подробных инструкций!
+     </p>
+     <p>
+     </p>
+     <p>
+      <strong>
+       Дополнительная помощь
+      </strong>
+     </p>
+     <p class="wysiwyg-indent1">
+      <a href="https://en.help.roblox.com/hc/articles/203312870" rel="noopener" target="_blank">
+       Общие проблемы рабочего стола с Roblox
+      </a>
+     </p>
+     <p class="wysiwyg-indent1">
+      <a href="https://en.help.roblox.com/hc/articles/203312990" rel="noopener" target="_blank">
+       Mac: устранение неполадок
+      </a>
+     </p>
+    </div>
+    <!--           Add content tags to articles and posts -->
+   </div>
