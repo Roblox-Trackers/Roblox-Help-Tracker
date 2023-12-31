@@ -1,0 +1,356 @@
+   <h1 class="article-title" id="article-title" title="Roblox Connect 관련 자주 묻는 질문">
+    Roblox Connect 관련 자주 묻는 질문
+   </h1>
+   <div class="article-content">
+    <div class="article-body">
+     <h2 id="h_01HF4ZBVTDPTTCPB56ARZTX3EX">
+      Roblox Connect가 무엇인가요?
+     </h2>
+     <p>
+     </p>
+     <h3 class="wysiwyg-indent1" id="h_01HF4ZDMYMR7FCGC5GMYCNQQ9Q">
+      Roblox Connect가 무엇인가요?
+     </h3>
+     <p class="wysiwyg-indent2">
+      Connect는 친구에게 전화를 걸어 아바타로 몰입형 공유 공간에서 함께 대화를 나눌 수 있는 Roblox 체험입니다. 본 기능에는 친구와 함께 즐길 수 있는 재미있는 공간들이 함께 제공됩니다. 또한 Connect에 사용된 기술은 완전한 오픈 소스 기술이기 때문에 각 크리에이터는 실시간 음성이나 아바타 소통을 기존 또는 신규 Roblox 체험에 빌드할 수 있습니다.
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h3 class="wysiwyg-indent1" id="h_01HF4ZJTQ46WZBFFGND34S5G5F">
+      Roblox Connect는 누가 사용할 수 있나요?
+     </h3>
+     <p class="wysiwyg-indent2">
+      사용자는 반드시 13세 이상이며 Roblox 음성 기능이 활성화(예:
+      <a href="https://en.help.roblox.com/hc/articles/203313350">
+       휴대폰 인증 완료
+      </a>
+      또는
+      <a href="https://en.help.roblox.com/hc/articles/4407282410644">
+       신분증 인증 완료
+      </a>
+      )되어 있어야 합니다. 또한 Connect를 사용하려면 Roblox를 최신 버전으로 업데이트해야 합니다.
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h3 class="wysiwyg-indent1" id="h_01HF4ZV9JPYF3VP7HD22VX6JPX">
+      어떤 플랫폼에서 Roblox Connect를 이용할 수 있나요?
+     </h3>
+     <p class="wysiwyg-indent2">
+      Roblox Connect는 출시 이후 모바일(iOS 및 Android) 및 데스크톱에서 이용할 수 있습니다. 다른 플랫폼에도 곧 출시될 예정입니다.
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h3 class="wysiwyg-indent1" id="h_01HF4ZWB5Z8KYKVT9Y6R7EA5HG">
+      다른 나라에 전화를 걸 수 있나요?
+     </h3>
+     <p class="wysiwyg-indent2">
+      <a href="https://create.roblox.com/docs/chat/spatial-voice">
+       음성으로 채팅하기 기능이 제공되는
+      </a>
+      모든 국가에서 통화가 가능하며 향후 이용 가능 국가를 확대할 예정입니다.
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h3 class="wysiwyg-indent1" id="h_01HF507S7STN87MFRKNT5ZTZJ3">
+      API를 활용할 수 있는 체험에 제한이 있나요?
+     </h3>
+     <p class="wysiwyg-indent2">
+      일주일 이상 된 체험에서만 통화 API를 사용할 수 있습니다.
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h2 id="h_01HF50A6AKBQ95JE7EJTSHZ3ZB">
+      Roblox Connect는 크리에이터에게 어떻게 운영되나요?
+     </h2>
+     <p>
+     </p>
+     <h3 class="wysiwyg-indent1" id="h_01HF50BXGEC82553M2Z61T67Y7">
+      크리에이터가 체험에 API를 포함하려면 어떻게 해야 하나요?
+     </h3>
+     <p class="wysiwyg-indent2">
+      Roblox Connect 체험과 통화 API는 완전한 오픈 소스이며 개발자는 실시간 아바타 소통을 Roblox의 모든 체험에 통합할 수 있습니다. 개발자는 다음과 같은 세 가지 방식으로 본 기술을 활용할 수 있습니다.
+     </p>
+     <ol>
+      <li class="wysiwyg-indent2">
+       새로운 통화 API인
+       <a href="https://create.roblox.com/docs/reference/engine/classes/SocialService">
+        SocialService
+       </a>
+       및
+       <a href="https://create.roblox.com/docs/reference/engine/classes/PlayerViewService">
+        PlayerView
+       </a>
+       로 체험에 소통을 포함시킬 수 있습니다. 크리에이터는 전화번호부 기능 및 UX를 체험에 통합하여 사용자들이 모든 경험에서 친구에게 전화를 걸 수 있도록 지원할 수 있습니다.
+      </li>
+      <li class="wysiwyg-indent2">
+       <a href="https://create.roblox.com/docs/reference/engine/classes/SocialService">
+        SelfView
+       </a>
+       와 같은 소통 우선 기능을 활성화하면 체험 속 사용자가 자신을 일인칭 시점으로 볼 수 있습니다. 또한 통화 API는 다음과 같은 세 가지 뷰를 활성화하게 됩니다.
+       <ul>
+        <li class="wysiwyg-indent2">
+         <strong>
+          <span class="wysiwyg-underline">
+           화면 속 화면(PIP)
+          </span>
+         </strong>
+         : 사용자가 통화 또는 전화 수신을 통해 Connect를 열면, PIP 모드의 첫 번째 랜딩에 SelfView가 팝업으로 열립니다. SelfView는 왼쪽 하단 모서리에 표시됩니다. 사용자가 창을 옮기면 그때부터 새로운 위치에 고정됩니다.
+        </li>
+        <li class="wysiwyg-indent2">
+         <strong>
+          <span class="wysiwyg-underline">
+           Free Play
+          </span>
+         </strong>
+         : Free Play는 모든 체험에 제공되는 Roblox의 삼인칭 기본 스톡 카메라입니다.
+        </li>
+        <li class="wysiwyg-indent2">
+         <strong>
+          <span class="wysiwyg-underline">
+           시네마틱
+          </span>
+         </strong>
+         : 시네마틱 모드는 동적 카메라를 제공합니다. 카메라의 위치, 방향, 시야를 실시간으로 조절하고 두 개의 게임 내 대상에 초점을 맞출 수 있습니다. 또한 물체 사이의 거리 및 화면 가로세로 비율 등의 요소를 고려하여 부드럽고 반응성이 뛰어난 플레이어 경험을 제공합니다.
+        </li>
+       </ul>
+      </li>
+      <li class="wysiwyg-indent2">
+       Roblox Connect 환경 애셋을 활용해 보세요. Environment Switcher를 사용하면 사용자는 숲(캠프파이어, 선창, 폭포) 또는 섬(해변, 오두막, 모닥불)에서 통화 중 여러 장소에 액세스하여 통화 중 해당 장소로 새롭게 텔레포트 할 수 있습니다.
+      </li>
+     </ol>
+     <p class="wysiwyg-indent2">
+      자세한 정보는
+      <a href="https://create.roblox.com/docs/resources/roblox-connect">
+       Roblox Connect 사용 가이드
+      </a>
+      를 참조하세요.
+     </p>
+     <p>
+     </p>
+     <h3 class="wysiwyg-indent1" id="h_01HF519WN61PC1VFD5MJTS7S5Y">
+      통화 API에도 사운드 애셋이 있나요?
+     </h3>
+     <p class="wysiwyg-indent2">
+      개발자들은 Roblox Connect의 전체 사운드 애셋을 이용할 수 있습니다.
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h3 class="wysiwyg-indent1" id="h_01HF51C8FRNGEY81CC9ZS42TTW">
+      새로운 소통 스타일(카메라, 음성)은 체험의 성능에 어떤 영향을 미치게 되나요?
+     </h3>
+     <p class="wysiwyg-indent2">
+      성능 영향을 최소화하기 위해 다양한 기기에 대해 기능을 최적화하고 테스트했습니다. 기능을 활성화해도 대다수의 크리에이터 및 사용자에게 미치는 영향은 아주 적거나 없는 수준입니다. 시작하려면
+      <a href="https://create.roblox.com/docs/chat/spatial-voice">
+       음성으로 채팅하기 사용 가이드
+      </a>
+      및
+      <a href="https://create.roblox.com/docs/resources/roblox-connect">
+       Roblox Connect 사용 가이드
+      </a>
+      를 참조하세요.
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h3 class="wysiwyg-indent1" id="h_01HF51H00P9FVT7YCNXP46R6K3">
+      체험에 통화를 활성화하면 자동으로 13세 이상 이용 가능 체험이 되나요?
+     </h3>
+     <p class="wysiwyg-indent2">
+      아니요. 체험에 통화를 추가해도 체험 가이드라인은 변경되지 않습니다. 다만 해당 체험 내에서 자격에 해당하는 사용자(13세 이상, 전화 또는 본인 인증 완료)만 통화 기능을 사용할 수 있습니다.
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h2 id="h_01HF51J82BF0K716B64X33TJKW">
+      Roblox Connect는 사용자에게 어떻게 운영되나요?
+     </h2>
+     <p>
+     </p>
+     <h3 class="wysiwyg-indent1" id="h_01HF51K16HJJE5HVVR91DH9CH4">
+      Roblox Connect가 출시되면 무엇을 할 수 있게 되나요?
+     </h3>
+     <p class="wysiwyg-indent2">
+      Roblox 전화번호부에 있는 친구와 통화할 수 있습니다. 전화를 걸면 친구의 휴대전화가 울립니다. 친구가 전화를 받으면 Roblox Connect에서 사용자와 직접적으로 연결하여 아바타, 진짜 표현, 진짜 목소리로 몰입형 대화를 시작할 수 있습니다.
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h3 class="wysiwyg-indent1" id="h_01HF51MAGFFX17VYZGSTXMXM0N">
+      어떤 플랫폼에서 Roblox Connect를 이용할 수 있나요?
+     </h3>
+     <p class="wysiwyg-indent2">
+      Roblox Connect는 출시 이후 모바일(iOS 및 Android) 및 데스크톱에서 이용할 수 있습니다. 다른 플랫폼에도 곧 출시될 예정입니다.
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h3 class="wysiwyg-indent1" id="h_01HF51NNYZA0HJNR9MECCBNDJP">
+      Roblox를 이용하지 않는 누구에게나 전화를 걸 수 있나요?
+     </h3>
+     <p class="wysiwyg-indent2">
+      아니요. 현재는 Roblox 전화번호부에 있는 친구에게만 전화할 수 있습니다.
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h3 class="wysiwyg-indent1" id="h_01HF51PEZKBXSTMW9ZS6STXJ86">
+      카메라를 사용하고 싶지 않은 사람도 Roblox Connect를 경험할 수 있나요?
+     </h3>
+     <p class="wysiwyg-indent2">
+      예. 카메라를 사용하지 않아도 Roblox Connect를 이용할 수 있습니다. 여전히 통화를 하고 전화를 받아 체험에 입장할 수 있지만, 카메라를 사용한 얼굴 애니메이션은 제공되지 않습니다.
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h3 class="wysiwyg-indent1" id="h_01HF51QJ5H2J5PSNMSFSY3261R">
+      그룹 통화가 가능한가요?
+     </h3>
+     <p class="wysiwyg-indent2">
+      향후 출시를 위해 작업 중입니다!
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h2 id="h_01HF51S8CCEP58D5V42YTF8T87">
+      Roblox Connect의 1대1 통화에서 안전은 어떻게 보장되나요?
+     </h2>
+     <p>
+     </p>
+     <h3 class="wysiwyg-indent1" id="h_01HF51SY2671F3DRHQJ43AP8A2">
+      스팸 전화, 불법 이용, 남용을 해결하기 위한 어떤 예방 조치가 있나요?
+     </h3>
+     <p class="wysiwyg-indent2">
+      이용자 전체를 원치 않는 노출로부터 보호하기 위한 여러 방호책이 있습니다. 시스템은 스팸 탐지 로직(반복적인 통화 제한, 통화 금지), 통화자 요건, 체험 보호를 포함한 다양한 도구를 사용하여 스팸 전화를 식별합니다.
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h3 class="wysiwyg-indent1" id="h_01HF51V1FQ218S45SDVX770MG3">
+      <a name="What_options_does_a_user_have_when_they_experience_bad_behavior">
+      </a>
+      나쁜 행동을 경험한 사용자에게는 어떤 선택지가 있나요?
+     </h3>
+     <p class="wysiwyg-indent2">
+      사용자가 전화를 받고 싶지 않거나 나쁜 행동을 경험하는 경우, Roblox 친구 목록에서 연락처를 차단하거나 친구 끊기를 활용할 수 있습니다. 또한 사용자가 Roblox 메뉴로 이동하면, 신고를 클릭하여 차단할 사람을 선택할 수 있는 옵션이 있습니다.
+     </p>
+     <p class="wysiwyg-indent2">
+      또한 전체 소통 경험은 여전히 기존 및 설정된 음성 모더레이션 인프라를 기반으로 하기 때문에 사용자는 목격한 모든 나쁜 행동에 대해 신고 및 안전 보고서를 제출할 수 있습니다. 자세한 정보는
+      <a href="https://en.help.roblox.com/hc/articles/4405807645972">
+       음성으로 채팅하기 자주 묻는 질문
+      </a>
+      을 확인하세요.
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h3 class="wysiwyg-indent1" id="h_01HFF4D8D3HB8A359TVW1PDYE4">
+      사용자는 전화를 받을 때 방해금지(DND) 설정이 적용되는지 어떻게 확인할 수 있나요?
+     </h3>
+     <p class="wysiwyg-indent2">
+      iOS에서 의도한 대로, iOS에서 방해금지 설정을 한 경우에도 반복적인 전화를 받게 될 수 있습니다. 이를 비활성화하려면 집중 모드 설정에서 반복 통화를 허용하지 않으면 됩니다. 설정
+      <img alt="iOSSettings.png" height="30" src="https://en.help.roblox.com/hc/article_attachments/21039871187732" width="31"/>
+      &gt; 집중 모드로 이동한 뒤 방해금지 모드, 개인 시간, 수면, 업무 중 하나를 선택합니다.
+      <a href="https://support.apple.com/ko-kr/guide/iphone/iph21d43af5b/ios#:~:text=Go%20to%20Settings%20%3E%20Focus%2C%20then,Personal%2C%20Sleep%2C%20or%20Work.&amp;text=%2C%20then%20select%20from%20your%20contacts,same%20person%20within%203%20minutes">
+       여기
+      </a>
+      에서 자세한 내용을 확인할 수 있습니다.
+     </p>
+     <p class="wysiwyg-indent2">
+      Android 기기 사용자이며 방해금지 설정을 어떤 식으로 사용할 수 있는지 알고 싶은 경우,
+      <a href="https://support.google.com/android/answer/9069335">
+       여기
+      </a>
+      에서 확인할 수 있습니다.
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h3 class="wysiwyg-indent1" id="h_01HF86A1R95QFR4NGB2HH4MBH8">
+      통화를 비활성화해야 하거나 통화하지 않고 계속하려면 어떤 선택지가 있나요?
+     </h3>
+     <p class="wysiwyg-indent2">
+      Roblox Connect는 사용자가 친구와 연결하여 소통할 수 있도록 지원합니다. 하지만 전화를 받고 싶지 않은 경우, 친구 끊기를 하거나 Roblox 전화번호부나 친구 목록에서 연락처를 직접 차단할 수 있습니다.
+     </p>
+     <p class="wysiwyg-indent2">
+      또한 Android를 사용하는 경우, Roblox 알림 설정으로 이동한 뒤 통화 알림을 끌 수 있습니다.
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h3 class="wysiwyg-indent1" id="h_01HF51WXB9DY6WK6R3J23Y7NEB">
+      통화 중 사용자 데이터의 안전은 어떻게 유지되나요?
+     </h3>
+     <p class="wysiwyg-indent2">
+      개발자는 통화를 받는 사람의 ID와 특정 통화 자격에만 액세스할 수 있습니다. 또한 Roblox Connect는
+      <a href="https://create.roblox.com/docs/chat/spatial-voice">
+       음성으로 채팅하기
+      </a>
+      및
+      <a href="https://create.roblox.com/docs/art/characters/facial-animation">
+       얼굴 애니메이션
+      </a>
+      을 이용하며 이미 존재하는 인증 인프라를 활용합니다.
+     </p>
+     <p class="wysiwyg-indent2">
+      자세한 내용은
+      <a href="https://www.roblox.com/info/privacy">
+       개인정보 처리방침
+      </a>
+      ,
+      <a href="https://en.help.roblox.com/hc/articles/8064749848980">
+       Roblox 얼굴 애니메이션 개인정보 처리방침
+      </a>
+      ,
+      <a href="https://en.help.roblox.com/hc/articles/5704050147604">
+       음성으로 채팅하기 자주 묻는 질문
+      </a>
+      ,
+      <a href="https://create.roblox.com/docs/resources/roblox-connect">
+       Roblox Connect 사용 가이드
+      </a>
+      를 참조하세요.
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h3 class="wysiwyg-indent1" id="h_01HF524RTRAMHZWDVCM4XDRZRJ">
+      사용자가 카메라를 활성화하면 Roblox에 데이터가 저장되나요?
+     </h3>
+     <p class="wysiwyg-indent2">
+      아니요. 사용자가 아바타 애니메이션을 생성하기 위해 카메라를 사용하는 경우, 해당 처리에 의해 생성된 애니메이션 키 프레임은 사용 후 실시간으로 삭제되며 공유되지 않습니다. 카메라로 찍은 동영상은 절대 기기 밖으로 유출되지 않습니다.
+     </p>
+     <p class="wysiwyg-indent2">
+      자세한 정보는
+      <a href="https://en.help.roblox.com/hc/articles/8064749848980">
+       Roblox 얼굴 애니메이션 개인정보 처리 방침
+      </a>
+      을 확인하세요.
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h3 class="wysiwyg-indent1" id="h_01HF527HC8Q90Q02YYZ2KH1HQH">
+      음성 대화는 어떤가요? Roblox는 음성 대화를 저장하나요?
+     </h3>
+     <p class="wysiwyg-indent2">
+      Roblox는 신고에 대한 모더레이터 평가, 자동 안전 탐지 시스템 훈련 및 평가, 전반적인 플랫폼 안전도 측정을 포함한 모더레이션 목적으로 음성 녹음을 사용합니다. 자세한 내용은
+      <a href="https://www.roblox.com/info/privacy">
+       개인정보 처리방침
+      </a>
+      을 확인하세요.
+     </p>
+     <p class="wysiwyg-indent2">
+      Roblox는 제삼자에게 음성 녹음을 공유하거나 위 내용 또는 개인정보 처리방침에 명시된 이외의 방식으로 음성 녹음을 사용하지 않습니다.
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h3 class="wysiwyg-indent1" id="h_01HF52ABZ00KZ4FYNAH820VC4B">
+      음성 녹음은 어떤 방식으로 저장되나요?
+     </h3>
+     <p class="wysiwyg-indent2">
+      Roblox는 사용자의 정보 보안을 중요하게 생각합니다. 개인 정보의 분실, 악용, 변경을 방지하기 위한 조처가 마련되어 있습니다. 녹음은 암호화되며 제한된 수의 내부 팀에서만 액세스할 수 있습니다.
+     </p>
+     <p class="wysiwyg-indent2">
+      음성으로 채팅하기에 대한 자세한 정보는 음성
+      <a href="https://en.help.roblox.com/hc/articles/5704050147604">
+       자주 묻는 질문
+      </a>
+      을 확인하세요.
+     </p>
+     <p class="wysiwyg-indent2">
+      음성 녹음을 포함한 모든 개인 정보는
+      <a href="https://en.help.roblox.com/hc/articles/203313050">
+       개인정보 권리 요청
+      </a>
+      (보안 예외 사항 및 사법권에 따른 요건이 적용될 수 있습니다)을 통해 삭제할 수 있습니다.
+     </p>
+    </div>
+    <!--           Add content tags to articles and posts -->
+   </div>
