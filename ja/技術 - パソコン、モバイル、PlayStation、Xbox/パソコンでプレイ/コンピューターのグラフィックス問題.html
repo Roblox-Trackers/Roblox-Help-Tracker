@@ -1,0 +1,252 @@
+   <h1 class="article-title" id="article-title" title="コンピューターのグラフィックス問題">
+    コンピューターのグラフィックス問題
+   </h1>
+   <div class="article-content">
+    <div class="article-body">
+     <p>
+      Robloxでグラフィックの問題が発生している場合は、次の情報をお読みください。
+     </p>
+     <p>
+     </p>
+     <h1>
+      グラフィックの問題を示す一般的な問題
+     </h1>
+     <ul>
+      <li>
+       エクスペリエンスを起動しようとすると"グラフィックカードが古すぎます"というエラーが表示される
+      </li>
+      <li>
+       エクスペリエンスのプレイ中にRobloxがクラッシュし、グラフィックエラーが報告される
+      </li>
+      <li>
+       メッセージの受信: "グラフィックスの初期化に失敗しました"
+      </li>
+      <li>
+       奇妙な見た目のテクスチャ、画像のゆがみ、判読不能なテキストなど、すべてののプレイ中に異常に見える
+      </li>
+     </ul>
+     <p>
+     </p>
+     <h1>
+      なぜ起こるのか
+     </h1>
+     <ul>
+      <li>
+       PCにDirectX10 以上またはそれ以上の機能レベルのサポートがない場合
+      </li>
+      <li>
+       グラフィックカードに最新のドライバーがインストールされていない場合
+      </li>
+      <li>
+       グラフィックカードがRobloxでサポートされていない(まれなケース)
+      </li>
+      <li>
+       プレイヤーがRobloxグラフィック設定を変更した場合’
+      </li>
+     </ul>
+     <p>
+     </p>
+     <h1>
+      What to Do
+     </h1>
+     <p class="wysiwyg-indent1">
+      1度に1ステップずつ以下を試してください。 各ステップの後、まだ問題があるかどうかを確認します。 まだ問題があるようであれば続けてください。
+     </p>
+     <p class="wysiwyg-indent1">
+     </p>
+     <h2 class="wysiwyg-indent1">
+      Robloxグラフィックスをリセット
+     </h2>
+     <p class="wysiwyg-indent2">
+      これは、クラッシュすることなくRobloxを起動できる場合にのみ適用されます。
+     </p>
+     <ol>
+      <ol>
+       <li>
+        Roblox Studioを開きます
+       </li>
+       <li>
+        <span style="font-weight: 400;">
+         [ファイル]メニューを開き、
+        </span>
+        <strong>
+         設定
+        </strong>
+        <span style="font-weight: 400;">
+         をクリックします
+        </span>
+       </li>
+       <li>
+        <strong>
+         OK
+        </strong>
+        <span style="font-weight: 400;">
+         をクリックして続行します
+        </span>
+       </li>
+       <li>
+        <span style="font-weight: 400;">
+         ポップアップウィンドウの左下にある
+        </span>
+        <strong>
+         すべての設定をリセット
+        </strong>
+        <span style="font-weight: 400;">
+         ボタンをクリックします。
+        </span>
+       </li>
+      </ol>
+     </ol>
+     <p>
+     </p>
+     <h2 class="wysiwyg-indent1">
+      サポートされているDirectX 機能レベルの検出
+     </h2>
+     <p class="wysiwyg-indent2">
+      サポートされている DirectX 機能レベルを確認するには:
+     </p>
+     <ol>
+      <ol>
+       <li>
+        <strong>
+         Windowsキー+Rキー
+        </strong>
+        を押して、
+        <strong>
+         実行
+        </strong>
+        プロンプトを表示します。
+       </li>
+       <li>
+        "dxdiag" (引用符なし) と入力し、
+        <strong>
+         Enter
+        </strong>
+        キーを押します。
+       </li>
+       <li>
+        DirectXウィンドウのパネル ビューから
+        <strong>
+         ディスプレイ
+        </strong>
+        または
+        <strong>
+         ディスプレイ 1
+        </strong>
+        タブをクリックし、可能な場合は
+        <strong>
+         ディスプレイ 2
+        </strong>
+        タブをクリックします。
+        <ul>
+         <li>
+          Windows 8.1/10の場合は
+          <strong>
+           機能レベル
+          </strong>
+          を探します。 Windows 7の場合は
+          <strong>
+           DDI バージョン
+          </strong>
+          を探します。
+         </li>
+        </ul>
+       </li>
+      </ol>
+     </ol>
+     <p class="wysiwyg-indent2">
+      "DDI バージョン" または "機能レベル" の行に"10"以上が表示されない場合、お使いのグラフィック カードは DX10 以降をサポートしていないため、アプリケーションにアクセスできません。
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h2 class="wysiwyg-indent1">
+      ディスプレイの色品質を下げる
+     </h2>
+     <p class="wysiwyg-indent2">
+      グラフィックカードが、通常のデスクトップ操作に使用する色品質の3Dレンダリングをサポートできない可能性があります。 ビット深度を16ビットに下げてみて、それが役立つかどうかを確認できます。
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h2 class="wysiwyg-indent1">
+      グラフィックカードドライバーをアップグレード
+     </h2>
+     <p class="wysiwyg-indent2">
+      Robloxが現在使用しているグラフィックカードを確認するには、次を試してください。
+     </p>
+     <ol>
+      <ol>
+       <li>
+        Roblox Studioを開きます
+       </li>
+       <li>
+        <strong>
+         スタジオ設定
+        </strong>
+        <span style="font-weight: 400;">
+         を開きます
+        </span>
+       </li>
+       <li>
+        <strong>
+         診断
+        </strong>
+        <span style="font-weight: 400;">
+         をクリックします
+        </span>
+       </li>
+       <li>
+        <span style="font-weight: 400;">
+         下にスクロールして、
+        </span>
+        <strong>
+         GfxCard
+        </strong>
+        <span style="font-weight: 400;">
+         というラベルの付いた行を見つけます。
+        </span>
+       </li>
+       <li>
+        これにより、Robloxが現在使用しているグラフィックカードが一覧表示されます。
+       </li>
+      </ol>
+     </ol>
+     <p class="wysiwyg-indent2">
+      グラフィックカードの製造元が提供するサポートページにアクセスし、特定のモデルの最新ドライバーをダウンロードしてください。
+     </p>
+     <p class="wysiwyg-indent1">
+     </p>
+     <h2 class="wysiwyg-indent1">
+      互換モードを確認する
+     </h2>
+     <p class="wysiwyg-indent2">
+      グラフィックが古くなっているというメッセージが表示されても、コンピュータが最低仕様要件を満たしている場合は、アプリケーションが互換モードで実行されているかどうかを確認できます。
+     </p>
+     <ol>
+      <ol>
+       <li>
+        RobloxまたはRobloxStudioアプリケーションを右クリックし、
+        <strong>
+         プロパティ
+        </strong>
+        を選択します。
+       </li>
+       <li>
+        <strong>
+         互換性
+        </strong>
+        タブを選択します。
+       </li>
+       <li>
+        <strong>
+         互換モードでこのプログラムを実行
+        </strong>
+        ボックスが選択されている場合は、選択を解除します。
+       </li>
+      </ol>
+     </ol>
+     <p class="wysiwyg-indent2">
+      グラフィックカードの製造元が提供するサポートページにアクセスし、特定のモデルの最新のドライバーをダウンロードしてください。
+     </p>
+    </div>
+    <!--           Add content tags to articles and posts -->
+   </div>

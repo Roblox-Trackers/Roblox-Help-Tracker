@@ -1,0 +1,357 @@
+   <h1 class="article-title" id="article-title" title="Robloxコネクトに関するよくあるご質問">
+    Robloxコネクトに関するよくあるご質問
+   </h1>
+   <div class="article-content">
+    <div class="article-body">
+     <h2 id="h_01HF4ZBVTDPTTCPB56ARZTX3EX">
+      Robloxコネクトとは？
+     </h2>
+     <p>
+     </p>
+     <h3 class="wysiwyg-indent1" id="h_01HF4ZDMYMR7FCGC5GMYCNQQ9Q">
+      Robloxコネクトとは？
+     </h3>
+     <p class="wysiwyg-indent2">
+      コネクト（Connect）とは、アバターとしてRoblox（ロブロックス）で友達を誘って、一緒に没入感のあるの共有空間で会話できる機能です。 お友達と楽んでいただけるよう、オプションをご用意しています。 さらに、コネクト（Connect）を実現する技術はすべてオープンソースになっているため、クリエーターのみなさんはRobloxで既存・新規のバーチャル空間で同期音声やアバターによるコミュニケーション機能を組み込むことができます。
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h3 class="wysiwyg-indent1" id="h_01HF4ZJTQ46WZBFFGND34S5G5F">
+      Robloxコネクトの利用対象者は誰ですか？
+     </h3>
+     <p class="wysiwyg-indent2">
+      13歳以上のRoblox音声対応ユーザー（
+      <a href="https://en.help.roblox.com/hc/articles/203313350">
+       電話番号の認証済み
+      </a>
+      または
+      <a href="https://en.help.roblox.com/hc/ja/articles/4407282410644">
+       本人確認書類の確認
+      </a>
+      済みであること）。 また、コネクトを利用するにはRobloxを最新バージョンにアップデートする必要があります。
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h3 class="wysiwyg-indent1" id="h_01HF4ZV9JPYF3VP7HD22VX6JPX">
+      Robloxコネクトは、どのプラットフォームで利用できますか？
+     </h3>
+     <p class="wysiwyg-indent2">
+      Robloxコネクトは、モバイル（iOSおよびAndroid）とデスクトップの両方で利用可能です。 今後、他のプラットフォームでもご利用いただけるようにしていく予定です。
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h3 class="wysiwyg-indent1" id="h_01HF4ZWB5Z8KYKVT9Y6R7EA5HG">
+      国際通話は利用可能ですか？
+     </h3>
+     <p class="wysiwyg-indent2">
+      通話は、
+      <a href="https://create.roblox.com/docs/chat/spatial-voice">
+       音声でチャットが利用可能
+      </a>
+      なすべての場所でご利用いただけます。また、今後さらに多くの国で提供される予定です。
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h3 class="wysiwyg-indent1" id="h_01HF507S7STN87MFRKNT5ZTZJ3">
+      APIを利用できるバーチャル空間に制限はありますか？
+     </h3>
+     <p class="wysiwyg-indent2">
+      1週間以上ご利用いただいたバーチャル空間のみ、API呼び出しが利用可能です。
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h2 id="h_01HF50A6AKBQ95JE7EJTSHZ3ZB">
+      クリエーターにとって、Robloxコネクトの活用方法とは？
+     </h2>
+     <p>
+     </p>
+     <h3 class="wysiwyg-indent1" id="h_01HF50BXGEC82553M2Z61T67Y7">
+      クリエーターにとって、各バーチャル空間におけるAPIの活用方法とは？
+     </h3>
+     <p class="wysiwyg-indent2">
+      Robloxコネクト機能は、API呼び出しとともにすべてオープンソース化され、開発者はRobloxのあらゆるバーチャル空間にアバターによる同期コミュニケーションを導入することができます。 開発者が本技術を利用できる3つの方法：
+     </p>
+     <ol>
+      <li class="wysiwyg-indent2">
+       新たにAPI呼び出しを利用して、バーチャル空間内に通信機能を取り入れる：
+       <a href="https://create.roblox.com/docs/reference/engine/classes/SocialService">
+        SocialService
+       </a>
+       と
+       <a href="https://create.roblox.com/docs/reference/engine/classes/PlayerViewService">
+        PlayerView
+       </a>
+       。 クリエーターのみなさんは電話帳機能やUXをそれぞれのバーチャル空間に統合させることが可能となり、ユーザーはどのバーチャル空間内あでも簡単に友達に連絡できます。
+      </li>
+      <li class="wysiwyg-indent2">
+       <a href="https://create.roblox.com/docs/reference/engine/classes/SocialService">
+        SelfView
+       </a>
+       のようなコミュニケーション重視の機能を有効にして、ユーザーがバーチャル空間を一人称で楽しむことができます。 API呼び出しを有効にする3通りの表示：
+       <ul>
+        <li class="wysiwyg-indent2">
+         <strong>
+          <span class="wysiwyg-underline">
+           PIP（ピクチャーインピクチャー）
+          </span>
+         </strong>
+         : ユーザーが通話や着信時にコネクトを開くと、初回にセルフビューがPIPモードでポップアップ表示されます。 SelfView は左下に表示されます。 移動すると、それ以降はその位置に固定されます。
+        </li>
+        <li class="wysiwyg-indent2">
+         <strong>
+          <span class="wysiwyg-underline">
+           Free Play
+          </span>
+         </strong>
+         : Free PlayはRobloxのデフォルトカメラで、常に三人称視点に設定されています。
+        </li>
+        <li class="wysiwyg-indent2">
+         <strong>
+          <span class="wysiwyg-underline">
+           Cinematic
+          </span>
+         </strong>
+         : シネマモードでは、ダイナミックなカメラ映像を楽しむことができます。 カメラの位置、向き、視野がリアルタイムで調整され、ゲーム内の対象が2つに絞られます。 また、対象間の距離や画面アスペクト比といった要素も配慮され、円滑かつ快適なプレーヤー体験が提供されます。
+        </li>
+       </ul>
+      </li>
+      <li class="wysiwyg-indent2">
+       Robloxコネクトの環境アセットを使いこなす。 環境切り替えを使用すると、ユーザーは通話中に森（キャンプファイヤー、波止場、滝）や島（ビーチ、カバナ、焚火）の複数の場所にアクセスできるようになり、新たな場所にテレポートすることができます。
+      </li>
+     </ol>
+     <p class="wysiwyg-indent2">
+      詳しくは、
+      <a href="https://create.roblox.com/docs/resources/roblox-connect">
+       Robloxコネクトの利用ガイド
+      </a>
+      をごらんください。
+     </p>
+     <p>
+     </p>
+     <h3 class="wysiwyg-indent1" id="h_01HF519WN61PC1VFD5MJTS7S5Y">
+      API呼び出しにもサウンドアセットはありますか？
+     </h3>
+     <p class="wysiwyg-indent2">
+      開発者はRoblox Connectのサウンドアセットをすべて利用することができます。
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h3 class="wysiwyg-indent1" id="h_01HF51C8FRNGEY81CC9ZS42TTW">
+      新しい通信手段（カメラ、音声）によって、バーチャル空間におけるパフォーマンスはどのように変化しますか？
+     </h3>
+     <p class="wysiwyg-indent2">
+      パフォーマンスへの影響を最小限に抑えるため、当機能は各種デバイスで最適化され、動作検証が行われています。 大多数のクリエーターやユーザーのみなさんにとって、この機能を有効にすることによる影響はほとんどないと思われます。 ご利用の際は、まず
+      <a href="https://create.roblox.com/docs/chat/spatial-voice">
+       音声でチャットご利用ガイド
+      </a>
+      および
+      <a href="https://create.roblox.com/docs/resources/roblox-connect">
+       Roblox Connectご利用ガイド
+      </a>
+      をご参照ください。
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h3 class="wysiwyg-indent1" id="h_01HF51H00P9FVT7YCNXP46R6K3">
+      バーチャル空間内で通話を有効にすると、自動的に13歳以上のユーザーが利用対象となりますか？
+     </h3>
+     <p class="wysiwyg-indent2">
+      いいえ。通話機能をバーチャル空間に追加しても、バーチャル空間ガイドラインに変更はありません。バーチャル空間で要件を満たすユーザー（13歳以上、電話番号または本人確認書類の認証済みの場合）のみ、通話機能を利用することができます。
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h2 id="h_01HF51J82BF0K716B64X33TJKW">
+      ユーザーにとって、Robloxコネクトの活用方法とは？
+     </h2>
+     <p>
+     </p>
+     <h3 class="wysiwyg-indent1" id="h_01HF51K16HJJE5HVVR91DH9CH4">
+      Robloxコネクトの起動時にどんなことが可能になりますか？
+     </h3>
+     <p class="wysiwyg-indent2">
+      Robloxの電話帳に登録されている友達に通話を発信することができます。 発信すると、直接相手の電話に着信が届きます。 その後、発信がRobloxコネクトで受信・接続されると、相手と互いのアバター、リアルな表情や声で突入感のある会話を始めることができます。
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h3 class="wysiwyg-indent1" id="h_01HF51MAGFFX17VYZGSTXMXM0N">
+      Robloxコネクトは、どのプラットフォームで利用できますか？
+     </h3>
+     <p class="wysiwyg-indent2">
+      Robloxコネクトは、モバイル（iOSとAndroid）とデスクトップの両方で利用可能です。 今後、他のプラットフォームでもご利用いただけるようにしていく予定です。
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h3 class="wysiwyg-indent1" id="h_01HF51NNYZA0HJNR9MECCBNDJP">
+      相手がRobloxユーザーではない場合でも通話は利用可能ですか？
+     </h3>
+     <p class="wysiwyg-indent2">
+      いいえ。 現在、Robloxの電話帳に登録されている友達にのみ、通話を発信することができます。
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h3 class="wysiwyg-indent1" id="h_01HF51PEZKBXSTMW9ZS6STXJ86">
+      カメラの不使用を希望する場合でも、Robloxコネクトは利用可能ですか？
+     </h3>
+     <p class="wysiwyg-indent2">
+      はい。 Robloxコネクトのご利用にカメラを使う必要はありません。 通話を発信したり、受信したり、バーチャル空間へ入ることも可能です。その際、カメラによる表情アニメーションは表示されません。
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h3 class="wysiwyg-indent1" id="h_01HF51QJ5H2J5PSNMSFSY3261R">
+      グループ通話はいつから利用可能ですか？
+     </h3>
+     <p class="wysiwyg-indent2">
+      現在、開発中です！
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h2 id="h_01HF51S8CCEP58D5V42YTF8T87">
+      Robloxコネクトでの1対1の通話の安全性について教えてください。
+     </h2>
+     <p>
+     </p>
+     <h3 class="wysiwyg-indent1" id="h_01HF51SY2671F3DRHQJ43AP8A2">
+      迷惑電話、悪用、不正利用に対して、どのような予防措置が講じられていますか？
+     </h3>
+     <p class="wysiwyg-indent2">
+      好ましくない接触から通話者を守るため、いくつかの安全対策が設けられています。 当システムは、スパム検出（再発信頻度の制限、発信規制）、発信者要件の設定、通話体験の保護など、多くのツールを導入し、スパムコールを特定しています。
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h3 class="wysiwyg-indent1" id="h_01HF51V1FQ218S45SDVX770MG3">
+      <a name="What_options_does_a_user_have_when_they_experience_bad_behavior">
+      </a>
+      悪質な行為に遭遇した場合、どうのような対処法がありますか？
+     </h3>
+     <p class="wysiwyg-indent2">
+      通話を受信したくない場合や、悪質行為に遭遇した場合、Robloxの友達リストから直接相手をブロックしたり、リストから除外することができます。 また、Robloxメニューに移動し「報告」をクリックしてブロックする相手を特定することもできます。
+     </p>
+     <p class="wysiwyg-indent2">
+      さらに、すべての通信内容は、既存の確立された音声に関する内容審査の枠組みのもとで行われるため、悪質な行為が見受けられた場合、不正行為や安全性に関して通報できます。 詳しくは、
+      <a href="https://en.help.roblox.com/hc/ja/articles/4405807645972">
+       音声でチャットに関するよくあるご質問
+      </a>
+      をごらんください。
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h3 class="wysiwyg-indent1" id="h_01HFF4D8D3HB8A359TVW1PDYE4">
+      着信時の着信拒否の有効設定を確認する方法とは？
+     </h3>
+     <p class="wysiwyg-indent2">
+      iOSの設定により、着信拒否中に繰り返し通話を受信する可能性がある点にご留意ください。 フォーカス設定で繰り返し着信を無効にすることが可能です。 設定に移動し、
+      <img alt="iOSSettings.png" height="30" src="https://en.help.roblox.com/hc/article_attachments/21039871187732" width="31"/>
+      フォーカスを選択（着信拒否、指名通話、スリープ、仕事など）。 また詳しくは、
+      <a href="https://support.apple.com/ja-jp/guide/iphone/iph21d43af5b/ios#:~:text=Go%20to%20Settings%20%3E%20Focus%2C%20then,Personal%2C%20Sleep%2C%20or%20Work.&amp;text=%2C%20then%20select%20from%20your%20contacts,same%20person%20within%203%20minutes">
+       こちら
+      </a>
+      からご覧いただけます。
+     </p>
+     <p class="wysiwyg-indent2">
+      Androidデバイスをお持ちの方で、着信拒否設定のオプションについて知りたい方は、
+      <a href="https://support.google.com/android/answer/9069335">
+       こちら
+      </a>
+      をごらんください。
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h3 class="wysiwyg-indent1" id="h_01HF86A1R95QFR4NGB2HH4MBH8">
+      通話を無効にしたり、中断する場合、どのようなオプションがありますか？
+     </h3>
+     <p class="wysiwyg-indent2">
+      Robloxコネクトを使って、友達と繋がったり、通話したりできます。 一方、通話を受信したくない場合は、電話帳やRobloxの友達リストから直接相手を除外したり、ブロックすることができます。
+     </p>
+     <p class="wysiwyg-indent2">
+      また、Androidの場合、Robloxの通知設定で着信通知をオフにすることができます。
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h3 class="wysiwyg-indent1" id="h_01HF51WXB9DY6WK6R3J23Y7NEB">
+      通話中、ユーザー情報に関する安全性はどのように維持されていますか？
+     </h3>
+     <p class="wysiwyg-indent2">
+      開発者によるアクセスは、着信者のIDと特定の通話ステータスに限定されています。 また、Robloxコネクトには
+      <a href="https://create.roblox.com/docs/chat/spatial-voice">
+       音声でチャット
+      </a>
+      や
+      <a href="https://create.roblox.com/docs/art/characters/facial-animation">
+       表情アニメーション
+      </a>
+      が実装されており、すでに導入されている検証システムを利用しています。
+     </p>
+     <p class="wysiwyg-indent2">
+      詳しくは、
+      <a href="https://www.roblox.com/info/privacy">
+       プライバシーポリシー
+      </a>
+      、
+      <a href="https://en.help.roblox.com/hc/ja/articles/8064749848980">
+       Robloxの表情アニメーションのプライバシーに関する通知
+      </a>
+      、
+      <a href="https://en.help.roblox.com/hc/ja/articles/5704050147604">
+       音声でチャットに関するよくあるご質問
+      </a>
+      、
+      <a href="https://create.roblox.com/docs/resources/roblox-connect">
+       Robloxコネクト利用ガイド
+      </a>
+      をごらんください。
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h3 class="wysiwyg-indent1" id="h_01HF524RTRAMHZWDVCM4XDRZRJ">
+      カメラを有効にした場合、Robloxにデータは保存されますか？
+     </h3>
+     <p class="wysiwyg-indent2">
+      いいえ。 カメラを使ってアバターがアニメーション化される場合、作成されたキーフレームは、使用後にリアルタイムで削除され、共有されることはありません。 カメラの映像がデバイスから送信されることはありません。
+     </p>
+     <p class="wysiwyg-indent2">
+      詳しくは、Robloxの
+      <a href="https://en.help.roblox.com/hc/ja/articles/8064749848980">
+       表情アニメーションのプライバシーに関する通知
+      </a>
+      をごらんください。
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h3 class="wysiwyg-indent1" id="h_01HF527HC8Q90Q02YYZ2KH1HQH">
+      音声通話について教えてください。 会話データは保存されますか？
+     </h3>
+     <p class="wysiwyg-indent2">
+      Robloxでは、規約違反の報告に対する内容審査担当者による評価、自動安全検知システムの強化と評価、プラットフォーム全体の安全性の評価など、内容審査を行う目的で音声記録が利用されます。 詳しくは、
+      <a href="https://www.roblox.com/info/privacy">
+       プライバシーポリシー
+      </a>
+      をごらんください。
+     </p>
+     <p class="wysiwyg-indent2">
+      Robloxでは、上記、またはプライバシーポリシーに記載されている場合を除き、音声記録が第三者と共有されたり、使用されることはありません。
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h3 class="wysiwyg-indent1" id="h_01HF52ABZ00KZ4FYNAH820VC4B">
+      音声記録の保存方法とは？
+     </h3>
+     <p class="wysiwyg-indent2">
+      当社は各個人情報の安全性を重視しています。 そのため、紛失や誤用、改ざんから個人情報を保護するための措置を設けています。 記録は暗号化され、アクセスは社内の限られたチームのみに限定されています。
+     </p>
+     <p class="wysiwyg-indent2">
+      詳しくは、「音声でチャット」に関する
+      <a href="https://en.help.roblox.com/hc/ja/articles/5704050147604">
+       よくあるご質問
+      </a>
+      をごらんください。
+     </p>
+     <p class="wysiwyg-indent2">
+      ボイス（音声）記録を含むすべての個人情報は、
+      <a href="https://en.help.roblox.com/hc/articles/203313050">
+       プライバシー権の要求
+      </a>
+      により削除することができます（安全上の例外および管轄区域のの要件が適用される場合があります）。
+     </p>
+    </div>
+    <!--           Add content tags to articles and posts -->
+   </div>
