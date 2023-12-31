@@ -1,0 +1,357 @@
+   <h1 class="article-title" id="article-title" title="在 Studio 中編輯和測試（編輯模式）">
+    在 Studio 中編輯和測試（編輯模式）
+   </h1>
+   <div class="article-content">
+    <div class="article-body">
+     <p>
+      編輯模式是 Roblox Studio 中的一個功能，允許您在沒有東西移動的情況下編輯整個或大部分地點（有點像時間停止了）。它提供了大量的工具和選項來協助您建造和自訂您的地點。在退出編輯模式之前，我們建議您將工作進度儲存到電腦上。
+     </p>
+     <p>
+     </p>
+     <h1>
+      進入編輯模式
+     </h1>
+     <p class="wysiwyg-indent1">
+      您可以使用以下任何一種方式進入編輯模式：
+     </p>
+     <ul>
+      <li>
+       <div class="crowdin_phrase status_select" id="crowdin_phrase_16736" title="">
+        前往
+        <span>
+         體驗
+        </span>
+        的詳細資料頁面，點擊開始按鈕上方的 3 個點圖示，並從彈出的選單中選擇「編輯」。請注意，這將需要是你自己的
+        <span>
+         體驗
+        </span>
+        之一。若
+        <span>
+         體驗
+        </span>
+        屬於其他人，該
+        <span>
+         體驗
+        </span>
+        不可為
+        <a href="/hc/articles/203313940" rel="noopener" style="background-color: #ffffff;" target="_blank">
+         複製保護
+        </a>
+        狀態
+       </div>
+      </li>
+      <li>
+       <div class="crowdin_phrase" id="crowdin_phrase_16740" title="">
+        前往
+        <a href="http://web.roblox.com/develop" rel="noopener noreferrer" target="_blank">
+         創作
+        </a>
+        ，找到你想要編輯的地點，並點擊對應的「編輯」按鈕。
+       </div>
+      </li>
+      <li>
+       <div class="crowdin_phrase" id="crowdin_phrase_16742" title="">
+        在 Studio 的檔案選單中選擇「開啟」並選擇一個儲存到您的電腦上的地點。
+       </div>
+      </li>
+      <li>
+       <div class="crowdin_phrase" id="crowdin_phrase_16744" title="">
+        在 Studio 中選擇檔案 →「新增」。這將開啟一個空白的地點，此地點幾乎可以變成任何您想要的樣貌。
+       </div>
+      </li>
+     </ul>
+     <h1>
+      標籤
+     </h1>
+     <p class="wysiwyg-indent1">
+      Studio 在各個標籤中有可以快速點擊的按鈕，這些按鈕會提供一系列不同的選項。 這些標籤分別為：
+     </p>
+     <ul>
+      <li>
+       <div class="crowdin_phrase" id="crowdin_phrase_16756" title="">
+        「Home」（首頁）：這包含了各種最常用的按鈕，以供快速參考。
+       </div>
+      </li>
+      <li>
+       <div class="crowdin_phrase" id="crowdin_phrase_16758" title="">
+        「Model」（模型）：您將在這裡找到代表大部分物件插入和修改選項的按鈕。
+       </div>
+      </li>
+      <li>
+       <div class="crowdin_phrase" id="crowdin_phrase_16760" title="">
+        「Terrain」（地形）：這裡擁有所有讓您修改地形的工具。
+       </div>
+      </li>
+      <li>
+       <div class="crowdin_phrase" id="crowdin_phrase_16762" title="">
+        「Test」（測試）：此標籤內的功能可以協助您測試您的變更如何在
+        <span>
+         體驗
+        </span>
+        中運作。另外，此標籤的模擬區域將讓您看到您的
+        <span>
+         體驗
+        </span>
+        在不同的行動裝置或電視上的外觀。
+       </div>
+      </li>
+      <li>
+       <div class="crowdin_phrase" id="crowdin_phrase_16766" title="">
+        「View」（檢視）：允許您在 Studio 中顯示或隱藏各個部分或視窗。
+       </div>
+      </li>
+      <li>
+       <div class="crowdin_phrase" id="crowdin_phrase_16768" title="">
+        「Plugins」（外掛程式）：您可以在這裡找到所有您已經下載或增加到您的帳號的外掛程式。若要了解更多關於此功能的資訊，請閱讀
+        <a href="https://create.roblox.com/docs/studio/plugins" rel="noopener" target="_blank">
+         外掛程式
+        </a>
+        文章。
+       </div>
+      </li>
+     </ul>
+     <h1>
+      Explorer（總管）和 Properties（屬性）部分
+     </h1>
+     <p class="wysiwyg-indent1">
+      一旦您進入編輯模式（無論是在新的地點還是已經建立的地點)，您將在螢幕右側看到標記為總管和屬性的兩個部分。若沒有看到其中之一或兩個都沒有看到，你可以透過點擊檢視標籤中的相應圖示重新打開它們。
+     </p>
+     <ul>
+      <li>
+       <strong>
+        總管
+       </strong>
+       <br/>
+       此部分將列出所有位於您的地點內的東西。它將被分成不同的組合，如 Workspace（工作區）、Lighting（燈光）、StarterPack（初始背包）、Players（玩家）等等。若要查看服務組合內的內容，您只需要點擊服務組合左邊的小灰色箭頭。您在地點致中看到的所有物件和大多數指令碼都將在 Workspace 組合中。如果一個物件包含其他物件（例如貼花），它也會有一個小箭頭。若要關閉組合並隱藏其內容，您只需要再次點擊箭頭。
+      </li>
+      <li style="font-weight: 400;">
+       <strong>
+        屬性
+       </strong>
+       <br/>
+       <div class="crowdin_phrase" id="crowdin_phrase_16792" title="">
+        此部分會顯示一個物件的屬性列表，例如尺寸、旋轉、是否可以被移動（錨定）等等。
+        <span>
+        </span>
+       </div>
+       <span>
+       </span>
+       <div class="crowdin_phrase" id="crowdin_phrase_16794" title="">
+        必須選擇物件才能查看它的屬性。
+       </div>
+      </li>
+     </ul>
+     <p>
+     </p>
+     <h1>
+      使用相機
+     </h1>
+     <p class="wysiwyg-indent1">
+      使用相機很簡單。這裡的想機與在線上玩
+      <span>
+       體驗
+      </span>
+      的相機不同，並不局限於一個物件（例如你的頭）。反而，它允許您以任何方向和角度移動它。您可以使用 W、A、S、D 或者方向鍵來往前後左右移動相機。若要旋轉您的視角，點擊並按住滑鼠右鍵，然後移動滑鼠。向上滾動滑鼠滾輪會放大鏡頭，而向下滾動滾輪會縮小鏡頭。
+     </p>
+     <p>
+     </p>
+     <h1>
+      新增和移動物件
+     </h1>
+     <p class="wysiwyg-indent2">
+      在編輯模式下新增磚塊、指令碼和模型（以及各式各樣的物件）是很容易的，我們有幾種方法可以做到。第一個選項是只要在
+      <span>
+       體驗
+      </span>
+      視窗中的空白區域點擊空白區域，選擇插入物件，然後選擇要新增到地點的物件。
+     </p>
+     <p class="wysiwyg-indent2">
+      或者，您可以使用模型標籤中的許多按鈕來快速插入許多東西，如零件、磚塊、效果、重生點、指令碼等。最後，為了讓放置過程更容易，您可以使用螢幕左側的工具箱將許多不同的磚塊、模型或指令碼拖放到
+      <span>
+       體驗
+      </span>
+      視窗中。若您看不到，您可以從檢視標籤中重新打開它。
+     </p>
+     <p class="wysiwyg-indent2">
+      移動已新增到
+      <span>
+       體驗
+      </span>
+      中的內容更加容易！首先，點擊位於螢幕頂部的模型標籤中的「模型」圖示。然後您可以透過在
+      <span>
+       體驗
+      </span>
+      視窗中點擊並拖曳一個物件來自由移動它。如果您想只往上下左右內外移動它，那您只需要點擊物件來顯示一系列箭頭。點擊指向你想要移動的方向的箭頭，然後拖曳滑鼠。
+     </p>
+     <p class="wysiwyg-indent3">
+      <em>
+       請注意：一些如閃光和指令碼的物件是不可見的，因此不能移動。
+      </em>
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h1>
+      工具箱
+     </h1>
+     <p class="wysiwyg-indent1">
+      工具箱允許開發者將其他玩家創作的模型、貼花等拖曳到他的地點。 這類似右鍵選單中的插入物件選項，但是這個功能提供預先做好的素材和玩家創作內容。
+     </p>
+     <h1>
+      縮放和旋轉物件
+     </h1>
+     <p class="wysiwyg-indent1">
+      若要調整磚塊的大小，點擊模型標籤中的縮放按鈕，選擇一個磚塊，之後物件的六個面上應該會出現小點。 點擊並拖曳一個點來伸縮對應的面。
+     </p>
+     <p class="wysiwyg-indent2">
+      <em>
+       請注意：無法調整模型的大小。
+      </em>
+     </p>
+     <p class="wysiwyg-indent1">
+      若要旋轉一個物件，您只需要點擊物件，然後點擊位於模型標籤中的旋轉按鈕。選取物件周圍會出現六個點和三個圓圈。點擊其中一個點並拖曳滑鼠，您就可以在點對應的顏色的圓圈內扭轉或傾移物件。
+     </p>
+     <p class="wysiwyg-indent1">
+     </p>
+     <h1>
+      新增和修改地形
+     </h1>
+     <p class="wysiwyg-indent1">
+      Roblox Studio 現在還可以讓您輕鬆增加或操控你的世界的地形，創造美麗的風景。您可以在地形標籤中找到適當的工具。若要了解關於這些工具的詳細資訊，請閱讀
+      <a href="https://create.roblox.com/docs/building-and-visuals/modeling-in-studio/terrain" rel="noopener" target="_blank">
+       地形
+      </a>
+      文章。。
+     </p>
+     <p class="wysiwyg-indent1">
+     </p>
+     <h1>
+      測試您的地點
+     </h1>
+     <p class="wysiwyg-indent1">
+      若您您做完了地點，或者您想在發布地點之前看看實際運作，點擊位於「測試標籤」內的「開始」按鈕。 您的虛擬人偶將會載入到
+      <span>
+       體驗
+      </span>
+      視窗，並允許您四處走動和遊玩。要停止測試並恢復
+      <span>
+       體驗
+      </span>
+      到點擊播放前的狀態，請點擊「停止」按鈕。
+     </p>
+     <p class="wysiwyg-indent1">
+      <em>
+       請注意：若您想透過 Roblox 網站上的正常
+       <span>
+        體驗
+       </span>
+       功能來測試您的地點，您可以透過將
+       <span>
+        體驗
+       </span>
+       設定為私人來防止其他玩家加入您的
+       <span>
+        體驗
+       </span>
+       。
+      </em>
+      若要了解更多資訊，請閲讀
+      <a href="/hc/articles/203313950" rel="noopener" target="_blank">
+       創作體驗並將其設為公開
+      </a>
+      協助文章。
+     </p>
+     <p class="wysiwyg-indent1">
+     </p>
+     <h1>
+      在您的
+      <span>
+       體驗
+      </span>
+      有其他玩家時測試
+      <span>
+       體驗
+      </span>
+     </h1>
+     <p class="wysiwyg-indent1">
+      如果您想看地點有其他人的時候會變得怎麼樣，您可以進行伺服器模擬。若要使用此功能，前往測試標籤，並在客戶端和伺服器區域的下拉欄位中選擇您想要模擬的玩家數量。完成此操作後，點擊開始。這將會另外開啟好幾個 Studio 視窗。其中一個視窗將會充當伺服器，而其他視窗將允許您控制將新增到
+      <span>
+       體驗
+      </span>
+      中的幾位假玩家之一。若要停止測試，點擊原本 Studio 視窗中的「Clean Up」（清理）按鈕。
+     </p>
+     <p class="wysiwyg-indent1">
+      <em>
+       <span style="font-weight: 400;">
+        請注意：如果您想和您其他任命的開發者透過 Roblox 網站上的正常
+        <span>
+         體驗
+        </span>
+        功能測試您的地點，而不要未經批准的玩家加入您的
+        <span>
+         體驗
+        </span>
+        的話，您可以以群組
+        <span>
+         體驗
+        </span>
+        形式上傳
+        <span>
+         體驗
+        </span>
+        、只給予指定階級編輯權限及將
+        <span>
+         體驗
+        </span>
+        設為私人。
+        <span>
+         若要了解更多資訊，請閲讀
+        </span>
+        <a href="/hc/articles/203313950" rel="noopener" target="_blank">
+         創作體驗並將其設為公開
+        </a>
+        <span>
+         和
+        </span>
+        <a href="/hc/articles/203313760" rel="noopener" target="_blank">
+         群組體驗
+        </a>
+        <span>
+         協助文章。
+        </span>
+       </span>
+      </em>
+     </p>
+     <p class="wysiwyg-indent1">
+     </p>
+     <h1>
+      儲存和發布
+     </h1>
+     <p class="wysiwyg-indent1">
+      <span>
+       若需關於儲存或發布體驗方面的協助，請參閱
+       <a href="/hc/articles/203313890" rel="noopener" target="_blank">
+        如何發布或上傳地點
+       </a>
+       文章。
+      </span>
+     </p>
+     <p>
+     </p>
+     <p>
+      <strong>
+       額外協助
+      </strong>
+     </p>
+     <p class="wysiwyg-indent1">
+      <a href="http://www.youtube.com/user/roblox" rel="noopener" target="_blank">
+       Roblox YouTube 頻道
+      </a>
+     </p>
+     <p class="wysiwyg-indent1">
+      <a href="https://create.roblox.com/docs" rel="noopener" target="_blank">
+       創建者文檔
+      </a>
+     </p>
+    </div>
+    <!--           Add content tags to articles and posts -->
+   </div>
