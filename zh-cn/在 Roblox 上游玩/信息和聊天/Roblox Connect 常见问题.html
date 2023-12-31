@@ -1,0 +1,358 @@
+   <h1 class="article-title" id="article-title" title="Roblox Connect 常见问题">
+    Roblox Connect 常见问题
+   </h1>
+   <div class="article-content">
+    <div class="article-body">
+     <h2 id="h_01HF4ZBVTDPTTCPB56ARZTX3EX">
+      Roblox Connect 是什么？
+     </h2>
+     <p>
+     </p>
+     <h3 class="wysiwyg-indent1" id="h_01HF4ZDMYMR7FCGC5GMYCNQQ9Q">
+      Roblox Connect 是什么？
+     </h3>
+     <p class="wysiwyg-indent2">
+      Connect 是 Roblox 上的一种体验，你可以利用它打电话给朋友，然后在一个共享的沉浸式空间中以你的虚拟形象进行对话。 我们为你和你的朋友提供了一些有趣的地点选项。 此外，Connect 采用的技术是完全开放源代码的，这使得创作者们能够在 Roblox 上的任何现有或新体验中构建同步语音和虚拟形象交流。
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h3 class="wysiwyg-indent1" id="h_01HF4ZJTQ46WZBFFGND34S5G5F">
+      谁可以使用 Roblox Connect？
+     </h3>
+     <p class="wysiwyg-indent2">
+      用户必须年满 13 岁，并能够使用 Roblox 语音功能（即通过
+      <a href="https://en.help.roblox.com/hc/articles/203313350">
+       手机验证
+      </a>
+      或
+      <a href="https://en.help.roblox.com/hc/articles/4407282410644">
+       ID 验证
+      </a>
+      ）。 用户还必须更新至 Roblox 的最新版本才能使用 Connect。
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h3 class="wysiwyg-indent1" id="h_01HF4ZV9JPYF3VP7HD22VX6JPX">
+      Roblox Connect 可在哪些平台上使用？
+     </h3>
+     <p class="wysiwyg-indent2">
+      Roblox Connect 在推出时即可支持手机（iOS 和 Android）和桌面平台。 随后也会在其他平台上推出。
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h3 class="wysiwyg-indent1" id="h_01HF4ZWB5Z8KYKVT9Y6R7EA5HG">
+      呼叫功能可以覆盖全球各地吗？
+     </h3>
+     <p class="wysiwyg-indent2">
+      只要
+      <a href="https://create.roblox.com/docs/chat/spatial-voice">
+       有语音聊天功能
+      </a>
+      的地方就能使用呼叫功能，未来还会推广到更多国家/地区。
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h3 class="wysiwyg-indent1" id="h_01HF507S7STN87MFRKNT5ZTZJ3">
+      哪些体验可以使用 API？
+     </h3>
+     <p class="wysiwyg-indent2">
+      只有一周以上的体验才能采用我们的呼叫 API。
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h2 id="h_01HF50A6AKBQ95JE7EJTSHZ3ZB">
+      Roblox Connect 如何为创作者服务？
+     </h2>
+     <p>
+     </p>
+     <h3 class="wysiwyg-indent1" id="h_01HF50BXGEC82553M2Z61T67Y7">
+      创作者如何将 API 融入到他们的体验中？
+     </h3>
+     <p class="wysiwyg-indent2">
+      Roblox Connect 体验将完全开放源代码，开发者可以通过呼叫 API，把同步虚拟形象交流引入到 Roblox 的任何体验中。 开发者可以通过三种方式利用该技术：
+     </p>
+     <ol>
+      <li class="wysiwyg-indent2">
+       通过采用新的呼叫 API 把交流融入到他们的体验中：
+       <a href="https://create.roblox.com/docs/reference/engine/classes/SocialService">
+        SocialService
+       </a>
+       和
+       <a href="https://create.roblox.com/docs/reference/engine/classes/PlayerViewService">
+        PlayerView
+       </a>
+       。 创作者可以将电话簿功能和用户体验集成到体验中，使用户能够在任何体验中轻松呼叫好友。
+      </li>
+      <li class="wysiwyg-indent2">
+       启用交流优先功能，例如
+       <a href="https://create.roblox.com/docs/reference/engine/classes/SocialService">
+        SelfView
+       </a>
+       ，这样使用体验的用户就能看到自己了。 此外，采用呼叫 API 还能启用三种视图：
+       <ul>
+        <li class="wysiwyg-indent2">
+         <strong>
+          <span class="wysiwyg-underline">
+           PIP（画中画）
+          </span>
+         </strong>
+         ：当用户通过呼叫或作为接听方打开 Connect 时，系统会在你首次登录时以 PIP 模式弹出 SelfView。 SelfView 会出现在左下角。 一旦用户移动它，它就会一直保持在该位置。
+        </li>
+        <li class="wysiwyg-indent2">
+         <strong>
+          <span class="wysiwyg-underline">
+           Free Play
+          </span>
+         </strong>
+         ：Free Play 是 Roblox 的默认镜头，也就是所有体验都会有的第三人称视角。
+        </li>
+        <li class="wysiwyg-indent2">
+         <strong>
+          <span class="wysiwyg-underline">
+           Cinematic
+          </span>
+         </strong>
+         ：Cinematic 模式会提供动态镜头。 它能实时调整镜头的位置、方向和视野，聚焦游戏中的两个主体。 它还会考虑到主体之间的距离和屏幕纵横比等因素，为玩家带来流畅的体验。
+        </li>
+       </ul>
+      </li>
+      <li class="wysiwyg-indent2">
+       充分利用 Roblox Connect 的环境素材。 通过采用 Environment Switcher，用户就能在通话期间访问森林（营火、码头、瀑布）或岛屿（海滩、小屋或篝火）中的多处地点，并可以在通话过程中传送到这些新地点。
+      </li>
+     </ol>
+     <p class="wysiwyg-indent2">
+      欲了解更多信息，请参阅
+      <a href="https://create.roblox.com/docs/resources/roblox-connect">
+       Roblox Connect 使用指南
+      </a>
+      。
+     </p>
+     <p>
+     </p>
+     <h3 class="wysiwyg-indent1" id="h_01HF519WN61PC1VFD5MJTS7S5Y">
+      呼叫 API 是否也有音频素材？
+     </h3>
+     <p class="wysiwyg-indent2">
+      Roblox Connect 的所有音频素材都可供开发者使用。
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h3 class="wysiwyg-indent1" id="h_01HF51C8FRNGEY81CC9ZS42TTW">
+      这些新的交流方式（摄像头、语音）会对我的体验表现产生什么样的影响？
+     </h3>
+     <p class="wysiwyg-indent2">
+      我们已在各种设备上对该功能进行了优化和测试，以尽量减少对性能的影响。 对于大多数创作者和用户而言，我们预计启用这些功能不会产生多大影响。 如要开始使用，请参阅
+      <a href="https://create.roblox.com/docs/chat/spatial-voice">
+       语音聊天使用指南
+      </a>
+      和
+      <a href="https://create.roblox.com/docs/resources/roblox-connect">
+       Roblox Connect 使用指南
+      </a>
+      。
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h3 class="wysiwyg-indent1" id="h_01HF51H00P9FVT7YCNXP46R6K3">
+      启用呼叫功能会否自动将体验变为“适合年满 13 周岁”的分级？
+     </h3>
+     <p class="wysiwyg-indent2">
+      不会。在体验中添加呼叫功能并不会改变其体验准则，不过只有符合条件的用户（年满 13 周岁，完成 ID 或手机验证）才能使用呼叫功能。
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h2 id="h_01HF51J82BF0K716B64X33TJKW">
+      Roblox Connect 如何为用户服务？
+     </h2>
+     <p>
+     </p>
+     <h3 class="wysiwyg-indent1" id="h_01HF51K16HJJE5HVVR91DH9CH4">
+      Roblox Connect 发布后能让我做什么？
+     </h3>
+     <p class="wysiwyg-indent2">
+      你可以给你 Roblox 电话簿中的朋友打电话。 发起呼叫会直接拨通他们的电话。 然后，他们可以接听并直接在 Roblox Connect 中与你的虚拟形象、真实表情和真实声音进行沉浸式对话。
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h3 class="wysiwyg-indent1" id="h_01HF51MAGFFX17VYZGSTXMXM0N">
+      Roblox Connect 可在哪些平台上使用？
+     </h3>
+     <p class="wysiwyg-indent2">
+      Roblox Connect 在推出时即可支持手机（iOS 和 Android）和桌面平台。 随后也会在其他平台上推出。
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h3 class="wysiwyg-indent1" id="h_01HF51NNYZA0HJNR9MECCBNDJP">
+      我能给不在 Roblox 上的人打电话吗？
+     </h3>
+     <p class="wysiwyg-indent2">
+      不能。 目前，你只能给记录在你的 Roblox 电话簿中的朋友打电话。
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h3 class="wysiwyg-indent1" id="h_01HF51PEZKBXSTMW9ZS6STXJ86">
+      如果有人不想使用摄像头，那他们还可以体验 Roblox Connect 吗？
+     </h3>
+     <p class="wysiwyg-indent2">
+      可以。 你不必使用摄像头也能使用 Roblox Connect。 你依然可以拨打和接听电话并进入体验，只不过你的摄像头画面不会出现任何面部动画。
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h3 class="wysiwyg-indent1" id="h_01HF51QJ5H2J5PSNMSFSY3261R">
+      什么时候会提供群组通话？
+     </h3>
+     <p class="wysiwyg-indent2">
+      我们正在努力实现此功能！
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h2 id="h_01HF51S8CCEP58D5V42YTF8T87">
+      在 Roblox Connect 进行 1:1 通话时如何确保安全？
+     </h2>
+     <p>
+     </p>
+     <h3 class="wysiwyg-indent1" id="h_01HF51SY2671F3DRHQJ43AP8A2">
+      我们有哪些预防措施来应对垃圾电话、剥削或滥用问题？
+     </h3>
+     <p class="wysiwyg-indent2">
+      为保护所有用户免受不良信息的侵害，我们设置了多种防护措施。 系统利用多种工具来识别垃圾电话，包括垃圾电话检测逻辑（限制重复呼叫频率、呼叫抑制）、呼叫者要求和体验保护等。
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h3 class="wysiwyg-indent1" id="h_01HF51V1FQ218S45SDVX770MG3">
+      <a name="What_options_does_a_user_have_when_they_experience_bad_behavior">
+      </a>
+      当用户遇到不良行为时该怎么做？
+     </h3>
+     <p class="wysiwyg-indent2">
+      如果用户不想接听电话或遇到不良行为，他们可以直接从 Roblox 好友列表中进行屏蔽或取消好友关系。 用户也可以前往 Roblox 菜单，点击“举报”，然后选择要屏蔽的用户。
+     </p>
+     <p class="wysiwyg-indent2">
+      此外，所有的交流体验仍将基于现有的语音控制基础架构，用户可以利用这些基础架构对发现的任何不良行为如滥用和安全威胁进行举报。 欲了解更多信息，请参阅
+      <a href="https://en.help.roblox.com/hc/articles/4405807645972">
+       语音聊天常见问题
+      </a>
+      。
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h3 class="wysiwyg-indent1" id="h_01HFF4D8D3HB8A359TVW1PDYE4">
+      在接听电话方面，用户要如何确保“勿扰模式”（DND）生效呢？
+     </h3>
+     <p class="wysiwyg-indent2">
+      请注意，按照 iOS 的设计，该系统在启用 DND 时仍有可能会收到重复来电。 要防止此现象发生，你可以通过“专注”设置来禁止重复来电。 前往“设置”
+      <img alt="iOSSettings.png" height="30" src="https://en.help.roblox.com/hc/article_attachments/21039871187732" width="31"/>
+      “专注”，然后选择一种“专注”模式，例如：“勿扰模式”、“个人”、“睡眠”或“工作”。 你也可以参阅
+      <a href="https://support.apple.com/zh-cn/guide/iphone/iph21d43af5b/ios#:~:text=Go%20to%20Settings%20%3E%20Focus%2C%20then,Personal%2C%20Sleep%2C%20or%20Work.&amp;text=%2C%20then%20select%20from%20your%20contacts,same%20person%20within%203%20minutes">
+       此处
+      </a>
+      了解更多。
+     </p>
+     <p class="wysiwyg-indent2">
+      如果你使用的是 Android 设备，并想了解 DND 设置有那些选项，你可以参阅
+      <a href="https://support.google.com/android/answer/9069335">
+       此处
+      </a>
+      了解更多。
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h3 class="wysiwyg-indent1" id="h_01HF86A1R95QFR4NGB2HH4MBH8">
+      用户要如何禁用或中断通话？
+     </h3>
+     <p class="wysiwyg-indent2">
+      用户可以通过 Roblox Connect 与好友联系和交流。 与此同时，如果用户不想接听电话，他们可以直接从电话簿或 Roblox 好友列表中进行屏蔽或取消好友关系。
+     </p>
+     <p class="wysiwyg-indent2">
+      此外，Android 系统用户可以前往 Roblox 的通知设置，选择关闭呼叫通知。
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h3 class="wysiwyg-indent1" id="h_01HF51WXB9DY6WK6R3J23Y7NEB">
+      如何在通话期间保证用户数据的安全？
+     </h3>
+     <p class="wysiwyg-indent2">
+      开发者只能访问接听者的 ID 和某些呼叫状态。 Roblox Connect 也由
+      <a href="https://create.roblox.com/docs/chat/spatial-voice">
+       语音聊天
+      </a>
+      和
+      <a href="https://create.roblox.com/docs/art/characters/facial-animation">
+       面部动画
+      </a>
+      驱动，并利用现有的验证基础设施。
+     </p>
+     <p class="wysiwyg-indent2">
+      欲了解更多信息，请参阅我们的
+      <a href="https://www.roblox.com/info/privacy">
+       《隐私政策》
+      </a>
+      、
+      <a href="https://en.help.roblox.com/hc/articles/8064749848980">
+       Roblox 面部动画化隐私通知
+      </a>
+      、
+      <a href="https://en.help.roblox.com/hc/articles/5704050147604">
+       语音聊天常见问题
+      </a>
+      和
+      <a href="https://create.roblox.com/docs/resources/roblox-connect">
+       Roblox Connect 使用指南
+      </a>
+      。
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h3 class="wysiwyg-indent1" id="h_01HF524RTRAMHZWDVCM4XDRZRJ">
+      当用户启用摄像头时，Roblox 是否会存储任何数据？
+     </h3>
+     <p class="wysiwyg-indent2">
+      不会。 当用户使用摄像头实现虚拟形象动画化时，由此过程所生成的动画关键帧都会在使用后被实时删除，无法共享。 摄像头截取的视频绝不会被传出用户的设备。
+     </p>
+     <p class="wysiwyg-indent2">
+      欲了解更多信息，详见 Roblox 的
+      <a href="https://en.help.roblox.com/hc/articles/8064749848980">
+       面部动画化隐私通知
+      </a>
+      。
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h3 class="wysiwyg-indent1" id="h_01HF527HC8Q90Q02YYZ2KH1HQH">
+      那语音对话呢？ Roblox 会储存这些内容吗？
+     </h3>
+     <p class="wysiwyg-indent2">
+      Roblox 会将录音用于审核目的，包括对滥用报告的审核评估、培训和评估自动安全检测系统以及衡量平台的整体安全性。 请参阅
+      <a href="https://www.roblox.com/info/privacy">
+       《隐私政策》
+      </a>
+      以了解更多信息。
+     </p>
+     <p class="wysiwyg-indent2">
+      除上述和《隐私政策》中所述的情况外，Roblox 不会与第三方共享录音或以其他方式使用录音。
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h3 class="wysiwyg-indent1" id="h_01HF52ABZ00KZ4FYNAH820VC4B">
+      录音是如何保存的？
+     </h3>
+     <p class="wysiwyg-indent2">
+      你的信息安全对我们至关重要。 我们采取了各种措施来保护个人数据免遭丢失、滥用或篡改。 录音都会经过加密，只有少数有限的内部团队才能访问。
+     </p>
+     <p class="wysiwyg-indent2">
+      欲了解更多语音聊天的信息，请参阅我们的语音
+      <a href="https://en.help.roblox.com/hc/articles/5704050147604">
+       常见问题
+      </a>
+      。
+     </p>
+     <p class="wysiwyg-indent2">
+      所有个人信息，包括录音，都可以通过
+      <a href="https://en.help.roblox.com/hc/articles/203313050">
+       隐私权请求
+      </a>
+      进行删除（可能存在安全例外和司法管辖要求的情况）。
+     </p>
+    </div>
+    <!--           Add content tags to articles and posts -->
+   </div>
