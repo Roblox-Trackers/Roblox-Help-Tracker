@@ -12,5 +12,4 @@ Name|URL
 [交易系統](./交易系統.html) |https://en.help.roblox.com/hc/zh-tw/articles/203313310-%E4%BA%A4%E6%98%93%E7%B3%BB%E7%B5%B1
 [關於禮品道具的一切](./關於禮品道具的一切.html) |https://en.help.roblox.com/hc/zh-tw/articles/205630374-%E9%97%9C%E6%96%BC%E7%A6%AE%E5%93%81%E9%81%93%E5%85%B7%E7%9A%84%E4%B8%80%E5%88%87
 [我要如何獲得促銷或比賽道具？](./我要如何獲得促銷或比賽道具？.html) |https://en.help.roblox.com/hc/zh-tw/articles/203313270-%E6%88%91%E8%A6%81%E5%A6%82%E4%BD%95%E7%8D%B2%E5%BE%97%E4%BF%83%E9%8A%B7%E6%88%96%E6%AF%94%E8%B3%BD%E9%81%93%E5%85%B7-
-[13+虛擬人偶商店道具](./13+虛擬人偶商店道具.html) |https://en.help.roblox.com/hc/zh-tw/articles/203313320-13-%E8%99%9B%E6%93%AC%E4%BA%BA%E5%81%B6%E5%95%86%E5%BA%97%E9%81%93%E5%85%B7
 [關於 VIP 襯衫的一切](./關於 VIP 襯衫的一切.html) |https://en.help.roblox.com/hc/zh-tw/articles/203314080-%E9%97%9C%E6%96%BC-VIP-%E8%A5%AF%E8%A1%AB%E7%9A%84%E4%B8%80%E5%88%87

@@ -10,3 +10,4 @@ Name|URL
 [我要如何删除收件箱中的訊息？](./我要如何删除收件箱中的訊息？.html) |https://en.help.roblox.com/hc/zh-tw/articles/203313690-%E6%88%91%E8%A6%81%E5%A6%82%E4%BD%95%E5%88%A0%E9%99%A4%E6%94%B6%E4%BB%B6%E7%AE%B1%E4%B8%AD%E7%9A%84%E8%A8%8A%E6%81%AF-
 [語音聊天](./語音聊天.html) |https://en.help.roblox.com/hc/zh-tw/articles/4405807645972-%E8%AA%9E%E9%9F%B3%E8%81%8A%E5%A4%A9
 [錄音 FAQ](./錄音 FAQ.html) |https://en.help.roblox.com/hc/zh-tw/articles/5704050147604-%E9%8C%84%E9%9F%B3-FAQ
+[Roblox Connect 常見問題](./Roblox Connect 常見問題.html) |https://en.help.roblox.com/hc/zh-tw/articles/20918814627988-Roblox-Connect-%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C
