@@ -1,0 +1,186 @@
+   <h1 class="article-title" id="article-title" title="Wie man Kundenprotokolle abruft">
+    Wie man Kundenprotokolle abruft
+   </h1>
+   <div class="article-content">
+    <div class="article-body">
+     <p>
+      Es kann vorkommen, dass ein Roblox-Mitarbeiter über eine E-Mail an den Kundendienst oder einen DevForum-Beitrag Kundenlogs anfordert, um ein Problem zu untersuchen. Dieser Artikel beschreibt das Abrufen dieser Protokolle.
+     </p>
+     <p class="wysiwyg-indent1">
+      <strong>
+       <em>
+        Hinweis:
+       </em>
+      </strong>
+      <em>
+       Bitte sende diese Logs nur, wenn du von einem Roblox-Mitarbeiter dazu aufgefordert wirst!
+      </em>
+     </p>
+     <p class="wysiwyg-indent1">
+     </p>
+     <h1>
+      Wie man Roblox-Logs abruft
+     </h1>
+     <p class="wysiwyg-indent1">
+      Roblox Player- und Roblox Studio-Protokolle werden beide in demselben Ordner geschrieben.
+     </p>
+     <ul>
+      <li>
+       Auf dem PC, drücke gleichzeitig die Windows-Taste und die Taste R. Auf dem PC, drücke gleichzeitig die Windows-Taste und die Taste R. Ein Kästchen mit dem Namen
+       <strong>
+        Ausführen
+       </strong>
+       erscheint. Kopiere und füge Folgendes ein oder gebe es ein, aber ohne dass du die Ausführungszeichen kopierst:
+       <ul>
+        <li>
+         <p>
+          Für Win32: "%localappdata%\Roblox\logs"
+         </p>
+         <p>
+          Für UWP: “%LOCALAPPDATA%\Packages\ROBLOXCorporation.ROBLOX_55nm5eh3cm0pr\LocalState\logs”
+         </p>
+        </li>
+       </ul>
+      </li>
+      <li>
+       Auf dem Mac navigierst du zu Macintosh HD &gt; Benutzer &gt; [dein Benutzerprofil] &gt; Bibliothek &gt; Logs &gt; Roblox
+      </li>
+      <li>
+       <p data-renderer-start-pos="723">
+        Zurzeit gibt es keine einfache Möglichkeit für dich, Android- oder iOS-Logs hochzuladen. Entschuldigung, wir arbeiten daran!
+       </p>
+      </li>
+     </ul>
+     <h2>
+      In diesem Ordner werden sich wahrscheinlich viele Logdateien befinden
+     </h2>
+     <ul>
+      <li>
+       <p>
+        Roblox-Protokolle sehen folgendermaßen aus: „0.&lt;major ver&gt;.&lt;minor ver&gt;.&lt;revision&gt;_&lt;date&gt;_Player_&lt;garbage&gt;_last.log
+       </p>
+       <ul>
+        <li>
+         <p>
+          Zum Beispiel 0.555.1.5550874_20221214T162601Z_
+          <strong>
+           Player
+          </strong>
+          _9aaf3_last.log
+         </p>
+        </li>
+       </ul>
+      </li>
+      <li>
+       <p>
+        Roblox Studio-Protokolle sehen gleich aus, außer dass „Studio“ anstelle von „Spieler“ steht
+       </p>
+       <ul>
+        <li>
+         <p>
+          Zum Beispiel 0.555.1.5550874_20221214T162601Z_
+          <strong>
+           Studio
+          </strong>
+          _9aaf3_last.log
+         </p>
+        </li>
+       </ul>
+      </li>
+      <li>
+       <p>
+        Bootstrapper-Protokolle sehen wie folgt aus: bootstrapper_&lt;garbage&gt;_1.txt
+       </p>
+       <ul>
+        <li>
+         <p>
+          Sofern das Problem nicht beim Starten von Roblox oder Roblox Studio über Ihren Webbrowser oder während des Updates auftritt, müssen Sie höchstwahrscheinlich keine Bootstrapper-Protokolle senden.
+         </p>
+        </li>
+       </ul>
+      </li>
+     </ul>
+     <p>
+     </p>
+     <h2>
+      Um die richtige Logdatei für den Versand zu ermitteln, kannst du entweder
+     </h2>
+     <ul>
+      <li>
+       Anhand der Datei-Zeitstempel bestimmen, welche Protokolldatei dem Vorfall entspricht, den du melden möchtest
+      </li>
+      <li>
+       alle Dateien in diesem Verzeichnis löschen, das Problem reproduziere, das du melden möchtest, und dann alle Inhalte in diesem Ordner senden
+      </li>
+      <li>
+       Wenn du verwirrt bist, kannst du einfach nach Datum sortieren und die letzten 10 Dateien senden.
+      </li>
+     </ul>
+     <p>
+     </p>
+     <h1>
+      Einschließen von Protokolldateien beim Melden von Fehlern
+     </h1>
+     <p>
+      Wenn du Fehler im
+      <a href="https://devforum.roblox.com/c/bug-reports/10" rel="noopener" target="_blank">
+       Entwicklerforum
+      </a>
+      von Roblox meldest, hast du die Möglichkeit, die Protokolldatei zusammen mit deinem Fehlerbericht hochzuladen. Wenn du Protokolle hochladen musst, nachdem du den ersten Fehlerbericht erstellt hast, sende eine Direktnachricht an die Gruppe
+      <a href="https://devforum.roblox.com/g/bug-files" rel="noopener" target="_blank">
+       Fehlerdateien
+      </a>
+      , füge einen Link zum ursprünglichen Fehlerberichtsbeitrag hinzu und markiere alle relevanten Roblox-Mitarbeiter: Wenn du Fehler im
+      <a href="https://devforum.roblox.com/c/bug-reports/10" rel="noopener" target="_blank">
+       Entwicklerforum
+      </a>
+      von Roblox meldest, hast du die Möglichkeit, die Protokolldatei zusammen mit deinem Fehlerbericht hochzuladen.
+     </p>
+     <p class="wysiwyg-text-align-center">
+      <img alt="Fenster_Fehler_melden_im_DevForum.png" height="312" src="https://en.help.roblox.com/hc/article_attachments/14397229029524" width="546"/>
+     </p>
+     <p>
+     </p>
+     <p>
+      Wenn du Protokolle hochladen musst, nachdem du den ersten Fehlerbericht erstellt hast, sende eine Direktnachricht an die Gruppe
+      <a href="https://devforum.roblox.com/g/bug-files" rel="noopener" target="_blank">
+       Fehlerdateien
+      </a>
+      , füge einen Link zum ursprünglichen Fehlerberichtsbeitrag hinzu und markiere alle relevanten Roblox-Mitarbeiter: Wenn du Fehler im
+      <a href="https://devforum.roblox.com/c/bug-reports/10" rel="noopener" target="_blank">
+       Entwicklerforum
+      </a>
+      von Roblox meldest, hast du die Möglichkeit, die Protokolldatei zusammen mit deinem Fehlerbericht hochzuladen.
+     </p>
+     <p class="wysiwyg-text-align-center">
+      <img alt="Roblox_Mitarbeiter_im_DevForum.png" src="https://en.help.roblox.com/hc/article_attachments/14378571735060"/>
+     </p>
+     <p>
+     </p>
+     <p>
+      Weitere detaillierte Anweisungen finden Sie unter
+      <a href="https://devforum.roblox.com/t/how-to-post-a-bug-report/24388/19" rel="noopener" target="_blank">
+       Einen Fehlerbericht veröffentlichen
+      </a>
+      !
+     </p>
+     <p>
+     </p>
+     <p>
+      <strong>
+       Zusätzliche Hilfe
+      </strong>
+     </p>
+     <p class="wysiwyg-indent1">
+      <a href="https://en.help.roblox.com/hc/articles/203312870" rel="noopener" target="_blank">
+       Allgemeine Roblox-Computer-Probleme
+      </a>
+     </p>
+     <p class="wysiwyg-indent1">
+      <a href="https://en.help.roblox.com/hc/articles/203312990" rel="noopener" target="_blank">
+       Mac: Fehlerbehebung
+      </a>
+     </p>
+    </div>
+    <!--           Add content tags to articles and posts -->
+   </div>
