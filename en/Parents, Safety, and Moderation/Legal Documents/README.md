@@ -24,7 +24,7 @@ Name|URL
 [Creator Analytics Terms of Use](./Creator Analytics Terms of Use.html) |https://en.help.roblox.com/hc/en-us/articles/10949046065044-Creator-Analytics-Terms-of-Use
 [Digital Services Act](./Digital Services Act.html) |https://en.help.roblox.com/hc/en-us/articles/13061336948244-Digital-Services-Act
 [Host Agreement](./Host Agreement.html) |https://en.help.roblox.com/hc/en-us/articles/15765085259284-Host-Agreement
-[Roblox Terms of Use (Republic of Korea)](./Roblox Terms of Use (Republic of Korea).html) |https://en.help.roblox.com/hc/en-us/articles/15685174241172-Roblox-Terms-of-Use-Republic-of-Korea-
+[Roblox Terms of Use (Republic of Korea)](./Roblox Terms of Use (Republic of Korea).html) |https://en.help.roblox.com/hc/en-us/articles/15685174241172-Roblox-Terms-of-Use-Republic-of-Korea
 [Privacy Policy Addendum for Users in Republic of Korea](./Privacy Policy Addendum for Users in Republic of Korea.html) |https://en.help.roblox.com/hc/en-us/articles/15685139483924-Privacy-Policy-Addendum-for-Users-in-Republic-of-Korea
 [Opt-in Corpus Terms](./Opt-in Corpus Terms.html) |https://en.help.roblox.com/hc/en-us/articles/18922542221076-Opt-in-Corpus-Terms
 [Promo Codes on Roblox](./Promo Codes on Roblox.html) |https://en.help.roblox.com/hc/en-us/articles/10549651908244-Promo-Codes-on-Roblox
