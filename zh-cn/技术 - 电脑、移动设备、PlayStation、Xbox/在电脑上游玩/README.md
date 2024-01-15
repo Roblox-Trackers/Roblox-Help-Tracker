@@ -7,7 +7,7 @@ Name|URL
 [电脑上的一般聊天/键盘问题](./电脑上的一般聊天-键盘问题.html) |https://en.help.roblox.com/hc/zh-cn/articles/203313040-%E7%94%B5%E8%84%91%E4%B8%8A%E7%9A%84%E4%B8%80%E8%88%AC%E8%81%8A%E5%A4%A9-%E9%94%AE%E7%9B%98%E9%97%AE%E9%A2%98
 [常见连接问题](./常见连接问题.html) |https://en.help.roblox.com/hc/zh-cn/articles/203312880-%E5%B8%B8%E8%A7%81%E8%BF%9E%E6%8E%A5%E9%97%AE%E9%A2%98
 [Mac：故障排除](./Mac：故障排除.html) |https://en.help.roblox.com/hc/zh-cn/articles/203312990-Mac-%E6%95%85%E9%9A%9C%E6%8E%92%E9%99%A4
-[如何重新安装 Roblox 软件？](./如何重新安装 Roblox 软件？.html) |https://en.help.roblox.com/hc/zh-cn/articles/203312910-%E5%A6%82%E4%BD%95%E9%87%8D%E6%96%B0%E5%AE%89%E8%A3%85-Roblox-%E8%BD%AF%E4%BB%B6-
+[如何重新安装 Roblox 软件？](./如何重新安装 Roblox 软件？.html) |https://en.help.roblox.com/hc/zh-cn/articles/203312910-%E5%A6%82%E4%BD%95%E9%87%8D%E6%96%B0%E5%AE%89%E8%A3%85-Roblox-%E8%BD%AF%E4%BB%B6
 [如何卸载 Roblox](./如何卸载 Roblox.html) |https://en.help.roblox.com/hc/zh-cn/articles/203312980-%E5%A6%82%E4%BD%95%E5%8D%B8%E8%BD%BD-Roblox
 [防火墙和路由器问题](./防火墙和路由器问题.html) |https://en.help.roblox.com/hc/zh-cn/articles/203312840-%E9%98%B2%E7%81%AB%E5%A2%99%E5%92%8C%E8%B7%AF%E7%94%B1%E5%99%A8%E9%97%AE%E9%A2%98
 [苹果 Mac：家长控制](./苹果 Mac：家长控制.html) |https://en.help.roblox.com/hc/zh-cn/articles/203313010-%E8%8B%B9%E6%9E%9C-Mac-%E5%AE%B6%E9%95%BF%E6%8E%A7%E5%88%B6
