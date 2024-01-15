@@ -12,4 +12,4 @@ Name|URL
 [他のユーザーをブロックする方法](./他のユーザーをブロックする方法.html) |https://en.help.roblox.com/hc/ja/articles/203314270-%E4%BB%96%E3%81%AE%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%82%92%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95
 [Xbox Oneアプリ：別のプレーヤーを報告](./Xbox Oneアプリ：別のプレーヤーを報告.html) |https://en.help.roblox.com/hc/ja/articles/206210440-Xbox-One%E3%82%A2%E3%83%97%E3%83%AA-%E5%88%A5%E3%81%AE%E3%83%97%E3%83%AC%E3%83%BC%E3%83%A4%E3%83%BC%E3%82%92%E5%A0%B1%E5%91%8A
 [人材ハブの保護者向けガイダンス](./人材ハブの保護者向けガイダンス.html) |https://en.help.roblox.com/hc/ja/articles/4404630280980-%E4%BA%BA%E6%9D%90%E3%83%8F%E3%83%96%E3%81%AE%E4%BF%9D%E8%AD%B7%E8%80%85%E5%90%91%E3%81%91%E3%82%AC%E3%82%A4%E3%83%80%E3%83%B3%E3%82%B9
-[保護者ガイド（日本語版）](./保護者ガイド（日本語版）.html) |https://en.help.roblox.com/hc/ja/articles/4404386547092-%E4%BF%9D%E8%AD%B7%E8%80%85%E3%82%AC%E3%82%A4%E3%83%89-%E6%97%A5%E6%9C%AC%E8%AA%9E%E7%89%88-
+[保護者ガイド（日本語版）](./保護者ガイド（日本語版）.html) |https://en.help.roblox.com/hc/ja/articles/4404386547092-%E4%BF%9D%E8%AD%B7%E8%80%85%E3%82%AC%E3%82%A4%E3%83%89-%E6%97%A5%E6%9C%AC%E8%AA%9E%E7%89%88
