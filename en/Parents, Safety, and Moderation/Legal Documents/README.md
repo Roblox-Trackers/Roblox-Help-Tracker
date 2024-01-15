@@ -30,3 +30,4 @@ Name|URL
 [Promo Codes on Roblox](./Promo Codes on Roblox.html) |https://en.help.roblox.com/hc/en-us/articles/10549651908244-Promo-Codes-on-Roblox
 [Help Center FAQs for Law Enforcement](./Help Center FAQs for Law Enforcement.html) |https://en.help.roblox.com/hc/en-us/articles/11219680442260-Help-Center-FAQs-for-Law-Enforcement
 [Using Licensed Music in Videos](./Using Licensed Music in Videos.html) |https://en.help.roblox.com/hc/en-us/articles/360038525351-Using-Licensed-Music-in-Videos
+[Roblox is Updating our Terms of Use](./Roblox is Updating our Terms of Use.html) |https://en.help.roblox.com/hc/en-us/articles/14663412502676-Roblox-is-Updating-our-Terms-of-Use
