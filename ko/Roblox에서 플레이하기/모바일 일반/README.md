@@ -2,7 +2,7 @@
 ### Articles in this section
 Name|URL
 -|-
-[체험 내에서 스크린샷을 찍으려면 어떻게 해야 하나요?](./체험 내에서 스크린샷을 찍으려면 어떻게 해야 하나요-.html) |https://en.help.roblox.com/hc/ko/articles/20564017568276-%EC%B2%B4%ED%97%98-%EB%82%B4%EC%97%90%EC%84%9C-%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%EC%9D%84-%EC%B0%8D%EC%9C%BC%EB%A0%A4%EB%A9%B4-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%B4%EC%95%BC-%ED%95%98%EB%82%98%EC%9A%94-
+[체험 내에서 스크린샷을 찍으려면 어떻게 해야 하나요?](./체험 내에서 스크린샷을 찍으려면 어떻게 해야 하나요-.html) |https://en.help.roblox.com/hc/ko/articles/20564017568276-%EC%B2%B4%ED%97%98-%EB%82%B4%EC%97%90%EC%84%9C-%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%EC%9D%84-%EC%B0%8D%EC%9C%BC%EB%A0%A4%EB%A9%B4-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%B4%EC%95%BC-%ED%95%98%EB%82%98%EC%9A%94
 [Roblox 모바일 시스템 요구 사항](./Roblox 모바일 시스템 요구 사항.html) |https://en.help.roblox.com/hc/ko/articles/203625474-Roblox-%EB%AA%A8%EB%B0%94%EC%9D%BC-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%9A%94%EA%B5%AC-%EC%82%AC%ED%95%AD
 [모바일 앱: 로그인 및 로그아웃](./모바일 앱- 로그인 및 로그아웃.html) |https://en.help.roblox.com/hc/ko/articles/203313450-%EB%AA%A8%EB%B0%94%EC%9D%BC-%EC%95%B1-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EB%B0%8F-%EB%A1%9C%EA%B7%B8%EC%95%84%EC%9B%83
 [모바일 :메시지를 읽기 및 답장하기](./모바일 -메시지를 읽기 및 답장하기.html) |https://en.help.roblox.com/hc/ko/articles/203313550-%EB%AA%A8%EB%B0%94%EC%9D%BC-%EB%A9%94%EC%8B%9C%EC%A7%80%EB%A5%BC-%EC%9D%BD%EA%B8%B0-%EB%B0%8F-%EB%8B%B5%EC%9E%A5%ED%95%98%EA%B8%B0
