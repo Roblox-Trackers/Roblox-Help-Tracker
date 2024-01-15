@@ -2,7 +2,7 @@
 ### Articles in this section
 Name|URL
 -|-
-[Como faço uma captura de tela em uma experiência?](./Como faço uma captura de tela em uma experiência-.html) |https://en.help.roblox.com/hc/pt-br/articles/20564017568276-Como-fa%C3%A7o-uma-captura-de-tela-em-uma-experi%C3%AAncia-
+[Como faço uma captura de tela em uma experiência?](./Como faço uma captura de tela em uma experiência-.html) |https://en.help.roblox.com/hc/pt-br/articles/20564017568276-Como-fa%C3%A7o-uma-captura-de-tela-em-uma-experi%C3%AAncia
 [Requisitos de Sistema do Roblox Mobile](./Requisitos de Sistema do Roblox Mobile.html) |https://en.help.roblox.com/hc/pt-br/articles/203625474-Requisitos-de-Sistema-do-Roblox-Mobile
 [Dispositivo Móvel: Iniciando e Encerrando Sessão](./Dispositivo Móvel- Iniciando e Encerrando Sessão.html) |https://en.help.roblox.com/hc/pt-br/articles/203313450-Dispositivo-M%C3%B3vel-Iniciando-e-Encerrando-Sess%C3%A3o
 [Celular: lendo e respondendo a mensagens](./Celular- lendo e respondendo a mensagens.html) |https://en.help.roblox.com/hc/pt-br/articles/203313550-Celular-lendo-e-respondendo-a-mensagens
