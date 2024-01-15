@@ -7,7 +7,7 @@ Name|URL
 [Allgemeine Chat- / Tastaturprobleme auf dem Computer](./Allgemeine Chat- - Tastaturprobleme auf dem Computer.html) |https://en.help.roblox.com/hc/de/articles/203313040-Allgemeine-Chat-Tastaturprobleme-auf-dem-Computer
 [Allgemeine Verbindungsprobleme](./Allgemeine Verbindungsprobleme.html) |https://en.help.roblox.com/hc/de/articles/203312880-Allgemeine-Verbindungsprobleme
 [Mac: Fehlerbehebung](./Mac- Fehlerbehebung.html) |https://en.help.roblox.com/hc/de/articles/203312990-Mac-Fehlerbehebung
-[Wie installiere ich die Roblox Software neu?](./Wie installiere ich die Roblox Software neu-.html) |https://en.help.roblox.com/hc/de/articles/203312910-Wie-installiere-ich-die-Roblox-Software-neu-
+[Wie installiere ich die Roblox Software neu?](./Wie installiere ich die Roblox Software neu-.html) |https://en.help.roblox.com/hc/de/articles/203312910-Wie-installiere-ich-die-Roblox-Software-neu
 [Wie man Roblox deinstalliert](./Wie man Roblox deinstalliert.html) |https://en.help.roblox.com/hc/de/articles/203312980-Wie-man-Roblox-deinstalliert
 [Firewall- und Router-Probleme](./Firewall- und Router-Probleme.html) |https://en.help.roblox.com/hc/de/articles/203312840-Firewall-und-Router-Probleme
 [Mac: Kindersicherung](./Mac- Kindersicherung.html) |https://en.help.roblox.com/hc/de/articles/203313010-Mac-Kindersicherung

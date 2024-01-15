@@ -11,7 +11,7 @@ Name|URL
 [Roblox-Datenschutzrichtlinie für biometrische Daten](./Roblox-Datenschutzrichtlinie für biometrische Daten.html) |https://en.help.roblox.com/hc/de/articles/4412863575316-Roblox-Datenschutzrichtlinie-f%C3%BCr-biometrische-Daten
 [Allgemeiner Gesundheitshinweis](./Allgemeiner Gesundheitshinweis.html) |https://en.help.roblox.com/hc/de/articles/360031603131-Allgemeiner-Gesundheitshinweis
 [Erklärung zur Barrierefreiheit von Roblox](./Erklärung zur Barrierefreiheit von Roblox.html) |https://en.help.roblox.com/hc/de/articles/360059080071-Erkl%C3%A4rung-zur-Barrierefreiheit-von-Roblox
-[Roblox-Standards der Richtlinien für die Altersgruppe 17+](./Roblox-Standards der Richtlinien für die Altersgruppe 17+.html) |https://en.help.roblox.com/hc/de/articles/15869919570708-Roblox-Standards-der-Richtlinien-f%C3%BCr-die-Altersgruppe-17-
+[Roblox-Standards der Richtlinien für die Altersgruppe 17+](./Roblox-Standards der Richtlinien für die Altersgruppe 17+.html) |https://en.help.roblox.com/hc/de/articles/15869919570708-Roblox-Standards-der-Richtlinien-f%C3%BCr-die-Altersgruppe-17
 [Roblox-Werbebedingungen](./Roblox-Werbebedingungen.html) |https://en.help.roblox.com/hc/de/articles/15494846263060-Roblox-Werbebedingungen
 [Werbestandards](./Werbestandards.html) |https://en.help.roblox.com/hc/de/articles/13722260778260-Werbestandards
 [Nutzungsbedingungen für UGC-Abonnements](./Nutzungsbedingungen für UGC-Abonnements.html) |https://en.help.roblox.com/hc/de/articles/19694609252884-Nutzungsbedingungen-f%C3%BCr-UGC-Abonnements

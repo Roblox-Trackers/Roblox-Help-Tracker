@@ -2,7 +2,7 @@
 ### Articles in this section
 Name|URL
 -|-
-[Wie kann ich in einem Erlebnis einen Screenshot aufnehmen?](./Wie kann ich in einem Erlebnis einen Screenshot aufnehmen-.html) |https://en.help.roblox.com/hc/de/articles/20564017568276-Wie-kann-ich-in-einem-Erlebnis-einen-Screenshot-aufnehmen-
+[Wie kann ich in einem Erlebnis einen Screenshot aufnehmen?](./Wie kann ich in einem Erlebnis einen Screenshot aufnehmen-.html) |https://en.help.roblox.com/hc/de/articles/20564017568276-Wie-kann-ich-in-einem-Erlebnis-einen-Screenshot-aufnehmen
 [Roblox-Systemanforderungen für mobile Geräte](./Roblox-Systemanforderungen für mobile Geräte.html) |https://en.help.roblox.com/hc/de/articles/203625474-Roblox-Systemanforderungen-f%C3%BCr-mobile-Ger%C3%A4te
 [Mobile App: An- und Abmelden](./Mobile App- An- und Abmelden.html) |https://en.help.roblox.com/hc/de/articles/203313450-Mobile-App-An-und-Abmelden
 [Mobile Geräte: Lesen und Antworten auf Nachrichten](./Mobile Geräte- Lesen und Antworten auf Nachrichten.html) |https://en.help.roblox.com/hc/de/articles/203313550-Mobile-Ger%C3%A4te-Lesen-und-Antworten-auf-Nachrichten
