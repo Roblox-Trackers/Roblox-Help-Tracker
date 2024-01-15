@@ -27,3 +27,5 @@ Name|URL
 [Promo-Codes auf Roblox](./Promo-Codes auf Roblox.html) |https://en.help.roblox.com/hc/de/articles/10549651908244-Promo-Codes-auf-Roblox
 [Help-Center-FAQs für Strafverfolgungsbehörden](./Help-Center-FAQs für Strafverfolgungsbehörden.html) |https://en.help.roblox.com/hc/de/articles/11219680442260-Help-Center-FAQs-f%C3%BCr-Strafverfolgungsbeh%C3%B6rden
 [Verwendung von lizenzierter Musik in Videos](./Verwendung von lizenzierter Musik in Videos.html) |https://en.help.roblox.com/hc/de/articles/360038525351-Verwendung-von-lizenzierter-Musik-in-Videos
+[Roblox aktualisiert unsere Nutzungsbedingunge](./Roblox aktualisiert unsere Nutzungsbedingunge.html) |https://en.help.roblox.com/hc/de/articles/14663412502676-Roblox-aktualisiert-unsere-Nutzungsbedingunge
+[Roblox-Datenschutz- und Cookie-Richtlinie](./Roblox-Datenschutz- und Cookie-Richtlinie.html) |https://en.help.roblox.com/hc/de/articles/14663460303380-Roblox-Datenschutz-und-Cookie-Richtlinie
