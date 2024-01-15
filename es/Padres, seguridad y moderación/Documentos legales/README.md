@@ -25,3 +25,4 @@ Name|URL
 [Códigos promocionales en Roblox](./Códigos promocionales en Roblox.html) |https://en.help.roblox.com/hc/es/articles/10549651908244-C%C3%B3digos-promocionales-en-Roblox
 [Preguntas frecuentes del Centro de ayuda para las fuerzas del orden](./Preguntas frecuentes del Centro de ayuda para las fuerzas del orden.html) |https://en.help.roblox.com/hc/es/articles/11219680442260-Preguntas-frecuentes-del-Centro-de-ayuda-para-las-fuerzas-del-orden
 [Cómo usar música con licencia en videos](./Cómo usar música con licencia en videos.html) |https://en.help.roblox.com/hc/es/articles/360038525351-C%C3%B3mo-usar-m%C3%BAsica-con-licencia-en-videos
+[Roblox está actualizando los Términos de uso](./Roblox está actualizando los Términos de uso.html) |https://en.help.roblox.com/hc/es/articles/14663412502676-Roblox-est%C3%A1-actualizando-los-T%C3%A9rminos-de-uso
