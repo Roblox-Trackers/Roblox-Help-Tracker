@@ -26,3 +26,5 @@ Name|URL
 [Códigos promocionais na Roblox](./Códigos promocionais na Roblox.html) |https://en.help.roblox.com/hc/pt-br/articles/10549651908244-C%C3%B3digos-promocionais-na-Roblox
 [Perguntas Frequentes da Página de Ajuda para Autoridades Legais](./Perguntas Frequentes da Página de Ajuda para Autoridades Legais.html) |https://en.help.roblox.com/hc/pt-br/articles/11219680442260-Perguntas-Frequentes-da-P%C3%A1gina-de-Ajuda-para-Autoridades-Legais
 [Como usar música licenciada em vídeos](./Como usar música licenciada em vídeos.html) |https://en.help.roblox.com/hc/pt-br/articles/360038525351-Como-usar-m%C3%BAsica-licenciada-em-v%C3%ADdeos
+[A Roblox está atualizando nossos Termos de Uso](./A Roblox está atualizando nossos Termos de Uso.html) |https://en.help.roblox.com/hc/pt-br/articles/14663412502676-A-Roblox-est%C3%A1-atualizando-nossos-Termos-de-Uso
+[Política de cookies e privacidade da Roblox](./Política de cookies e privacidade da Roblox.html) |https://en.help.roblox.com/hc/pt-br/articles/14663460303380-Pol%C3%ADtica-de-cookies-e-privacidade-da-Roblox
