@@ -7,7 +7,7 @@ Name|URL
 [Masalah Obrolan/Keyboard Umum di Komputer](./Masalah Obrolan-Keyboard Umum di Komputer.html) |https://en.help.roblox.com/hc/id/articles/203313040-Masalah-Obrolan-Keyboard-Umum-di-Komputer
 [Masalah Koneksi Umum](./Masalah Koneksi Umum.html) |https://en.help.roblox.com/hc/id/articles/203312880-Masalah-Koneksi-Umum
 [Mac: Penyelesaian Masalah](./Mac- Penyelesaian Masalah.html) |https://en.help.roblox.com/hc/id/articles/203312990-Mac-Penyelesaian-Masalah
-[How Do I Reinstall the Roblox Software?](./How Do I Reinstall the Roblox Software-.html) |https://en.help.roblox.com/hc/id/articles/203312910-How-Do-I-Reinstall-the-Roblox-Software-
+[How Do I Reinstall the Roblox Software?](./How Do I Reinstall the Roblox Software-.html) |https://en.help.roblox.com/hc/id/articles/203312910-How-Do-I-Reinstall-the-Roblox-Software
 [Cara Menghapus Instalasi Roblox](./Cara Menghapus Instalasi Roblox.html) |https://en.help.roblox.com/hc/id/articles/203312980-Cara-Menghapus-Instalasi-Roblox
 [Masalah Firewall dan Router](./Masalah Firewall dan Router.html) |https://en.help.roblox.com/hc/id/articles/203312840-Masalah-Firewall-dan-Router
 [Mac: Kontrol Orang Tua](./Mac- Kontrol Orang Tua.html) |https://en.help.roblox.com/hc/id/articles/203313010-Mac-Kontrol-Orang-Tua

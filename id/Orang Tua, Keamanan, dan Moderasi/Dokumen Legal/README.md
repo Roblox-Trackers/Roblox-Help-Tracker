@@ -11,7 +11,7 @@ Name|URL
 [Pemberitahuan Privasi Biometrik Roblox](./Pemberitahuan Privasi Biometrik Roblox.html) |https://en.help.roblox.com/hc/id/articles/4412863575316-Pemberitahuan-Privasi-Biometrik-Roblox
 [Pemberitahuan Kesehatan Umum](./Pemberitahuan Kesehatan Umum.html) |https://en.help.roblox.com/hc/id/articles/360031603131-Pemberitahuan-Kesehatan-Umum
 [Pernyataan Aksesibilitas Roblox](./Pernyataan Aksesibilitas Roblox.html) |https://en.help.roblox.com/hc/id/articles/360059080071-Pernyataan-Aksesibilitas-Roblox
-[Standar Kebijakan Roblox 17+](./Standar Kebijakan Roblox 17+.html) |https://en.help.roblox.com/hc/id/articles/15869919570708-Standar-Kebijakan-Roblox-17-
+[Standar Kebijakan Roblox 17+](./Standar Kebijakan Roblox 17+.html) |https://en.help.roblox.com/hc/id/articles/15869919570708-Standar-Kebijakan-Roblox-17
 [Ketentuan Periklanan Roblox](./Ketentuan Periklanan Roblox.html) |https://en.help.roblox.com/hc/id/articles/15494846263060-Ketentuan-Periklanan-Roblox
 [Standar Periklanan](./Standar Periklanan.html) |https://en.help.roblox.com/hc/id/articles/13722260778260-Standar-Periklanan
 [Ketentuan Penggunaan Subscription UGC](./Ketentuan Penggunaan Subscription UGC.html) |https://en.help.roblox.com/hc/id/articles/19694609252884-Ketentuan-Penggunaan-Subscription-UGC

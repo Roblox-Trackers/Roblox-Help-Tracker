@@ -10,7 +10,7 @@ Name|URL
 [Peran Kelompok/Peringkat dan Perizinan](./Peran Kelompok-Peringkat dan Perizinan.html) |https://en.help.roblox.com/hc/id/articles/203313770-Peran-Kelompok-Peringkat-dan-Perizinan
 [Cara Melampirkan Gambar ke Grup](./Cara Melampirkan Gambar ke Grup.html) |https://en.help.roblox.com/hc/id/articles/203313800-Cara-Melampirkan-Gambar-ke-Grup
 [Perubahan Nama Kelompok](./Perubahan Nama Kelompok.html) |https://en.help.roblox.com/hc/id/articles/4414930974228-Perubahan-Nama-Kelompok
-[Melihat Aktivitas Kelompok Anda (Log Audit Kelompok)](./Melihat Aktivitas Kelompok Anda (Log Audit Kelompok).html) |https://en.help.roblox.com/hc/id/articles/203313780-Melihat-Aktivitas-Kelompok-Anda-Log-Audit-Kelompok-
+[Melihat Aktivitas Kelompok Anda (Log Audit Kelompok)](./Melihat Aktivitas Kelompok Anda (Log Audit Kelompok).html) |https://en.help.roblox.com/hc/id/articles/203313780-Melihat-Aktivitas-Kelompok-Anda-Log-Audit-Kelompok
 [Cara Mengiklankan Grup](./Cara Mengiklankan Grup.html) |https://en.help.roblox.com/hc/id/articles/203313820-Cara-Mengiklankan-Grup
 [Tautan Sosial pada Deskripsi Grup](./Tautan Sosial pada Deskripsi Grup.html) |https://en.help.roblox.com/hc/id/articles/360000910946-Tautan-Sosial-pada-Deskripsi-Grup
 [Pakaian Kelompok, Manajemen Pendapatan, dan Pembayaran](./Pakaian Kelompok, Manajemen Pendapatan, dan Pembayaran.html) |https://en.help.roblox.com/hc/id/articles/203313830-Pakaian-Kelompok-Manajemen-Pendapatan-dan-Pembayaran
