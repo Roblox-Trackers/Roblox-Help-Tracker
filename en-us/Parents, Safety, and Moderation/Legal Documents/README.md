@@ -19,6 +19,7 @@ Name|URL
 [Roblox Rating Integrity](./Roblox Rating Integrity.html) |https://en.help.roblox.com/hc/en-us/articles/7235818866964-Roblox-Rating-Integrity
 [Roblox Facial Animation Privacy Notice](./Roblox Facial Animation Privacy Notice.html) |https://en.help.roblox.com/hc/en-us/articles/8064749848980-Roblox-Facial-Animation-Privacy-Notice
 [Roblox SMS Terms of Service](./Roblox SMS Terms of Service.html) |https://en.help.roblox.com/hc/en-us/articles/9483830673556-Roblox-SMS-Terms-of-Service
+[Content Moderation on Roblox](./Content Moderation on Roblox.html) |https://en.help.roblox.com/hc/en-us/articles/21416271342868-Content-Moderation-on-Roblox
 [CPRA Privacy Policy](./CPRA Privacy Policy.html) |https://en.help.roblox.com/hc/en-us/articles/4402871541140-CPRA-Privacy-Policy
 [Creator Third Party App Terms](./Creator Third Party App Terms.html) |https://en.help.roblox.com/hc/en-us/articles/15887203369620-Creator-Third-Party-App-Terms
 [Creator Analytics Terms of Use](./Creator Analytics Terms of Use.html) |https://en.help.roblox.com/hc/en-us/articles/10949046065044-Creator-Analytics-Terms-of-Use
@@ -28,7 +29,6 @@ Name|URL
 [Privacy Policy Addendum for Users in Republic of Korea](./Privacy Policy Addendum for Users in Republic of Korea.html) |https://en.help.roblox.com/hc/en-us/articles/15685139483924-Privacy-Policy-Addendum-for-Users-in-Republic-of-Korea
 [Opt-in Corpus Terms](./Opt-in Corpus Terms.html) |https://en.help.roblox.com/hc/en-us/articles/18922542221076-Opt-in-Corpus-Terms
 [Promo Codes on Roblox](./Promo Codes on Roblox.html) |https://en.help.roblox.com/hc/en-us/articles/10549651908244-Promo-Codes-on-Roblox
+[Recommendations and Ranking on Roblox](./Recommendations and Ranking on Roblox.html) |https://en.help.roblox.com/hc/en-us/articles/21416941036564-Recommendations-and-Ranking-on-Roblox
 [Help Center FAQs for Law Enforcement](./Help Center FAQs for Law Enforcement.html) |https://en.help.roblox.com/hc/en-us/articles/11219680442260-Help-Center-FAQs-for-Law-Enforcement
 [Using Licensed Music in Videos](./Using Licensed Music in Videos.html) |https://en.help.roblox.com/hc/en-us/articles/360038525351-Using-Licensed-Music-in-Videos
-[Roblox is Updating our Terms of Use](./Roblox is Updating our Terms of Use.html) |https://en.help.roblox.com/hc/en-us/articles/14663412502676-Roblox-is-Updating-our-Terms-of-Use
-[Roblox Privacy and Cookie Policy](./Roblox Privacy and Cookie Policy.html) |https://en.help.roblox.com/hc/en-us/articles/14663460303380-Roblox-Privacy-and-Cookie-Policy
