@@ -18,12 +18,14 @@ Name|URL
 [Évaluation de l'intégrité Roblox](./Évaluation de l'intégrité Roblox.html) |https://en.help.roblox.com/hc/fr/articles/7235818866964-%C3%89valuation-de-l-int%C3%A9grit%C3%A9-Roblox
 [Avis de confidentialité de l'animation faciale de Roblox](./Avis de confidentialité de l'animation faciale de Roblox.html) |https://en.help.roblox.com/hc/fr/articles/8064749848980-Avis-de-confidentialit%C3%A9-de-l-animation-faciale-de-Roblox
 [Conditions d'utilisation des SMS de Roblox](./Conditions d'utilisation des SMS de Roblox.html) |https://en.help.roblox.com/hc/fr/articles/9483830673556-Conditions-d-utilisation-des-SMS-de-Roblox
+[Modération du contenu sur Roblox](./Modération du contenu sur Roblox.html) |https://en.help.roblox.com/hc/fr/articles/21416271342868-Mod%C3%A9ration-du-contenu-sur-Roblox
 [Politique de protection des données CPRA](./Politique de protection des données CPRA.html) |https://en.help.roblox.com/hc/fr/articles/4402871541140-Politique-de-protection-des-donn%C3%A9es-CPRA
 [Conditions d'application tierce de créateur](./Conditions d'application tierce de créateur.html) |https://en.help.roblox.com/hc/fr/articles/15887203369620-Conditions-d-application-tierce-de-cr%C3%A9ateur
 [Conditions d'utilisation de Creator Analytics](./Conditions d'utilisation de Creator Analytics.html) |https://en.help.roblox.com/hc/fr/articles/10949046065044-Conditions-d-utilisation-de-Creator-Analytics
 [Loi sur les services numériques](./Loi sur les services numériques.html) |https://en.help.roblox.com/hc/fr/articles/13061336948244-Loi-sur-les-services-num%C3%A9riques
 [Accord d'hôte](./Accord d'hôte.html) |https://en.help.roblox.com/hc/fr/articles/15765085259284-Accord-d-h%C3%B4te
 [Codes promotionnels sur Roblox](./Codes promotionnels sur Roblox.html) |https://en.help.roblox.com/hc/fr/articles/10549651908244-Codes-promotionnels-sur-Roblox
+[Recommandations et classement sur Roblox](./Recommandations et classement sur Roblox.html) |https://en.help.roblox.com/hc/fr/articles/21416941036564-Recommandations-et-classement-sur-Roblox
 [Centre d'aide FAQ pour les forces de police et de sécurité](./Centre d'aide FAQ pour les forces de police et de sécurité.html) |https://en.help.roblox.com/hc/fr/articles/11219680442260-Centre-d-aide-FAQ-pour-les-forces-de-police-et-de-s%C3%A9curit%C3%A9
 [Utilisation de la musique sous licence dans des vidéos](./Utilisation de la musique sous licence dans des vidéos.html) |https://en.help.roblox.com/hc/fr/articles/360038525351-Utilisation-de-la-musique-sous-licence-dans-des-vid%C3%A9os
 [Roblox met à jour nos Conditions d'utilisation](./Roblox met à jour nos Conditions d'utilisation.html) |https://en.help.roblox.com/hc/fr/articles/14663412502676-Roblox-met-%C3%A0-jour-nos-Conditions-d-utilisation
