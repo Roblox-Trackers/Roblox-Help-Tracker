@@ -18,6 +18,7 @@ Name|URL
 [Integrität der Roblox-Bewertung](./Integrität der Roblox-Bewertung.html) |https://en.help.roblox.com/hc/de/articles/7235818866964-Integrit%C3%A4t-der-Roblox-Bewertung
 [Roblox-Datenschutzhinweis zur Gesichtsanimation](./Roblox-Datenschutzhinweis zur Gesichtsanimation.html) |https://en.help.roblox.com/hc/de/articles/8064749848980-Roblox-Datenschutzhinweis-zur-Gesichtsanimation
 [Roblox SMS-Nutzungsbedingungen](./Roblox SMS-Nutzungsbedingungen.html) |https://en.help.roblox.com/hc/de/articles/9483830673556-Roblox-SMS-Nutzungsbedingungen
+[Inhaltsmoderation auf Roblox](./Inhaltsmoderation auf Roblox.html) |https://en.help.roblox.com/hc/de/articles/21416271342868-Inhaltsmoderation-auf-Roblox
 [CPRA-Datenschutzrichtlinie](./CPRA-Datenschutzrichtlinie.html) |https://en.help.roblox.com/hc/de/articles/4402871541140-CPRA-Datenschutzrichtlinie
 [Bedingungen für Entwickleranwendungen von Drittanbietern](./Bedingungen für Entwickleranwendungen von Drittanbietern.html) |https://en.help.roblox.com/hc/de/articles/15887203369620-Bedingungen-f%C3%BCr-Entwickleranwendungen-von-Drittanbietern
 [Creator-Analytics-Nutzungsbedingungen](./Creator-Analytics-Nutzungsbedingungen.html) |https://en.help.roblox.com/hc/de/articles/10949046065044-Creator-Analytics-Nutzungsbedingungen
@@ -25,6 +26,7 @@ Name|URL
 [Gastgebervereinbarung](./Gastgebervereinbarung.html) |https://en.help.roblox.com/hc/de/articles/15765085259284-Gastgebervereinbarung
 [Impressum](./Impressum.html) |https://en.help.roblox.com/hc/de/articles/4401758349844-Impressum
 [Promo-Codes auf Roblox](./Promo-Codes auf Roblox.html) |https://en.help.roblox.com/hc/de/articles/10549651908244-Promo-Codes-auf-Roblox
+[Empfehlungen und Ranking auf Roblox](./Empfehlungen und Ranking auf Roblox.html) |https://en.help.roblox.com/hc/de/articles/21416941036564-Empfehlungen-und-Ranking-auf-Roblox
 [Help-Center-FAQs für Strafverfolgungsbehörden](./Help-Center-FAQs für Strafverfolgungsbehörden.html) |https://en.help.roblox.com/hc/de/articles/11219680442260-Help-Center-FAQs-f%C3%BCr-Strafverfolgungsbeh%C3%B6rden
 [Verwendung von lizenzierter Musik in Videos](./Verwendung von lizenzierter Musik in Videos.html) |https://en.help.roblox.com/hc/de/articles/360038525351-Verwendung-von-lizenzierter-Musik-in-Videos
 [Roblox aktualisiert unsere Nutzungsbedingunge](./Roblox aktualisiert unsere Nutzungsbedingunge.html) |https://en.help.roblox.com/hc/de/articles/14663412502676-Roblox-aktualisiert-unsere-Nutzungsbedingunge
