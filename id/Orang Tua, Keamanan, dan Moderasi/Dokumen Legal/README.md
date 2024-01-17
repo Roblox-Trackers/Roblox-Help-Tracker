@@ -18,12 +18,14 @@ Name|URL
 [Integritas Rating Roblox](./Integritas Rating Roblox.html) |https://en.help.roblox.com/hc/id/articles/7235818866964-Integritas-Rating-Roblox
 [Pemberitahuan Privasi Animasi Wajah Roblox](./Pemberitahuan Privasi Animasi Wajah Roblox.html) |https://en.help.roblox.com/hc/id/articles/8064749848980-Pemberitahuan-Privasi-Animasi-Wajah-Roblox
 [Ketentuan Layanan SMS Roblox](./Ketentuan Layanan SMS Roblox.html) |https://en.help.roblox.com/hc/id/articles/9483830673556-Ketentuan-Layanan-SMS-Roblox
+[Moderasi Konten di Roblox](./Moderasi Konten di Roblox.html) |https://en.help.roblox.com/hc/id/articles/21416271342868-Moderasi-Konten-di-Roblox
 [Kebijakan Privasi CPRA](./Kebijakan Privasi CPRA.html) |https://en.help.roblox.com/hc/id/articles/4402871541140-Kebijakan-Privasi-CPRA
 [Ketentuan Aplikasi Pihak Ketiga Kreator](./Ketentuan Aplikasi Pihak Ketiga Kreator.html) |https://en.help.roblox.com/hc/id/articles/15887203369620-Ketentuan-Aplikasi-Pihak-Ketiga-Kreator
 [Ketentuan Penggunaan Analisis Kreator](./Ketentuan Penggunaan Analisis Kreator.html) |https://en.help.roblox.com/hc/id/articles/10949046065044-Ketentuan-Penggunaan-Analisis-Kreator
 [Undang-Undang Layanan Digital](./Undang-Undang Layanan Digital.html) |https://en.help.roblox.com/hc/id/articles/13061336948244-Undang-Undang-Layanan-Digital
 [Perjanjian Penyelenggara](./Perjanjian Penyelenggara.html) |https://en.help.roblox.com/hc/id/articles/15765085259284-Perjanjian-Penyelenggara
 [Kode Promo di Roblox](./Kode Promo di Roblox.html) |https://en.help.roblox.com/hc/id/articles/10549651908244-Kode-Promo-di-Roblox
+[Rekomendasi dan Peringkat di Roblox](./Rekomendasi dan Peringkat di Roblox.html) |https://en.help.roblox.com/hc/id/articles/21416941036564-Rekomendasi-dan-Peringkat-di-Roblox
 [Pusat Bantuan untuk Penegak Hukum](./Pusat Bantuan untuk Penegak Hukum.html) |https://en.help.roblox.com/hc/id/articles/11219680442260-Pusat-Bantuan-untuk-Penegak-Hukum
 [Menggunakan Musik Berlisensi di Video](./Menggunakan Musik Berlisensi di Video.html) |https://en.help.roblox.com/hc/id/articles/360038525351-Menggunakan-Musik-Berlisensi-di-Video
 [Roblox Memperbarui Ketentuan Penggunaan Kami](./Roblox Memperbarui Ketentuan Penggunaan Kami.html) |https://en.help.roblox.com/hc/id/articles/14663412502676-Roblox-Memperbarui-Ketentuan-Penggunaan-Kami
