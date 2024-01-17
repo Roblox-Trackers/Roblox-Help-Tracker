@@ -18,12 +18,14 @@ Name|URL
 [Integridade das avaliações na Roblox](./Integridade das avaliações na Roblox.html) |https://en.help.roblox.com/hc/pt-br/articles/7235818866964-Integridade-das-avalia%C3%A7%C3%B5es-na-Roblox
 [Aviso de privacidade sobre animações faciais na Roblox](./Aviso de privacidade sobre animações faciais na Roblox.html) |https://en.help.roblox.com/hc/pt-br/articles/8064749848980-Aviso-de-privacidade-sobre-anima%C3%A7%C3%B5es-faciais-na-Roblox
 [Termos de serviço SMS Roblox](./Termos de serviço SMS Roblox.html) |https://en.help.roblox.com/hc/pt-br/articles/9483830673556-Termos-de-servi%C3%A7o-SMS-Roblox
+[Moderação de Conteúdo na Roblox](./Moderação de Conteúdo na Roblox.html) |https://en.help.roblox.com/hc/pt-br/articles/21416271342868-Modera%C3%A7%C3%A3o-de-Conte%C3%BAdo-na-Roblox
 [Política de Privacidade da CPRA](./Política de Privacidade da CPRA.html) |https://en.help.roblox.com/hc/pt-br/articles/4402871541140-Pol%C3%ADtica-de-Privacidade-da-CPRA
 [Termos do Programa Aplicativo de Terceiros para Criadores](./Termos do Programa Aplicativo de Terceiros para Criadores.html) |https://en.help.roblox.com/hc/pt-br/articles/15887203369620-Termos-do-Programa-Aplicativo-de-Terceiros-para-Criadores
 [Termos de Uso de Dados Analíticos para Criadores](./Termos de Uso de Dados Analíticos para Criadores.html) |https://en.help.roblox.com/hc/pt-br/articles/10949046065044-Termos-de-Uso-de-Dados-Anal%C3%ADticos-para-Criadores
 [Regulamento dos Serviços Digitais](./Regulamento dos Serviços Digitais.html) |https://en.help.roblox.com/hc/pt-br/articles/13061336948244-Regulamento-dos-Servi%C3%A7os-Digitais
 [Acordo do Anfitrião](./Acordo do Anfitrião.html) |https://en.help.roblox.com/hc/pt-br/articles/15765085259284-Acordo-do-Anfitri%C3%A3o
 [Códigos promocionais na Roblox](./Códigos promocionais na Roblox.html) |https://en.help.roblox.com/hc/pt-br/articles/10549651908244-C%C3%B3digos-promocionais-na-Roblox
+[Recomendações e Classificação na Roblox](./Recomendações e Classificação na Roblox.html) |https://en.help.roblox.com/hc/pt-br/articles/21416941036564-Recomenda%C3%A7%C3%B5es-e-Classifica%C3%A7%C3%A3o-na-Roblox
 [Perguntas Frequentes da Página de Ajuda para Autoridades Legais](./Perguntas Frequentes da Página de Ajuda para Autoridades Legais.html) |https://en.help.roblox.com/hc/pt-br/articles/11219680442260-Perguntas-Frequentes-da-P%C3%A1gina-de-Ajuda-para-Autoridades-Legais
 [Como usar música licenciada em vídeos](./Como usar música licenciada em vídeos.html) |https://en.help.roblox.com/hc/pt-br/articles/360038525351-Como-usar-m%C3%BAsica-licenciada-em-v%C3%ADdeos
 [A Roblox está atualizando nossos Termos de Uso](./A Roblox está atualizando nossos Termos de Uso.html) |https://en.help.roblox.com/hc/pt-br/articles/14663412502676-A-Roblox-est%C3%A1-atualizando-nossos-Termos-de-Uso
