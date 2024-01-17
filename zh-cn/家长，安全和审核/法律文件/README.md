@@ -18,12 +18,14 @@ Name|URL
 [Roblox 信用等级](./Roblox 信用等级.html) |https://en.help.roblox.com/hc/zh-cn/articles/7235818866964-Roblox-%E4%BF%A1%E7%94%A8%E7%AD%89%E7%BA%A7
 [Roblox 脸部动画隐私通知](./Roblox 脸部动画隐私通知.html) |https://en.help.roblox.com/hc/zh-cn/articles/8064749848980-Roblox-%E8%84%B8%E9%83%A8%E5%8A%A8%E7%94%BB%E9%9A%90%E7%A7%81%E9%80%9A%E7%9F%A5
 [Roblox 短信服务条款](./Roblox 短信服务条款.html) |https://en.help.roblox.com/hc/zh-cn/articles/9483830673556-Roblox-%E7%9F%AD%E4%BF%A1%E6%9C%8D%E5%8A%A1%E6%9D%A1%E6%AC%BE
+[Roblox 内容审核](./Roblox 内容审核.html) |https://en.help.roblox.com/hc/zh-cn/articles/21416271342868-Roblox-%E5%86%85%E5%AE%B9%E5%AE%A1%E6%A0%B8
 [CPRA 隐私政策](./CPRA 隐私政策.html) |https://en.help.roblox.com/hc/zh-cn/articles/4402871541140-CPRA-%E9%9A%90%E7%A7%81%E6%94%BF%E7%AD%96
 [创作者第三方应用条款](./创作者第三方应用条款.html) |https://en.help.roblox.com/hc/zh-cn/articles/15887203369620-%E5%88%9B%E4%BD%9C%E8%80%85%E7%AC%AC%E4%B8%89%E6%96%B9%E5%BA%94%E7%94%A8%E6%9D%A1%E6%AC%BE
 [创作者分析使用条款](./创作者分析使用条款.html) |https://en.help.roblox.com/hc/zh-cn/articles/10949046065044-%E5%88%9B%E4%BD%9C%E8%80%85%E5%88%86%E6%9E%90%E4%BD%BF%E7%94%A8%E6%9D%A1%E6%AC%BE
 [数字服务法](./数字服务法.html) |https://en.help.roblox.com/hc/zh-cn/articles/13061336948244-%E6%95%B0%E5%AD%97%E6%9C%8D%E5%8A%A1%E6%B3%95
 [举办协议](./举办协议.html) |https://en.help.roblox.com/hc/zh-cn/articles/15765085259284-%E4%B8%BE%E5%8A%9E%E5%8D%8F%E8%AE%AE
 [Roblox 的促销码](./Roblox 的促销码.html) |https://en.help.roblox.com/hc/zh-cn/articles/10549651908244-Roblox-%E7%9A%84%E4%BF%83%E9%94%80%E7%A0%81
+[Roblox 推荐和排名](./Roblox 推荐和排名.html) |https://en.help.roblox.com/hc/zh-cn/articles/21416941036564-Roblox-%E6%8E%A8%E8%8D%90%E5%92%8C%E6%8E%92%E5%90%8D
 [执法机关帮助中心常见问题](./执法机关帮助中心常见问题.html) |https://en.help.roblox.com/hc/zh-cn/articles/11219680442260-%E6%89%A7%E6%B3%95%E6%9C%BA%E5%85%B3%E5%B8%AE%E5%8A%A9%E4%B8%AD%E5%BF%83%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98
 [在视频中使用授权音乐](./在视频中使用授权音乐.html) |https://en.help.roblox.com/hc/zh-cn/articles/360038525351-%E5%9C%A8%E8%A7%86%E9%A2%91%E4%B8%AD%E4%BD%BF%E7%94%A8%E6%8E%88%E6%9D%83%E9%9F%B3%E4%B9%90
 [Roblox正在更新我们的《使用条款》](./Roblox正在更新我们的《使用条款》.html) |https://en.help.roblox.com/hc/zh-cn/articles/14663412502676-Roblox%E6%AD%A3%E5%9C%A8%E6%9B%B4%E6%96%B0%E6%88%91%E4%BB%AC%E7%9A%84-%E4%BD%BF%E7%94%A8%E6%9D%A1%E6%AC%BE
