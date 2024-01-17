@@ -17,12 +17,14 @@ Name|URL
 [Integridad de calificaciones de Roblox](./Integridad de calificaciones de Roblox.html) |https://en.help.roblox.com/hc/es/articles/7235818866964-Integridad-de-calificaciones-de-Roblox
 [Aviso de privacidad de animación facial de Roblox](./Aviso de privacidad de animación facial de Roblox.html) |https://en.help.roblox.com/hc/es/articles/8064749848980-Aviso-de-privacidad-de-animaci%C3%B3n-facial-de-Roblox
 [Términos de servicio de SMS de Roblox](./Términos de servicio de SMS de Roblox.html) |https://en.help.roblox.com/hc/es/articles/9483830673556-T%C3%A9rminos-de-servicio-de-SMS-de-Roblox
+[Moderación de contenido en Roblox](./Moderación de contenido en Roblox.html) |https://en.help.roblox.com/hc/es/articles/21416271342868-Moderaci%C3%B3n-de-contenido-en-Roblox
 [Política de privacidad de CPRA](./Política de privacidad de CPRA.html) |https://en.help.roblox.com/hc/es/articles/4402871541140-Pol%C3%ADtica-de-privacidad-de-CPRA
 [Términos del creador de aplicaciones de terceros](./Términos del creador de aplicaciones de terceros.html) |https://en.help.roblox.com/hc/es/articles/15887203369620-T%C3%A9rminos-del-creador-de-aplicaciones-de-terceros
 [Condiciones de uso de Panel analítico de creación](./Condiciones de uso de Panel analítico de creación.html) |https://en.help.roblox.com/hc/es/articles/10949046065044-Condiciones-de-uso-de-Panel-anal%C3%ADtico-de-creaci%C3%B3n
 [Ley de Servicios Digitales](./Ley de Servicios Digitales.html) |https://en.help.roblox.com/hc/es/articles/13061336948244-Ley-de-Servicios-Digitales
 [Acuerdo de organizador](./Acuerdo de organizador.html) |https://en.help.roblox.com/hc/es/articles/15765085259284-Acuerdo-de-organizador
 [Códigos promocionales en Roblox](./Códigos promocionales en Roblox.html) |https://en.help.roblox.com/hc/es/articles/10549651908244-C%C3%B3digos-promocionales-en-Roblox
+[Recomendaciones y clasificación en Roblox](./Recomendaciones y clasificación en Roblox.html) |https://en.help.roblox.com/hc/es/articles/21416941036564-Recomendaciones-y-clasificaci%C3%B3n-en-Roblox
 [Preguntas frecuentes del Centro de ayuda para las fuerzas del orden](./Preguntas frecuentes del Centro de ayuda para las fuerzas del orden.html) |https://en.help.roblox.com/hc/es/articles/11219680442260-Preguntas-frecuentes-del-Centro-de-ayuda-para-las-fuerzas-del-orden
 [Cómo usar música con licencia en videos](./Cómo usar música con licencia en videos.html) |https://en.help.roblox.com/hc/es/articles/360038525351-C%C3%B3mo-usar-m%C3%BAsica-con-licencia-en-videos
 [Roblox está actualizando los Términos de uso](./Roblox está actualizando los Términos de uso.html) |https://en.help.roblox.com/hc/es/articles/14663412502676-Roblox-est%C3%A1-actualizando-los-T%C3%A9rminos-de-uso
