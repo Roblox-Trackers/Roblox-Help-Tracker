@@ -18,12 +18,14 @@ Name|URL
 [Integrità della valutazione Roblox](./Integrità della valutazione Roblox.html) |https://en.help.roblox.com/hc/it/articles/7235818866964-Integrit%C3%A0-della-valutazione-Roblox
 [Informativa sulla privacy per l'animazione facciale di Roblox](./Informativa sulla privacy per l'animazione facciale di Roblox.html) |https://en.help.roblox.com/hc/it/articles/8064749848980-Informativa-sulla-privacy-per-l-animazione-facciale-di-Roblox
 [Termini di servizio SMS di Roblox](./Termini di servizio SMS di Roblox.html) |https://en.help.roblox.com/hc/it/articles/9483830673556-Termini-di-servizio-SMS-di-Roblox
+[Moderazione dei contenuti su Roblox](./Moderazione dei contenuti su Roblox.html) |https://en.help.roblox.com/hc/it/articles/21416271342868-Moderazione-dei-contenuti-su-Roblox
 [Politica sulla riservatezza CPRA](./Politica sulla riservatezza CPRA.html) |https://en.help.roblox.com/hc/it/articles/4402871541140-Politica-sulla-riservatezza-CPRA
 [Condizioni per app di Creatori terzi](./Condizioni per app di Creatori terzi.html) |https://en.help.roblox.com/hc/it/articles/15887203369620-Condizioni-per-app-di-Creatori-terzi
 [Condizioni d'uso di Creator Analytics](./Condizioni d'uso di Creator Analytics.html) |https://en.help.roblox.com/hc/it/articles/10949046065044-Condizioni-d-uso-di-Creator-Analytics
 [Normativa sui servizi digitali](./Normativa sui servizi digitali.html) |https://en.help.roblox.com/hc/it/articles/13061336948244-Normativa-sui-servizi-digitali
 [Accordo con l'host](./Accordo con l'host.html) |https://en.help.roblox.com/hc/it/articles/15765085259284-Accordo-con-l-host
 [Codici promozionali su Roblox](./Codici promozionali su Roblox.html) |https://en.help.roblox.com/hc/it/articles/10549651908244-Codici-promozionali-su-Roblox
+[Suggerimenti e posizionamento su Roblox](./Suggerimenti e posizionamento su Roblox.html) |https://en.help.roblox.com/hc/it/articles/21416941036564-Suggerimenti-e-posizionamento-su-Roblox
 [Domande frequenti sul Centro assistenza per le forze dell'ordine](./Domande frequenti sul Centro assistenza per le forze dell'ordine.html) |https://en.help.roblox.com/hc/it/articles/11219680442260-Domande-frequenti-sul-Centro-assistenza-per-le-forze-dell-ordine
 [Utilizzo di musica con licenza su Roblox](./Utilizzo di musica con licenza su Roblox.html) |https://en.help.roblox.com/hc/it/articles/360038525351-Utilizzo-di-musica-con-licenza-su-Roblox
 [Roblox sta aggiornando le sue Condizioni di utilizzo](./Roblox sta aggiornando le sue Condizioni di utilizzo.html) |https://en.help.roblox.com/hc/it/articles/14663412502676-Roblox-sta-aggiornando-le-sue-Condizioni-di-utilizzo
