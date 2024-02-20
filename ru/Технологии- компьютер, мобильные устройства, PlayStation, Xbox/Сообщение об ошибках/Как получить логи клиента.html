@@ -1,0 +1,174 @@
+   <h1 class="article-title" id="article-title" title="Как получить логи клиента">
+    Как получить логи клиента
+   </h1>
+   <div class="article-content">
+    <div class="article-body">
+     <p>
+      Бывают ситуации, когда сотрудник Roblox запрашивает логи клиента через письмо в Службу поддержки или сообщение на DevForum, чтобы помочь разобраться в проблеме. В этой статье описано, как получить эти логи.
+     </p>
+     <p class="wysiwyg-indent1">
+      <strong>
+       <em>
+        Примечание:
+       </em>
+      </strong>
+      <em>
+       Пожалуйста, отправляй эти логи только по просьбе сотрудника Roblox!
+      </em>
+     </p>
+     <p class="wysiwyg-indent1">
+     </p>
+     <h1>
+      Как получить логи Roblox
+     </h1>
+     <p class="wysiwyg-indent1">
+      Логи Roblox Player и Roblox Studio записываются в одну и ту же папку.
+     </p>
+     <ul>
+      <li>
+       На ПК одновременно нажми клавишу WINDOWS и R. Появится окно с названием
+       <strong>
+        Run
+       </strong>
+       . Скопируй и вставь или введи без кавычек следующее:
+       <ul>
+        <li>
+         <p>
+          Для Win32: "%localappdata%\Roblox\logs"
+         </p>
+         <p>
+          Для UWP: “%LOCALAPPDATA%\Packages\ROBLOXCorporation.ROBLOX_55nm5eh3cm0pr\LocalState\logs”
+         </p>
+        </li>
+       </ul>
+      </li>
+      <li>
+       На Mac перейди в Macintosh HD &gt; Пользователи &gt; [твой профиль пользователя] &gt; Библиотека &gt; Логи &gt; Roblox
+      </li>
+      <li>
+       <p data-renderer-start-pos="723">
+        В настоящее время у нас нет удобного способа загрузки логов Android или iOS. Извини, мы работаем над этим!
+       </p>
+      </li>
+     </ul>
+     <h2>
+      В этой папке, вероятно, будет много лог файлов
+     </h2>
+     <ul>
+      <li>
+       <p>
+        Логи Roblox будут выглядеть следующим образом: “0.&lt;major ver&gt;.&lt;minor ver&gt;.&lt;revision&gt;_&lt;date&gt;_Player_&lt;garbage&gt;_last.log
+       </p>
+       <ul>
+        <li>
+         <p>
+          Например, 0.555.1.5550874_20221214T162601Z_
+          <strong>
+           Player
+          </strong>
+          _9aaf3_last.log
+         </p>
+        </li>
+       </ul>
+      </li>
+      <li>
+       <p>
+        Логи Roblox Studio будут выглядеть так же, только вместо "Player" будет написано "Studio"
+       </p>
+       <ul>
+        <li>
+         <p>
+          Например, 0.555.1.5550874_20221214T162601Z_
+          <strong>
+           Studio
+          </strong>
+          _9aaf3_last.log
+         </p>
+        </li>
+       </ul>
+      </li>
+      <li>
+       <p>
+        Логи Bootstrapper будут выглядеть как bootstrapper_&lt;garbage&gt;_1.txt
+       </p>
+       <ul>
+        <li>
+         <p>
+          Если проблема не возникает при запуске Roblox или RobloxStudio из браузера или во время обновления, скорее всего, тебе не нужно отправлять логи bootstrapper.
+         </p>
+        </li>
+       </ul>
+      </li>
+     </ul>
+     <p>
+     </p>
+     <h2>
+      Чтобы определить правильный файл лога для отправки, ты можешь
+     </h2>
+     <ul>
+      <li>
+       Использовать временные метки файлов, чтобы определить, какой файл лога соответствует инциденту, о котором ты хочешь сообщить
+      </li>
+      <li>
+       Удалить все файлы в этом каталоге, воспроизвести проблему, о которой ты хочешь сообщить, а затем отправить всё содержимое этой папки
+      </li>
+      <li>
+       Если ты запутался, можно просто отсортировать по дате и отправить 10 последних файлов.
+      </li>
+     </ul>
+     <p>
+     </p>
+     <h1>
+      Добавление файлов с логами при составлении отчётов об ошибках
+     </h1>
+     <p>
+      Когда ты сообщаешь об ошибках на
+      <a href="https://devforum.roblox.com/c/bug-reports/10" rel="noopener" target="_blank">
+       Форуме разработчиков
+      </a>
+      , у тебя будет возможность загрузить файл лога вместе с сообщением об ошибке. Если тебе нужно загрузить логи после первоначального сообщения об ошибке, отправь личное сообщение в
+      <a href="https://devforum.roblox.com/g/bug-files" rel="noopener" target="_blank">
+       bug-files
+      </a>
+      группу, включая ссылку на исходное сообщение об ошибке и отметь всех соответствующих сотрудников Roblox:
+     </p>
+     <p class="wysiwyg-text-align-center">
+      <img alt="Report_Bug_Window_on_Developer_Forum.png" height="312" src="https://en.help.roblox.com/hc/article_attachments/14397229029524" width="546"/>
+     </p>
+     <p>
+     </p>
+     <p>
+      Загружай логи, отправляя их в группу bug-files, и делай это только в том случае, если сотрудник Roblox попросит тебя об этом. Чтобы определить сотрудника Roblox на Форуме разработчиков, убедись, что рядом с именем его аккаунта написано "Roblox Staff":
+     </p>
+     <p class="wysiwyg-text-align-center">
+      <img alt="Roblox_Employee_on_DevForum.png" src="/hc/article_attachments/23284419674772"/>
+     </p>
+     <p>
+     </p>
+     <p>
+      Посмотри
+      <a href="https://devforum.roblox.com/t/how-to-post-a-bug-report/24388/19" rel="noopener" target="_blank">
+       как опубликовать отчёт об ошибке
+      </a>
+      для более подробных инструкций!
+     </p>
+     <p>
+     </p>
+     <p>
+      <strong>
+       Дополнительная помощь
+      </strong>
+     </p>
+     <p class="wysiwyg-indent1">
+      <a href="https://en.help.roblox.com/hc/articles/203312870" rel="noopener" target="_blank">
+       Основные проблемы Roblox на ПК
+      </a>
+     </p>
+     <p class="wysiwyg-indent1">
+      <a href="https://en.help.roblox.com/hc/articles/203312990" rel="noopener" target="_blank">
+       Mac: Устранение неполадок
+      </a>
+     </p>
+    </div>
+    <!--           Add content tags to articles and posts -->
+   </div>
