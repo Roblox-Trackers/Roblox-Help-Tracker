@@ -1,0 +1,174 @@
+   <h1 class="article-title" id="article-title" title="Como recuperar registos de clientes">
+    Como recuperar registos de clientes
+   </h1>
+   <div class="article-content">
+    <div class="article-body">
+     <p>
+      Pode haver algumas situações em que um funcionário da Roblox solicita os registros do cliente através de um e-mail do Atendimento ao Cliente ou de um post no DevForum para ajudar a investigar um problema. Este artigo descreve como recuperar esses registos.
+     </p>
+     <p class="wysiwyg-indent1">
+      <strong>
+       <em>
+        Nota:
+       </em>
+      </strong>
+      <em>
+       Por favor envie apenas logs quando solicitado por um funcionário Roblox!
+      </em>
+     </p>
+     <p class="wysiwyg-indent1">
+     </p>
+     <h1>
+      Como Recuperar Logs de Cliente Roblox
+     </h1>
+     <p class="wysiwyg-indent1">
+      Logs do Roblox Player e Roblox Studio são escritos na mesma pasta.
+     </p>
+     <ul>
+      <li>
+       No PC, pressione a tecla Windows e R ao mesmo tempo. Uma caixa chamada
+       <strong>
+        Executar
+       </strong>
+       irá aparecer. Copie e cole ou digite o seguinte sem aspas:
+       <ul>
+        <li>
+         <p>
+          Para Win32: "%localappdata%\Roblox\logs"
+         </p>
+         <p>
+          Para UWP: “%LOCALAPPDATA%\Packages\ROBLOXCorporation.ROBLOX_55nm5eh3cm0pr\LocalState\logs”
+         </p>
+        </li>
+       </ul>
+      </li>
+      <li>
+       Em Mac, vá para Macintosh HD &gt; Users &gt; [seu perfil de usuário] &gt; Library &gt; Logs &gt; Roblox
+      </li>
+      <li>
+       <p data-renderer-start-pos="723">
+        Atualmente não temos uma forma mais fácil para fazer o upload de logs Android ou iOS. Desculpe, estamos trabalhando nisso!
+       </p>
+      </li>
+     </ul>
+     <h2>
+      Provavelmente terão muitos logs nesta pasta
+     </h2>
+     <ul>
+      <li>
+       <p>
+        Logs Roblox serão como “0.&lt;major ver&gt;.&lt;minor ver&gt;.&lt;revision&gt;_&lt;date&gt;_Player_&lt;garbage&gt;_last.log
+       </p>
+       <ul>
+        <li>
+         <p>
+          Por exemplo 0.555.1.5550874_20221214T162601Z_
+          <strong>
+           Player
+          </strong>
+          _9aaf3_last.log
+         </p>
+        </li>
+       </ul>
+      </li>
+      <li>
+       <p>
+        Logs do Studio Roblox parecerão da mesma forma, exceto por ter "Studio" ao invés de "Player"
+       </p>
+       <ul>
+        <li>
+         <p>
+          Por exemplo 0.555.1.5550874_20221214T162601Z_
+          <strong>
+           Studio
+          </strong>
+          _9aaf3_last.log
+         </p>
+        </li>
+       </ul>
+      </li>
+      <li>
+       <p>
+        Logs do bootstrapper serão bootstrapper_&lt;garbage&gt;_1.txt
+       </p>
+       <ul>
+        <li>
+         <p>
+          A menos que o problema seja ao iniciar o Roblox ou Roblox Studio do seu navegador, ou durante uma atualização, provavelmente você não terá que enviar logs bootstrapper.
+         </p>
+        </li>
+       </ul>
+      </li>
+     </ul>
+     <p>
+     </p>
+     <h2>
+      Para identificar o log correto que você precisa enviar, você pode:
+     </h2>
+     <ul>
+      <li>
+       Usar o arquivo de marcação de hora para determinar qual log corresponde ao incidente que quer reportar
+      </li>
+      <li>
+       Deletar todos arquivos nesta pasta, reproduzir o problema que quer reportar e então enviar todo conteúdo na pasta
+      </li>
+      <li>
+       Se estiver confuso, você pode organizar por data e enviar os 10 arquivos mais recentes.
+      </li>
+     </ul>
+     <p>
+     </p>
+     <h1>
+      Incluindo logs ao reportar bugs
+     </h1>
+     <p>
+      Quando reportar bugs no
+      <a href="https://devforum.roblox.com/c/bug-reports/10" rel="noopener" target="_blank">
+       Forum de desenvolvedor
+      </a>
+      Roblox, você terá a opção para enviar o log junto com o relatório do bug. Se você precisar fazer o upload de logs depois de reportar o bug inicial, envie uma mensagem direta para o grupo
+      <a href="https://devforum.roblox.com/g/bug-files" rel="noopener" target="_blank">
+       bug-files
+      </a>
+      , inclua um link para o report original do bug e marque qualquer funcionário relevante da Roblox.
+     </p>
+     <p class="wysiwyg-text-align-center">
+      <img alt="Report_Bug_Window_on_Developer_Forum.png" height="312" src="/hc/article_attachments/16778122346644" width="546"/>
+     </p>
+     <p>
+     </p>
+     <p>
+      Apenas faça o upload de logs enviando os para o grupo bug-files se um funcionário da Roblox lhe pedir isto. Para identificar um funcionário Roblox no Dev Forum, cheque se perto de sua conta está escrito "Roblox Staff":
+     </p>
+     <p class="wysiwyg-text-align-center">
+      <img alt="Roblox_Employee_on_DevForum.png" src="/hc/article_attachments/14378571735060"/>
+     </p>
+     <p>
+     </p>
+     <p>
+      Por favor veja
+      <a href="https://devforum.roblox.com/t/how-to-post-a-bug-report/24388/19" rel="noopener" target="_blank">
+       Como postar um report de bug
+      </a>
+      para instruções detalhadas.
+     </p>
+     <p>
+     </p>
+     <p>
+      <strong>
+       Ajuda adicional
+      </strong>
+     </p>
+     <p class="wysiwyg-indent1">
+      <a href="https://en.help.roblox.com/hc/articles/203312870" rel="noopener" target="_blank">
+       Desktop de problemas gerais Roblox
+      </a>
+     </p>
+     <p class="wysiwyg-indent1">
+      <a href="https://en.help.roblox.com/hc/articles/203312990" rel="noopener" target="_blank">
+       Mac: Resolução de problemas
+      </a>
+     </p>
+    </div>
+    <!--           Add content tags to articles and posts -->
+   </div>
