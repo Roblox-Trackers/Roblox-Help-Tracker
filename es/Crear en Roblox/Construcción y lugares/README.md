@@ -14,7 +14,6 @@ Name|URL
 [¿Cómo puedo habilitar Servidores VIP / Privados en mis experiencias?](./¿Cómo puedo habilitar Servidores VIP - Privados en mis experiencias-.html) |https://en.help.roblox.com/hc/es/articles/360000781023--C%C3%B3mo-puedo-habilitar-Servidores-VIP-Privados-en-mis-experiencias
 [Cómo copiar una experiencia](./Cómo copiar una experiencia.html) |https://en.help.roblox.com/hc/es/articles/203313900-C%C3%B3mo-copiar-una-experiencia
 [Cómo Volver a Versiones Anteriores de un Lugar](./Cómo Volver a Versiones Anteriores de un Lugar.html) |https://en.help.roblox.com/hc/es/articles/203313850-C%C3%B3mo-Volver-a-Versiones-Anteriores-de-un-Lugar
-[Restablecer Lugar a una Plantilla Inicial](./Restablecer Lugar a una Plantilla Inicial.html) |https://en.help.roblox.com/hc/es/articles/203313920-Restablecer-Lugar-a-una-Plantilla-Inicial
 [¿Cómo creo emblemas para las experiencias?](./¿Cómo creo emblemas para las experiencias-.html) |https://en.help.roblox.com/hc/es/articles/203313650--C%C3%B3mo-creo-emblemas-para-las-experiencias
 [¿Cómo Construyo con GUI?](./¿Cómo Construyo con GUI-.html) |https://en.help.roblox.com/hc/es/articles/203313960--C%C3%B3mo-Construyo-con-GUI
 [Configurar el estilo de chat de tu sitio](./Configurar el estilo de chat de tu sitio.html) |https://en.help.roblox.com/hc/es/articles/360019904552-Configurar-el-estilo-de-chat-de-tu-sitio
