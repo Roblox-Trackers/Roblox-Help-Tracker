@@ -19,6 +19,7 @@ Name|URL
 [Integridade das avaliações na Roblox](./Integridade das avaliações na Roblox.html) |https://en.help.roblox.com/hc/pt-br/articles/7235818866964-Integridade-das-avalia%C3%A7%C3%B5es-na-Roblox
 [Aviso de privacidade sobre animações faciais na Roblox](./Aviso de privacidade sobre animações faciais na Roblox.html) |https://en.help.roblox.com/hc/pt-br/articles/8064749848980-Aviso-de-privacidade-sobre-anima%C3%A7%C3%B5es-faciais-na-Roblox
 [Termos de serviço SMS Roblox](./Termos de serviço SMS Roblox.html) |https://en.help.roblox.com/hc/pt-br/articles/9483830673556-Termos-de-servi%C3%A7o-SMS-Roblox
+[Termos de Uso do Gerenciador de Direitos](./Termos de Uso do Gerenciador de Direitos.html) |https://en.help.roblox.com/hc/pt-br/articles/21857240911380-Termos-de-Uso-do-Gerenciador-de-Direitos
 [Moderação de Conteúdo na Roblox](./Moderação de Conteúdo na Roblox.html) |https://en.help.roblox.com/hc/pt-br/articles/21416271342868-Modera%C3%A7%C3%A3o-de-Conte%C3%BAdo-na-Roblox
 [Política de Privacidade da CPRA](./Política de Privacidade da CPRA.html) |https://en.help.roblox.com/hc/pt-br/articles/4402871541140-Pol%C3%ADtica-de-Privacidade-da-CPRA
 [Termos do Programa Aplicativo de Terceiros para Criadores](./Termos do Programa Aplicativo de Terceiros para Criadores.html) |https://en.help.roblox.com/hc/pt-br/articles/15887203369620-Termos-do-Programa-Aplicativo-de-Terceiros-para-Criadores
