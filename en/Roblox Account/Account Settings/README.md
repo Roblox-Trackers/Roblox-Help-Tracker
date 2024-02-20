@@ -17,3 +17,4 @@ Name|URL
 [Age ID Verification FAQs](./Age ID Verification FAQs.html) |https://en.help.roblox.com/hc/en-us/articles/4407276151188-Age-ID-Verification-FAQs
 [Changing Your Account Theme](./Changing Your Account Theme.html) |https://en.help.roblox.com/hc/en-us/articles/360022922852-Changing-Your-Account-Theme
 [Contact Importer FAQs](./Contact Importer FAQs.html) |https://en.help.roblox.com/hc/en-us/articles/7416652004884-Contact-Importer-FAQs
+[Account Location - Common Questions](./Account Location - Common Questions.html) |https://en.help.roblox.com/hc/en-us/articles/21767603654932-Account-Location-Common-Questions

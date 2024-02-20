@@ -2,7 +2,7 @@
 ### Articles in this section
 Name|URL
 -|-
-[The Creator Marketplace](./The Creator Marketplace.html) |https://en.help.roblox.com/hc/en-us/articles/206580683-The-Creator-Marketplace
+[The Creator Store](./The Creator Store.html) |https://en.help.roblox.com/hc/en-us/articles/206580683-The-Creator-Store
 [How Do I Make Something Public Domain?](./How Do I Make Something Public Domain-.html) |https://en.help.roblox.com/hc/en-us/articles/203313230-How-Do-I-Make-Something-Public-Domain
 [How Do I Edit or Sell a Mesh on the Avatar Marketplace?](./How Do I Edit or Sell a Mesh on the Avatar Marketplace-.html) |https://en.help.roblox.com/hc/en-us/articles/203313250-How-Do-I-Edit-or-Sell-a-Mesh-on-the-Avatar-Marketplace
 [How to Make Decals](./How to Make Decals.html) |https://en.help.roblox.com/hc/en-us/articles/203313930-How-to-Make-Decals
