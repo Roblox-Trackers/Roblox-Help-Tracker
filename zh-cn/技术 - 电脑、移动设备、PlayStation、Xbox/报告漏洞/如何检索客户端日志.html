@@ -4,7 +4,7 @@
    <div class="article-content">
     <div class="article-body">
      <p>
-      在某些情况下，Roblox员工可能会通过客户关怀电子邮件或DevForum公布请求客户端日志，以帮助调查某个问题。 本文描述如何检索这些日志。
+      在某些情况下，Roblox 员工可能会通过客户服务电子邮件或开发论坛帖子请求客户端日志以帮助调查问题。 本文介绍如何检索这些日志。
      </p>
      <p class="wysiwyg-indent1">
       <strong>
@@ -22,27 +22,32 @@
       如何取回 Roblox 日志
      </h1>
      <p class="wysiwyg-indent1">
-      Roblox 和 Roblox Studio 日志都写入同一个文件夹。
+      Roblox Player 和 Roblox Studio 日志均写入同一文件夹。
      </p>
      <ul>
       <li>
-       在 PC 上，同时按下 WINDOWS 键和 R。
-       <span style="font-weight: 400;">
-        将出现一个名为
-       </span>
+       在 PC 上，同时按 WINDOWS 键和 R。 将出现一个名为
        <strong>
-        Run
+        运行
        </strong>
-       <span style="font-weight: 400;">
-        的框。 复制并粘贴或键入以下内容（不带引号）：“%localappdata%\Roblox\logs”
-       </span>
+       的框。 复制并粘贴或键入以下内容（不带引号）：
+       <ul>
+        <li>
+         <p>
+          对于 Win32：“%localappdata%\Roblox\logs”
+         </p>
+         <p>
+          对于 UWP：“%LOCALAPPDATA%\Packages\ROBLOXCorporation.ROBLOX_55nm5eh3cm0pr\LocalState\logs”
+         </p>
+        </li>
+       </ul>
       </li>
       <li>
        在 Mac 上，导航至 Macintosh HD &gt; 用户&gt; [你的用户资料] &gt; 图书馆 &gt; 日志&gt; Roblox
       </li>
       <li>
        <p data-renderer-start-pos="723">
-        我们目前没有简单的方法供您上传 Android 或 iOS 日志。 抱歉，我们正在努力！ &lt;TODO ios/android instructions?&gt;
+        我们目前没有简单的方法供您上传 Android 或 iOS 日志。 抱歉，我们正在努力！
        </p>
       </li>
      </ul>
@@ -51,26 +56,46 @@
      </h2>
      <ul>
       <li>
-       Roblox 日志将类似于：“0.&lt;major ver&gt;.&lt;minor ver&gt;.&lt;revision&gt;_&lt;date&gt;_Player_&lt;garbage&gt;_last.log
+       <p>
+        Roblox 日志将如下所示：“0.&lt;major ver&gt;.&lt;minor ver&gt;.&lt;revision&gt;_&lt;date&gt;_Player_&lt;garbage&gt;_last.log
+       </p>
        <ul>
         <li>
-         例如 0.555.1.5550874_20221214T162601Z_Player_9aaf3_last.log
+         <p>
+          例如0.555.1.5550874_20221214T162601Z_
+          <strong>
+           玩家
+          </strong>
+          _9aaf3_last.log
+         </p>
         </li>
        </ul>
       </li>
       <li>
-       Roblox Studio 日志看起来是一样的，只是说的是 “Studio” 而不是 “Player”
+       <p>
+        Roblox Studio 日志看起来相同，只是显示“Studio”而不是“Player”
+       </p>
        <ul>
         <li>
-         例如 0.555.1.5550874_20221214T162601Z_Studio_9aaf3_last.log
+         <p>
+          例如0.555.1.5550874_20221214T162601Z_
+          <strong>
+           Studio
+          </strong>
+          _9aaf3_last.log
+         </p>
         </li>
        </ul>
       </li>
       <li>
-       引导程序日志看起来像 bootstrapper_&lt;garbage&gt;_1.txt
+       <p>
+        引导程序日志将类似于 bootstrapper_&lt;garbage&gt;_1.txt
+       </p>
        <ul>
         <li>
-         除非问题发生在从您的网络浏览器启动 Roblox 或 RobloxStudio 时，或者在更新期间，您很可能不需要发送引导程序日志。
+         <p>
+          除非问题是在从 Web 浏览器启动 Roblox 或 RobloxStudio 时或更新期间发生的，否则您很可能不需要发送引导程序日志。
+         </p>
         </li>
        </ul>
       </li>
@@ -94,86 +119,49 @@
      <p>
      </p>
      <h1>
-      向 Roblox 员工发送日志
+      要确定要发送的正确日志文件，您可以
      </h1>
      <p>
-      在 Dev Forum 上报告问题后，Roblox 员工可能会指导你按照这些说明向他们发送你的日志。 仅检索日志并将其发送给 Roblox 员工！！！ 要在开发论坛上识别 Roblox 员工，请确保其帐户名称旁边显示 “Roblox 员工”：
+      在 Roblox
+      <a href="https://devforum.roblox.com/c/bug-reports/10" rel="noopener" target="_blank">
+       开发者论坛
+      </a>
+      上报告错误时，您可以选择将日志文件与错误报告一起上传。 如果您需要在制作初始错误报告后上传日志，请向
+      <a href="https://devforum.roblox.com/g/bug-files" rel="noopener" target="_blank">
+       bug-files
+      </a>
+      组发送 DM，包含原始错误报告帖子的链接，并标记任何相关的 Roblox 员工：
      </p>
      <p class="wysiwyg-text-align-center">
-      <img alt="Roblox_Employee_on_DevForum.png" src="https://en.help.roblox.com/hc/article_attachments/14020304096788"/>
+      <img alt="Report_Bug_Window_on_Developer_Forum.png" height="312" src="https://en.help.roblox.com/hc/article_attachments/14020304096788" width="546"/>
      </p>
      <p>
-      Roblox 员工将启动私人贴文或 DM 并向你请求日志文件。 请确保 DM 来自 Roblox 员工。 使用
-      <strong>
-       上传
-      </strong>
-      按钮上传你在之前的信息中找到的日志文件。
+     </p>
+     <p>
+      仅通过发送到错误文件组来上传日志，并且仅在 Roblox 员工要求时才这样做。 要在开发论坛上识别 Roblox 员工，请确保其帐户名旁边显示“Roblox 员工”：
      </p>
      <p class="wysiwyg-text-align-center">
-      <img alt="DevForum_Reply_Window_with_Upload_Selected.png" height="187" src="https://en.help.roblox.com/hc/article_attachments/14020297089428" width="564"/>
+      <img alt="Roblox_Employee_on_DevForum.png" src="https://en.help.roblox.com/hc/article_attachments/14020297089428"/>
      </p>
      <p>
      </p>
-     <h1>
-      在 Roblox Studio 中启用附加日志记录
-     </h1>
      <p>
-      如果这是你报告的 Roblox Studio 问题，你可能会被要求启用额外的日志记录。 要在 Roblox Studio 中启用额外的日志记录：
+      请参阅
+      <a href="https://devforum.roblox.com/t/how-to-post-a-bug-report/24388/19" rel="noopener" target="_blank">
+       如何发布错误报告
+      </a>
+      以获取更详细的说明！
      </p>
-     <ol>
-      <li>
-       单击
-       <strong>
-        文件
-       </strong>
-       打开
-       <strong>
-        设置
-       </strong>
-       &gt;
-       <strong>
-        设置
-       </strong>
-      </li>
-      <li>
-       <span style="font-weight: 400;">
-        在左侧窗格中，点击”
-        <strong>
-         网络
-        </strong>
-        “
-       </span>
-       <span style="font-weight: 400;">
-        。 如果没有显示，关闭并和重新打开Roblox Studio。
-       </span>
-      </li>
-      <li>
-       <strong>
-        在
-       </strong>
-       "
-       <strong>
-        诊断
-       </strong>
-       "
-       <span style="font-weight: 400;">
-        下面，确保选中这些复选框：
-       </span>
-      </li>
-      <li>
-       关闭 Roblox Studio 并重现问题
-      </li>
-     </ol>
      <p>
      </p>
      <p>
       <strong>
-       更多帮助
+       额外的帮助
       </strong>
      </p>
      <p class="wysiwyg-indent1">
       <a href="https://en.help.roblox.com/hc/articles/203312870" rel="noopener" target="_blank">
-       一般Roblox的桌面问题
+       一般桌面 Roblox 问题
       </a>
      </p>
      <p class="wysiwyg-indent1">
