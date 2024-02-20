@@ -2,7 +2,7 @@
 ### Articles in this section
 Name|URL
 -|-
-[Robloxをインストールしてプレイする方法](./Robloxをインストールしてプレイする方法.html) |https://en.help.roblox.com/hc/ja/articles/204473560-Roblox%E3%82%92%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%E3%81%97%E3%81%A6%E3%83%97%E3%83%AC%E3%82%A4%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95
+[Robloxのインストール方法と遊び方](./Robloxのインストール方法と遊び方.html) |https://en.help.roblox.com/hc/ja/articles/204473560-Roblox%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%E6%96%B9%E6%B3%95%E3%81%A8%E9%81%8A%E3%81%B3%E6%96%B9
 [一般的なデスクトップRobloxの問題](./一般的なデスクトップRobloxの問題.html) |https://en.help.roblox.com/hc/ja/articles/203312870-%E4%B8%80%E8%88%AC%E7%9A%84%E3%81%AA%E3%83%87%E3%82%B9%E3%82%AF%E3%83%88%E3%83%83%E3%83%97Roblox%E3%81%AE%E5%95%8F%E9%A1%8C
 [コンピューターでの一般的なチャット/キーボードの問題](./コンピューターでの一般的なチャット-キーボードの問題.html) |https://en.help.roblox.com/hc/ja/articles/203313040-%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%83%BC%E3%81%A7%E3%81%AE%E4%B8%80%E8%88%AC%E7%9A%84%E3%81%AA%E3%83%81%E3%83%A3%E3%83%83%E3%83%88-%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E3%81%AE%E5%95%8F%E9%A1%8C
 [一般的な接続の問題](./一般的な接続の問題.html) |https://en.help.roblox.com/hc/ja/articles/203312880-%E4%B8%80%E8%88%AC%E7%9A%84%E3%81%AA%E6%8E%A5%E7%B6%9A%E3%81%AE%E5%95%8F%E9%A1%8C
