@@ -5,7 +5,7 @@ Name|URL
 [製作虛擬人偶動畫 FAQ](./製作虛擬人偶動畫 FAQ.html) |https://en.help.roblox.com/hc/zh-tw/articles/17877687557396-%E8%A3%BD%E4%BD%9C%E8%99%9B%E6%93%AC%E4%BA%BA%E5%81%B6%E5%8B%95%E7%95%AB-FAQ
 [Roblox 體驗](./Roblox 體驗.html) |https://en.help.roblox.com/hc/zh-tw/articles/115004734603-Roblox-%E9%AB%94%E9%A9%97
 [聯絡體驗創作者尋求協助](./聯絡體驗創作者尋求協助.html) |https://en.help.roblox.com/hc/zh-tw/articles/6566665691924-%E8%81%AF%E7%B5%A1%E9%AB%94%E9%A9%97%E5%89%B5%E4%BD%9C%E8%80%85%E5%B0%8B%E6%B1%82%E5%8D%94%E5%8A%A9
-[電腦硬件和操作系統要求](./電腦硬件和操作系統要求.html) |https://en.help.roblox.com/hc/zh-tw/articles/203312800-%E9%9B%BB%E8%85%A6%E7%A1%AC%E4%BB%B6%E5%92%8C%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%B5%B1%E8%A6%81%E6%B1%82
+[電腦硬體和作業系統需求.](./電腦硬體和作業系統需求..html) |https://en.help.roblox.com/hc/zh-tw/articles/203312800-%E9%9B%BB%E8%85%A6%E7%A1%AC%E9%AB%94%E5%92%8C%E4%BD%9C%E6%A5%AD%E7%B3%BB%E7%B5%B1%E9%9C%80%E6%B1%82
 [體驗設定和協助](./體驗設定和協助.html) |https://en.help.roblox.com/hc/zh-tw/articles/203314230-%E9%AB%94%E9%A9%97%E8%A8%AD%E5%AE%9A%E5%92%8C%E5%8D%94%E5%8A%A9
 [如何使用裝備和背包](./如何使用裝備和背包.html) |https://en.help.roblox.com/hc/zh-tw/articles/203314280-%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E8%A3%9D%E5%82%99%E5%92%8C%E8%83%8C%E5%8C%85
 [如何重置虛擬人偶 - 體驗中](./如何重置虛擬人偶 - 體驗中.html) |https://en.help.roblox.com/hc/zh-tw/articles/203314290-%E5%A6%82%E4%BD%95%E9%87%8D%E7%BD%AE%E8%99%9B%E6%93%AC%E4%BA%BA%E5%81%B6-%E9%AB%94%E9%A9%97%E4%B8%AD

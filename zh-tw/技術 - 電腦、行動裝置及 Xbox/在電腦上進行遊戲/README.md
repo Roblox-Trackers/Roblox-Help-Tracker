@@ -6,7 +6,7 @@ Name|URL
 [Roblox一般桌面的問題](./Roblox一般桌面的問題.html) |https://en.help.roblox.com/hc/zh-tw/articles/203312870-Roblox%E4%B8%80%E8%88%AC%E6%A1%8C%E9%9D%A2%E7%9A%84%E5%95%8F%E9%A1%8C
 [電腦上的一般聊天/鍵盤問題](./電腦上的一般聊天-鍵盤問題.html) |https://en.help.roblox.com/hc/zh-tw/articles/203313040-%E9%9B%BB%E8%85%A6%E4%B8%8A%E7%9A%84%E4%B8%80%E8%88%AC%E8%81%8A%E5%A4%A9-%E9%8D%B5%E7%9B%A4%E5%95%8F%E9%A1%8C
 [常見連接問題](./常見連接問題.html) |https://en.help.roblox.com/hc/zh-tw/articles/203312880-%E5%B8%B8%E8%A6%8B%E9%80%A3%E6%8E%A5%E5%95%8F%E9%A1%8C
-[Mac：疑難排解](./Mac：疑難排解.html) |https://en.help.roblox.com/hc/zh-tw/articles/203312990-Mac-%E7%96%91%E9%9B%A3%E6%8E%92%E8%A7%A3
+[Mac：故障排除](./Mac：故障排除.html) |https://en.help.roblox.com/hc/zh-tw/articles/203312990-Mac-%E6%95%85%E9%9A%9C%E6%8E%92%E9%99%A4
 [如何重新安裝 Roblox 軟體？](./如何重新安裝 Roblox 軟體？.html) |https://en.help.roblox.com/hc/zh-tw/articles/203312910-%E5%A6%82%E4%BD%95%E9%87%8D%E6%96%B0%E5%AE%89%E8%A3%9D-Roblox-%E8%BB%9F%E9%AB%94
 [如何解除安裝 Roblox](./如何解除安裝 Roblox.html) |https://en.help.roblox.com/hc/zh-tw/articles/203312980-%E5%A6%82%E4%BD%95%E8%A7%A3%E9%99%A4%E5%AE%89%E8%A3%9D-Roblox
 [防火牆和路由器問題](./防火牆和路由器問題.html) |https://en.help.roblox.com/hc/zh-tw/articles/203312840-%E9%98%B2%E7%81%AB%E7%89%86%E5%92%8C%E8%B7%AF%E7%94%B1%E5%99%A8%E5%95%8F%E9%A1%8C
