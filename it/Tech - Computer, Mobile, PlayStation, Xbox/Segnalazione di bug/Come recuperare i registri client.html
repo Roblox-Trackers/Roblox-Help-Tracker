@@ -22,7 +22,7 @@
       Come Recuperare i Log di Roblox
      </h1>
      <p class="wysiwyg-indent1">
-      I Registri di Roblox e di Roblox Studio vengono scritti entrambi nella stessa cartella.
+      I Registri di Roblox Player e Roblox Studio vengono scritti entrambi nella stessa cartella.
      </p>
      <ul>
       <li>
@@ -30,14 +30,24 @@
        <strong>
         Esegui
        </strong>
-       . Copia e incolla oppure digita quanto segue senza virgolette: "%localappdata%\Roblox\logs"
+       . Copia e incolla oppure digita quanto segue senza virgolette:
+       <ul>
+        <li>
+         <p>
+          Per Win32: "%localappdata%\Roblox\logs"
+         </p>
+         <p>
+          Per UWP: “%LOCALAPPDATA%\Packages\ROBLOXCorporation.ROBLOX_55nm5eh3cm0pr\LocalState\logs”
+         </p>
+        </li>
+       </ul>
       </li>
       <li>
        Su Mac, vai a Macintosh HD &gt; Utenti &gt; [il tuo profilo utente] &gt; Libreria &gt; Registri &gt; Roblox
       </li>
       <li>
        <p data-renderer-start-pos="723">
-        Al momento non disponiamo di un modo semplice per caricare i registri Android o iOS. Siamo spiacenti, ci stiamo lavorando! &lt;TODO ios/android instructions?&gt;
+        Al momento non disponiamo di un modo semplice per caricare i registri Android o iOS. Siamo spiacenti, ci stiamo lavorando!
        </p>
       </li>
      </ul>
@@ -46,26 +56,48 @@
      </h2>
      <ul>
       <li>
-       I registri di Roblox saranno simili a: “0.&lt;major ver&gt;.&lt;minor ver&gt;.&lt;revision&gt;_&lt;date&gt;_Player_&lt;garbage&gt;_last.log
+       <p>
+        I registri di Roblox saranno simili a: “0.&lt;major ver&gt;.&lt;minor ver&gt;.&lt;revision&gt;_&lt;date&gt;_Player_&lt;garbage&gt;_last.log
+       </p>
        <ul>
         <li>
-         Per esempio 0.555.1.5550874_20221214T162601Z_Player_9aaf3_last.log
+         <p>
+          Per esempio 
+0.555.1.5550874_20221214T162601Z_
+          <strong>
+           Player
+          </strong>
+          _9aaf3_last.log
+         </p>
         </li>
        </ul>
       </li>
       <li>
-       I registri di Roblox Studio avranno lo stesso aspetto tranne che dice "Studio" invece di "Giocatore
+       <p>
+        I registri di Roblox Studio avranno lo stesso aspetto, ma con la dicitura "Studio" invece di "Player
+       </p>
        <ul>
         <li>
-         Per esempio 0.555.1.5550874_20221214T162601Z_Studio_9aaf3_last.log
+         <p>
+          Per esempio 
+0.555.1.5550874_20221214T162601Z_
+          <strong>
+           Studio
+          </strong>
+          _9aaf3_last.log
+         </p>
         </li>
        </ul>
       </li>
       <li>
-       I registri del bootstrapper appariranno come bootstrapper_&lt;garbage&gt;_1.txt
+       <p>
+        I registri del programma di avvio automatico avranno il seguente aspetto: bootstrapper_&lt;garbage&gt;_1.txt
+       </p>
        <ul>
         <li>
-         A meno che il problema non si verifichi all'avvio di Roblox o di Roblox Studio dal browser web o durante l'aggiornamento, molto probabilmente non è necessario inviare i registri del programma di avvio automatico.
+         <p>
+          A meno che il problema non si verifichi quando si avvia Roblox o RobloxStudio dal tuo browser web o durante l'aggiornamento, molto probabilmente non è necessario inviare i registri del bootstrapper.
+         </p>
         </li>
        </ul>
       </li>
@@ -89,85 +121,39 @@
      <p>
      </p>
      <h1>
-      Inviare Registri ai Dipendenti Roblox
+      Includere i file di registro quando si segnalano bug
      </h1>
      <p>
-      Dopo aver segnalato un problema su Dev Forum, un dipendente di Roblox può chiederti di seguire queste istruzioni per inviare loro i tuoi registri. Recupera e invia i registri solo ai dipendenti Roblox!!! Per identificare un dipendente Roblox su Dev Forum, assicurati che sia indicato "Roblox Staff" accanto al nome dell'account:
+      Quando segnali bug sul
+      <a href="https://devforum.roblox.com/c/bug-reports/10" rel="noopener" target="_blank">
+       Forum degli Sviluppatori
+      </a>
+      di Roblox, avrai l'opzione per caricare il file di registro insieme alla segnalazione di bug. Se devi caricare i registri dopo aver effettuato la segnalazione iniziale del bug, invia un messaggio diretto al gruppo
+      <a href="https://devforum.roblox.com/g/bug-files" rel="noopener" target="_blank">
+       bug-files
+      </a>
+      , includi un collegamento al post originale della segnalazione del bug e tagga tutti i dipendenti Roblox rilevanti:
      </p>
      <p class="wysiwyg-text-align-center">
-      <img alt="Roblox_Employee_on_DevForum.png" src="https://en.help.roblox.com/hc/article_attachments/14020304096788"/>
+      <img alt="Report_Bug_Window_on_Developer_Forum.png" height="312" src="https://en.help.roblox.com/hc/article_attachments/14020304096788" width="546"/>
      </p>
      <p>
-      L'Impiegato Roblox avvierà un thread privato o un DM con te per richiedere i file di registro. Assicurati che il DM (Messaggio Privato) provenga da un Dipendente Roblox. Utilizza il pulsante
-      <strong>
-       carica
-      </strong>
-      per caricare i file di registro che hai trovato nelle informazioni precedenti.
+     </p>
+     <p>
+      Carica i registri solo inviandoli al gruppo bug-files e fallo solo se un dipendente Roblox te lo chiede. Per identificare un dipendente Roblox su Dev Forum, assicurati che sia indicato "Roblox Staff" accanto al nome dell'account:
      </p>
      <p class="wysiwyg-text-align-center">
-      <img alt="DevForum_Reply_Window_with_Upload_Selected.png" height="187" src="https://en.help.roblox.com/hc/article_attachments/14020297089428" width="564"/>
+      <img alt="ITA_membro_dello_staff.png" src="/hc/article_attachments/23585605663764"/>
      </p>
      <p>
      </p>
-     <h1>
-      Abilitare Registrazioni Aggiuntive in Roblox Studio
-     </h1>
      <p>
-      Se quello che stai segnalando è un problema di Roblox Studio, ti potrebbe essere chiesto di abilitare la registrazione aggiuntiva. Per abilitare la registrazione aggiuntiva in Roblox Studio:
+      Per favore, consulta
+      <a href="https://devforum.roblox.com/t/how-to-post-a-bug-report/24388/19" rel="noopener" target="_blank">
+       Come Pubblicare una Segnalazione di Bug
+      </a>
+      per istruzioni più dettagliate!
      </p>
-     <ol>
-      <li>
-       Apri
-       <strong>
-        Impostazioni
-       </strong>
-       facendo clic su
-       <strong>
-        File
-       </strong>
-       &gt;
-       <strong>
-        Impostazioni
-       </strong>
-      </li>
-      <li>
-       Nel riquadro di sinistra, cliccare su
-       <strong>
-        Rete
-       </strong>
-       . Se non viene visualizzato, chiudi e riapri Roblox Studio.
-      </li>
-      <li>
-       Sotto
-       <strong>
-        Diagnostica
-       </strong>
-       , assicurati che queste caselle di controllo siano selezionate:
-       <br/>
-       <em>
-        PrintEvents
-       </em>
-       <br/>
-       <em>
-        PrintInstances
-       </em>
-       <br/>
-       <em>
-        PrintPhysicsErrors2&gt;
-        <br/>
-        <em>
-         PrintProperties
-        </em>
-        <br/>
-        <em>
-         PrintTouches
-        </em>
-       </em>
-      </li>
-      <li>
-       Chiudi Roblox Studio e riproduci il problema
-      </li>
-     </ol>
      <p>
      </p>
      <p>
