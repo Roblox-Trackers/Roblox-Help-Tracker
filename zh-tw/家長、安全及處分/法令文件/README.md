@@ -19,6 +19,7 @@ Name|URL
 [Roblox 評分誠信度](./Roblox 評分誠信度.html) |https://en.help.roblox.com/hc/zh-tw/articles/7235818866964-Roblox-%E8%A9%95%E5%88%86%E8%AA%A0%E4%BF%A1%E5%BA%A6
 [Roblox 臉部動畫隱私權布告](./Roblox 臉部動畫隱私權布告.html) |https://en.help.roblox.com/hc/zh-tw/articles/8064749848980-Roblox-%E8%87%89%E9%83%A8%E5%8B%95%E7%95%AB%E9%9A%B1%E7%A7%81%E6%AC%8A%E5%B8%83%E5%91%8A
 [Roblox 簡訊服務條款](./Roblox 簡訊服務條款.html) |https://en.help.roblox.com/hc/zh-tw/articles/9483830673556-Roblox-%E7%B0%A1%E8%A8%8A%E6%9C%8D%E5%8B%99%E6%A2%9D%E6%AC%BE
+[版權管理工具使用條款](./版權管理工具使用條款.html) |https://en.help.roblox.com/hc/zh-tw/articles/21857240911380-%E7%89%88%E6%AC%8A%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7%E4%BD%BF%E7%94%A8%E6%A2%9D%E6%AC%BE
 [Roblox 中的內容過濾](./Roblox 中的內容過濾.html) |https://en.help.roblox.com/hc/zh-tw/articles/21416271342868-Roblox-%E4%B8%AD%E7%9A%84%E5%85%A7%E5%AE%B9%E9%81%8E%E6%BF%BE
 [CPRA 隱私權政策](./CPRA 隱私權政策.html) |https://en.help.roblox.com/hc/zh-tw/articles/4402871541140-CPRA-%E9%9A%B1%E7%A7%81%E6%AC%8A%E6%94%BF%E7%AD%96
 [創作者第三方 App 條款](./創作者第三方 App 條款.html) |https://en.help.roblox.com/hc/zh-tw/articles/15887203369620-%E5%89%B5%E4%BD%9C%E8%80%85%E7%AC%AC%E4%B8%89%E6%96%B9-App-%E6%A2%9D%E6%AC%BE
