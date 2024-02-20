@@ -19,6 +19,7 @@ Name|URL
 [Integritas Rating Roblox](./Integritas Rating Roblox.html) |https://en.help.roblox.com/hc/id/articles/7235818866964-Integritas-Rating-Roblox
 [Pemberitahuan Privasi Animasi Wajah Roblox](./Pemberitahuan Privasi Animasi Wajah Roblox.html) |https://en.help.roblox.com/hc/id/articles/8064749848980-Pemberitahuan-Privasi-Animasi-Wajah-Roblox
 [Ketentuan Layanan SMS Roblox](./Ketentuan Layanan SMS Roblox.html) |https://en.help.roblox.com/hc/id/articles/9483830673556-Ketentuan-Layanan-SMS-Roblox
+[Ketentuan Penggunaan Pengelola Hak](./Ketentuan Penggunaan Pengelola Hak.html) |https://en.help.roblox.com/hc/id/articles/21857240911380-Ketentuan-Penggunaan-Pengelola-Hak
 [Moderasi Konten di Roblox](./Moderasi Konten di Roblox.html) |https://en.help.roblox.com/hc/id/articles/21416271342868-Moderasi-Konten-di-Roblox
 [Kebijakan Privasi CPRA](./Kebijakan Privasi CPRA.html) |https://en.help.roblox.com/hc/id/articles/4402871541140-Kebijakan-Privasi-CPRA
 [Ketentuan Aplikasi Pihak Ketiga Kreator](./Ketentuan Aplikasi Pihak Ketiga Kreator.html) |https://en.help.roblox.com/hc/id/articles/15887203369620-Ketentuan-Aplikasi-Pihak-Ketiga-Kreator
