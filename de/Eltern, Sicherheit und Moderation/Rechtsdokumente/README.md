@@ -19,6 +19,7 @@ Name|URL
 [Integrität der Roblox-Bewertungen](./Integrität der Roblox-Bewertungen.html) |https://en.help.roblox.com/hc/de/articles/7235818866964-Integrit%C3%A4t-der-Roblox-Bewertungen
 [Roblox-Datenschutzhinweis zur Gesichtsanimation](./Roblox-Datenschutzhinweis zur Gesichtsanimation.html) |https://en.help.roblox.com/hc/de/articles/8064749848980-Roblox-Datenschutzhinweis-zur-Gesichtsanimation
 [Roblox SMS-Nutzungsbedingungen](./Roblox SMS-Nutzungsbedingungen.html) |https://en.help.roblox.com/hc/de/articles/9483830673556-Roblox-SMS-Nutzungsbedingungen
+[Nutzungsbedingungen für den Rechte-Manager](./Nutzungsbedingungen für den Rechte-Manager.html) |https://en.help.roblox.com/hc/de/articles/21857240911380-Nutzungsbedingungen-f%C3%BCr-den-Rechte-Manager
 [Inhaltsmoderation auf Roblox](./Inhaltsmoderation auf Roblox.html) |https://en.help.roblox.com/hc/de/articles/21416271342868-Inhaltsmoderation-auf-Roblox
 [CPRA-Datenschutzrichtlinie](./CPRA-Datenschutzrichtlinie.html) |https://en.help.roblox.com/hc/de/articles/4402871541140-CPRA-Datenschutzrichtlinie
 [Bedingungen für Entwickleranwendungen von Drittanbietern](./Bedingungen für Entwickleranwendungen von Drittanbietern.html) |https://en.help.roblox.com/hc/de/articles/15887203369620-Bedingungen-f%C3%BCr-Entwickleranwendungen-von-Drittanbietern
@@ -31,4 +32,3 @@ Name|URL
 [Empfehlungen und Ranking auf Roblox](./Empfehlungen und Ranking auf Roblox.html) |https://en.help.roblox.com/hc/de/articles/21416941036564-Empfehlungen-und-Ranking-auf-Roblox
 [Help-Center-FAQs für Strafverfolgungsbehörden](./Help-Center-FAQs für Strafverfolgungsbehörden.html) |https://en.help.roblox.com/hc/de/articles/11219680442260-Help-Center-FAQs-f%C3%BCr-Strafverfolgungsbeh%C3%B6rden
 [Verwendung von lizenzierter Musik in Videos](./Verwendung von lizenzierter Musik in Videos.html) |https://en.help.roblox.com/hc/de/articles/360038525351-Verwendung-von-lizenzierter-Musik-in-Videos
-[Meldung illegaler Inhalte in der Europäischen Union](./Meldung illegaler Inhalte in der Europäischen Union.html) |https://en.help.roblox.com/hc/de/articles/23607654421524-Meldung-illegaler-Inhalte-in-der-Europ%C3%A4ischen-Union
