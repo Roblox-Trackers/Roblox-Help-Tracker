@@ -2,11 +2,9 @@
 ### Articles in this section
 Name|URL
 -|-
-[Comment installer et jouer à Roblox ?](./Comment installer et jouer à Roblox -.html) |https://en.help.roblox.com/hc/fr/articles/204473560-Comment-installer-et-jouer-%C3%A0-Roblox
 [Problèmes généraux de Roblox sur l'ordinateur de bureau](./Problèmes généraux de Roblox sur l'ordinateur de bureau.html) |https://en.help.roblox.com/hc/fr/articles/203312870-Probl%C3%A8mes-g%C3%A9n%C3%A9raux-de-Roblox-sur-l-ordinateur-de-bureau
 [Problèmes généraux de chat/clavier sur ordinateur](./Problèmes généraux de chat-clavier sur ordinateur.html) |https://en.help.roblox.com/hc/fr/articles/203313040-Probl%C3%A8mes-g%C3%A9n%C3%A9raux-de-chat-clavier-sur-ordinateur
 [Principaux problèmes de Connexion](./Principaux problèmes de Connexion.html) |https://en.help.roblox.com/hc/fr/articles/203312880-Principaux-probl%C3%A8mes-de-Connexion
-[Mac : Dépannage](./Mac - Dépannage.html) |https://en.help.roblox.com/hc/fr/articles/203312990-Mac-D%C3%A9pannage
 [Comment puis-je réinstaller le logiciel Roblox ?](./Comment puis-je réinstaller le logiciel Roblox -.html) |https://en.help.roblox.com/hc/fr/articles/203312910-Comment-puis-je-r%C3%A9installer-le-logiciel-Roblox
 [Comment désinstaller Roblox](./Comment désinstaller Roblox.html) |https://en.help.roblox.com/hc/fr/articles/203312980-Comment-d%C3%A9sinstaller-Roblox
 [Problèmes de pare-feu et de routeur](./Problèmes de pare-feu et de routeur.html) |https://en.help.roblox.com/hc/fr/articles/203312840-Probl%C3%A8mes-de-pare-feu-et-de-routeur

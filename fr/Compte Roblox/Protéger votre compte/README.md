@@ -11,6 +11,6 @@ Name|URL
 [Dépannage de la vérification en deux étapes](./Dépannage de la vérification en deux étapes.html) |https://en.help.roblox.com/hc/fr/articles/360000350706-D%C3%A9pannage-de-la-v%C3%A9rification-en-deux-%C3%A9tapes
 [Que se passe-t-il si quelqu'un d'autre a ajouté un code PIN à mon compte ?](./Que se passe-t-il si quelqu'un d'autre a ajouté un code PIN à mon compte -.html) |https://en.help.roblox.com/hc/fr/articles/360031316752-Que-se-passe-t-il-si-quelqu-un-d-autre-a-ajout%C3%A9-un-code-PIN-%C3%A0-mon-compte
 [Notifications de sécurité](./Notifications de sécurité.html) |https://en.help.roblox.com/hc/fr/articles/14600116607508-Notifications-de-s%C3%A9curit%C3%A9
-[Est-ce que je peux partager mon compte ?](./Est-ce que je peux partager mon compte -.html) |https://en.help.roblox.com/hc/fr/articles/360000236103-Est-ce-que-je-peux-partager-mon-compte
+[Puis-je partager mon compte ?](./Puis-je partager mon compte -.html) |https://en.help.roblox.com/hc/fr/articles/360000236103-Puis-je-partager-mon-compte
 [Rumeurs de piratage et canulars](./Rumeurs de piratage et canulars.html) |https://en.help.roblox.com/hc/fr/articles/360000240346-Rumeurs-de-piratage-et-canulars
 [Pourquoi est-ce que je vois une bannière qui me demande de changer mon mot de passe ?](./Pourquoi est-ce que je vois une bannière qui me demande de changer mon mot de passe -.html) |https://en.help.roblox.com/hc/fr/articles/4416940180500-Pourquoi-est-ce-que-je-vois-une-banni%C3%A8re-qui-me-demande-de-changer-mon-mot-de-passe

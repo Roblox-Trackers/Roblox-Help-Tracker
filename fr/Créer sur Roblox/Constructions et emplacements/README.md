@@ -14,7 +14,6 @@ Name|URL
 [Comment puis-je activer les serveurs VIP/privés sur mes expériences ?](./Comment puis-je activer les serveurs VIP-privés sur mes expériences -.html) |https://en.help.roblox.com/hc/fr/articles/360000781023-Comment-puis-je-activer-les-serveurs-VIP-priv%C3%A9s-sur-mes-exp%C3%A9riences
 [Comment copier une expérience](./Comment copier une expérience.html) |https://en.help.roblox.com/hc/fr/articles/203313900-Comment-copier-une-exp%C3%A9rience
 [Comment Restaurer une Ancienne Version d’un Emplacement](./Comment Restaurer une Ancienne Version d’un Emplacement.html) |https://en.help.roblox.com/hc/fr/articles/203313850-Comment-Restaurer-une-Ancienne-Version-d-un-Emplacement
-[Réinitialiser l'emplacement sur un modèle de départ](./Réinitialiser l'emplacement sur un modèle de départ.html) |https://en.help.roblox.com/hc/fr/articles/203313920-R%C3%A9initialiser-l-emplacement-sur-un-mod%C3%A8le-de-d%C3%A9part
 [Comment créer des badges d'expérience ?](./Comment créer des badges d'expérience -.html) |https://en.help.roblox.com/hc/fr/articles/203313650-Comment-cr%C3%A9er-des-badges-d-exp%C3%A9rience
 [Comment construire avec des Interfaces Graphiques ?](./Comment construire avec des Interfaces Graphiques -.html) |https://en.help.roblox.com/hc/fr/articles/203313960-Comment-construire-avec-des-Interfaces-Graphiques
 [Configuration du style de conversation de votre emplacement](./Configuration du style de conversation de votre emplacement.html) |https://en.help.roblox.com/hc/fr/articles/360019904552-Configuration-du-style-de-conversation-de-votre-emplacement
