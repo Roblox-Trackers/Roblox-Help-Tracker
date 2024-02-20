@@ -17,3 +17,4 @@ Name|URL
 [年齡身份驗證常見問題](./年齡身份驗證常見問題.html) |https://en.help.roblox.com/hc/zh-tw/articles/4407276151188-%E5%B9%B4%E9%BD%A1%E8%BA%AB%E4%BB%BD%E9%A9%97%E8%AD%89%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C
 [變更帳號主題](./變更帳號主題.html) |https://en.help.roblox.com/hc/zh-tw/articles/360022922852-%E8%AE%8A%E6%9B%B4%E5%B8%B3%E8%99%9F%E4%B8%BB%E9%A1%8C
 [通訊錄匯入器問答集](./通訊錄匯入器問答集.html) |https://en.help.roblox.com/hc/zh-tw/articles/7416652004884-%E9%80%9A%E8%A8%8A%E9%8C%84%E5%8C%AF%E5%85%A5%E5%99%A8%E5%95%8F%E7%AD%94%E9%9B%86
+[帳戶位置 - 常見問題](./帳戶位置 - 常見問題.html) |https://en.help.roblox.com/hc/zh-tw/articles/21767603654932-%E5%B8%B3%E6%88%B6%E4%BD%8D%E7%BD%AE-%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C
