@@ -4,7 +4,7 @@
    <div class="article-content">
     <div class="article-body">
      <p>
-      Rblox직원은 문제를 조사하는 데 도움이되도록 고객 지원 메일 또는 DevForum의 게시물을 통해 클라이언트 로그를 요청하는 상황이 있을 수 있습니다. 해당 도움말은 이런 로그들을 검색하는 방법에 대한 설명으로 가득합니다.
+      Roblox직원은 문제를 조사하는 데 도움이되도록 고객 지원 메일 또는 DevForum의 게시물을 통해 클라이언트 로그를 요청하는 상황이 있을 수 있습니다. 해당 도움말은 이런 로그들을 검색하는 방법에 대한 설명으로 가득합니다.
      </p>
      <p class="wysiwyg-indent1">
       <strong>
@@ -22,7 +22,7 @@
       클라이언트 로그를 검색하기
      </h1>
      <p class="wysiwyg-indent1">
-      Roblox 및 Roblox Studio 로그는 모두 같은 폴더에 기록됩니다.
+      Roblox Player 및 Roblox Studio 로그는 모두 같은 폴더에 기록됩니다.
      </p>
      <ul>
       <li>
@@ -30,14 +30,24 @@
        <strong>
         실행
        </strong>
-       상자가 나타납니다. "%localappdata%\Roblox\logs"를 복사하여 붙여넣거나 따옴표 없이 입력합니다.
+       상자가 나타납니다. 다음 명령을 따옴표 없이 복사하여 붙여넣습니다.
+       <ul>
+        <li>
+         <p>
+          Win32: "%localappdata%\Roblox\logs"
+         </p>
+         <p>
+          UWP: “%LOCALAPPDATA%\Packages\ROBLOXCorporation.ROBLOX_55nm5eh3cm0pr\LocalState\logs”
+         </p>
+        </li>
+       </ul>
       </li>
       <li>
        Mac에서는 Macintosh HD &gt; 사용자 &gt; [사용자 프로필] &gt; 라이브러리 &gt; 로그 &gt; Roblox로 이동합니다.
       </li>
       <li>
        <p data-renderer-start-pos="723">
-        현재 Android 또는 iOS 로그를 쉽게 업로드할 수 있는 방법이 없습니다. 관련해서 해결책을 강구하고 있습니다. &lt;TODO ios/android instructions?&gt;
+        현재 Android 또는 iOS 로그를 쉽게 업로드할 수 있는 방법이 없습니다. 관련해서 해결책을 강구하고 있습니다.
        </p>
       </li>
      </ul>
@@ -46,26 +56,46 @@
      </h2>
      <ul>
       <li>
-       Roblox 로그는 다음과 같습니다. “0.&lt;major ver&gt;.&lt;minor ver&gt;.&lt;revision&gt;_&lt;date&gt;_Player_&lt;garbage&gt;_last.log
+       <p>
+        Roblox 로그는 다음과 같습니다: “0.&lt;major ver&gt;.&lt;minor ver&gt;.&lt;revision&gt;_&lt;date&gt;_Player_&lt;garbage&gt;_last.log
+       </p>
        <ul>
         <li>
-         예를 들면 이와 같습니다. 0.555.1.5550874_20221214T162601Z_Player_9aaf3_last.log
+         <p>
+          예를 들어서 0.555.1.5550874_20221214T162601Z_
+          <strong>
+           Player
+          </strong>
+          _9aaf3_last.log
+         </p>
         </li>
        </ul>
       </li>
       <li>
-       Roblox Studio 로그는 "Player" 대신 "Studio"라고 표시된 것을 제외하고 동일하게 보입니다.
+       <p>
+        Roblox Studio 로그는 "Player" 대신 "Studio"라고 표시된 것을 제외하고 동일하게 보입니다.
+       </p>
        <ul>
         <li>
-         예를 들면 이와 같습니다. 0.555.1.5550874_20221214T162601Z_Studio_9aaf3_last.log
+         <p>
+          예를 들어서 0.555.1.5550874_20221214T162601Z_
+          <strong>
+           Studio
+          </strong>
+          _9aaf3_last.log
+         </p>
         </li>
        </ul>
       </li>
       <li>
-       부트스트래퍼 로그는 bootstrapper_&lt;garbage&gt;_1.txt와 같습니다.
+       <p>
+        부트스트래퍼 로그는 bootstrapper_&lt;garbage&gt;_1.txt로 표시됩니다.
+       </p>
        <ul>
         <li>
-         웹 브라우저에서 Roblox 또는 RobloxStudio를 시작할 때나 업데이트 중에 문제가 발생하지 않는 한 부트스트래퍼 로그를 보낼 필요가 없을 가능성이 높습니다.
+         <p>
+          웹 브라우저에서 Roblox 또는 RobloxStudio를 시작할 때나 업데이트 중에 문제가 발생하지 않는 한 부트스트래퍼 로그를 보낼 필요가 없을 가능성이 높습니다.
+         </p>
         </li>
        </ul>
       </li>
@@ -89,81 +119,38 @@
      <p>
      </p>
      <h1>
-      Roblox 직원에게 로그 보내기
+      버그 신고할 때 로그 파일을 포함하는 방법
      </h1>
      <p>
-      개발자 포럼에서 문제를 보고한 후 Roblox 직원이 이러한 지침에 따라 로그를 보내도록 안내할 수 있습니다. Roblox 직원에게만 로그를 검색하고 전송하세요!!! 개발자 포럼에서 Roblox 직원을 식별하려면 계정 이름 옆에 "Roblox 직원"이라고 표시되어 있는지 확인하세요.
+      Roblox
+      <a href="https://devforum.roblox.com/c/bug-reports/10" rel="noopener" target="_blank">
+       개발자 포럼
+      </a>
+      에서 버그를 신고할 때 로그 파일도 같이 첨부할 수 있는 옵션이 보입니다. 초기 버그 신고를 한 후 로그를 업로드해야 하면
+      <a href="https://devforum.roblox.com/g/bug-files" rel="noopener" target="_blank">
+       bug-files
+      </a>
+      그룹에 DM을 보내고 초기 버그 신고 게시물의 링크를 포함하여 해당되는 Roblox 직원을 태그합니다:
      </p>
      <p class="wysiwyg-text-align-center">
-      <img alt="Roblox_Employee_on_DevForum.png" src="https://en.help.roblox.com/hc/article_attachments/14020304096788"/>
+      <img alt="Roblox Employee on DevForum.png" height="312" src="https://en.help.roblox.com/hc/article_attachments/14397229029524" width="546"/>
      </p>
      <p>
-      Roblox 직원은 로그 파일을 요청하기 위해 비공개 스레드 또는 DM을 시작합니다. DM이 Roblox 직원에게서 온 것인지 확인하세요.
-      <strong>
-       업로드
-      </strong>
-      버튼을 사용하여 이전 정보에서 찾은 로그 파일을 업로드합니다.
+     </p>
+     <p>
+      bug-files 그룹에만 그리고 Roblox 직원이 요청할 때만 로그를 업로드합니다. 개발자 포럼에서 Roblox 직원을 식별하려면 계정 이름 옆에 "Roblox 직원"이라고 표시되어 있는지 확인하세요.
      </p>
      <p class="wysiwyg-text-align-center">
-      <img alt="DevForum_Reply_Window_with_Upload_Selected.png" height="187" src="https://en.help.roblox.com/hc/article_attachments/14020297089428" width="564"/>
+      <img alt="Roblox_Employee_on_DevForum.png" src="https://en.help.roblox.com/hc/article_attachments/14020297089428"/>
      </p>
      <p>
      </p>
-     <h1>
-      Roblox Studio에서 추가 로깅 활성화하기
-     </h1>
      <p>
-      보고하는 Roblox Studio 문제인 경우 추가 로깅을 활성화하라는 메시지가 표시될 수 있습니다. Roblox Studio에서 추가 로그인을 활성화하려면 다음을 따르세요.
+      <a href="https://devforum.roblox.com/t/how-to-post-a-bug-report/24388/19" rel="noopener" target="_blank">
+       보그 신고 게시글 올리기
+      </a>
+      페이지를 방문하시면 더 자세한 내용을 찾으실 수 있습니다.
      </p>
-     <ol>
-      <li>
-       <strong>
-        파일 설정
-       </strong>
-       을 클릭하여
-       <strong>
-        설정
-       </strong>
-       을 엽니다.
-      </li>
-      <li>
-       왼쪽 창에서
-       <strong>
-        네트워크
-       </strong>
-       를 클릭합니다. 표시되지 않으면 Roblox Studio를 닫았다가 다시 엽니다.
-      </li>
-      <li>
-       <strong>
-        Diagnostics
-       </strong>
-       아래에서 다음 확인란이 선택되어 있는지 확인합니다.
-       <br/>
-       <em>
-        PrintEvents
-       </em>
-       <br/>
-       <em>
-        PrintInstances
-       </em>
-       <br/>
-       <em>
-        PrintPhysicsErrors
-        <!--2-->
-        <br/>
-        <em>
-         PrintProperties
-        </em>
-        <br/>
-        <em>
-         PrintTouches
-        </em>
-       </em>
-      </li>
-      <li>
-       Roblox Studio를 닫고 문제를 재현합니다.
-      </li>
-     </ol>
      <p>
      </p>
      <p>
