@@ -2,8 +2,7 @@
 ### Articles in this section
 Name|URL
 -|-
-[Marketplace Kreator](./Marketplace Kreator.html) |https://en.help.roblox.com/hc/id/articles/206580683-Marketplace-Kreator
-[Cara Mengarsipkan Aset dan Pengalaman](./Cara Mengarsipkan Aset dan Pengalaman.html) |https://en.help.roblox.com/hc/id/articles/360031253052-Cara-Mengarsipkan-Aset-dan-Pengalaman
+[Toko Pencipta](./Toko Pencipta.html) |https://en.help.roblox.com/hc/id/articles/206580683-Toko-Pencipta
 [Bagaimana Cara Membuat Item Menjadi Domain Publik?](./Bagaimana Cara Membuat Item Menjadi Domain Publik-.html) |https://en.help.roblox.com/hc/id/articles/203313230-Bagaimana-Cara-Membuat-Item-Menjadi-Domain-Publik
 [Bagaimana Cara Mengedit Mesh/Bisakah Saya Menjual Mesh di Katalog?](./Bagaimana Cara Mengedit Mesh-Bisakah Saya Menjual Mesh di Katalog-.html) |https://en.help.roblox.com/hc/id/articles/203313250-Bagaimana-Cara-Mengedit-Mesh-Bisakah-Saya-Menjual-Mesh-di-Katalog
 [Cara Membuat Stiker](./Cara Membuat Stiker.html) |https://en.help.roblox.com/hc/id/articles/203313930-Cara-Membuat-Stiker

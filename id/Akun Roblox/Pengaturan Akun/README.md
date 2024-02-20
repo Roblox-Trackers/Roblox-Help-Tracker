@@ -17,3 +17,4 @@ Name|URL
 [Pertanyaan yang Sering Diajukan Terkait Verifikasi Identitas Usia](./Pertanyaan yang Sering Diajukan Terkait Verifikasi Identitas Usia.html) |https://en.help.roblox.com/hc/id/articles/4407276151188-Pertanyaan-yang-Sering-Diajukan-Terkait-Verifikasi-Identitas-Usia
 [Mengubah Tema Akun Anda](./Mengubah Tema Akun Anda.html) |https://en.help.roblox.com/hc/id/articles/360022922852-Mengubah-Tema-Akun-Anda
 [Pertanyaan Umum tentang Impor Kontak](./Pertanyaan Umum tentang Impor Kontak.html) |https://en.help.roblox.com/hc/id/articles/7416652004884-Pertanyaan-Umum-tentang-Impor-Kontak
+[Lokasi Akun - Pertanyaan Umum](./Lokasi Akun - Pertanyaan Umum.html) |https://en.help.roblox.com/hc/id/articles/21767603654932-Lokasi-Akun-Pertanyaan-Umum

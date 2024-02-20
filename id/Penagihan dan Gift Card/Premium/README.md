@@ -11,4 +11,3 @@ Name|URL
 [Tombol Keanggotaan Berwarna Abu-Abu](./Tombol Keanggotaan Berwarna Abu-Abu.html) |https://en.help.roblox.com/hc/id/articles/203312690-Tombol-Keanggotaan-Berwarna-Abu-Abu
 [Akankah keanggotaan saya diperpanjang secara otomatis?](./Akankah keanggotaan saya diperpanjang secara otomatis-.html) |https://en.help.roblox.com/hc/id/articles/203312630-Akankah-keanggotaan-saya-diperpanjang-secara-otomatis
 [Meningkatkan atau Menurunkan Keanggotaan](./Meningkatkan atau Menurunkan Keanggotaan.html) |https://en.help.roblox.com/hc/id/articles/203312750-Meningkatkan-atau-Menurunkan-Keanggotaan
-[Apakah Roblox menawarkan paket keluarga?](./Apakah Roblox menawarkan paket keluarga-.html) |https://en.help.roblox.com/hc/id/articles/203312610-Apakah-Roblox-menawarkan-paket-keluarga
