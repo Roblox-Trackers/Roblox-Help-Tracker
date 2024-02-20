@@ -2,8 +2,7 @@
 ### Articles in this section
 Name|URL
 -|-
-[Der Ersteller-Marktplatz](./Der Ersteller-Marktplatz.html) |https://en.help.roblox.com/hc/de/articles/206580683-Der-Ersteller-Marktplatz
-[Wie archiviert man Assets und Erlebnisse](./Wie archiviert man Assets und Erlebnisse.html) |https://en.help.roblox.com/hc/de/articles/360031253052-Wie-archiviert-man-Assets-und-Erlebnisse
+[Der Creator Store](./Der Creator Store.html) |https://en.help.roblox.com/hc/de/articles/206580683-Der-Creator-Store
 [Wie gebe ich etwas als öffentliches Eigentum frei?](./Wie gebe ich etwas als öffentliches Eigentum frei-.html) |https://en.help.roblox.com/hc/de/articles/203313230-Wie-gebe-ich-etwas-als-%C3%B6ffentliches-Eigentum-frei
 [Wie bearbeite ich ein Mesh/Kann ich das Mesh im Katalog verkaufen?](./Wie bearbeite ich ein Mesh-Kann ich das Mesh im Katalog verkaufen-.html) |https://en.help.roblox.com/hc/de/articles/203313250-Wie-bearbeite-ich-ein-Mesh-Kann-ich-das-Mesh-im-Katalog-verkaufen
 [So erstellt man Decals](./So erstellt man Decals.html) |https://en.help.roblox.com/hc/de/articles/203313930-So-erstellt-man-Decals
