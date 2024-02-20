@@ -19,6 +19,7 @@ Name|URL
 [Roblox 信用等级](./Roblox 信用等级.html) |https://en.help.roblox.com/hc/zh-cn/articles/7235818866964-Roblox-%E4%BF%A1%E7%94%A8%E7%AD%89%E7%BA%A7
 [Roblox 脸部动画隐私通知](./Roblox 脸部动画隐私通知.html) |https://en.help.roblox.com/hc/zh-cn/articles/8064749848980-Roblox-%E8%84%B8%E9%83%A8%E5%8A%A8%E7%94%BB%E9%9A%90%E7%A7%81%E9%80%9A%E7%9F%A5
 [Roblox 短信服务条款](./Roblox 短信服务条款.html) |https://en.help.roblox.com/hc/zh-cn/articles/9483830673556-Roblox-%E7%9F%AD%E4%BF%A1%E6%9C%8D%E5%8A%A1%E6%9D%A1%E6%AC%BE
+[版权管理工具使用条款](./版权管理工具使用条款.html) |https://en.help.roblox.com/hc/zh-cn/articles/21857240911380-%E7%89%88%E6%9D%83%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7%E4%BD%BF%E7%94%A8%E6%9D%A1%E6%AC%BE
 [Roblox 内容审核](./Roblox 内容审核.html) |https://en.help.roblox.com/hc/zh-cn/articles/21416271342868-Roblox-%E5%86%85%E5%AE%B9%E5%AE%A1%E6%A0%B8
 [CPRA 隐私政策](./CPRA 隐私政策.html) |https://en.help.roblox.com/hc/zh-cn/articles/4402871541140-CPRA-%E9%9A%90%E7%A7%81%E6%94%BF%E7%AD%96
 [创作者第三方应用条款](./创作者第三方应用条款.html) |https://en.help.roblox.com/hc/zh-cn/articles/15887203369620-%E5%88%9B%E4%BD%9C%E8%80%85%E7%AC%AC%E4%B8%89%E6%96%B9%E5%BA%94%E7%94%A8%E6%9D%A1%E6%AC%BE
