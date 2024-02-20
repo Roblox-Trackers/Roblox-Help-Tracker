@@ -11,4 +11,3 @@ Name|URL
 [멤버십 버튼이 회색이에요](./멤버십 버튼이 회색이에요.html) |https://en.help.roblox.com/hc/ko/articles/203312690-%EB%A9%A4%EB%B2%84%EC%8B%AD-%EB%B2%84%ED%8A%BC%EC%9D%B4-%ED%9A%8C%EC%83%89%EC%9D%B4%EC%97%90%EC%9A%94
 [멤버십은 자동으로 갱신되나요?](./멤버십은 자동으로 갱신되나요-.html) |https://en.help.roblox.com/hc/ko/articles/203312630-%EB%A9%A4%EB%B2%84%EC%8B%AD%EC%9D%80-%EC%9E%90%EB%8F%99%EC%9C%BC%EB%A1%9C-%EA%B0%B1%EC%8B%A0%EB%90%98%EB%82%98%EC%9A%94
 [멤버십 업그레이드 또는 다운그레이드](./멤버십 업그레이드 또는 다운그레이드.html) |https://en.help.roblox.com/hc/ko/articles/203312750-%EB%A9%A4%EB%B2%84%EC%8B%AD-%EC%97%85%EA%B7%B8%EB%A0%88%EC%9D%B4%EB%93%9C-%EB%98%90%EB%8A%94-%EB%8B%A4%EC%9A%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EB%93%9C
-[Roblox에 가족 요금제가 있나요?](./Roblox에 가족 요금제가 있나요-.html) |https://en.help.roblox.com/hc/ko/articles/203312610-Roblox%EC%97%90-%EA%B0%80%EC%A1%B1-%EC%9A%94%EA%B8%88%EC%A0%9C%EA%B0%80-%EC%9E%88%EB%82%98%EC%9A%94
