@@ -4,351 +4,172 @@
    <div class="article-content">
     <div class="article-body">
      <p>
-      <span style="font-weight: 400;">
-       <font style="vertical-align: inherit;">
-        在某些情況下，Roblox員工可能會通過客戶關懷電子郵件或DevForum公佈請求客戶端日誌，以幫助調查某個問題。本文描述如何檢索這些日誌。
-       </font>
-      </span>
+      在某些情況下，Roblox 員工可能會透過客戶服務電子郵件或開發論壇貼文請求用戶端日誌以協助調查問題。 本文說明如何檢索這些日誌。
      </p>
      <p class="wysiwyg-indent1">
+      <strong>
+       <em>
+        注意：
+       </em>
+      </strong>
       <em>
-       <strong>
-        <font style="vertical-align: inherit;">
-         注意
-        </font>
-       </strong>
+       請僅在 Roblox 員工要求時發送這些日誌！
       </em>
-      <span style="font-weight: 400;">
-       <font style="vertical-align: inherit;">
-        :
-       </font>
-      </span>
-      <em>
-       <span style="font-weight: 400;">
-        <font style="vertical-align: inherit;">
-         除非Roblox員工要求，否則請不要檢索或發送這些日誌。
-        </font>
-       </span>
-      </em>
+     </p>
+     <p class="wysiwyg-indent1">
      </p>
      <h1>
-      <strong>
-       <font style="vertical-align: inherit;">
-        檢索客戶端日誌
-       </font>
-      </strong>
+      如何擷取 Roblox 日誌
      </h1>
      <p class="wysiwyg-indent1">
-      <span style="font-weight: 400;">
-       <font style="vertical-align: inherit;">
-        檢索客戶端日誌的過程因您使用的操作系統而異。請注意以下信息不適用於移動設備。
-       </font>
-      </span>
+      Roblox Player 和 Roblox Studio 日誌都寫入相同資料夾。
      </p>
-     <ol>
+     <ul>
+      <li>
+       在 PC 上，同時按 WINDOWS 鍵和 R。 將出現一個名為
+       <strong>
+        運行
+       </strong>
+       的框。 複製並貼上或鍵入以下內容（不含引號）：
+       <ul>
+        <li>
+         <p>
+          對於 Win32：“%localappdata%\Roblox\logs”
+         </p>
+         <p>
+          對於 UWP：“%LOCALAPPDATA%\Packages\ROBLOXCorporation.ROBLOX_55nm5eh3cm0pr\LocalState\logs”
+         </p>
+        </li>
+       </ul>
+      </li>
+      <li>
+       在 Mac 上，導航至 Macintosh HD &gt; 用戶&gt; [您的用戶資料] &gt; 圖書館 &gt;日誌&gt; Roblox
+      </li>
+      <li>
+       <p data-renderer-start-pos="723">
+        我們目前沒有簡單的方法供您上傳 Android 或 iOS 日誌。 抱歉，我們正在努力！
+       </p>
+      </li>
+     </ul>
+     <h2>
+      此文件夾中可能會有很多日誌文件
+     </h2>
+     <ul>
       <li>
        <p>
-        <span style="font-weight: 400;">
-         <font style="vertical-align: inherit;">
-          打開
-         </font>
-        </span>
-        <strong>
-         <font style="vertical-align: inherit;">
-          Roblox Studio
-         </font>
-        </strong>
-        <span style="font-weight: 400;">
-         <font style="vertical-align: inherit;">
-          :
-         </font>
-        </span>
+        Roblox 日誌將如下所示：「0.&lt;major ver&gt;.&lt;minor ver&gt;.&lt;revision&gt;_&lt;date&gt;_Player_&lt;garbage&gt;_last.log
        </p>
-       <p>
-        <em>
-         <font style="vertical-align: inherit;">
-          Windows 7 / 10:
-         </font>
-        </em>
-        <font style="vertical-align: inherit;">
-         Start &gt;所有程序（或者所有應用程序） &gt; Roblox &gt; Roblox Studio
-        </font>
-        <br/>
-        <br/>
-        <em>
-         <span style="font-weight: 400;">
-          <font style="vertical-align: inherit;">
-           Windows 8:
-          </font>
-         </span>
-        </em>
-        <span style="font-weight: 400;">
-         <font style="vertical-align: inherit;">
-          點擊左下角的Windows標誌，並在平舖的”開始“屏幕出現時輸入
-         </font>
-        </span>
-        <strong>
-         <font style="vertical-align: inherit;">
-          Roblox Studio
-         </font>
-        </strong>
-        <span style="font-weight: 400;">
-         <font style="vertical-align: inherit;">
-          。從屏幕右側的搜索列表中選擇
-         </font>
-        </span>
-        <strong>
-         <font style="vertical-align: inherit;">
-          Roblox Studio
-         </font>
-        </strong>
-        <span style="font-weight: 400;">
-         <font style="vertical-align: inherit;">
-          。
-         </font>
-        </span>
-        <br/>
-        <br/>
-        <em>
-         <span style="font-weight: 400;">
-          <font style="vertical-align: inherit;">
-           Mac:
-          </font>
-         </span>
-        </em>
-        <span style="font-weight: 400;">
-         <font style="vertical-align: inherit;">
-          Command + Space Bar &gt;輸入
-         </font>
-        </span>
-        <strong>
-         <font style="vertical-align: inherit;">
-          RobloxStudio
-         </font>
-        </strong>
-        <span style="font-weight: 400;">
-         <font style="vertical-align: inherit;">
-          &gt; Enter
-         </font>
-        </span>
-       </p>
+       <ul>
+        <li>
+         <p>
+          例如0.555.1.5550874_20221214T162601Z_
+          <strong>
+           玩家
+          </strong>
+          _9aaf3_last.log
+         </p>
+        </li>
+       </ul>
       </li>
       <li>
        <p>
-        <span style="font-weight: 400;">
-         <font style="vertical-align: inherit;">
-          通過點擊”設置“&gt;”設置“以打開”
-         </font>
-         <strong>
-          <font style="vertical-align: inherit;">
-           設置
-          </font>
-         </strong>
-         <font style="vertical-align: inherit;">
-          “
-         </font>
-        </span>
+        Roblox Studio 日誌看起來相同，只是顯示“Studio”而不是“Player”
        </p>
+       <ul>
+        <li>
+         <p>
+          例如0.555.1.5550874_20221214T162601Z_
+          <strong>
+           Studio
+          </strong>
+          _9aaf3_last.log
+         </p>
+        </li>
+       </ul>
       </li>
       <li>
        <p>
-        <span style="font-weight: 400;">
-         <font style="vertical-align: inherit;">
-          在左側窗格中，點擊”
-         </font>
-         <strong>
-          <font style="vertical-align: inherit;">
-           網絡
-          </font>
-         </strong>
-         <font style="vertical-align: inherit;">
-          “
-         </font>
-        </span>
-        <span style="font-weight: 400;">
-         <font style="vertical-align: inherit;">
-          。如果沒有顯示，關閉並和重新打開Roblox Studio。
-         </font>
-        </span>
+        引導程式日誌將類似 bootstrapper_&lt;garbage&gt;_1.txt
        </p>
+       <ul>
+        <li>
+         <p>
+          除非問題是在從 Web 瀏覽器啟動 Roblox 或 RobloxStudio 時或更新期間發生的，否則您很可能不需要發送引導程式日誌。
+         </p>
+        </li>
+       </ul>
+      </li>
+     </ul>
+     <p>
+     </p>
+     <h2>
+      您可以確定要發送的正確日誌文件
+     </h2>
+     <ul>
+      <li>
+       使用文件時間戳記來確定哪個日誌文件對應於您要報告的事件
       </li>
       <li>
-       <p>
-        <strong>
-         <font style="vertical-align: inherit;">
-          在
-         </font>
-        </strong>
-        <font style="vertical-align: inherit;">
-         "
-        </font>
-        <strong>
-         <font style="vertical-align: inherit;">
-          診斷
-         </font>
-        </strong>
-        <font style="vertical-align: inherit;">
-         "
-        </font>
-        <span style="font-weight: 400;">
-         <font style="vertical-align: inherit;">
-          下面，確保選中這些複選框：
-         </font>
-        </span>
-       </p>
-       <p>
-        <em>
-         <font style="vertical-align: inherit;">
-          PrintEvents
-         </font>
-        </em>
-        <br/>
-        <em>
-         <font style="vertical-align: inherit;">
-          PrintInstances
-         </font>
-        </em>
-        <br/>
-        <em>
-         <font style="vertical-align: inherit;">
-          PrintPhysicsErrors
-         </font>
-        </em>
-        <br/>
-        <em>
-         <font style="vertical-align: inherit;">
-          PrintProperties
-         </font>
-        </em>
-        <br/>
-        <em>
-         <font style="vertical-align: inherit;">
-          PrintTouches
-         </font>
-        </em>
-       </p>
+       刪除該目錄下的所有文件，重現您要報告的問題，然後發送該文件夾下的所有內容
       </li>
       <li>
-       <p>
-        <span style="font-weight: 400;">
-         <font style="vertical-align: inherit;">
-          關閉Roblox
-         </font>
-        </span>
-       </p>
+       如果您感到困惑，您可以按日期排序並發送最近的 10 個文件。
       </li>
-      <li>
-       <p>
-        <span style="font-weight: 400;">
-         <font style="vertical-align: inherit;">
-          同時按下鍵盤上的WINDOWS鍵和R鍵。
-         </font>
-        </span>
-        <br/>
-        <br/>
-        <em>
-         <font style="vertical-align: inherit;">
-          適用於Mac:
-         </font>
-        </em>
-        <font style="vertical-align: inherit;">
-         Macintosh HD &gt; Users &gt; [your user profile] &gt; Library &gt; Logs &gt; Roblox
-        </font>
-        <br/>
-        <br/>
-        <em>
-         <span style="font-weight: 400;">
-          <font style="vertical-align: inherit;">
-           注意：Mac用戶跳過步驟7
-          </font>
-         </span>
-        </em>
-       </p>
-      </li>
-      <li>
-       <p>
-        <span style="font-weight: 400;">
-         <font style="vertical-align: inherit;">
-          將出現一個名為
-         </font>
-        </span>
-        <strong>
-         <font style="vertical-align: inherit;">
-          Run
-         </font>
-        </strong>
-        <span style="font-weight: 400;">
-         <font style="vertical-align: inherit;">
-          的框。複製粘貼或鍵入以下不帶引號的內容:
-         </font>
-        </span>
-       </p>
-       <p>
-        <em>
-         <span style="font-weight: 400;">
-          <font style="vertical-align: inherit;">
-           如果使用Windows 7 / 8 / 10:
-          </font>
-         </span>
-        </em>
-        <span style="font-weight: 400;">
-         <font style="vertical-align: inherit;">
-          "%localappdata%\Roblox\logs"
-         </font>
-        </span>
-        <br/>
-        <span style="font-weight: 400;">
-        </span>
-       </p>
-       <span style="font-weight: 400;">
-        <font style="vertical-align: inherit;">
-         刪除文件夾中的所有內容。
-        </font>
-       </span>
-      </li>
-      <li>
-       <p>
-        <span style="font-weight: 400;">
-         <font style="vertical-align: inherit;">
-          試著用正常的方式玩Roblox。
-         </font>
-        </span>
-       </p>
-      </li>
-      <li>
-       <p>
-        <span style="font-weight: 400;">
-         <font style="vertical-align: inherit;">
-          當它不起作用時，請關閉Roblox並重複步驟6和7。
-         </font>
-        </span>
-       </p>
-       <p>
-        現在該文件夾中將有幾個文件。 請發送給他們作為對您的支持消息的回复，確保確保參考了需要日誌的問題情況。
-       </p>
-      </li>
-     </ol>
+     </ul>
+     <p>
+     </p>
+     <h1>
+      報告錯誤時包含日誌文件
+     </h1>
+     <p>
+      在 Roblox
+      <a href="https://devforum.roblox.com/c/bug-reports/10" rel="noopener" target="_blank">
+       開發者論壇
+      </a>
+      上報告錯誤時，您可以選擇將日誌檔案與錯誤報告一起上傳。 如果您需要在製作初始錯誤報告後上傳日誌，請向
+      <a href="https://devforum.roblox.com/g/bug-files" rel="noopener" target="_blank">
+       bug-files
+      </a>
+      群組發送 DM，包含原始錯誤報告帖子的鏈接，並標記任何相關的 Roblox 員工：
+     </p>
+     <p class="wysiwyg-text-align-center">
+      <img alt="Report_Bug_Window_on_Developer_Forum.png" height="312" src="https://en.help.roblox.com/hc/article_attachments/14397229029524" width="546"/>
+     </p>
+     <p>
+     </p>
+     <p>
+      僅透過傳送到錯誤文件群組來上傳日誌，並且僅在 Roblox 員工要求時才這樣做。 要在開發論壇上識別 Roblox 員工，請確保其帳戶名稱旁邊顯示 “Roblox 員工”：
+     </p>
+     <p class="wysiwyg-text-align-center">
+      <img alt="Roblox_Employee_on_DevForum.png" src="64 / 5,000
+Translation results
+Translation result
+https://en.help.roblox.com/hc/article_attachments/14378571735060"/>
+     </p>
+     <p>
+     </p>
+     <p>
+      請參閱
+      <a href="https://devforum.roblox.com/t/how-to-post-a-bug-report/24388/19" rel="noopener" target="_blank">
+       如何發布錯誤報告
+      </a>
+      以取得更詳細的說明！
+     </p>
      <p>
      </p>
      <p>
       <strong>
-       <font style="vertical-align: inherit;">
-        更多幫助
-       </font>
+       額外的幫助
       </strong>
      </p>
      <p class="wysiwyg-indent1">
-      <a href="/hc/articles/203312870" rel="noopener" target="_blank">
-       <font style="vertical-align: inherit;">
-        一般Roblox的桌面問題
-       </font>
+      <a href="https://en.help.roblox.com/hc/articles/203312870" rel="noopener" target="_blank">
+       一般桌面 Roblox 問題
       </a>
      </p>
      <p class="wysiwyg-indent1">
-      <a href="/hc/articles/203312990" rel="noopener" target="_blank">
-       <font style="vertical-align: inherit;">
-        Mac：故障排除
-       </font>
+      <a href="https://en.help.roblox.com/hc/articles/203312990" rel="noopener" target="_blank">
+       Mac：故障排除
       </a>
      </p>
     </div>
