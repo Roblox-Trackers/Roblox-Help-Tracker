@@ -19,6 +19,7 @@ Name|URL
 [Integrità della valutazione Roblox](./Integrità della valutazione Roblox.html) |https://en.help.roblox.com/hc/it/articles/7235818866964-Integrit%C3%A0-della-valutazione-Roblox
 [Informativa sulla privacy per l'animazione facciale di Roblox](./Informativa sulla privacy per l'animazione facciale di Roblox.html) |https://en.help.roblox.com/hc/it/articles/8064749848980-Informativa-sulla-privacy-per-l-animazione-facciale-di-Roblox
 [Termini di servizio SMS di Roblox](./Termini di servizio SMS di Roblox.html) |https://en.help.roblox.com/hc/it/articles/9483830673556-Termini-di-servizio-SMS-di-Roblox
+[Termini di Servizio di Gestore diritti](./Termini di Servizio di Gestore diritti.html) |https://en.help.roblox.com/hc/it/articles/21857240911380-Termini-di-Servizio-di-Gestore-diritti
 [Moderazione dei contenuti su Roblox](./Moderazione dei contenuti su Roblox.html) |https://en.help.roblox.com/hc/it/articles/21416271342868-Moderazione-dei-contenuti-su-Roblox
 [Politica sulla riservatezza CPRA](./Politica sulla riservatezza CPRA.html) |https://en.help.roblox.com/hc/it/articles/4402871541140-Politica-sulla-riservatezza-CPRA
 [Condizioni per app di Creatori terzi](./Condizioni per app di Creatori terzi.html) |https://en.help.roblox.com/hc/it/articles/15887203369620-Condizioni-per-app-di-Creatori-terzi
