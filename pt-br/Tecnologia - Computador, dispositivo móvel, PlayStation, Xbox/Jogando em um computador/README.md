@@ -2,7 +2,7 @@
 ### Articles in this section
 Name|URL
 -|-
-[Como Instalar e Jogar na Roblox](./Como Instalar e Jogar na Roblox.html) |https://en.help.roblox.com/hc/pt-br/articles/204473560-Como-Instalar-e-Jogar-na-Roblox
+[Como instalar e Jogar Roblox](./Como instalar e Jogar Roblox.html) |https://en.help.roblox.com/hc/pt-br/articles/204473560-Como-instalar-e-Jogar-Roblox
 [Problemas Gerais do Roblox no Computador](./Problemas Gerais do Roblox no Computador.html) |https://en.help.roblox.com/hc/pt-br/articles/203312870-Problemas-Gerais-do-Roblox-no-Computador
 [Problemas gerais de bate-papo / teclado no computador](./Problemas gerais de bate-papo - teclado no computador.html) |https://en.help.roblox.com/hc/pt-br/articles/203313040-Problemas-gerais-de-bate-papo-teclado-no-computador
 [Problemas Gerais de Conexão](./Problemas Gerais de Conexão.html) |https://en.help.roblox.com/hc/pt-br/articles/203312880-Problemas-Gerais-de-Conex%C3%A3o

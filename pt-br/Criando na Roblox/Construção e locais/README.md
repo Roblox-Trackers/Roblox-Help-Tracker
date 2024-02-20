@@ -14,7 +14,6 @@ Name|URL
 [Como posso ativar Servidores Privados/VIPs nas minhas experiências?](./Como posso ativar Servidores Privados-VIPs nas minhas experiências-.html) |https://en.help.roblox.com/hc/pt-br/articles/360000781023-Como-posso-ativar-Servidores-Privados-VIPs-nas-minhas-experi%C3%AAncias
 [Como Copiar uma Experiência](./Como Copiar uma Experiência.html) |https://en.help.roblox.com/hc/pt-br/articles/203313900-Como-Copiar-uma-Experi%C3%AAncia
 [Como Reverter um Local Para Versões Anteriores?](./Como Reverter um Local Para Versões Anteriores-.html) |https://en.help.roblox.com/hc/pt-br/articles/203313850-Como-Reverter-um-Local-Para-Vers%C3%B5es-Anteriores
-[Redefinir um Lugar Para o Padrão Inicial](./Redefinir um Lugar Para o Padrão Inicial.html) |https://en.help.roblox.com/hc/pt-br/articles/203313920-Redefinir-um-Lugar-Para-o-Padr%C3%A3o-Inicial
 [Como faço emblemas de experiências?](./Como faço emblemas de experiências-.html) |https://en.help.roblox.com/hc/pt-br/articles/203313650-Como-fa%C3%A7o-emblemas-de-experi%C3%AAncias
 [Como Construo com GUIs?](./Como Construo com GUIs-.html) |https://en.help.roblox.com/hc/pt-br/articles/203313960-Como-Construo-com-GUIs
 [Configurando o estilo do chat do seu local](./Configurando o estilo do chat do seu local.html) |https://en.help.roblox.com/hc/pt-br/articles/360019904552-Configurando-o-estilo-do-chat-do-seu-local

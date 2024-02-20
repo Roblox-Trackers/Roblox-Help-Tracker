@@ -17,3 +17,4 @@ Name|URL
 [Perguntas frequentes sobre verificação de idade](./Perguntas frequentes sobre verificação de idade.html) |https://en.help.roblox.com/hc/pt-br/articles/4407276151188-Perguntas-frequentes-sobre-verifica%C3%A7%C3%A3o-de-idade
 [Mudando o Tema da Sua Conta](./Mudando o Tema da Sua Conta.html) |https://en.help.roblox.com/hc/pt-br/articles/360022922852-Mudando-o-Tema-da-Sua-Conta
 [Perguntas Frequentes – Importador de contatos](./Perguntas Frequentes – Importador de contatos.html) |https://en.help.roblox.com/hc/pt-br/articles/7416652004884-Perguntas-Frequentes-Importador-de-contatos
+[Localização da conta - Perguntas frequentes](./Localização da conta - Perguntas frequentes.html) |https://en.help.roblox.com/hc/pt-br/articles/21767603654932-Localiza%C3%A7%C3%A3o-da-conta-Perguntas-frequentes
