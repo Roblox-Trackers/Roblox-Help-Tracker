@@ -14,7 +14,6 @@ Name|URL
 [Come posso abilitare i server VIP/privati ​​sulle mie esperienze?](./Come posso abilitare i server VIP-privati ​​sulle mie esperienze-.html) |https://en.help.roblox.com/hc/it/articles/360000781023-Come-posso-abilitare-i-server-VIP-privati-sulle-mie-esperienze
 [Come Copiare un'Esperienza](./Come Copiare un'Esperienza.html) |https://en.help.roblox.com/hc/it/articles/203313900-Come-Copiare-un-Esperienza
 [Come ripristinare le versioni precedenti di un luogo](./Come ripristinare le versioni precedenti di un luogo.html) |https://en.help.roblox.com/hc/it/articles/203313850-Come-ripristinare-le-versioni-precedenti-di-un-luogo
-[Reimposta il Luogo su un Modello di Partenza](./Reimposta il Luogo su un Modello di Partenza.html) |https://en.help.roblox.com/hc/it/articles/203313920-Reimposta-il-Luogo-su-un-Modello-di-Partenza
 [Come Faccio a Creare dei Badges nell'Esperienza?](./Come Faccio a Creare dei Badges nell'Esperienza-.html) |https://en.help.roblox.com/hc/it/articles/203313650-Come-Faccio-a-Creare-dei-Badges-nell-Esperienza
 [Come faccio a costruire con le GUI?](./Come faccio a costruire con le GUI-.html) |https://en.help.roblox.com/hc/it/articles/203313960-Come-faccio-a-costruire-con-le-GUI
 [Configurazione dello stile di chat del tuo luogo](./Configurazione dello stile di chat del tuo luogo.html) |https://en.help.roblox.com/hc/it/articles/360019904552-Configurazione-dello-stile-di-chat-del-tuo-luogo

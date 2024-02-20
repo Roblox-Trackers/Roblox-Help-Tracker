@@ -7,7 +7,7 @@ Name|URL
 [Roblox Mobile: chattare e giocare con gli amici](./Roblox Mobile- chattare e giocare con gli amici.html) |https://en.help.roblox.com/hc/it/articles/360000432483-Roblox-Mobile-chattare-e-giocare-con-gli-amici
 [Come Chattare Nelle Esperienze](./Come Chattare Nelle Esperienze.html) |https://en.help.roblox.com/hc/it/articles/203314250-Come-Chattare-Nelle-Esperienze
 [Mobile: Come Chattare Nelle Esperienze](./Mobile- Come Chattare Nelle Esperienze.html) |https://en.help.roblox.com/hc/it/articles/203313520-Mobile-Come-Chattare-Nelle-Esperienze
-[Come posso eliminare i messaggi nella mia casella di posta?](./Come posso eliminare i messaggi nella mia casella di posta-.html) |https://en.help.roblox.com/hc/it/articles/203313690-Come-posso-eliminare-i-messaggi-nella-mia-casella-di-posta
-[Chat con Voce](./Chat con Voce.html) |https://en.help.roblox.com/hc/it/articles/4405807645972-Chat-con-Voce
+[Come Posso Eliminare i Messaggi Nella Mia Casella di Posta?](./Come Posso Eliminare i Messaggi Nella Mia Casella di Posta-.html) |https://en.help.roblox.com/hc/it/articles/203313690-Come-Posso-Eliminare-i-Messaggi-Nella-Mia-Casella-di-Posta
+[Chatta con la voce](./Chatta con la voce.html) |https://en.help.roblox.com/hc/it/articles/4405807645972-Chatta-con-la-voce
 [Domande frequenti sulla registrazione vocale](./Domande frequenti sulla registrazione vocale.html) |https://en.help.roblox.com/hc/it/articles/5704050147604-Domande-frequenti-sulla-registrazione-vocale
 [FAQ Roblox Connect](./FAQ Roblox Connect.html) |https://en.help.roblox.com/hc/it/articles/20918814627988-FAQ-Roblox-Connect
