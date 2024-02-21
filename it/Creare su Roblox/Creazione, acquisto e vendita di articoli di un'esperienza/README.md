@@ -2,8 +2,7 @@
 ### Articles in this section
 Name|URL
 -|-
-[Creator Marketplace](./Creator Marketplace.html) |https://en.help.roblox.com/hc/it/articles/206580683-Creator-Marketplace
-[Come Archiviare Risorse ed Esperienze](./Come Archiviare Risorse ed Esperienze.html) |https://en.help.roblox.com/hc/it/articles/360031253052-Come-Archiviare-Risorse-ed-Esperienze
+[Il Negozio del Creatore](./Il Negozio del Creatore.html) |https://en.help.roblox.com/hc/it/articles/206580683-Il-Negozio-del-Creatore
 [Come faccio a rendere qualcosa di Pubblico Dominio?](./Come faccio a rendere qualcosa di Pubblico Dominio-.html) |https://en.help.roblox.com/hc/it/articles/203313230-Come-faccio-a-rendere-qualcosa-di-Pubblico-Dominio
 [Come Posso Modificare o Vendere una Mesh sul Marketplace dell'Avatar?](./Come Posso Modificare o Vendere una Mesh sul Marketplace dell'Avatar-.html) |https://en.help.roblox.com/hc/it/articles/203313250-Come-Posso-Modificare-o-Vendere-una-Mesh-sul-Marketplace-dell-Avatar
 [Come Fare Decalcomanie](./Come Fare Decalcomanie.html) |https://en.help.roblox.com/hc/it/articles/203313930-Come-Fare-Decalcomanie
