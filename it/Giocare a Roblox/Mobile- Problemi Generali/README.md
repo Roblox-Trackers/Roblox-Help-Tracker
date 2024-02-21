@@ -2,7 +2,7 @@
 ### Articles in this section
 Name|URL
 -|-
-[Come posso fare uno screenshot in un'esperienza?](./Come posso fare uno screenshot in un'esperienza-.html) |https://en.help.roblox.com/hc/it/articles/20564017568276-Come-posso-fare-uno-screenshot-in-un-esperienza
+[Come Faccio ad Acquisire uno Screenshot in un'Esperienza?](./Come Faccio ad Acquisire uno Screenshot in un'Esperienza-.html) |https://en.help.roblox.com/hc/it/articles/20564017568276-Come-Faccio-ad-Acquisire-uno-Screenshot-in-un-Esperienza
 [Requisiti di sistema per Roblox Mobile](./Requisiti di sistema per Roblox Mobile.html) |https://en.help.roblox.com/hc/it/articles/203625474-Requisiti-di-sistema-per-Roblox-Mobile
 [Mobile: accesso e disconnessione](./Mobile- accesso e disconnessione.html) |https://en.help.roblox.com/hc/it/articles/203313450-Mobile-accesso-e-disconnessione
 [Mobile: Leggere e Rispondere ai Messaggi](./Mobile- Leggere e Rispondere ai Messaggi.html) |https://en.help.roblox.com/hc/it/articles/203313550-Mobile-Leggere-e-Rispondere-ai-Messaggi
