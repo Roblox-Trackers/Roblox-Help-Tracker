@@ -15,7 +15,7 @@ Name|URL
 [Roblox Advertising Terms](./Roblox Advertising Terms.html) |https://en.help.roblox.com/hc/en-us/articles/15494846263060-Roblox-Advertising-Terms
 [Advertising Standards](./Advertising Standards.html) |https://en.help.roblox.com/hc/en-us/articles/13722260778260-Advertising-Standards
 [UGC Subscription Terms of Use](./UGC Subscription Terms of Use.html) |https://en.help.roblox.com/hc/en-us/articles/19694609252884-UGC-Subscription-Terms-of-Use
-[Assistant Supplemental Terms and Disclaimer](./Assistant Supplemental Terms and Disclaimer.html) |https://en.help.roblox.com/hc/en-us/articles/20121392440212-Assistant-Supplemental-Terms-and-Disclaimer
+[AI-BASED TOOLS SUPPLEMENTAL TERMS AND DISCLAIMER](./AI-BASED TOOLS SUPPLEMENTAL TERMS AND DISCLAIMER.html) |https://en.help.roblox.com/hc/en-us/articles/20121392440212-AI-BASED-TOOLS-SUPPLEMENTAL-TERMS-AND-DISCLAIMER
 [Roblox Rating Integrity](./Roblox Rating Integrity.html) |https://en.help.roblox.com/hc/en-us/articles/7235818866964-Roblox-Rating-Integrity
 [Roblox Facial Animation Privacy Notice](./Roblox Facial Animation Privacy Notice.html) |https://en.help.roblox.com/hc/en-us/articles/8064749848980-Roblox-Facial-Animation-Privacy-Notice
 [Roblox SMS Terms of Service](./Roblox SMS Terms of Service.html) |https://en.help.roblox.com/hc/en-us/articles/9483830673556-Roblox-SMS-Terms-of-Service
