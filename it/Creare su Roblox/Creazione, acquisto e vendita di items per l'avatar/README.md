@@ -8,7 +8,7 @@ Name|URL
 [Cos'è un equipaggiamento virtuale?](./Cos'è un equipaggiamento virtuale-.html) |https://en.help.roblox.com/hc/it/articles/203313630-Cos-%C3%A8-un-equipaggiamento-virtuale
 [Il Markeplace](./Il Markeplace.html) |https://en.help.roblox.com/hc/it/articles/203313300-Il-Markeplace
 [Come Vendere Oggetti](./Come Vendere Oggetti.html) |https://en.help.roblox.com/hc/it/articles/203313260-Come-Vendere-Oggetti
-[Vendere Vestiti](./Vendere Vestiti.html) |https://en.help.roblox.com/hc/it/articles/203313180-Vendere-Vestiti
+[Creazione e Vendita di Abbigliamento](./Creazione e Vendita di Abbigliamento.html) |https://en.help.roblox.com/hc/it/articles/203313180-Creazione-e-Vendita-di-Abbigliamento
 [Sistema di trading](./Sistema di trading.html) |https://en.help.roblox.com/hc/it/articles/203313310-Sistema-di-trading
 [Tutto sugli articoli da regalo](./Tutto sugli articoli da regalo.html) |https://en.help.roblox.com/hc/it/articles/205630374-Tutto-sugli-articoli-da-regalo
 [Come posso ottenere articoli promozionali o di concorso?](./Come posso ottenere articoli promozionali o di concorso-.html) |https://en.help.roblox.com/hc/it/articles/203313270-Come-posso-ottenere-articoli-promozionali-o-di-concorso
