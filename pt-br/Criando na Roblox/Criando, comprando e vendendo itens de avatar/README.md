@@ -8,7 +8,7 @@ Name|URL
 [O Que é Equipamento Virtual?](./O Que é Equipamento Virtual-.html) |https://en.help.roblox.com/hc/pt-br/articles/203313630-O-Que-%C3%A9-Equipamento-Virtual
 [O Mercado](./O Mercado.html) |https://en.help.roblox.com/hc/pt-br/articles/203313300-O-Mercado
 [Como vender itens](./Como vender itens.html) |https://en.help.roblox.com/hc/pt-br/articles/203313260-Como-vender-itens
-[Vendendo roupas](./Vendendo roupas.html) |https://en.help.roblox.com/hc/pt-br/articles/203313180-Vendendo-roupas
+[Criação e venda de roupas](./Criação e venda de roupas.html) |https://en.help.roblox.com/hc/pt-br/articles/203313180-Cria%C3%A7%C3%A3o-e-venda-de-roupas
 [Sistema de Trocas](./Sistema de Trocas.html) |https://en.help.roblox.com/hc/pt-br/articles/203313310-Sistema-de-Trocas
 [Tudo sobre itens de presente](./Tudo sobre itens de presente.html) |https://en.help.roblox.com/hc/pt-br/articles/205630374-Tudo-sobre-itens-de-presente
 [Como faço para obter itens promocionais ou de concursos?](./Como faço para obter itens promocionais ou de concursos-.html) |https://en.help.roblox.com/hc/pt-br/articles/203313270-Como-fa%C3%A7o-para-obter-itens-promocionais-ou-de-concursos

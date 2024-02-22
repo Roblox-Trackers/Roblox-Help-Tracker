@@ -7,4 +7,4 @@ Name|URL
 [Quais métodos de pagamento posso usar?](./Quais métodos de pagamento posso usar-.html) |https://en.help.roblox.com/hc/pt-br/articles/203312580-Quais-m%C3%A9todos-de-pagamento-posso-usar
 [Quais moedas a Roblox aceita?](./Quais moedas a Roblox aceita-.html) |https://en.help.roblox.com/hc/pt-br/articles/203312600-Quais-moedas-a-Roblox-aceita
 [Como encontrar seus recibos de compra](./Como encontrar seus recibos de compra.html) |https://en.help.roblox.com/hc/pt-br/articles/6852905161876-Como-encontrar-seus-recibos-de-compra
-[Onde Posso Encontrar Cartões Presente Roblox?](./Onde Posso Encontrar Cartões Presente Roblox-.html) |https://en.help.roblox.com/hc/pt-br/articles/203312720-Onde-Posso-Encontrar-Cart%C3%B5es-Presente-Roblox
+[Onde posso encontrar cartões-presente do Roblox?](./Onde posso encontrar cartões-presente do Roblox-.html) |https://en.help.roblox.com/hc/pt-br/articles/203312720-Onde-posso-encontrar-cart%C3%B5es-presente-do-Roblox
