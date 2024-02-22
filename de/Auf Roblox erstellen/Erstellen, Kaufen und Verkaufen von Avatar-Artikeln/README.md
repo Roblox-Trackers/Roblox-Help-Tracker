@@ -8,7 +8,7 @@ Name|URL
 [Was ist die Virtuelle Ausrüstung?](./Was ist die Virtuelle Ausrüstung-.html) |https://en.help.roblox.com/hc/de/articles/203313630-Was-ist-die-Virtuelle-Ausr%C3%BCstung
 [Der Marktplatz](./Der Marktplatz.html) |https://en.help.roblox.com/hc/de/articles/203313300-Der-Marktplatz
 [Wie man Artikeln verkauft](./Wie man Artikeln verkauft.html) |https://en.help.roblox.com/hc/de/articles/203313260-Wie-man-Artikeln-verkauft
-[Kleidung verkaufen](./Kleidung verkaufen.html) |https://en.help.roblox.com/hc/de/articles/203313180-Kleidung-verkaufen
+[Erstellen und Verkaufen von Kleidung](./Erstellen und Verkaufen von Kleidung.html) |https://en.help.roblox.com/hc/de/articles/203313180-Erstellen-und-Verkaufen-von-Kleidung
 [Handelssystem](./Handelssystem.html) |https://en.help.roblox.com/hc/de/articles/203313310-Handelssystem
 [Alles über Geschenkartikel](./Alles über Geschenkartikel.html) |https://en.help.roblox.com/hc/de/articles/205630374-Alles-%C3%BCber-Geschenkartikel
 [Wie erhalte ich Werbe- oder Wettbewerbs Gegenstände?](./Wie erhalte ich Werbe- oder Wettbewerbs Gegenstände-.html) |https://en.help.roblox.com/hc/de/articles/203313270-Wie-erhalte-ich-Werbe-oder-Wettbewerbs-Gegenst%C3%A4nde
