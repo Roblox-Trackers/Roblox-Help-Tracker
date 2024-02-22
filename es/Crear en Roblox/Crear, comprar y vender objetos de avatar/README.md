@@ -8,7 +8,7 @@ Name|URL
 [¿Qué es un Equipo Virtual?](./¿Qué es un Equipo Virtual-.html) |https://en.help.roblox.com/hc/es/articles/203313630--Qu%C3%A9-es-un-Equipo-Virtual
 [El Mercado](./El Mercado.html) |https://en.help.roblox.com/hc/es/articles/203313300-El-Mercado
 [Cómo Vender Artículos](./Cómo Vender Artículos.html) |https://en.help.roblox.com/hc/es/articles/203313260-C%C3%B3mo-Vender-Art%C3%ADculos
-[Venta de ropa](./Venta de ropa.html) |https://en.help.roblox.com/hc/es/articles/203313180-Venta-de-ropa
+[Crear y vender ropa](./Crear y vender ropa.html) |https://en.help.roblox.com/hc/es/articles/203313180-Crear-y-vender-ropa
 [Sistema de Intercambio](./Sistema de Intercambio.html) |https://en.help.roblox.com/hc/es/articles/203313310-Sistema-de-Intercambio
 [Todo sobre artículos de regalo](./Todo sobre artículos de regalo.html) |https://en.help.roblox.com/hc/es/articles/205630374-Todo-sobre-art%C3%ADculos-de-regalo
 [¿Cómo Obtengo Artículos Promocionales o de Concurso?](./¿Cómo Obtengo Artículos Promocionales o de Concurso-.html) |https://en.help.roblox.com/hc/es/articles/203313270--C%C3%B3mo-Obtengo-Art%C3%ADculos-Promocionales-o-de-Concurso
