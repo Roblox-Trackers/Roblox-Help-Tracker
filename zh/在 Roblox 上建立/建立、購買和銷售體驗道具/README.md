@@ -9,4 +9,4 @@ Name|URL
 [如何創建包](./如何創建包.html) |https://en.help.roblox.com/hc/zh-tw/articles/203313910-%E5%A6%82%E4%BD%95%E5%89%B5%E5%BB%BA%E5%8C%85
 [音訊檔案](./音訊檔案.html) |https://en.help.roblox.com/hc/zh-tw/articles/203314070-%E9%9F%B3%E8%A8%8A%E6%AA%94%E6%A1%88
 [體驗證](./體驗證.html) |https://en.help.roblox.com/hc/zh-tw/articles/203314040-%E9%AB%94%E9%A9%97%E8%AD%89
-[銷售通行權（支付使用權）](./銷售通行權（支付使用權）.html) |https://en.help.roblox.com/hc/zh-tw/articles/203314090-%E9%8A%B7%E5%94%AE%E9%80%9A%E8%A1%8C%E6%AC%8A-%E6%94%AF%E4%BB%98%E4%BD%BF%E7%94%A8%E6%AC%8A
+[銷售體驗存取（付費存取）](./銷售體驗存取（付費存取）.html) |https://en.help.roblox.com/hc/zh-tw/articles/203314090-%E9%8A%B7%E5%94%AE%E9%AB%94%E9%A9%97%E5%AD%98%E5%8F%96-%E4%BB%98%E8%B2%BB%E5%AD%98%E5%8F%96
