@@ -10,6 +10,7 @@ Name|URL
 [Ajouter la vérification en 2 étapes à votre compte](./Ajouter la vérification en 2 étapes à votre compte.html) |https://en.help.roblox.com/hc/fr/articles/212459863-Ajouter-la-v%C3%A9rification-en-2-%C3%A9tapes-%C3%A0-votre-compte
 [Dépannage de la vérification en deux étapes](./Dépannage de la vérification en deux étapes.html) |https://en.help.roblox.com/hc/fr/articles/360000350706-D%C3%A9pannage-de-la-v%C3%A9rification-en-deux-%C3%A9tapes
 [Que se passe-t-il si quelqu'un d'autre a ajouté un code PIN à mon compte ?](./Que se passe-t-il si quelqu'un d'autre a ajouté un code PIN à mon compte -.html) |https://en.help.roblox.com/hc/fr/articles/360031316752-Que-se-passe-t-il-si-quelqu-un-d-autre-a-ajout%C3%A9-un-code-PIN-%C3%A0-mon-compte
+[Gestion des sessions](./Gestion des sessions.html) |https://en.help.roblox.com/hc/fr/articles/14482664311060-Gestion-des-sessions
 [Notifications de sécurité](./Notifications de sécurité.html) |https://en.help.roblox.com/hc/fr/articles/14600116607508-Notifications-de-s%C3%A9curit%C3%A9
 [Puis-je partager mon compte ?](./Puis-je partager mon compte -.html) |https://en.help.roblox.com/hc/fr/articles/360000236103-Puis-je-partager-mon-compte
 [Rumeurs de piratage et canulars](./Rumeurs de piratage et canulars.html) |https://en.help.roblox.com/hc/fr/articles/360000240346-Rumeurs-de-piratage-et-canulars

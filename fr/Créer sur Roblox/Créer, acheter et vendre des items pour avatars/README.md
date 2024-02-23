@@ -8,7 +8,7 @@ Name|URL
 [Qu'est-ce que l'Équipement Virtuel?](./Qu'est-ce que l'Équipement Virtuel-.html) |https://en.help.roblox.com/hc/fr/articles/203313630-Qu-est-ce-que-l-%C3%89quipement-Virtuel
 [Le Marketplace](./Le Marketplace.html) |https://en.help.roblox.com/hc/fr/articles/203313300-Le-Marketplace
 [Comment vendre des items](./Comment vendre des items.html) |https://en.help.roblox.com/hc/fr/articles/203313260-Comment-vendre-des-items
-[Vendre des vêtements](./Vendre des vêtements.html) |https://en.help.roblox.com/hc/fr/articles/203313180-Vendre-des-v%C3%AAtements
+[Création et Vente de Vêtements](./Création et Vente de Vêtements.html) |https://en.help.roblox.com/hc/fr/articles/203313180-Cr%C3%A9ation-et-Vente-de-V%C3%AAtements
 [Le Système d'Échange](./Le Système d'Échange.html) |https://en.help.roblox.com/hc/fr/articles/203313310-Le-Syst%C3%A8me-d-%C3%89change
 [Tout sur les Objets-cadeaux](./Tout sur les Objets-cadeaux.html) |https://en.help.roblox.com/hc/fr/articles/205630374-Tout-sur-les-Objets-cadeaux
 [Comment puis-je obtenir des articles promotionnels ou de concours ?](./Comment puis-je obtenir des articles promotionnels ou de concours -.html) |https://en.help.roblox.com/hc/fr/articles/203313270-Comment-puis-je-obtenir-des-articles-promotionnels-ou-de-concours
