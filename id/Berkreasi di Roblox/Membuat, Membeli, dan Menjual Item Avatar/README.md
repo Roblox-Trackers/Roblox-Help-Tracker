@@ -8,7 +8,7 @@ Name|URL
 [Apa itu Perlengkapan Virtual?](./Apa itu Perlengkapan Virtual-.html) |https://en.help.roblox.com/hc/id/articles/203313630-Apa-itu-Perlengkapan-Virtual
 [Marketplace](./Marketplace.html) |https://en.help.roblox.com/hc/id/articles/203313300-Marketplace
 [Cara Menjual Items](./Cara Menjual Items.html) |https://en.help.roblox.com/hc/id/articles/203313260-Cara-Menjual-Items
-[Menjual Pakaian](./Menjual Pakaian.html) |https://en.help.roblox.com/hc/id/articles/203313180-Menjual-Pakaian
+[Membuat dan Menjual Pakaian](./Membuat dan Menjual Pakaian.html) |https://en.help.roblox.com/hc/id/articles/203313180-Membuat-dan-Menjual-Pakaian
 [Sistem Perdagangan](./Sistem Perdagangan.html) |https://en.help.roblox.com/hc/id/articles/203313310-Sistem-Perdagangan
 [Semua Informasi Terkait Item Hadiah](./Semua Informasi Terkait Item Hadiah.html) |https://en.help.roblox.com/hc/id/articles/205630374-Semua-Informasi-Terkait-Item-Hadiah
 [Bagaimana Saya Mendapatkan Barang Promosi atau Kontes?](./Bagaimana Saya Mendapatkan Barang Promosi atau Kontes-.html) |https://en.help.roblox.com/hc/id/articles/203313270-Bagaimana-Saya-Mendapatkan-Barang-Promosi-atau-Kontes
