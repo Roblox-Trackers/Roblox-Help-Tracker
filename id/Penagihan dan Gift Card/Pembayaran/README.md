@@ -2,7 +2,7 @@
 ### Articles in this section
 Name|URL
 -|-
-[Menambahkan dan Memperbarui Informasi Pembayaran](./Menambahkan dan Memperbarui Informasi Pembayaran.html) |https://en.help.roblox.com/hc/id/articles/203312560-Menambahkan-dan-Memperbarui-Informasi-Pembayaran
+[Menambah dan Memperbarui Informasi Pembayaran](./Menambah dan Memperbarui Informasi Pembayaran.html) |https://en.help.roblox.com/hc/id/articles/203312560-Menambah-dan-Memperbarui-Informasi-Pembayaran
 [Kartu Kredit Ditolak atau Tagihan Tertunda](./Kartu Kredit Ditolak atau Tagihan Tertunda.html) |https://en.help.roblox.com/hc/id/articles/360000359923-Kartu-Kredit-Ditolak-atau-Tagihan-Tertunda
 [Biaya verifikasi Xsolla (transaksi mikro)](./Biaya verifikasi Xsolla (transaksi mikro).html) |https://en.help.roblox.com/hc/id/articles/360016750311-Biaya-verifikasi-Xsolla-transaksi-mikro
 [Kesalahan Kartu Kredit Prabayar](./Kesalahan Kartu Kredit Prabayar.html) |https://en.help.roblox.com/hc/id/articles/203312680-Kesalahan-Kartu-Kredit-Prabayar
