@@ -31,3 +31,4 @@ Name|URL
 [Roblox 推荐和排名](./Roblox 推荐和排名.html) |https://en.help.roblox.com/hc/zh-cn/articles/21416941036564-Roblox-%E6%8E%A8%E8%8D%90%E5%92%8C%E6%8E%92%E5%90%8D
 [执法机关帮助中心常见问题](./执法机关帮助中心常见问题.html) |https://en.help.roblox.com/hc/zh-cn/articles/11219680442260-%E6%89%A7%E6%B3%95%E6%9C%BA%E5%85%B3%E5%B8%AE%E5%8A%A9%E4%B8%AD%E5%BF%83%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98
 [在视频中使用授权音乐](./在视频中使用授权音乐.html) |https://en.help.roblox.com/hc/zh-cn/articles/360038525351-%E5%9C%A8%E8%A7%86%E9%A2%91%E4%B8%AD%E4%BD%BF%E7%94%A8%E6%8E%88%E6%9D%83%E9%9F%B3%E4%B9%90
+[举报欧盟地区非法内容](./举报欧盟地区非法内容.html) |https://en.help.roblox.com/hc/zh-cn/articles/23607654421524-%E4%B8%BE%E6%8A%A5%E6%AC%A7%E7%9B%9F%E5%9C%B0%E5%8C%BA%E9%9D%9E%E6%B3%95%E5%86%85%E5%AE%B9
