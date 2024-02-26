@@ -10,6 +10,7 @@ Name|URL
 [Adicione a Verificação em 2 Passos à Sua Conta](./Adicione a Verificação em 2 Passos à Sua Conta.html) |https://en.help.roblox.com/hc/pt-br/articles/212459863-Adicione-a-Verifica%C3%A7%C3%A3o-em-2-Passos-%C3%A0-Sua-Conta
 [Solução de Problemas da Verificação de 2 Passos](./Solução de Problemas da Verificação de 2 Passos.html) |https://en.help.roblox.com/hc/pt-br/articles/360000350706-Solu%C3%A7%C3%A3o-de-Problemas-da-Verifica%C3%A7%C3%A3o-de-2-Passos
 [E se alguém adicionou um PIN à minha conta?](./E se alguém adicionou um PIN à minha conta-.html) |https://en.help.roblox.com/hc/pt-br/articles/360031316752-E-se-algu%C3%A9m-adicionou-um-PIN-%C3%A0-minha-conta
+[Gestão de sessões](./Gestão de sessões.html) |https://en.help.roblox.com/hc/pt-br/articles/14482664311060-Gest%C3%A3o-de-sess%C3%B5es
 [Posso compartilhar minha conta?](./Posso compartilhar minha conta-.html) |https://en.help.roblox.com/hc/pt-br/articles/360000236103-Posso-compartilhar-minha-conta
 [Rumores de Hacking e Farsas](./Rumores de Hacking e Farsas.html) |https://en.help.roblox.com/hc/pt-br/articles/360000240346-Rumores-de-Hacking-e-Farsas
 [Por que estou vendo um banner pedindo para alterar minha senha?](./Por que estou vendo um banner pedindo para alterar minha senha-.html) |https://en.help.roblox.com/hc/pt-br/articles/4416940180500-Por-que-estou-vendo-um-banner-pedindo-para-alterar-minha-senha
