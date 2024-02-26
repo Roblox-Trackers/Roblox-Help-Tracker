@@ -31,3 +31,4 @@ Name|URL
 [Rekomendasi dan Peringkat di Roblox](./Rekomendasi dan Peringkat di Roblox.html) |https://en.help.roblox.com/hc/id/articles/21416941036564-Rekomendasi-dan-Peringkat-di-Roblox
 [Pusat Bantuan untuk Penegak Hukum](./Pusat Bantuan untuk Penegak Hukum.html) |https://en.help.roblox.com/hc/id/articles/11219680442260-Pusat-Bantuan-untuk-Penegak-Hukum
 [Menggunakan Musik Berlisensi di Video](./Menggunakan Musik Berlisensi di Video.html) |https://en.help.roblox.com/hc/id/articles/360038525351-Menggunakan-Musik-Berlisensi-di-Video
+[Pelaporan Konten Ilegal di Uni Eropa](./Pelaporan Konten Ilegal di Uni Eropa.html) |https://en.help.roblox.com/hc/id/articles/23607654421524-Pelaporan-Konten-Ilegal-di-Uni-Eropa
