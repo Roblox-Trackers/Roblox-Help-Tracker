@@ -17,7 +17,7 @@ Name|URL
 [¿Cómo cambio el color de mi nombre en una experiencia?](./¿Cómo cambio el color de mi nombre en una experiencia-.html) |https://en.help.roblox.com/hc/es/articles/203314200--C%C3%B3mo-cambio-el-color-de-mi-nombre-en-una-experiencia
 [Como puedo comprar y configurar servidores Privados/VIP](./Como puedo comprar y configurar servidores Privados-VIP.html) |https://en.help.roblox.com/hc/es/articles/205345050-Como-puedo-comprar-y-configurar-servidores-Privados-VIP
 [Los Servidores de Prueba](./Los Servidores de Prueba.html) |https://en.help.roblox.com/hc/es/articles/203314170-Los-Servidores-de-Prueba
-[¿Cómo tomo una captura de pantalla en el sitio de Roblox y en aplicaciones/móviles que no son de Roblox?](./¿Cómo tomo una captura de pantalla en el sitio de Roblox y en aplicaciones-móviles que no son de Roblox-.html) |https://en.help.roblox.com/hc/es/articles/203314160--C%C3%B3mo-Tomo-una-Captura-de-Pantalla
+[¿Cómo tomo una captura de pantalla en el sitio de Roblox y en aplicaciones/móviles que no son de Roblox?](./¿Cómo tomo una captura de pantalla en el sitio de Roblox y en aplicaciones-móviles que no son de Roblox-.html) |https://en.help.roblox.com/hc/es/articles/203314160--C%C3%B3mo-tomo-una-captura-de-pantalla-en-el-sitio-de-Roblox-y-en-aplicaciones-m%C3%B3viles-que-no-son-de-Roblox
 [Cómo Grabar Videos](./Cómo Grabar Videos.html) |https://en.help.roblox.com/hc/es/articles/203314190-C%C3%B3mo-Grabar-Videos
 [Aplicación Roblox Beta](./Aplicación Roblox Beta.html) |https://en.help.roblox.com/hc/es/articles/360054053812-Aplicaci%C3%B3n-Roblox-Beta
 [Calidad de los Gráficos](./Calidad de los Gráficos.html) |https://en.help.roblox.com/hc/es/articles/203314310-Calidad-de-los-Gr%C3%A1ficos
