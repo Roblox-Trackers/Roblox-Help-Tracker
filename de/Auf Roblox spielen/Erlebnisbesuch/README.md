@@ -22,4 +22,4 @@ Name|URL
 [Roblox PC App](./Roblox PC App.html) |https://en.help.roblox.com/hc/de/articles/360054053812-Roblox-PC-App
 [Grafikqualität](./Grafikqualität.html) |https://en.help.roblox.com/hc/de/articles/203314310-Grafikqualit%C3%A4t
 [Lag reduzieren und Spielgeschwindigkeit erhöhen](./Lag reduzieren und Spielgeschwindigkeit erhöhen.html) |https://en.help.roblox.com/hc/de/articles/203314150-Lag-reduzieren-und-Spielgeschwindigkeit-erh%C3%B6hen
-[A|B Tests - Warum gibt es nur für bestimmte Spieler ein neues Feature?](./A-B Tests - Warum gibt es nur für bestimmte Spieler ein neues Feature-.html) |https://en.help.roblox.com/hc/de/articles/203312530-A-B-Tests-Warum-gibt-es-nur-f%C3%BCr-bestimmte-Spieler-ein-neues-Feature
+[A|B Tests - Warum gibt es nur für bestimmte Spieler:innen ein neues Feature?](./A-B Tests - Warum gibt es nur für bestimmte Spieler-innen ein neues Feature-.html) |https://en.help.roblox.com/hc/de/articles/203312530-A-B-Tests-Warum-gibt-es-nur-f%C3%BCr-bestimmte-Spieler-innen-ein-neues-Feature
