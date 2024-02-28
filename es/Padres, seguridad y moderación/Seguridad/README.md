@@ -10,5 +10,5 @@ Name|URL
 [Cómo denunciar Infracciones de las Reglas](./Cómo denunciar Infracciones de las Reglas.html) |https://en.help.roblox.com/hc/es/articles/203312410-C%C3%B3mo-denunciar-Infracciones-de-las-Reglas
 [Cómo desbloquear a un usuario](./Cómo desbloquear a un usuario.html) |https://en.help.roblox.com/hc/es/articles/360033386312-C%C3%B3mo-desbloquear-a-un-usuario
 [Cómo bloquear a otro usuario](./Cómo bloquear a otro usuario.html) |https://en.help.roblox.com/hc/es/articles/203314270-C%C3%B3mo-bloquear-a-otro-usuario
-[Abriendo un reporte en Xbox One](./Abriendo un reporte en Xbox One.html) |https://en.help.roblox.com/hc/es/articles/206210440-Abriendo-un-reporte-en-Xbox-One
+[Aplicación Xbox One: Reportando a otro jugador](./Aplicación Xbox One- Reportando a otro jugador.html) |https://en.help.roblox.com/hc/es/articles/206210440-Aplicaci%C3%B3n-Xbox-One-Reportando-a-otro-jugador
 [Orientación para padres sobre el Centro de talentos](./Orientación para padres sobre el Centro de talentos.html) |https://en.help.roblox.com/hc/es/articles/4404630280980-Orientaci%C3%B3n-para-padres-sobre-el-Centro-de-talentos
