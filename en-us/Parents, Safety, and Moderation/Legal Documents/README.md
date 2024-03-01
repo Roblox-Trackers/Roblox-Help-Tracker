@@ -20,6 +20,7 @@ Name|URL
 [Roblox Facial Animation Privacy Notice](./Roblox Facial Animation Privacy Notice.html) |https://en.help.roblox.com/hc/en-us/articles/8064749848980-Roblox-Facial-Animation-Privacy-Notice
 [Roblox SMS Terms of Service](./Roblox SMS Terms of Service.html) |https://en.help.roblox.com/hc/en-us/articles/9483830673556-Roblox-SMS-Terms-of-Service
 [Rights Manager Terms of Use](./Rights Manager Terms of Use.html) |https://en.help.roblox.com/hc/en-us/articles/21857240911380-Rights-Manager-Terms-of-Use
+[Music Upload License Agreement](./Music Upload License Agreement.html) |https://en.help.roblox.com/hc/en-us/articles/23359485439124-Music-Upload-License-Agreement
 [Content Moderation on Roblox](./Content Moderation on Roblox.html) |https://en.help.roblox.com/hc/en-us/articles/21416271342868-Content-Moderation-on-Roblox
 [CPRA Privacy Policy](./CPRA Privacy Policy.html) |https://en.help.roblox.com/hc/en-us/articles/4402871541140-CPRA-Privacy-Policy
 [Creator Store Terms](./Creator Store Terms.html) |https://en.help.roblox.com/hc/en-us/articles/21308223046932-Creator-Store-Terms
@@ -31,4 +32,3 @@ Name|URL
 [Privacy Policy Addendum for Users in Republic of Korea](./Privacy Policy Addendum for Users in Republic of Korea.html) |https://en.help.roblox.com/hc/en-us/articles/15685139483924-Privacy-Policy-Addendum-for-Users-in-Republic-of-Korea
 [Opt-in Corpus Terms](./Opt-in Corpus Terms.html) |https://en.help.roblox.com/hc/en-us/articles/18922542221076-Opt-in-Corpus-Terms
 [Promo Codes on Roblox](./Promo Codes on Roblox.html) |https://en.help.roblox.com/hc/en-us/articles/10549651908244-Promo-Codes-on-Roblox
-[Recommendations and Ranking on Roblox](./Recommendations and Ranking on Roblox.html) |https://en.help.roblox.com/hc/en-us/articles/21416941036564-Recommendations-and-Ranking-on-Roblox
