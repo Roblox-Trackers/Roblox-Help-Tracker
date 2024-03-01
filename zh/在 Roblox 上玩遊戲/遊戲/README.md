@@ -17,7 +17,7 @@ Name|URL
 [如何在體驗中變更我名字的顏色？](./如何在體驗中變更我名字的顏色？.html) |https://en.help.roblox.com/hc/zh-tw/articles/203314200-%E5%A6%82%E4%BD%95%E5%9C%A8%E9%AB%94%E9%A9%97%E4%B8%AD%E8%AE%8A%E6%9B%B4%E6%88%91%E5%90%8D%E5%AD%97%E7%9A%84%E9%A1%8F%E8%89%B2
 [如何購買和設定 VIP 或私人伺服器？](./如何購買和設定 VIP 或私人伺服器？.html) |https://en.help.roblox.com/hc/zh-tw/articles/205345050-%E5%A6%82%E4%BD%95%E8%B3%BC%E8%B2%B7%E5%92%8C%E8%A8%AD%E5%AE%9A-VIP-%E6%88%96%E7%A7%81%E4%BA%BA%E4%BC%BA%E6%9C%8D%E5%99%A8
 [測試伺服器](./測試伺服器.html) |https://en.help.roblox.com/hc/zh-tw/articles/203314170-%E6%B8%AC%E8%A9%A6%E4%BC%BA%E6%9C%8D%E5%99%A8
-[如何截圖？](./如何截圖？.html) |https://en.help.roblox.com/hc/zh-tw/articles/203314160-%E5%A6%82%E4%BD%95%E6%88%AA%E5%9C%96
+[如何在 Roblox 網站和非 Roblox 應用程式/行動裝置上截取螢幕截圖？](./如何在 Roblox 網站和非 Roblox 應用程式-行動裝置上截取螢幕截圖？.html) |https://en.help.roblox.com/hc/zh-tw/articles/203314160-%E5%A6%82%E4%BD%95%E5%9C%A8-Roblox-%E7%B6%B2%E7%AB%99%E5%92%8C%E9%9D%9E-Roblox-%E6%87%89%E7%94%A8%E7%A8%8B%E5%BC%8F-%E8%A1%8C%E5%8B%95%E8%A3%9D%E7%BD%AE%E4%B8%8A%E6%88%AA%E5%8F%96%E8%9E%A2%E5%B9%95%E6%88%AA%E5%9C%96
 [如何錄製影片](./如何錄製影片.html) |https://en.help.roblox.com/hc/zh-tw/articles/203314190-%E5%A6%82%E4%BD%95%E9%8C%84%E8%A3%BD%E5%BD%B1%E7%89%87
 [Roblox Beta App](./Roblox Beta App.html) |https://en.help.roblox.com/hc/zh-tw/articles/360054053812-Roblox-Beta-App
 [圖像品質](./圖像品質.html) |https://en.help.roblox.com/hc/zh-tw/articles/203314310-%E5%9C%96%E5%83%8F%E5%93%81%E8%B3%AA
