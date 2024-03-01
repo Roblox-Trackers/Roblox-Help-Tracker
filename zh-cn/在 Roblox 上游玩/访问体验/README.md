@@ -17,7 +17,7 @@ Name|URL
 [如何在作品中更改我名字的颜色？](./如何在作品中更改我名字的颜色？.html) |https://en.help.roblox.com/hc/zh-cn/articles/203314200-%E5%A6%82%E4%BD%95%E5%9C%A8%E4%BD%9C%E5%93%81%E4%B8%AD%E6%9B%B4%E6%94%B9%E6%88%91%E5%90%8D%E5%AD%97%E7%9A%84%E9%A2%9C%E8%89%B2
 [如何购买和配置 VIP/私人服务器？](./如何购买和配置 VIP-私人服务器？.html) |https://en.help.roblox.com/hc/zh-cn/articles/205345050-%E5%A6%82%E4%BD%95%E8%B4%AD%E4%B9%B0%E5%92%8C%E9%85%8D%E7%BD%AE-VIP-%E7%A7%81%E4%BA%BA%E6%9C%8D%E5%8A%A1%E5%99%A8
 [测试服务器](./测试服务器.html) |https://en.help.roblox.com/hc/zh-cn/articles/203314170-%E6%B5%8B%E8%AF%95%E6%9C%8D%E5%8A%A1%E5%99%A8
-[如何截图？](./如何截图？.html) |https://en.help.roblox.com/hc/zh-cn/articles/203314160-%E5%A6%82%E4%BD%95%E6%88%AA%E5%9B%BE
+[如何在 Roblox 网站和非 Roblox 应用程序/移动设备上截取屏幕截图？](./如何在 Roblox 网站和非 Roblox 应用程序-移动设备上截取屏幕截图？.html) |https://en.help.roblox.com/hc/zh-cn/articles/203314160-%E5%A6%82%E4%BD%95%E5%9C%A8-Roblox-%E7%BD%91%E7%AB%99%E5%92%8C%E9%9D%9E-Roblox-%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F-%E7%A7%BB%E5%8A%A8%E8%AE%BE%E5%A4%87%E4%B8%8A%E6%88%AA%E5%8F%96%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE
 [如何录制视频](./如何录制视频.html) |https://en.help.roblox.com/hc/zh-cn/articles/203314190-%E5%A6%82%E4%BD%95%E5%BD%95%E5%88%B6%E8%A7%86%E9%A2%91
 [Roblox Beta App](./Roblox Beta App.html) |https://en.help.roblox.com/hc/zh-cn/articles/360054053812-Roblox-Beta-App
 [图像质量](./图像质量.html) |https://en.help.roblox.com/hc/zh-cn/articles/203314310-%E5%9B%BE%E5%83%8F%E8%B4%A8%E9%87%8F

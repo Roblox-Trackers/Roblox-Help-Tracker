@@ -7,7 +7,7 @@ Name|URL
 [学习如何建造作品](./学习如何建造作品.html) |https://en.help.roblox.com/hc/zh-cn/articles/203625344-%E5%AD%A6%E4%B9%A0%E5%A6%82%E4%BD%95%E5%BB%BA%E9%80%A0%E4%BD%9C%E5%93%81
 [Roblox Studio](./Roblox Studio.html) |https://en.help.roblox.com/hc/zh-cn/articles/203313860-Roblox-Studio
 [在 Studio 中测试](./在 Studio 中测试.html) |https://en.help.roblox.com/hc/zh-cn/articles/203313870-%E5%9C%A8-Studio-%E4%B8%AD%E6%B5%8B%E8%AF%95
-[禁止其他人复制你的作品](./禁止其他人复制你的作品.html) |https://en.help.roblox.com/hc/zh-cn/articles/203313940-%E7%A6%81%E6%AD%A2%E5%85%B6%E4%BB%96%E4%BA%BA%E5%A4%8D%E5%88%B6%E4%BD%A0%E7%9A%84%E4%BD%9C%E5%93%81
+[禁止复制您的经验](./禁止复制您的经验.html) |https://en.help.roblox.com/hc/zh-cn/articles/203313940-%E7%A6%81%E6%AD%A2%E5%A4%8D%E5%88%B6%E6%82%A8%E7%9A%84%E7%BB%8F%E9%AA%8C
 [如何发布或上传场景](./如何发布或上传场景.html) |https://en.help.roblox.com/hc/zh-cn/articles/203313890-%E5%A6%82%E4%BD%95%E5%8F%91%E5%B8%83%E6%88%96%E4%B8%8A%E4%BC%A0%E5%9C%BA%E6%99%AF
 [群组体验](./群组体验.html) |https://en.help.roblox.com/hc/zh-cn/articles/203313760-%E7%BE%A4%E7%BB%84%E4%BD%93%E9%AA%8C
 [创作体验并且设为公开](./创作体验并且设为公开.html) |https://en.help.roblox.com/hc/zh-cn/articles/203313950-%E5%88%9B%E4%BD%9C%E4%BD%93%E9%AA%8C%E5%B9%B6%E4%B8%94%E8%AE%BE%E4%B8%BA%E5%85%AC%E5%BC%80
