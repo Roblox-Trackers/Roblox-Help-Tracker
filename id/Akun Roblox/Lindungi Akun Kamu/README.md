@@ -14,4 +14,4 @@ Name|URL
 [Pemberitahuan Keamanan](./Pemberitahuan Keamanan.html) |https://en.help.roblox.com/hc/id/articles/14600116607508-Pemberitahuan-Keamanan
 [Dapatkah saya membagikan akun saya?](./Dapatkah saya membagikan akun saya-.html) |https://en.help.roblox.com/hc/id/articles/360000236103-Dapatkah-saya-membagikan-akun-saya
 [Haking Rumor dan Hoax](./Haking Rumor dan Hoax.html) |https://en.help.roblox.com/hc/id/articles/360000240346-Haking-Rumor-dan-Hoax
-[Mengapa saya melihat spanduk yang meminta saya mengubah kata sandi?](./Mengapa saya melihat spanduk yang meminta saya mengubah kata sandi-.html) |https://en.help.roblox.com/hc/id/articles/4416940180500-Mengapa-saya-melihat-spanduk-yang-meminta-saya-mengubah-kata-sandi
+[Mengapa saya melihat banner yang meminta saya mengubah kata sandi?](./Mengapa saya melihat banner yang meminta saya mengubah kata sandi-.html) |https://en.help.roblox.com/hc/id/articles/4416940180500-Mengapa-saya-melihat-banner-yang-meminta-saya-mengubah-kata-sandi

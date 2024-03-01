@@ -6,4 +6,4 @@ Name|URL
 [Blog Roblox](./Blog Roblox.html) |https://en.help.roblox.com/hc/id/articles/360029134331-Blog-Roblox
 [Bagaimana Saya Menebus Kode Promo?](./Bagaimana Saya Menebus Kode Promo-.html) |https://en.help.roblox.com/hc/id/articles/360029650831-Bagaimana-Saya-Menebus-Kode-Promo
 [Program Bintang Video Roblox](./Program Bintang Video Roblox.html) |https://en.help.roblox.com/hc/id/articles/360026092011-Program-Bintang-Video-Roblox
-[Kode bintang roblox](./Kode bintang roblox.html) |https://en.help.roblox.com/hc/id/articles/360026181292-Kode-bintang-roblox
+[Kode Bintang Roblox](./Kode Bintang Roblox.html) |https://en.help.roblox.com/hc/id/articles/360026181292-Kode-Bintang-Roblox

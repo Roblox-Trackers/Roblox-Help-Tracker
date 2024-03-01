@@ -15,7 +15,7 @@ Name|URL
 [Cara Menyalin Pengalaman](./Cara Menyalin Pengalaman.html) |https://en.help.roblox.com/hc/id/articles/203313900-Cara-Menyalin-Pengalaman
 [Cara Mengembalikan Tempat ke Versi Lama](./Cara Mengembalikan Tempat ke Versi Lama.html) |https://en.help.roblox.com/hc/id/articles/203313850-Cara-Mengembalikan-Tempat-ke-Versi-Lama
 [Bagaimana Cara Membuat Lencana Pengalaman Virtual?](./Bagaimana Cara Membuat Lencana Pengalaman Virtual-.html) |https://en.help.roblox.com/hc/id/articles/203313650-Bagaimana-Cara-Membuat-Lencana-Pengalaman-Virtual
-[Bagaimana Saya Membangun dengan GUI?](./Bagaimana Saya Membangun dengan GUI-.html) |https://en.help.roblox.com/hc/id/articles/203313960-Bagaimana-Saya-Membangun-dengan-GUI
+[Bagaimana Saya Membangun menggunakan GUI?](./Bagaimana Saya Membangun menggunakan GUI-.html) |https://en.help.roblox.com/hc/id/articles/203313960-Bagaimana-Saya-Membangun-menggunakan-GUI
 [Mengonfigurasi Chat Tempat Kamu](./Mengonfigurasi Chat Tempat Kamu.html) |https://en.help.roblox.com/hc/id/articles/360019904552-Mengonfigurasi-Chat-Tempat-Kamu
 [Apakah Paket ini Terinfeksi di Tempat Saya?](./Apakah Paket ini Terinfeksi di Tempat Saya-.html) |https://en.help.roblox.com/hc/id/articles/203312920-Apakah-Paket-ini-Terinfeksi-di-Tempat-Saya
 [Forum Developer Roblox](./Forum Developer Roblox.html) |https://en.help.roblox.com/hc/id/articles/360000240223-Forum-Developer-Roblox

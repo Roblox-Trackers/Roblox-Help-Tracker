@@ -22,4 +22,4 @@ Name|URL
 [Aplikasi PC Roblox](./Aplikasi PC Roblox.html) |https://en.help.roblox.com/hc/id/articles/360054053812-Aplikasi-PC-Roblox
 [Kualitas Grafik](./Kualitas Grafik.html) |https://en.help.roblox.com/hc/id/articles/203314310-Kualitas-Grafik
 [Cara Mengurangi Lag dan Mempercepat Bermain](./Cara Mengurangi Lag dan Mempercepat Bermain.html) |https://en.help.roblox.com/hc/id/articles/203314150-Cara-Mengurangi-Lag-dan-Mempercepat-Bermain
-[Tes A|B - Mengapa Ada Fitur Baru yang Hanya Dapat Dilihat oleh Pemain Tertentu?](./Tes A-B - Mengapa Ada Fitur Baru yang Hanya Dapat Dilihat oleh Pemain Tertentu-.html) |https://en.help.roblox.com/hc/id/articles/203312530-Tes-A-B-Mengapa-Ada-Fitur-Baru-yang-Hanya-Dapat-Dilihat-oleh-Pemain-Tertentu
+[Pengujian A|B - Mengapa Ada Fitur Baru yang Hanya Dapat Dilihat oleh Pemain Tertentu?](./Pengujian A-B - Mengapa Ada Fitur Baru yang Hanya Dapat Dilihat oleh Pemain Tertentu-.html) |https://en.help.roblox.com/hc/id/articles/203312530-Pengujian-A-B-Mengapa-Ada-Fitur-Baru-yang-Hanya-Dapat-Dilihat-oleh-Pemain-Tertentu
