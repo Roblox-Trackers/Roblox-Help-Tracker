@@ -10,5 +10,5 @@ Name|URL
 [Cara Melaporkan Pelanggaran Aturan](./Cara Melaporkan Pelanggaran Aturan.html) |https://en.help.roblox.com/hc/id/articles/203312410-Cara-Melaporkan-Pelanggaran-Aturan
 [Cara Membuka Blokir Pengguna](./Cara Membuka Blokir Pengguna.html) |https://en.help.roblox.com/hc/id/articles/360033386312-Cara-Membuka-Blokir-Pengguna
 [Cara Memblokir Pengguna Lain](./Cara Memblokir Pengguna Lain.html) |https://en.help.roblox.com/hc/id/articles/203314270-Cara-Memblokir-Pengguna-Lain
-[Aplikasi Xbox One: Melaporkan Pemain Lain](./Aplikasi Xbox One- Melaporkan Pemain Lain.html) |https://en.help.roblox.com/hc/id/articles/206210440-Aplikasi-Xbox-One-Melaporkan-Pemain-Lain
+[Aplikasi Xbox One: Melaporkan Pemain Lainnya](./Aplikasi Xbox One- Melaporkan Pemain Lainnya.html) |https://en.help.roblox.com/hc/id/articles/206210440-Aplikasi-Xbox-One-Melaporkan-Pemain-Lainnya
 [Panduan orang tua di Pusat Bakat](./Panduan orang tua di Pusat Bakat.html) |https://en.help.roblox.com/hc/id/articles/4404630280980-Panduan-orang-tua-di-Pusat-Bakat
