@@ -3,7 +3,7 @@
 Name|URL
 -|-
 [Keamanan dan Kesopanan di Roblox](./Keamanan dan Kesopanan di Roblox.html) |https://en.help.roblox.com/hc/id/articles/4407444339348-Keamanan-dan-Kesopanan-di-Roblox
-[Fitur Keamanan: Obrolan, Privasi & Filter](./Fitur Keamanan- Obrolan, Privasi & Filter.html) |https://en.help.roblox.com/hc/id/articles/203313120-Fitur-Keamanan-Obrolan-Privasi-Filter
+[Fitur Keamanan: Obrolan, Privasi & Penyaringan](./Fitur Keamanan- Obrolan, Privasi & Penyaringan.html) |https://en.help.roblox.com/hc/id/articles/203313120-Fitur-Keamanan-Obrolan-Privasi-Penyaringan
 [Panduan untuk Calon Developer Roblox Anda](./Panduan untuk Calon Developer Roblox Anda.html) |https://en.help.roblox.com/hc/id/articles/4438648708756-Panduan-untuk-Calon-Developer-Roblox-Anda
 [Pertanyaan Umum tentang Kode Desain Sesuai Usia](./Pertanyaan Umum tentang Kode Desain Sesuai Usia.html) |https://en.help.roblox.com/hc/id/articles/4406238486676-Pertanyaan-Umum-tentang-Kode-Desain-Sesuai-Usia
 [Bagaimana saya bisa melihat apa yang dilakukan anak saya di Roblox?](./Bagaimana saya bisa melihat apa yang dilakukan anak saya di Roblox-.html) |https://en.help.roblox.com/hc/id/articles/360031384652-Bagaimana-saya-bisa-melihat-apa-yang-dilakukan-anak-saya-di-Roblox
