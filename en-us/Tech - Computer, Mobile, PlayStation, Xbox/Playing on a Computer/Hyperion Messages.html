@@ -1,0 +1,488 @@
+   <h1 class="article-title" id="article-title" title="Hyperion Messages">
+    Hyperion Messages
+   </h1>
+   <div class="article-content">
+    <div class="article-body">
+     <p>
+      This article contains potential Hyperion anti-cheat crash messages that you may see followed by corresponding troubleshooting steps to assist you in resolving their issues.
+     </p>
+     <p>
+     </p>
+     <p class="wysiwyg-indent1">
+      <strong>
+       Crash Type
+      </strong>
+      : Timeout failure
+     </p>
+     <p class="wysiwyg-indent1">
+      <strong>
+       User Message
+      </strong>
+      : Roblox has timed out. Please restart your client.
+     </p>
+     <p class="wysiwyg-indent2">
+      <strong>
+       Troubleshooting Steps
+      </strong>
+      :
+     </p>
+     <p class="wysiwyg-indent2">
+      If you encounter a message saying "Roblox has timed out. Please restart your client," it means that your Roblox client needs to be restarted. If the problem persists despite restarting the client during regular usage,
+      <a href="https://www.roblox.com/support">
+       contact our support team
+      </a>
+      for further assistance.
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <p class="wysiwyg-indent1">
+      <strong>
+       Crash Type
+      </strong>
+      : Virtual machine detected
+     </p>
+     <p class="wysiwyg-indent1">
+      <strong>
+       User Message
+      </strong>
+      : Roblox cannot run inside of a virtual machine.
+     </p>
+     <p class="wysiwyg-indent2">
+      <strong>
+       Troubleshooting Steps
+      </strong>
+      :
+     </p>
+     <p class="wysiwyg-indent2">
+      If you see a message stating “Virtual machine detected,” it means your virtual machine (VM) is not supported by Roblox. Roblox requires GPU passthrough to function properly within a VM. GPU passthrough grants the VM direct access to the physical GPU, bypassing the hypervisor layer. Here's how to enable GPU passthrough:
+     </p>
+     <ol>
+      <li style="list-style-type: none;">
+       <ol>
+        <li style="list-style-type: none;">
+         <ol>
+          <li class="wysiwyg-indent3">
+           Confirm that your hardware supports GPU passthrough.
+          </li>
+          <li class="wysiwyg-indent3">
+           Update your BIOS/UEFI settings to enable virtualization extensions (e.g., Intel VT-x or AMD-V).
+          </li>
+          <li class="wysiwyg-indent3">
+           Configure GPU passthrough within your VM software.
+          </li>
+         </ol>
+        </li>
+       </ol>
+      </li>
+     </ol>
+     <p class="wysiwyg-indent2">
+      Following these steps ensures that Roblox runs smoothly within a virtualized environment, providing the necessary access to GPU resources.
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <p class="wysiwyg-indent1">
+      <strong>
+       Crash Type
+      </strong>
+      : Badware detected
+     </p>
+     <p class="wysiwyg-indent1">
+      <strong>
+       User Message
+      </strong>
+      : Roblox has crashed due to incompatible software: &lt;path to offending software&gt;
+     </p>
+     <p class="wysiwyg-indent2">
+      <strong>
+       Troubleshooting Steps
+      </strong>
+      :
+     </p>
+     <p class="wysiwyg-indent2">
+      If you see a message stating "Roblox has crashed due to incompatible software:" followed by a path to the offending software, it means that the software mentioned in the displayed file path is causing problems with Roblox. To fix this, you'll need to prevent that software from running while using Roblox. You can do this manually by shutting down the software, or you can perform a clean boot in Windows. This method ensures that only necessary software is active on your system, minimizing conflicts.
+      <a href="https://support.microsoft.com/en-us/topic/how-to-perform-a-clean-boot-in-windows-da2f9573-6eec-00ad-2f8a-a97a1807f3dd">
+       Here's how to complete a clean boot, as recommended by Windows
+      </a>
+      :
+     </p>
+     <ol>
+      <li style="list-style-type: none;">
+       <ol>
+        <li style="list-style-type: none;">
+         <ol>
+          <li class="wysiwyg-indent3">
+           Press the "Windows key + R" to open the Run dialog.
+          </li>
+          <li class="wysiwyg-indent3">
+           Type "msconfig" and press Enter.
+          </li>
+          <li class="wysiwyg-indent3">
+           In the System Configuration window, go to the "Services" tab.
+          </li>
+          <li class="wysiwyg-indent3">
+           Check the box labeled "Hide all Microsoft services."
+          </li>
+          <li class="wysiwyg-indent3">
+           Click "Disable all."
+          </li>
+          <li class="wysiwyg-indent3">
+           Switch to the "Startup" tab.
+          </li>
+          <li class="wysiwyg-indent3">
+           Click "Open Task Manager."
+          </li>
+          <li class="wysiwyg-indent3">
+           Disable all startup items.
+          </li>
+          <li class="wysiwyg-indent3">
+           Close Task Manager and System Configuration.
+          </li>
+          <li class="wysiwyg-indent3">
+           Restart your computer.
+          </li>
+         </ol>
+        </li>
+       </ol>
+      </li>
+     </ol>
+     <p class="wysiwyg-indent2">
+      Completing these steps will help ensure that no other software interferes with Roblox, allowing it to run smoothly without crashing.
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <p class="wysiwyg-indent1">
+      <strong>
+       Crash Type
+      </strong>
+      : Process suspended
+     </p>
+     <p class="wysiwyg-indent1">
+      <strong>
+       User Message
+      </strong>
+      : Roblox was stopped. Please ensure third-party software does not interfere with Roblox.
+     </p>
+     <p class="wysiwyg-indent2">
+      <strong>
+       Troubleshooting Steps
+      </strong>
+      :
+     </p>
+     <p class="wysiwyg-indent2">
+      If you encounter a message saying "Roblox was stopped. Please ensure third-party software does not interfere with Roblox.", it means some other software on your computer is causing issues with Roblox. To solve this problem, you need to shut down all other software while using Roblox. The best way to do this is by performing a clean boot in Windows, which ensures that only essential software is running on your system.
+      <a href="https://support.microsoft.com/en-us/topic/how-to-perform-a-clean-boot-in-windows-da2f9573-6eec-00ad-2f8a-a97a1807f3dd">
+       Here's how to complete a clean boot, as recommended by Windows
+      </a>
+      :
+     </p>
+     <ol>
+      <li style="list-style-type: none;">
+       <ol>
+        <li style="list-style-type: none;">
+         <ol>
+          <li class="wysiwyg-indent3">
+           Press the "Windows key + R" to open the Run dialog.
+          </li>
+          <li class="wysiwyg-indent3">
+           Type "msconfig" and press Enter.
+          </li>
+          <li class="wysiwyg-indent3">
+           In the System Configuration window, go to the "Services" tab.
+          </li>
+          <li class="wysiwyg-indent3">
+           Check the box labeled "Hide all Microsoft services."
+          </li>
+          <li class="wysiwyg-indent3">
+           Click "Disable all."
+          </li>
+          <li class="wysiwyg-indent3">
+           Switch to the "Startup" tab.
+          </li>
+          <li class="wysiwyg-indent3">
+           Click "Open Task Manager."
+          </li>
+          <li class="wysiwyg-indent3">
+           Disable all startup items.
+          </li>
+          <li class="wysiwyg-indent3">
+           Close Task Manager and System Configuration.
+          </li>
+          <li class="wysiwyg-indent3">
+           Restart your computer.
+          </li>
+         </ol>
+        </li>
+       </ol>
+      </li>
+     </ol>
+     <p class="wysiwyg-indent2">
+      Completing these steps will help ensure that no other software interferes with Roblox, allowing it to run smoothly without crashing.
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <p class="wysiwyg-indent1">
+      <strong>
+       Crash Type
+      </strong>
+      : Boot integrity compromised
+     </p>
+     <p class="wysiwyg-indent1">
+      <strong>
+       User Message
+      </strong>
+      : Critical system files are corrupt. Roblox cannot run. Please repair or reset your Windows installation.
+     </p>
+     <p class="wysiwyg-indent2">
+      <strong>
+       Troubleshooting Steps
+      </strong>
+      :
+     </p>
+     <p class="wysiwyg-indent2">
+      Roblox does not function properly when Windows is set in debug mode. To use Roblox, ensure that Windows is running normally.
+      <a href="https://learn.microsoft.com/en-us/troubleshoot/windows-server/performance/enable-debug-mode-causes-hang">
+       Follow these steps to verify and disable debug mode in Windows
+      </a>
+      .
+     </p>
+     <ol>
+      <li style="list-style-type: none;">
+       <ol>
+        <li style="list-style-type: none;">
+         <ol>
+          <li class="wysiwyg-indent3">
+           Press the "Windows Key+R" to open Run box.
+          </li>
+          <li class="wysiwyg-indent3">
+           Type "msconfig" and press Enter.
+          </li>
+          <li class="wysiwyg-indent3">
+           Select "Boot tab" and then select Advanced options.
+          </li>
+          <li class="wysiwyg-indent3">
+           Uncheck the Debug check box.
+          </li>
+          <li class="wysiwyg-indent3">
+           Select "OK".
+          </li>
+          <li class="wysiwyg-indent3">
+           Select Apply and then "OK".
+          </li>
+          <li class="wysiwyg-indent3">
+           Restart the computer.
+          </li>
+         </ol>
+        </li>
+       </ol>
+      </li>
+     </ol>
+     <p class="wysiwyg-indent2">
+      These steps will ensure that Windows is not running in debug mode, allowing you to use Roblox without any issues.
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <p class="wysiwyg-indent1">
+      <strong>
+       Crash Type
+      </strong>
+      : Blocked image
+     </p>
+     <p class="wysiwyg-indent1">
+      <strong>
+       User Message
+      </strong>
+      : Roblox has crashed due to incompatible software: &lt;path to offending software&gt;
+     </p>
+     <p class="wysiwyg-indent2">
+      <strong>
+       Troubleshooting Steps
+      </strong>
+      :
+     </p>
+     <p class="wysiwyg-indent2">
+      If you see a message stating "Roblox has crashed due to incompatible software," followed by a path to the offending software, it means that the software mentioned in the displayed file path is causing problems with Roblox. To fix this, you'll need to prevent that software from running while using Roblox. You can do this manually by shutting down the software, or you can perform a clean boot in Windows. This method ensures that only necessary software is active on your system, minimizing conflicts.
+      <a href="https://support.microsoft.com/en-us/topic/how-to-perform-a-clean-boot-in-windows-da2f9573-6eec-00ad-2f8a-a97a1807f3dd">
+       Here's how to complete a clean boot, as recommended by Window
+      </a>
+      s:
+     </p>
+     <ol>
+      <li style="list-style-type: none;">
+       <ol>
+        <li style="list-style-type: none;">
+         <ol>
+          <li class="wysiwyg-indent3">
+           Press the "Windows key + R" to open the Run dialog.
+          </li>
+          <li class="wysiwyg-indent3">
+           Type "msconfig" and press Enter.
+          </li>
+          <li class="wysiwyg-indent3">
+           In the System Configuration window, go to the "Services" tab.
+          </li>
+          <li class="wysiwyg-indent3">
+           Check the box labeled "Hide all Microsoft services."
+          </li>
+          <li class="wysiwyg-indent3">
+           Click "Disable all."
+          </li>
+          <li class="wysiwyg-indent3">
+           Switch to the "Startup" tab.
+          </li>
+          <li class="wysiwyg-indent3">
+           Click "Open Task Manager."
+          </li>
+          <li class="wysiwyg-indent3">
+           Disable all startup items.
+          </li>
+          <li class="wysiwyg-indent3">
+           Close Task Manager and System Configuration.
+          </li>
+          <li class="wysiwyg-indent3">
+           Restart your computer.
+          </li>
+         </ol>
+        </li>
+       </ol>
+      </li>
+     </ol>
+     <p class="wysiwyg-indent2">
+      Completing these steps will help ensure that no other software interferes with Roblox, allowing it to run smoothly without crashing.
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <p class="wysiwyg-indent1">
+      <strong>
+       Crash Type
+      </strong>
+      : (OBS) Open Broadcaster Software
+     </p>
+     <p class="wysiwyg-indent1">
+      <strong>
+       User Message
+      </strong>
+      : OBS in-game capture is known to have issues with Roblox. Please use window or desktop capture instead.
+     </p>
+     <p class="wysiwyg-indent2">
+      <strong>
+       Troubleshooting Steps
+      </strong>
+      :
+     </p>
+     <p class="wysiwyg-indent2">
+      If you receive a message stating, "OBS in-game capture is known to have issues with Roblox," it means that Roblox doesn't support the in-game capture feature of Open Broadcaster Software (OBS). To stream or record Roblox, you'll need to use window or desktop capture mode instead.
+      <a href="https://obsproject.com/kb/display-capture-sources">
+       Follow these instructions to set up desktop capture
+      </a>
+      :
+     </p>
+     <ol>
+      <li style="list-style-type: none;">
+       <ol>
+        <li style="list-style-type: none;">
+         <ol>
+          <li class="wysiwyg-indent3">
+           Open Open Broadcaster Software (OBS).
+          </li>
+          <li class="wysiwyg-indent3">
+           In the "Sources" section, click on the "+" icon.
+          </li>
+          <li class="wysiwyg-indent3">
+           Select "Display Capture" from the menu.
+          </li>
+          <li class="wysiwyg-indent3">
+           Choose the display you want to capture (usually your primary monitor).
+          </li>
+          <li class="wysiwyg-indent3">
+           Adjust settings such as resolution and frame rate as needed.
+          </li>
+          <li class="wysiwyg-indent3">
+           Click "OK" to confirm the display capture source.
+          </li>
+          <li class="wysiwyg-indent3">
+           Arrange the display capture source as desired in your OBS scene.
+          </li>
+          <li class="wysiwyg-indent3">
+           Start streaming or recording as usual.
+          </li>
+         </ol>
+        </li>
+       </ol>
+      </li>
+     </ol>
+     <p class="wysiwyg-indent2">
+      By using desktop capture mode, you can effectively stream or record Roblox without encountering compatibility issues with OBS's in-game capture feature.
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <p class="wysiwyg-indent1">
+      <strong>
+       Crash Type
+      </strong>
+      : Third party software interaction
+     </p>
+     <p class="wysiwyg-indent1">
+      <strong>
+       User Message
+      </strong>
+      : Roblox has crashed due to third-party software. Please perform a Windows clean boot.
+     </p>
+     <p class="wysiwyg-indent2">
+      <strong>
+       Troubleshooting Steps
+      </strong>
+      :
+     </p>
+     <p class="wysiwyg-indent2">
+      If you encounter a message saying "Roblox has crashed due to third-party software," it means some other software on your computer is causing issues with Roblox. To solve this problem, you need to shut down all other software while using Roblox. The best way to do this is by performing a clean boot in Windows, which ensures that only essential software is running on your system.
+      <a href="https://support.microsoft.com/en-us/topic/how-to-perform-a-clean-boot-in-windows-da2f9573-6eec-00ad-2f8a-a97a1807f3dd">
+       Here's how to complete a clean boot, as recommended by Windows
+      </a>
+      :
+     </p>
+     <ol>
+      <li style="list-style-type: none;">
+       <ol>
+        <li style="list-style-type: none;">
+         <ol>
+          <li class="wysiwyg-indent3">
+           Press the "Windows key + R" to open the Run dialog.
+          </li>
+          <li class="wysiwyg-indent3">
+           Type "msconfig" and press Enter.
+          </li>
+          <li class="wysiwyg-indent3">
+           In the System Configuration window, go to the "Services" tab.
+          </li>
+          <li class="wysiwyg-indent3">
+           Check the box labeled "Hide all Microsoft services."
+          </li>
+          <li class="wysiwyg-indent3">
+           Click "Disable all."
+          </li>
+          <li class="wysiwyg-indent3">
+           Switch to the "Startup" tab.
+          </li>
+          <li class="wysiwyg-indent3">
+           Click "Open Task Manager."
+          </li>
+          <li class="wysiwyg-indent3">
+           Disable all startup items.
+          </li>
+          <li class="wysiwyg-indent3">
+           Close Task Manager and System Configuration.
+          </li>
+          <li class="wysiwyg-indent3">
+           Restart your computer.
+          </li>
+         </ol>
+        </li>
+       </ol>
+      </li>
+     </ol>
+     <p class="wysiwyg-indent2">
+      Completing these steps will help ensure that no other software interferes with Roblox, allowing it to run smoothly without crashing.
+     </p>
+    </div>
+    <!--           Add content tags to articles and posts -->
+   </div>
