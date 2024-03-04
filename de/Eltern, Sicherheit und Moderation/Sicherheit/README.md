@@ -10,5 +10,5 @@ Name|URL
 [Wie man Regelverstöße melden kann](./Wie man Regelverstöße melden kann.html) |https://en.help.roblox.com/hc/de/articles/203312410-Wie-man-Regelverst%C3%B6%C3%9Fe-melden-kann
 [Wie man einen Benutzer entsperrt](./Wie man einen Benutzer entsperrt.html) |https://en.help.roblox.com/hc/de/articles/360033386312-Wie-man-einen-Benutzer-entsperrt
 [Wie man andere Benutzer:innen blockiert](./Wie man andere Benutzer-innen blockiert.html) |https://en.help.roblox.com/hc/de/articles/203314270-Wie-man-andere-Benutzer-innen-blockiert
-[Xbox One App: Melden eine(n) andere(n) Spieler:in](./Xbox One App- Melden eine(n) andere(n) Spieler-in.html) |https://en.help.roblox.com/hc/de/articles/206210440-Xbox-One-App-Melden-eine-n-andere-n-Spieler-in
+[Xbox One App: Einen anderen Spieler melden](./Xbox One App- Einen anderen Spieler melden.html) |https://en.help.roblox.com/hc/de/articles/206210440-Xbox-One-App-Einen-anderen-Spieler-melden
 [Elternratgeber zum Talent Hub](./Elternratgeber zum Talent Hub.html) |https://en.help.roblox.com/hc/de/articles/4404630280980-Elternratgeber-zum-Talent-Hub
