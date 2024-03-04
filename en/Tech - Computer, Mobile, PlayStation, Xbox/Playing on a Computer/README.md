@@ -18,3 +18,4 @@ Name|URL
 [What to Do If Your Anti-virus Has Flagged Roblox](./What to Do If Your Anti-virus Has Flagged Roblox.html) |https://en.help.roblox.com/hc/en-us/articles/203313030-What-to-Do-If-Your-Anti-virus-Has-Flagged-Roblox
 [Clock Reset or Failed to get URL: Httpsendrequest failed,err=0x2f05](./Clock Reset or Failed to get URL- Httpsendrequest failed,err=0x2f05.html) |https://en.help.roblox.com/hc/en-us/articles/203312830-Clock-Reset-or-Failed-to-get-URL-Httpsendrequest-failed-err-0x2f05
 [Troubleshooting Education Networks](./Troubleshooting Education Networks.html) |https://en.help.roblox.com/hc/en-us/articles/115005744663-Troubleshooting-Education-Networks
+[Hyperion Messages](./Hyperion Messages.html) |https://en.help.roblox.com/hc/en-us/articles/24275616578708-Hyperion-Messages
