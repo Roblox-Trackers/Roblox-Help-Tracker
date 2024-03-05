@@ -4,7 +4,7 @@ Name|URL
 -|-
 [La Boutique des Créateurs](./La Boutique des Créateurs.html) |https://en.help.roblox.com/hc/fr/articles/206580683-La-Boutique-des-Cr%C3%A9ateurs
 [Comment rendre quelque chose public ?](./Comment rendre quelque chose public -.html) |https://en.help.roblox.com/hc/fr/articles/203313230-Comment-rendre-quelque-chose-public
-[Comment modifier un modèle 3D/Puis-je vendre le modèle 3D dans le catalogue ?](./Comment modifier un modèle 3D-Puis-je vendre le modèle 3D dans le catalogue -.html) |https://en.help.roblox.com/hc/fr/articles/203313250-Comment-modifier-un-mod%C3%A8le-3D-Puis-je-vendre-le-mod%C3%A8le-3D-dans-le-catalogue
+[Comment puis-je modifier ou vendre un modèle 3D sur l'Avatar Marketplace ?](./Comment puis-je modifier ou vendre un modèle 3D sur l'Avatar Marketplace -.html) |https://en.help.roblox.com/hc/fr/articles/203313250-Comment-puis-je-modifier-ou-vendre-un-mod%C3%A8le-3D-sur-l-Avatar-Marketplace
 [Comment faire des décals](./Comment faire des décals.html) |https://en.help.roblox.com/hc/fr/articles/203313930-Comment-faire-des-d%C3%A9cals
 [Comment créer un package](./Comment créer un package.html) |https://en.help.roblox.com/hc/fr/articles/203313910-Comment-cr%C3%A9er-un-package
 [Fichiers audio](./Fichiers audio.html) |https://en.help.roblox.com/hc/fr/articles/203314070-Fichiers-audio
