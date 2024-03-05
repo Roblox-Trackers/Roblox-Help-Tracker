@@ -17,7 +17,7 @@ Name|URL
 [Bagaimana Cara Mengubah Warna Nama Saya dalam Pengalaman?](./Bagaimana Cara Mengubah Warna Nama Saya dalam Pengalaman-.html) |https://en.help.roblox.com/hc/id/articles/203314200-Bagaimana-Cara-Mengubah-Warna-Nama-Saya-dalam-Pengalaman
 [Bagaimana cara Membeli dan Mengonfigurasi Server Pribadi/VIP?](./Bagaimana cara Membeli dan Mengonfigurasi Server Pribadi-VIP-.html) |https://en.help.roblox.com/hc/id/articles/205345050-Bagaimana-cara-Membeli-dan-Mengonfigurasi-Server-Pribadi-VIP
 [Server Uji](./Server Uji.html) |https://en.help.roblox.com/hc/id/articles/203314170-Server-Uji
-[Bagaimana Cara Mengambil Tangkapan Layar?](./Bagaimana Cara Mengambil Tangkapan Layar-.html) |https://en.help.roblox.com/hc/id/articles/203314160-Bagaimana-Cara-Mengambil-Tangkapan-Layar
+[Bagaimana Cara Mengambil Tangkapan Layar di Situs Roblox dan di Aplikasi/Seluler Non-Roblox?](./Bagaimana Cara Mengambil Tangkapan Layar di Situs Roblox dan di Aplikasi-Seluler Non-Roblox-.html) |https://en.help.roblox.com/hc/id/articles/203314160-Bagaimana-Cara-Mengambil-Tangkapan-Layar-di-Situs-Roblox-dan-di-Aplikasi-Seluler-Non-Roblox
 [Cara Merekam Video](./Cara Merekam Video.html) |https://en.help.roblox.com/hc/id/articles/203314190-Cara-Merekam-Video
 [Aplikasi PC Roblox](./Aplikasi PC Roblox.html) |https://en.help.roblox.com/hc/id/articles/360054053812-Aplikasi-PC-Roblox
 [Kualitas Grafik](./Kualitas Grafik.html) |https://en.help.roblox.com/hc/id/articles/203314310-Kualitas-Grafik
