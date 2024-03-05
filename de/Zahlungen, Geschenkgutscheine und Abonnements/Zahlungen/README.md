@@ -8,5 +8,5 @@ Name|URL
 [Fehler mit Prepaid-Kreditkarten](./Fehler mit Prepaid-Kreditkarten.html) |https://en.help.roblox.com/hc/de/articles/203312680-Fehler-mit-Prepaid-Kreditkarten
 [Zahlungen über iTunes, Google Play und Amazon](./Zahlungen über iTunes, Google Play und Amazon.html) |https://en.help.roblox.com/hc/de/articles/203312760-Zahlungen-%C3%BCber-iTunes-Google-Play-und-Amazon
 [Apple Store und iTunes - Aktivieren und Deaktivieren von Einkäufen](./Apple Store und iTunes - Aktivieren und Deaktivieren von Einkäufen.html) |https://en.help.roblox.com/hc/de/articles/360029554512-Apple-Store-und-iTunes-Aktivieren-und-Deaktivieren-von-Eink%C3%A4ufen
-[Wie überschreite ich die Ausgabenobergrenze?](./Wie überschreite ich die Ausgabenobergrenze-.html) |https://en.help.roblox.com/hc/de/articles/203312670-Wie-%C3%BCberschreite-ich-die-Ausgabenobergrenze
+[Wie überschreite ich das Einkaufslimit?](./Wie überschreite ich das Einkaufslimit-.html) |https://en.help.roblox.com/hc/de/articles/203312670-Wie-%C3%BCberschreite-ich-das-Einkaufslimit
 [Wird meine Zahlungsinformation sicher sein?](./Wird meine Zahlungsinformation sicher sein-.html) |https://en.help.roblox.com/hc/de/articles/203312590-Wird-meine-Zahlungsinformation-sicher-sein
