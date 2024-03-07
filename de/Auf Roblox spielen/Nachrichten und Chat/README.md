@@ -3,7 +3,7 @@
 Name|URL
 -|-
 [Wie man Nachrichten an andere Spieler:innen sendet](./Wie man Nachrichten an andere Spieler-innen sendet.html) |https://en.help.roblox.com/hc/de/articles/203313610-Wie-man-Nachrichten-an-andere-Spieler-innen-sendet
-[Mit Freunden chatten und spielen](./Mit Freunden chatten und spielen.html) |https://en.help.roblox.com/hc/de/articles/206224956-Mit-Freunden-chatten-und-spielen
+[Mit Freund:innen chatten und spielen](./Mit Freund-innen chatten und spielen.html) |https://en.help.roblox.com/hc/de/articles/206224956-Mit-Freund-innen-chatten-und-spielen
 [Mobil: Mit Freunden chatten und spielen](./Mobil- Mit Freunden chatten und spielen.html) |https://en.help.roblox.com/hc/de/articles/360000432483-Mobil-Mit-Freunden-chatten-und-spielen
 [Wie man in Erlebnisse chattet](./Wie man in Erlebnisse chattet.html) |https://en.help.roblox.com/hc/de/articles/203314250-Wie-man-in-Erlebnisse-chattet
 [Mobile Geräte: Wie man in einem Erlebnis chattet](./Mobile Geräte- Wie man in einem Erlebnis chattet.html) |https://en.help.roblox.com/hc/de/articles/203313520-Mobile-Ger%C3%A4te-Wie-man-in-einem-Erlebnis-chattet
