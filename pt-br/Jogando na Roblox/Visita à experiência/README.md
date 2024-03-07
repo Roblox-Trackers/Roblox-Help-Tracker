@@ -17,7 +17,7 @@ Name|URL
 [Como Altero a Cor do Meu Nome em uma Experiência?](./Como Altero a Cor do Meu Nome em uma Experiência-.html) |https://en.help.roblox.com/hc/pt-br/articles/203314200-Como-Altero-a-Cor-do-Meu-Nome-em-uma-Experi%C3%AAncia
 [Como Comprar e Configurar Servidores Privados?](./Como Comprar e Configurar Servidores Privados-.html) |https://en.help.roblox.com/hc/pt-br/articles/205345050-Como-Comprar-e-Configurar-Servidores-Privados
 [Testes de Servidor](./Testes de Servidor.html) |https://en.help.roblox.com/hc/pt-br/articles/203314170-Testes-de-Servidor
-[Como Tiro Uma Captura de Tela?](./Como Tiro Uma Captura de Tela-.html) |https://en.help.roblox.com/hc/pt-br/articles/203314160-Como-Tiro-Uma-Captura-de-Tela
+[Como faço para tirar uma captura de tela no site do Roblox e em aplicativos/móveis que não sejam do Roblox?](./Como faço para tirar uma captura de tela no site do Roblox e em aplicativos-móveis que não sejam do Roblox-.html) |https://en.help.roblox.com/hc/pt-br/articles/203314160-Como-fa%C3%A7o-para-tirar-uma-captura-de-tela-no-site-do-Roblox-e-em-aplicativos-m%C3%B3veis-que-n%C3%A3o-sejam-do-Roblox
 [Como Gravar Vídeos](./Como Gravar Vídeos.html) |https://en.help.roblox.com/hc/pt-br/articles/203314190-Como-Gravar-V%C3%ADdeos
 [Aplicativo Roblox Beta](./Aplicativo Roblox Beta.html) |https://en.help.roblox.com/hc/pt-br/articles/360054053812-Aplicativo-Roblox-Beta
 [Qualidade Gráfica](./Qualidade Gráfica.html) |https://en.help.roblox.com/hc/pt-br/articles/203314310-Qualidade-Gr%C3%A1fica

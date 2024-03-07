@@ -9,5 +9,5 @@ Name|URL
 [Assinatura Premium](./Assinatura Premium.html) |https://en.help.roblox.com/hc/pt-br/articles/360024256251-Assinatura-Premium
 [Posso transferir minha assinatura para outra conta da Roblox?](./Posso transferir minha assinatura para outra conta da Roblox-.html) |https://en.help.roblox.com/hc/pt-br/articles/203312640-Posso-transferir-minha-assinatura-para-outra-conta-da-Roblox
 [Os Botões da Assinatura Estão Cinza](./Os Botões da Assinatura Estão Cinza.html) |https://en.help.roblox.com/hc/pt-br/articles/203312690-Os-Bot%C3%B5es-da-Assinatura-Est%C3%A3o-Cinza
-[Minha assinatura será renovada automaticamente?](./Minha assinatura será renovada automaticamente-.html) |https://en.help.roblox.com/hc/pt-br/articles/203312630-Minha-assinatura-ser%C3%A1-renovada-automaticamente
+[Minha assinatura premium será renovada automaticamente?](./Minha assinatura premium será renovada automaticamente-.html) |https://en.help.roblox.com/hc/pt-br/articles/203312630-Minha-assinatura-premium-ser%C3%A1-renovada-automaticamente
 [Aumentando ou Diminuindo a Assinatura](./Aumentando ou Diminuindo a Assinatura.html) |https://en.help.roblox.com/hc/pt-br/articles/203312750-Aumentando-ou-Diminuindo-a-Assinatura
