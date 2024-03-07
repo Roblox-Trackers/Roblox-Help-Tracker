@@ -2,7 +2,7 @@
 ### Articles in this section
 Name|URL
 -|-
-[Saya Lupa Kata Sandi](./Saya Lupa Kata Sandi.html) |https://en.help.roblox.com/hc/id/articles/203313070-Saya-Lupa-Kata-Sandi
+[Saya Lupa Password](./Saya Lupa Password.html) |https://en.help.roblox.com/hc/id/articles/203313070-Saya-Lupa-Password
 [Beralih Akun](./Beralih Akun.html) |https://en.help.roblox.com/hc/id/articles/21037888001044-Beralih-Akun
 [Saya Lupa Nama Pengguna Saya](./Saya Lupa Nama Pengguna Saya.html) |https://en.help.roblox.com/hc/id/articles/360028719931-Saya-Lupa-Nama-Pengguna-Saya
 [Log In dengan Passkey](./Log In dengan Passkey.html) |https://en.help.roblox.com/hc/id/articles/20669991483156-Log-In-dengan-Passkey
