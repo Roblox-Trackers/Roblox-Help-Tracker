@@ -6,7 +6,7 @@ Name|URL
 [Cara Mengubah Usia Saya](./Cara Mengubah Usia Saya.html) |https://en.help.roblox.com/hc/id/articles/360031323611-Cara-Mengubah-Usia-Saya
 [Bagaimana Saya Menambah, Mengubah, atau Menghapus PIN?](./Bagaimana Saya Menambah, Mengubah, atau Menghapus PIN-.html) |https://en.help.roblox.com/hc/id/articles/360031680051-Bagaimana-Saya-Menambah-Mengubah-atau-Menghapus-PIN
 [Mengubah Pengaturan Privasi dan Obrolan](./Mengubah Pengaturan Privasi dan Obrolan.html) |https://en.help.roblox.com/hc/id/articles/360031751471-Mengubah-Pengaturan-Privasi-dan-Obrolan
-[Bagaimana cara mengubah kata sandi saya?](./Bagaimana cara mengubah kata sandi saya-.html) |https://en.help.roblox.com/hc/id/articles/203313100-Bagaimana-cara-mengubah-kata-sandi-saya
+[Bagaimana cara mengubah password saya?](./Bagaimana cara mengubah password saya-.html) |https://en.help.roblox.com/hc/id/articles/203313100-Bagaimana-cara-mengubah-password-saya
 [Bagaimana cara menghapus akun saya?](./Bagaimana cara menghapus akun saya-.html) |https://en.help.roblox.com/hc/id/articles/203313050-Bagaimana-cara-menghapus-akun-saya
 [Bagaimana Cara Mengubah Email Akun Saya?](./Bagaimana Cara Mengubah Email Akun Saya-.html) |https://en.help.roblox.com/hc/id/articles/360000229603-Bagaimana-Cara-Mengubah-Email-Akun-Saya
 [Bagaimana cara menambah atau mengubah nomor telepon saya?](./Bagaimana cara menambah atau mengubah nomor telepon saya-.html) |https://en.help.roblox.com/hc/id/articles/115004804623-Bagaimana-cara-menambah-atau-mengubah-nomor-telepon-saya
