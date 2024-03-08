@@ -9,5 +9,5 @@ Name|URL
 [Abonnement Premium](./Abonnement Premium.html) |https://en.help.roblox.com/hc/fr/articles/360024256251-Abonnement-Premium
 [Puis-je transférer mon adhésion sur un autre compte Roblox ?](./Puis-je transférer mon adhésion sur un autre compte Roblox -.html) |https://en.help.roblox.com/hc/fr/articles/203312640-Puis-je-transf%C3%A9rer-mon-adh%C3%A9sion-sur-un-autre-compte-Roblox
 [Les Boutons de l'Adhésion sont Grisés](./Les Boutons de l'Adhésion sont Grisés.html) |https://en.help.roblox.com/hc/fr/articles/203312690-Les-Boutons-de-l-Adh%C3%A9sion-sont-Gris%C3%A9s
-[Est-ce que mon adhésion sera renouvelée automatiquement ?](./Est-ce que mon adhésion sera renouvelée automatiquement -.html) |https://en.help.roblox.com/hc/fr/articles/203312630-Est-ce-que-mon-adh%C3%A9sion-sera-renouvel%C3%A9e-automatiquement
+[Mon abonnement Premium sera-t-il automatiquement renouvelé ?](./Mon abonnement Premium sera-t-il automatiquement renouvelé -.html) |https://en.help.roblox.com/hc/fr/articles/203312630-Mon-abonnement-Premium-sera-t-il-automatiquement-renouvel%C3%A9
 [Mettre à niveau ou rétrograder l'adhésion](./Mettre à niveau ou rétrograder l'adhésion.html) |https://en.help.roblox.com/hc/fr/articles/203312750-Mettre-%C3%A0-niveau-ou-r%C3%A9trograder-l-adh%C3%A9sion

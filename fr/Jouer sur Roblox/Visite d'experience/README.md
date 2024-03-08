@@ -17,7 +17,7 @@ Name|URL
 [Comment puis-je changer la couleur de mon nom dans une expérience ?](./Comment puis-je changer la couleur de mon nom dans une expérience -.html) |https://en.help.roblox.com/hc/fr/articles/203314200-Comment-puis-je-changer-la-couleur-de-mon-nom-dans-une-exp%C3%A9rience
 [Comment acheter et configurer des Serveurs Privés/VIP ?](./Comment acheter et configurer des Serveurs Privés-VIP -.html) |https://en.help.roblox.com/hc/fr/articles/205345050-Comment-acheter-et-configurer-des-Serveurs-Priv%C3%A9s-VIP
 [Les serveurs de test](./Les serveurs de test.html) |https://en.help.roblox.com/hc/fr/articles/203314170-Les-serveurs-de-test
-[Comment Faire une Capture d’Écran ?](./Comment Faire une Capture d’Écran -.html) |https://en.help.roblox.com/hc/fr/articles/203314160-Comment-Faire-une-Capture-d-%C3%89cran
+[Comment puis-je prendre une capture d'écran sur le site Roblox et sur les applications non Roblox ou mobiles ?](./Comment puis-je prendre une capture d'écran sur le site Roblox et sur les applications non Roblox ou mobiles -.html) |https://en.help.roblox.com/hc/fr/articles/203314160-Comment-puis-je-prendre-une-capture-d-%C3%A9cran-sur-le-site-Roblox-et-sur-les-applications-non-Roblox-ou-mobiles
 [Comment enregistrer des vidéos](./Comment enregistrer des vidéos.html) |https://en.help.roblox.com/hc/fr/articles/203314190-Comment-enregistrer-des-vid%C3%A9os
 [L'appli Roblox PC](./L'appli Roblox PC.html) |https://en.help.roblox.com/hc/fr/articles/360054053812-L-appli-Roblox-PC
 [La qualité graphique](./La qualité graphique.html) |https://en.help.roblox.com/hc/fr/articles/203314310-La-qualit%C3%A9-graphique
