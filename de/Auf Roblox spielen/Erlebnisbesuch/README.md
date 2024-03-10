@@ -17,7 +17,7 @@ Name|URL
 [Wie ändere ich die Farbe meines Namens in einem Erlebnis?](./Wie ändere ich die Farbe meines Namens in einem Erlebnis-.html) |https://en.help.roblox.com/hc/de/articles/203314200-Wie-%C3%A4ndere-ich-die-Farbe-meines-Namens-in-einem-Erlebnis
 [Wie kaufe und konfiguriere ich ein privaten/VIP-Server?](./Wie kaufe und konfiguriere ich ein privaten-VIP-Server-.html) |https://en.help.roblox.com/hc/de/articles/205345050-Wie-kaufe-und-konfiguriere-ich-ein-privaten-VIP-Server
 [Die Testserver](./Die Testserver.html) |https://en.help.roblox.com/hc/de/articles/203314170-Die-Testserver
-[Wie mache ich einen Screenshot?](./Wie mache ich einen Screenshot-.html) |https://en.help.roblox.com/hc/de/articles/203314160-Wie-mache-ich-einen-Screenshot
+[Wie kann ich einen Screenshot auf der Roblox-Website und in Apps außerhalb von Roblox Apps/Mobil aufnehmen?](./Wie kann ich einen Screenshot auf der Roblox-Website und in Apps außerhalb von Roblox Apps-Mobil aufnehmen-.html) |https://en.help.roblox.com/hc/de/articles/203314160-Wie-kann-ich-einen-Screenshot-auf-der-Roblox-Website-und-in-Apps-au%C3%9Ferhalb-von-Roblox-Apps-Mobil-aufnehmen
 [Wie man Videos aufzeichnet](./Wie man Videos aufzeichnet.html) |https://en.help.roblox.com/hc/de/articles/203314190-Wie-man-Videos-aufzeichnet
 [Roblox PC App](./Roblox PC App.html) |https://en.help.roblox.com/hc/de/articles/360054053812-Roblox-PC-App
 [Grafikqualität](./Grafikqualität.html) |https://en.help.roblox.com/hc/de/articles/203314310-Grafikqualit%C3%A4t
