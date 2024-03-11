@@ -9,5 +9,5 @@ Name|URL
 [Abbonamento Premium](./Abbonamento Premium.html) |https://en.help.roblox.com/hc/it/articles/360024256251-Abbonamento-Premium
 [Posso trasferire il mio Abbonamento su un altro account Roblox?](./Posso trasferire il mio Abbonamento su un altro account Roblox-.html) |https://en.help.roblox.com/hc/it/articles/203312640-Posso-trasferire-il-mio-Abbonamento-su-un-altro-account-Roblox
 [I Pulsanti dell'Abbonamento Sono Disattivati](./I Pulsanti dell'Abbonamento Sono Disattivati.html) |https://en.help.roblox.com/hc/it/articles/203312690-I-Pulsanti-dell-Abbonamento-Sono-Disattivati
-[La mia iscrizione si rinnoverà automaticamente?](./La mia iscrizione si rinnoverà automaticamente-.html) |https://en.help.roblox.com/hc/it/articles/203312630-La-mia-iscrizione-si-rinnover%C3%A0-automaticamente
+[Il mio Abbonamento Premium si rinnoverà automaticamente?](./Il mio Abbonamento Premium si rinnoverà automaticamente-.html) |https://en.help.roblox.com/hc/it/articles/203312630-Il-mio-Abbonamento-Premium-si-rinnover%C3%A0-automaticamente
 [Aggiornamento o downgrade dell'abbonamento](./Aggiornamento o downgrade dell'abbonamento.html) |https://en.help.roblox.com/hc/it/articles/203312750-Aggiornamento-o-downgrade-dell-abbonamento

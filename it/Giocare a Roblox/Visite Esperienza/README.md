@@ -17,7 +17,7 @@ Name|URL
 [Come Posso Cambiare il Colore del mio Nome in un'Esperienza?](./Come Posso Cambiare il Colore del mio Nome in un'Esperienza-.html) |https://en.help.roblox.com/hc/it/articles/203314200-Come-Posso-Cambiare-il-Colore-del-mio-Nome-in-un-Esperienza
 [Come acquistare e configurare i server VIP?](./Come acquistare e configurare i server VIP-.html) |https://en.help.roblox.com/hc/it/articles/205345050-Come-acquistare-e-configurare-i-server-VIP
 [I server di prova](./I server di prova.html) |https://en.help.roblox.com/hc/it/articles/203314170-I-server-di-prova
-[Come posso fare uno screenshot?](./Come posso fare uno screenshot-.html) |https://en.help.roblox.com/hc/it/articles/203314160-Come-posso-fare-uno-screenshot
+[Come Posso Acquisire uno Screenshot sul Sito Roblox e su App/Mobile Non Roblox?](./Come Posso Acquisire uno Screenshot sul Sito Roblox e su App-Mobile Non Roblox-.html) |https://en.help.roblox.com/hc/it/articles/203314160-Come-Posso-Acquisire-uno-Screenshot-sul-Sito-Roblox-e-su-App-Mobile-Non-Roblox
 [Come Registrare Video](./Come Registrare Video.html) |https://en.help.roblox.com/hc/it/articles/203314190-Come-Registrare-Video
 [L'App Roblox per PC](./L'App Roblox per PC.html) |https://en.help.roblox.com/hc/it/articles/360054053812-L-App-Roblox-per-PC
 [Qualità grafica](./Qualità grafica.html) |https://en.help.roblox.com/hc/it/articles/203314310-Qualit%C3%A0-grafica
