@@ -18,3 +18,4 @@ Name|URL
 [O Que Fazer se o seu Anti-vírus Sinalizar a Roblox](./O Que Fazer se o seu Anti-vírus Sinalizar a Roblox.html) |https://en.help.roblox.com/hc/pt-br/articles/203313030-O-Que-Fazer-se-o-seu-Anti-v%C3%ADrus-Sinalizar-a-Roblox
 [Reset de Relógio ou falha ao obter o URL: falha de solicitação de HTTP, erro = 0x2f05](./Reset de Relógio ou falha ao obter o URL- falha de solicitação de HTTP, erro = 0x2f05.html) |https://en.help.roblox.com/hc/pt-br/articles/203312830-Reset-de-Rel%C3%B3gio-ou-falha-ao-obter-o-URL-falha-de-solicita%C3%A7%C3%A3o-de-HTTP-erro-0x2f05
 [Solucionando Problemas de Redes Educacionais](./Solucionando Problemas de Redes Educacionais.html) |https://en.help.roblox.com/hc/pt-br/articles/115005744663-Solucionando-Problemas-de-Redes-Educacionais
+[Mensagens de Hyperion](./Mensagens de Hyperion.html) |https://en.help.roblox.com/hc/pt-br/articles/24275616578708-Mensagens-de-Hyperion
