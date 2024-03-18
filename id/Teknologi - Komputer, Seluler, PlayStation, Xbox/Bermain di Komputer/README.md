@@ -18,3 +18,4 @@ Name|URL
 [Apa yang Harus Dilakukan Jika Anti-virus Anda Menandai Roblox](./Apa yang Harus Dilakukan Jika Anti-virus Anda Menandai Roblox.html) |https://en.help.roblox.com/hc/id/articles/203313030-Apa-yang-Harus-Dilakukan-Jika-Anti-virus-Anda-Menandai-Roblox
 [Atur Ulang Jam atau Gagal mendapatkan URL: Httpsendrequest failed,err=0x2f05](./Atur Ulang Jam atau Gagal mendapatkan URL- Httpsendrequest failed,err=0x2f05.html) |https://en.help.roblox.com/hc/id/articles/203312830-Atur-Ulang-Jam-atau-Gagal-mendapatkan-URL-Httpsendrequest-failed-err-0x2f05
 [Pemecahan Masalah Jaringan Pendidikan](./Pemecahan Masalah Jaringan Pendidikan.html) |https://en.help.roblox.com/hc/id/articles/115005744663-Pemecahan-Masalah-Jaringan-Pendidikan
+[Pesan Hyperion](./Pesan Hyperion.html) |https://en.help.roblox.com/hc/id/articles/24275616578708-Pesan-Hyperion
