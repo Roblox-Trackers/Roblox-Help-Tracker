@@ -1,0 +1,488 @@
+   <h1 class="article-title" id="article-title" title="Hyperionのメッセージ">
+    Hyperionのメッセージ
+   </h1>
+   <div class="article-content">
+    <div class="article-body">
+     <p>
+      ここでは、問題解決時にトラブルシューティングの手順に応じて表示される可能性のあるHyperionアンチチートクラッシュメッセージについてご紹介します。
+     </p>
+     <p>
+     </p>
+     <h2 class="wysiwyg-indent1" id="h_01HR7Q6Y429QJPVSDNM9BY2QP3">
+      <strong>
+       クラッシュタイプ
+      </strong>
+      ：タイムアウトエラー
+     </h2>
+     <h3 class="wysiwyg-indent1" id="h_01HR7Q72Y67HCW3M8PPY787328">
+      <strong>
+       ユーザーメッセージ
+      </strong>
+      ：Roblox（ロブロックス）はタイムアウトしました。 クライアントを再起動してください。
+     </h3>
+     <p class="wysiwyg-indent2">
+      <strong>
+       トラブルシューティングの手順
+      </strong>
+      ：
+     </p>
+     <p class="wysiwyg-indent2">
+      「Robloxはタイムアウトしました。 クライアントを再起動してください。」というメッセージが表示された場合は、Robloxクライアントの再起動が必要です。 通常の使用でクライアントを再起動しても問題が解決しない場合は、
+      <a href="https://www.roblox.com/support">
+       サポートチームに連絡
+      </a>
+      のうえご相談ください。
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h2 class="wysiwyg-indent1" id="h_01HR7Q7B6F08C2K2SZE6MF77J7">
+      <strong>
+       クラッシュタイプ
+      </strong>
+      ：仮想マシンの検出
+     </h2>
+     <h3 class="wysiwyg-indent1" id="h_01HR7Q7G1ASX5S4T2H3936ZADK">
+      <strong>
+       ユーザーメッセージ
+      </strong>
+      ：Robloxは仮想マシン内では実行できません。
+     </h3>
+     <p class="wysiwyg-indent2">
+      <strong>
+       トラブルシューティングの手順
+      </strong>
+      ：
+     </p>
+     <p class="wysiwyg-indent2">
+      「仮想マシンの検出」というメッセージが表示された場合は、その仮想マシン（VM）はRobloxに対応していません。 RobloxがVM内で適切に機能するためには、GPUパススルーが必須です。 GPUパススルーはハイパーバイザー層を回避し、VMを物理GPUに直接アクセスさせます。 GPUパススルーは以下の方法で有効化できます。
+     </p>
+     <ol>
+      <li style="list-style-type: none;">
+       <ol>
+        <li style="list-style-type: none;">
+         <ol>
+          <li class="wysiwyg-indent3">
+           お使いのハードウェアがGPUパススルーをサポートしているか確認します。
+          </li>
+          <li class="wysiwyg-indent3">
+           BIOS/UEFI設定を更新して仮想化拡張機能を有効化します（例：Intel VT-xまたはAMD-V）。
+          </li>
+          <li class="wysiwyg-indent3">
+           VMソフトウェア内でGPUパススルーの環境設定をします。
+          </li>
+         </ol>
+        </li>
+       </ol>
+      </li>
+     </ol>
+     <p class="wysiwyg-indent2">
+      この手順に従えば、Robloxは仮想化環境でスムーズに実行され、GPUリソースに必要なアクセスを提供できるようになります。
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h2 class="wysiwyg-indent1" id="h_01HR7Q9M59KQNDFCZBCSB4WDSW">
+      <strong>
+       クラッシュタイプ
+      </strong>
+      ：バッドウェアの検出
+     </h2>
+     <h3 class="wysiwyg-indent1" id="h_01HR7Q9QHMBZEMSP5Y8VSPWZ3G">
+      <strong>
+       ユーザーメッセージ
+      </strong>
+      ：Robloxは互換性のないソフトウェアが原因でクラッシュしました：&lt;問題のソフトウェアへのパス&gt;
+     </h3>
+     <p class="wysiwyg-indent2">
+      <strong>
+       トラブルシューティングの手順
+      </strong>
+      ：
+     </p>
+     <p class="wysiwyg-indent2">
+      「Robloxは互換性のないソフトウェアが原因でクラッシュしました：」から始まり“問題のソフトウェアへのパス”へと続くメッセージが表示された場合は、表示されたファイルパスのソフトウェアが原因でRobloxに問題が発生しています。 これを修正するためには、Robloxの使用中にそのソフトウェアが実行されないようにする必要があります。 ソフトウェアを手動でシャットダウンする、またはWindowsでクリーンブートを実行するなどして対応してください。 この方法により、システム内では必要なソフトウェアのみアクティブになり、衝突を最小限に抑えることができます。
+      <a href="https://support.microsoft.com/ja-jp/topic/windows-%E3%81%A7%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3-%E3%83%96%E3%83%BC%E3%83%88%E3%82%92%E5%AE%9F%E8%A1%8C%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95-da2f9573-6eec-00ad-2f8a-a97a1807f3dd">
+       Windowsが推奨するクリーンブートの方法を以下にご紹介します
+      </a>
+      。
+     </p>
+     <ol>
+      <li style="list-style-type: none;">
+       <ol>
+        <li style="list-style-type: none;">
+         <ol>
+          <li class="wysiwyg-indent3">
+           「Windowsキー + R」を押して“実行”ダイアログを開きます。
+          </li>
+          <li class="wysiwyg-indent3">
+           「msconfig」と入力しEnterキーを押します。
+          </li>
+          <li class="wysiwyg-indent3">
+           システム構成ウィンドウで「サービス」タブへ進みます。
+          </li>
+          <li class="wysiwyg-indent3">
+           「Microsoft のサービスをすべて隠す」というボックスにチェックを入れます。
+          </li>
+          <li class="wysiwyg-indent3">
+           「すべて無効」をクリックします。
+          </li>
+          <li class="wysiwyg-indent3">
+           「スタートアップ」タブに切り替えます。
+          </li>
+          <li class="wysiwyg-indent3">
+           「タスク マネージャーを開く」をクリックします。
+          </li>
+          <li class="wysiwyg-indent3">
+           スタートアップアイテムをすべて無効化します。
+          </li>
+          <li class="wysiwyg-indent3">
+           タスクマネージャーとシステム構成を閉じます。
+          </li>
+          <li class="wysiwyg-indent3">
+           コンピューターを再起動します。
+          </li>
+         </ol>
+        </li>
+       </ol>
+      </li>
+     </ol>
+     <p class="wysiwyg-indent2">
+      この手順を完了することで、Robloxは他のいかなるソフトウェアからも干渉されず、クラッシュを避けスムーズに実行できるようになります。
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h2 class="wysiwyg-indent1" id="h_01HR7QA19GFZP5ZQ04A89JH1Z0">
+      <strong>
+       クラッシュタイプ
+      </strong>
+      ：プロセスの一時停止
+     </h2>
+     <h3 class="wysiwyg-indent1" id="h_01HR7QA4YG4NQXDWGER9YEZPQQ">
+      <strong>
+       ユーザーメッセージ
+      </strong>
+      ：Robloxは停止しました。 第三者ソフトウェアがRobloxに干渉していないか確認してください。
+     </h3>
+     <p class="wysiwyg-indent2">
+      <strong>
+       トラブルシューティングの手順
+      </strong>
+      ：
+     </p>
+     <p class="wysiwyg-indent2">
+      「Robloxは停止しました。 第三者ソフトウェアがRobloxに干渉していないか確認してください。」というメッセージが表示された場合は、コンピューターの他のソフトウェアとRobloxとの間に問題が発生しています。 この問題を解決するには、Robloxの使用中は他のソフトウェアをすべてシャットダウンしてください。 一番良い方法はWindowsでクリーンブートを実行することです。これにより、本当に必要なソフトウェアのみがシステム内で実行されます。
+      <a href="https://support.microsoft.com/ja-jp/topic/windows-%E3%81%A7%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3-%E3%83%96%E3%83%BC%E3%83%88%E3%82%92%E5%AE%9F%E8%A1%8C%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95-da2f9573-6eec-00ad-2f8a-a97a1807f3dd">
+       Windowsが推奨するクリーンブートの方法を以下にご紹介します
+      </a>
+      。
+     </p>
+     <ol>
+      <li style="list-style-type: none;">
+       <ol>
+        <li style="list-style-type: none;">
+         <ol>
+          <li class="wysiwyg-indent3">
+           「Windowsキー + R」を押して“実行”ダイアログを開きます。
+          </li>
+          <li class="wysiwyg-indent3">
+           「msconfig」と入力しEnterキーを押します。
+          </li>
+          <li class="wysiwyg-indent3">
+           システム構成ウィンドウで「サービス」タブへ進みます。
+          </li>
+          <li class="wysiwyg-indent3">
+           「Microsoft のサービスをすべて隠す」というボックスにチェックを入れます。
+          </li>
+          <li class="wysiwyg-indent3">
+           「すべて無効」をクリックします。
+          </li>
+          <li class="wysiwyg-indent3">
+           「スタートアップ」タブに切り替えます。
+          </li>
+          <li class="wysiwyg-indent3">
+           「タスク マネージャーを開く」をクリックします。
+          </li>
+          <li class="wysiwyg-indent3">
+           スタートアップアイテムをすべて無効化します。
+          </li>
+          <li class="wysiwyg-indent3">
+           タスクマネージャーとシステム構成を閉じます。
+          </li>
+          <li class="wysiwyg-indent3">
+           コンピューターを再起動します。
+          </li>
+         </ol>
+        </li>
+       </ol>
+      </li>
+     </ol>
+     <p class="wysiwyg-indent2">
+      この手順を完了することで、Robloxは他のいかなるソフトウェアからも干渉されず、クラッシュを避けスムーズに実行できるようになります。
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h2 class="wysiwyg-indent1" id="h_01HR7QAA4FGHCHMV9NRXW8KEC1">
+      <strong>
+       クラッシュタイプ
+      </strong>
+      ：ブート整合性の不具合
+     </h2>
+     <h3 class="wysiwyg-indent1" id="h_01HR7QAFSVBEKMFZK1KA7ADYBQ">
+      <strong>
+       ユーザーメッセージ
+      </strong>
+      ：重要なシステムファイルが破損しています。 Robloxが実行できません。 修復するか、Windowsのインストールを再設定してください。
+     </h3>
+     <p class="wysiwyg-indent2">
+      <strong>
+       トラブルシューティングの手順
+      </strong>
+      ：
+     </p>
+     <p class="wysiwyg-indent2">
+      RobloxはWindowsがデバッグモードに設定されていると適切に機能しません。 Robloxを使用するには、Windowsが正常に実行されているか確認してください。
+      <a href="https://learn.microsoft.com/ja-jp/troubleshoot/windows-server/performance/enable-debug-mode-causes-hang">
+       Windowsのデバッグモードを確認し無効化するには、次の手順に従ってください
+      </a>
+      。
+     </p>
+     <ol>
+      <li style="list-style-type: none;">
+       <ol>
+        <li style="list-style-type: none;">
+         <ol>
+          <li class="wysiwyg-indent3">
+           「Windowsキー+R」を押して“実行”ボックスを開きます。
+          </li>
+          <li class="wysiwyg-indent3">
+           「msconfig」と入力しEnterキーを押します。
+          </li>
+          <li class="wysiwyg-indent3">
+           「ブートタブ」を選択してから“詳細オプション”を選択します。
+          </li>
+          <li class="wysiwyg-indent3">
+           デバッグのボックスからチェックを外します。
+          </li>
+          <li class="wysiwyg-indent3">
+           「OK」を選択します。
+          </li>
+          <li class="wysiwyg-indent3">
+           “適用”に続いて「OK」を選択します。
+          </li>
+          <li class="wysiwyg-indent3">
+           コンピューターを再起動します。
+          </li>
+         </ol>
+        </li>
+       </ol>
+      </li>
+     </ol>
+     <p class="wysiwyg-indent2">
+      この手順により、Windowsはデバッグモードで実行されなくなり、Robloxを使用してもトラブルが発生しなくなります。
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h2 class="wysiwyg-indent1" id="h_01HR7QAVGYQS5Z9Q96JP0TGV17">
+      <strong>
+       クラッシュタイプ
+      </strong>
+      ：画像のブロック
+     </h2>
+     <h3 class="wysiwyg-indent1" id="h_01HR7QAZ73VEFD9CRD1D2TJZYN">
+      <strong>
+       ユーザーメッセージ
+      </strong>
+      ：Robloxは互換性のないソフトウェアが原因でクラッシュしました：&lt;問題のソフトウェアへのパス&gt;
+     </h3>
+     <p class="wysiwyg-indent2">
+      <strong>
+       トラブルシューティングの手順
+      </strong>
+      ：
+     </p>
+     <p class="wysiwyg-indent2">
+      「Robloxは互換性のないソフトウェアが原因でクラッシュしました：」から始まり“問題のソフトウェアへのパス”へと続くメッセージが表示された場合は、表示されたファイルパスのソフトウェアが原因でRobloxに問題が発生しています。 これを修正するためには、Robloxの使用中にそのソフトウェアが実行されないようにする必要があります。 ソフトウェアを手動でシャットダウンする、またはWindowsでクリーンブートを実行するなどして対応してください。 この方法により、システム内では必要なソフトウェアのみアクティブになり、衝突を最小限に抑えることができます。
+      <a href="https://support.microsoft.com/ja-jp/topic/windows-%E3%81%A7%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3-%E3%83%96%E3%83%BC%E3%83%88%E3%82%92%E5%AE%9F%E8%A1%8C%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95-da2f9573-6eec-00ad-2f8a-a97a1807f3dd">
+       Windowsが推奨するクリーンブートの方法を以下にご紹介します
+      </a>
+      。
+     </p>
+     <ol>
+      <li style="list-style-type: none;">
+       <ol>
+        <li style="list-style-type: none;">
+         <ol>
+          <li class="wysiwyg-indent3">
+           「Windowsキー + R」を押して“実行”ダイアログを開きます。
+          </li>
+          <li class="wysiwyg-indent3">
+           「msconfig」と入力しEnterキーを押します。
+          </li>
+          <li class="wysiwyg-indent3">
+           システム構成ウィンドウで「サービス」タブへ進みます。
+          </li>
+          <li class="wysiwyg-indent3">
+           「Microsoft のサービスをすべて隠す」というボックスにチェックを入れます。
+          </li>
+          <li class="wysiwyg-indent3">
+           「すべて無効」をクリックします。
+          </li>
+          <li class="wysiwyg-indent3">
+           「スタートアップ」タブに切り替えます。
+          </li>
+          <li class="wysiwyg-indent3">
+           「タスク マネージャーを開く」をクリックします。
+          </li>
+          <li class="wysiwyg-indent3">
+           スタートアップアイテムをすべて無効化します。
+          </li>
+          <li class="wysiwyg-indent3">
+           タスクマネージャーとシステム構成を閉じます。
+          </li>
+          <li class="wysiwyg-indent3">
+           コンピューターを再起動します。
+          </li>
+         </ol>
+        </li>
+       </ol>
+      </li>
+     </ol>
+     <p class="wysiwyg-indent2">
+      この手順を完了することで、Robloxは他のいかなるソフトウェアからも干渉されず、クラッシュを避けスムーズに実行できるようになります。
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h2 class="wysiwyg-indent1" id="h_01HR7QB40CZC2VPGZXD8KG2G4N">
+      <strong>
+       クラッシュタイプ
+      </strong>
+      ：(OBS) Open Broadcaster Software
+     </h2>
+     <h3 class="wysiwyg-indent1" id="h_01HR7QB7QQ4KHA6NBD1DT96ECD">
+      <strong>
+       ユーザーメッセージ
+      </strong>
+      ：OBSによるゲーム内のスクショはRobloxのトラブルの原因となります。 代替としてウィンドウまたはデスクトップキャプチャをご利用ください。
+     </h3>
+     <p class="wysiwyg-indent2">
+      <strong>
+       トラブルシューティングの手順
+      </strong>
+      ：
+     </p>
+     <p class="wysiwyg-indent2">
+      「OBSによるゲーム内のスクショはRobloxのトラブルの原因となります。」というメッセージが表示された場合、RobloxはOpen Broadcaster Software (OBS)によるゲーム内のスクショ機能をサポートしていないということです。 Robloxをストリームまたは録画するには、代替としてウィンドウまたはデスクトップキャプチャモードをご利用ください。
+      <a href="https://obsproject.com/ja/kb/display-capture-sources">
+       デスクトップキャプチャは次の指示に従い設定してください
+      </a>
+      。
+     </p>
+     <ol>
+      <li style="list-style-type: none;">
+       <ol>
+        <li style="list-style-type: none;">
+         <ol>
+          <li class="wysiwyg-indent3">
+           Open Broadcaster Software (OBS)を開きます。
+          </li>
+          <li class="wysiwyg-indent3">
+           「ソース」セクションで「+」アイコンをクリックします。
+          </li>
+          <li class="wysiwyg-indent3">
+           メニューから「画面キャプチャ」を選択します。
+          </li>
+          <li class="wysiwyg-indent3">
+           スクショしたい画面を選択します（通常はメインモニター）。
+          </li>
+          <li class="wysiwyg-indent3">
+           必要に応じて解像度やフレームレートなどの設定を調整します。
+          </li>
+          <li class="wysiwyg-indent3">
+           「OK」をクリックし画像キャプチャソースを確定します。
+          </li>
+          <li class="wysiwyg-indent3">
+           OBSシーンで欲しい画像キャプチャソースを配置します。
+          </li>
+          <li class="wysiwyg-indent3">
+           いつも通りにストリームまたは録画を開始します。
+          </li>
+         </ol>
+        </li>
+       </ol>
+      </li>
+     </ol>
+     <p class="wysiwyg-indent2">
+      デスクトップキャプチャモードを使用することで、OBSのゲーム内キャプチャ機能との互換性の問題が発生することなく、Robloxを効率的にストリームまたは録画できるようになります。
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h2 class="wysiwyg-indent1" id="h_01HR7QBERF7JCBBGEZP6BBRJPH">
+      <strong>
+       クラッシュタイプ
+      </strong>
+      ：第三者ソフトウェアの相互作用
+     </h2>
+     <h3 class="wysiwyg-indent1" id="h_01HR7QBJCZ754JGR9VK8Z1HCFF">
+      <strong>
+       ユーザーメッセージ
+      </strong>
+      ：Robloxは第三者ソフトウェアが原因でクラッシュしました。 Windowsでクリーンブートを実行してください。
+     </h3>
+     <p class="wysiwyg-indent2">
+      <strong>
+       トラブルシューティングの手順
+      </strong>
+      ：
+     </p>
+     <p class="wysiwyg-indent2">
+      「Robloxは第三者ソフトウェアが原因でクラッシュしました。」というメッセージが表示された場合は、コンピューターの他のソフトウェアとRobloxとの間に問題が発生しています。 この問題を解決するには、Robloxの使用中は他のソフトウェアをすべてシャットダウンしてください。 一番良い方法はWindowsでクリーンブートを実行することです。これにより、本当に必要なソフトウェアのみがシステム内で実行されます。
+      <a href="https://support.microsoft.com/ja-jp/topic/windows-%E3%81%A7%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3-%E3%83%96%E3%83%BC%E3%83%88%E3%82%92%E5%AE%9F%E8%A1%8C%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95-da2f9573-6eec-00ad-2f8a-a97a1807f3dd">
+       Windowsが推奨するクリーンブートの方法を以下にご紹介します
+      </a>
+      。
+     </p>
+     <ol>
+      <li style="list-style-type: none;">
+       <ol>
+        <li style="list-style-type: none;">
+         <ol>
+          <li class="wysiwyg-indent3">
+           「Windowsキー + R」を押して“実行”ダイアログを開きます。
+          </li>
+          <li class="wysiwyg-indent3">
+           「msconfig」と入力しEnterキーを押します。
+          </li>
+          <li class="wysiwyg-indent3">
+           システム構成ウィンドウで「サービス」タブへ進みます。
+          </li>
+          <li class="wysiwyg-indent3">
+           「Microsoft のサービスをすべて隠す」というボックスにチェックを入れます。
+          </li>
+          <li class="wysiwyg-indent3">
+           「すべて無効」をクリックします。
+          </li>
+          <li class="wysiwyg-indent3">
+           「スタートアップ」タブに切り替えます。
+          </li>
+          <li class="wysiwyg-indent3">
+           「タスク マネージャーを開く」をクリックします。
+          </li>
+          <li class="wysiwyg-indent3">
+           スタートアップアイテムをすべて無効化します。
+          </li>
+          <li class="wysiwyg-indent3">
+           タスクマネージャーとシステム構成を閉じます。
+          </li>
+          <li class="wysiwyg-indent3">
+           コンピューターを再起動します。
+          </li>
+         </ol>
+        </li>
+       </ol>
+      </li>
+     </ol>
+     <p class="wysiwyg-indent2">
+      この手順を完了することで、Robloxは他のいかなるソフトウェアからも干渉されず、クラッシュを避けスムーズに実行できるようになります。
+     </p>
+    </div>
+    <!--           Add content tags to articles and posts -->
+   </div>
