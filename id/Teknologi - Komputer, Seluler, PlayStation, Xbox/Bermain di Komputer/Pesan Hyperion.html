@@ -1,0 +1,488 @@
+   <h1 class="article-title" id="article-title" title="Pesan Hyperion">
+    Pesan Hyperion
+   </h1>
+   <div class="article-content">
+    <div class="article-body">
+     <p>
+      Artikel ini berisi pesan anti-kecurangan Hyperion yang mungkin ditampilkan saat terjadi crash, diikuti dengan langkah-langkah pemecahan masalah untuk membantumu dalam memecahkan masalahnya.
+     </p>
+     <p>
+     </p>
+     <h2 class="wysiwyg-indent1" id="h_01HR7Q6Y429QJPVSDNM9BY2QP3">
+      <strong>
+       Tipe Crash
+      </strong>
+      : Kegagalan waktu habis
+     </h2>
+     <h3 class="wysiwyg-indent1" id="h_01HR7Q72Y67HCW3M8PPY787328">
+      <strong>
+       Pesan Pengguna
+      </strong>
+      : Roblox has timed out. Please restart your client. (Roblox kehabisan waktu. Mulai ulang klien.)
+     </h3>
+     <p class="wysiwyg-indent2">
+      <strong>
+       Langkah-Langkah Pemecahan Masalah
+      </strong>
+      :
+     </p>
+     <p class="wysiwyg-indent2">
+      Jika menemui pesan "Roblox has timed out. Please restart your client" (Roblox kehabisan waktu. Mulai ulang klien.), itu artinya klien Roblox perlu dimulai ulang. Jika masalah tetap terjadi meskipun klien sudah dimulai ulang pada penggunaan biasa,
+      <a href="https://www.roblox.com/support">
+       hubungi tim dukungan pelanggan kami
+      </a>
+      untuk mendapatkan bantuan lebih lanjut.
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h2 class="wysiwyg-indent1" id="h_01HR7Q7B6F08C2K2SZE6MF77J7">
+      <strong>
+       Tipe Crash
+      </strong>
+      : Mesin virtual terdeteksi
+     </h2>
+     <h3 class="wysiwyg-indent1" id="h_01HR7Q7G1ASX5S4T2H3936ZADK">
+      <strong>
+       Pesan Pengguna
+      </strong>
+      : Roblox cannot run inside of a virtual machine. (Roblox tidak dapat dijalankan di dalam mesin virtual.)
+     </h3>
+     <p class="wysiwyg-indent2">
+      <strong>
+       Langkah-Langkah Pemecahan Masalah
+      </strong>
+      :
+     </p>
+     <p class="wysiwyg-indent2">
+      Jika kamu menemui pesan yang menyatakan “Virtual machine detected” (Mesin virtual terdeteksi), itu artinya Roblox tidak mendukung mesin virtual (VM) yang digunakan. Roblox memerlukan passthrough GPU agar bisa berfungsi dengan benar di dalam VM. Passthrough GPU memberi VM akses langsung ke GPU fisik, tanpa melalui lapisan hypervisor. Berikut cara mengaktifkan passthrough GPU:
+     </p>
+     <ol>
+      <li style="list-style-type: none;">
+       <ol>
+        <li style="list-style-type: none;">
+         <ol>
+          <li class="wysiwyg-indent3">
+           Pastikan bahwa perangkat keras yang digunakan mendukung passthrough GPU.
+          </li>
+          <li class="wysiwyg-indent3">
+           Update pengaturan BIOS/UEFI untuk mengaktifkan ekstensi virtualisasi (misalnya, Intel VT-x atau AMD-V).
+          </li>
+          <li class="wysiwyg-indent3">
+           Konfigurasikan passthrough GPU di dalam perangkat lunak VM.
+          </li>
+         </ol>
+        </li>
+       </ol>
+      </li>
+     </ol>
+     <p class="wysiwyg-indent2">
+      Ikuti langkah-langkah tersebut untuk memastikan Roblox berjalan lancar di dalam lingkungan yang divirtualisasi sehingga memberikan akses yang diperlukan ke sumber daya GPU.
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h2 class="wysiwyg-indent1" id="h_01HR7Q9M59KQNDFCZBCSB4WDSW">
+      <strong>
+       Tipe Crash
+      </strong>
+      : Badware terdeteksi
+     </h2>
+     <h3 class="wysiwyg-indent1" id="h_01HR7Q9QHMBZEMSP5Y8VSPWZ3G">
+      <strong>
+       Pesan Pengguna
+      </strong>
+      : Roblox has crashed due to incompatible software: &lt;path to offending software&gt; (Roblox mengalami crash karena perangkat lunak yang tidak kompatibel: &lt;jalur ke perangkat lunak penyebab masalah&gt;)
+     </h3>
+     <p class="wysiwyg-indent2">
+      <strong>
+       Langkah-Langkah Pemecahan Masalah
+      </strong>
+      :
+     </p>
+     <p class="wysiwyg-indent2">
+      Jika menemui pesan "Roblox has crashed due to incompatible software:" (Roblox mengalami crash karena perangkat lunak yang tidak kompatibel:) diikuti dengan jalur ke perangkat lunak penyebab masalah, itu berarti perangkat lunak yang disebutkan dalam jalur file yang ditampilkan sedang menyebabkan terjadinya masalah pada Roblox. Untuk memperbaiki masalah ini, kamu perlu menghentikan aktivitas perangkat lunak yang bersangkutan saat Roblox sedang digunakan. Kamu bisa melakukannya secara manual dengan mematikan perangkat lunak atau melakukan clean boot di Windows. Metode ini memastikan hanya perangkat lunak yang diperlukan saja yang aktif di sistem guna meminimalkan konflik.
+      <a href="https://support.microsoft.com/id-id/topic/cara-melakukan-boot-bersih-di-windows-da2f9573-6eec-00ad-2f8a-a97a1807f3dd">
+       Berikut cara melakukan clean boot sesuai rekomendasi Windows
+      </a>
+      :
+     </p>
+     <ol>
+      <li style="list-style-type: none;">
+       <ol>
+        <li style="list-style-type: none;">
+         <ol>
+          <li class="wysiwyg-indent3">
+           Tekan "tombol Windows + R" untuk membuka dialog Jalankan.
+          </li>
+          <li class="wysiwyg-indent3">
+           Ketik "msconfig", lalu tekan tombol Enter.
+          </li>
+          <li class="wysiwyg-indent3">
+           Di jendela Konfigurasi Sistem, buka tab "Layanan".
+          </li>
+          <li class="wysiwyg-indent3">
+           Centang kotak berlabel "Sembunyikan semua layanan Microsoft".
+          </li>
+          <li class="wysiwyg-indent3">
+           Klik "Nonaktifkan semua".
+          </li>
+          <li class="wysiwyg-indent3">
+           Pindah ke tab "Startup".
+          </li>
+          <li class="wysiwyg-indent3">
+           Klik "Buka Manajer Tugas".
+          </li>
+          <li class="wysiwyg-indent3">
+           Nonaktifkan semua item yang berjalan pada saat startup.
+          </li>
+          <li class="wysiwyg-indent3">
+           Tutup Manajer Tugas dan Konfigurasi Sistem.
+          </li>
+          <li class="wysiwyg-indent3">
+           Mulai ulang komputer.
+          </li>
+         </ol>
+        </li>
+       </ol>
+      </li>
+     </ol>
+     <p class="wysiwyg-indent2">
+      Lakukan langkah-langkah ini untuk memastikan tidak ada perangkat lunak lain yang mengganggu Roblox sehingga bisa berjalan lancar tanpa mengalami crash.
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h2 class="wysiwyg-indent1" id="h_01HR7QA19GFZP5ZQ04A89JH1Z0">
+      <strong>
+       Tipe Crash
+      </strong>
+      : Proses ditangguhkan
+     </h2>
+     <h3 class="wysiwyg-indent1" id="h_01HR7QA4YG4NQXDWGER9YEZPQQ">
+      <strong>
+       Pesan Pengguna
+      </strong>
+      : Roblox was stopped. Please ensure third-party software does not interfere with Roblox. (Roblox terhenti. Pastikan perangkat lunak pihak ketiga tidak mengganggu Roblox.)
+     </h3>
+     <p class="wysiwyg-indent2">
+      <strong>
+       Langkah-Langkah Pemecahan Masalah
+      </strong>
+      :
+     </p>
+     <p class="wysiwyg-indent2">
+      Jika menemui pesan "Roblox was stopped. Please ensure third-party software does not interfere with Roblox." (Roblox terhenti. Pastikan perangkat lunak pihak ketiga tidak mengganggu Roblox.), itu artinya perangkat lunak lain di komputermu menyebabkan masalah saat dijalankan bersamaan dengan Roblox. Untuk memecahkan masalah ini, kamu perlu mematikan perangkat lunak lain pada saat Roblox digunakan. Cara yang paling efektif adalah dengan melakukan clean boot di Windows untuk memastikan hanya perangkat lunak penting saja yang berjalan di sistem.
+      <a href="https://support.microsoft.com/id-id/topic/cara-melakukan-boot-bersih-di-windows-da2f9573-6eec-00ad-2f8a-a97a1807f3dd">
+       Berikut cara melakukan clean boot sesuai rekomendasi Windows
+      </a>
+      :
+     </p>
+     <ol>
+      <li style="list-style-type: none;">
+       <ol>
+        <li style="list-style-type: none;">
+         <ol>
+          <li class="wysiwyg-indent3">
+           Tekan "tombol Windows + R" untuk membuka dialog Jalankan.
+          </li>
+          <li class="wysiwyg-indent3">
+           Ketik "msconfig", lalu tekan tombol Enter.
+          </li>
+          <li class="wysiwyg-indent3">
+           Di jendela Konfigurasi Sistem, buka tab "Layanan".
+          </li>
+          <li class="wysiwyg-indent3">
+           Centang kotak berlabel "Sembunyikan semua layanan Microsoft".
+          </li>
+          <li class="wysiwyg-indent3">
+           Klik "Nonaktifkan semua".
+          </li>
+          <li class="wysiwyg-indent3">
+           Pindah ke tab "Startup".
+          </li>
+          <li class="wysiwyg-indent3">
+           Klik "Buka Manajer Tugas".
+          </li>
+          <li class="wysiwyg-indent3">
+           Nonaktifkan semua item yang berjalan pada saat startup.
+          </li>
+          <li class="wysiwyg-indent3">
+           Tutup Manajer Tugas dan Konfigurasi Sistem.
+          </li>
+          <li class="wysiwyg-indent3">
+           Mulai ulang komputer.
+          </li>
+         </ol>
+        </li>
+       </ol>
+      </li>
+     </ol>
+     <p class="wysiwyg-indent2">
+      Lakukan langkah-langkah ini untuk memastikan tidak ada perangkat lunak lain yang mengganggu Roblox sehingga bisa berjalan lancar tanpa mengalami crash.
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h2 class="wysiwyg-indent1" id="h_01HR7QAA4FGHCHMV9NRXW8KEC1">
+      <strong>
+       Tipe Crash
+      </strong>
+      : Integritas boot menurun
+     </h2>
+     <h3 class="wysiwyg-indent1" id="h_01HR7QAFSVBEKMFZK1KA7ADYBQ">
+      <strong>
+       Pesan Pengguna
+      </strong>
+      : Critical system files are corrupt. Roblox cannot run. Please repair or reset your Windows installation. (File sistem penting rusak. Roblox tidak bisa dijalankan. Lakukan perbaikan atau reset instalasi Windows.)
+     </h3>
+     <p class="wysiwyg-indent2">
+      <strong>
+       Langkah-Langkah Pemecahan Masalah
+      </strong>
+      :
+     </p>
+     <p class="wysiwyg-indent2">
+      Roblox tidak bisa berfungsi dengan benar ketika Windows diatur dalam mode debug. Agar Roblox bisa digunakan, pastikan Windows berjalan normal.
+      <a href="https://learn.microsoft.com/id-id/troubleshoot/windows-server/performance/enable-debug-mode-causes-hang">
+       Ikuti langkah-langkah berikut untuk memverifikasi dan menonaktifkan mode debug di Windows
+      </a>
+      .
+     </p>
+     <ol>
+      <li style="list-style-type: none;">
+       <ol>
+        <li style="list-style-type: none;">
+         <ol>
+          <li class="wysiwyg-indent3">
+           Tekan "Tombol Windows+R" untuk membuka kotak Jalankan.
+          </li>
+          <li class="wysiwyg-indent3">
+           Ketik "msconfig", lalu tekan tombol Enter.
+          </li>
+          <li class="wysiwyg-indent3">
+           Pilih "tab Boot", lalu pilih opsi Tingkat Lanjut.
+          </li>
+          <li class="wysiwyg-indent3">
+           Hapus centang di kotak Debug.
+          </li>
+          <li class="wysiwyg-indent3">
+           Pilih "OK".
+          </li>
+          <li class="wysiwyg-indent3">
+           Pilih Terapkan, lalu "OK".
+          </li>
+          <li class="wysiwyg-indent3">
+           Mulai ulang komputer.
+          </li>
+         </ol>
+        </li>
+       </ol>
+      </li>
+     </ol>
+     <p class="wysiwyg-indent2">
+      Langkah-langkah ini akan memastikan Windows tidak menjalankan mode debug sehingga memungkinkan kamu menggunakan Roblox tanpa masalah.
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h2 class="wysiwyg-indent1" id="h_01HR7QAVGYQS5Z9Q96JP0TGV17">
+      <strong>
+       Tipe Crash
+      </strong>
+      : Gambar diblokir
+     </h2>
+     <h3 class="wysiwyg-indent1" id="h_01HR7QAZ73VEFD9CRD1D2TJZYN">
+      <strong>
+       Pesan Pengguna
+      </strong>
+      : Roblox has crashed due to incompatible software: &lt;path to offending software&gt; (Roblox mengalami crash karena perangkat lunak yang tidak kompatibel: &lt;jalur ke perangkat lunak penyebab masalah&gt;)
+     </h3>
+     <p class="wysiwyg-indent2">
+      <strong>
+       Langkah-Langkah Pemecahan Masalah
+      </strong>
+      :
+     </p>
+     <p class="wysiwyg-indent2">
+      Jika menemui pesan "Roblox has crashed due to incompatible software" (Roblox mengalami crash karena perangkat lunak yang tidak kompatibel), diikuti dengan jalur ke perangkat lunak penyebab masalah, itu berarti perangkat lunak yang disebutkan dalam jalur file yang ditampilkan sedang menyebabkan terjadinya masalah pada Roblox. Untuk memperbaiki masalah ini, kamu perlu menghentikan aktivitas perangkat lunak yang bersangkutan saat Roblox sedang digunakan. Kamu bisa melakukannya secara manual dengan mematikan perangkat lunak atau melakukan clean boot di Windows. Metode ini memastikan hanya perangkat lunak yang diperlukan saja yang aktif di sistem guna meminimalkan konflik.
+      <a href="https://support.microsoft.com/id-id/topic/cara-melakukan-boot-bersih-di-windows-da2f9573-6eec-00ad-2f8a-a97a1807f3dd">
+       Berikut cara melakukan clean boot sesuai rekomendasi Windows
+      </a>
+      s:
+     </p>
+     <ol>
+      <li style="list-style-type: none;">
+       <ol>
+        <li style="list-style-type: none;">
+         <ol>
+          <li class="wysiwyg-indent3">
+           Tekan "tombol Windows + R" untuk membuka dialog Jalankan.
+          </li>
+          <li class="wysiwyg-indent3">
+           Ketik "msconfig", lalu tekan tombol Enter.
+          </li>
+          <li class="wysiwyg-indent3">
+           Di jendela Konfigurasi Sistem, buka tab "Layanan".
+          </li>
+          <li class="wysiwyg-indent3">
+           Centang kotak berlabel "Sembunyikan semua layanan Microsoft".
+          </li>
+          <li class="wysiwyg-indent3">
+           Klik "Nonaktifkan semua".
+          </li>
+          <li class="wysiwyg-indent3">
+           Pindah ke tab "Startup".
+          </li>
+          <li class="wysiwyg-indent3">
+           Klik "Buka Manajer Tugas".
+          </li>
+          <li class="wysiwyg-indent3">
+           Nonaktifkan semua item yang berjalan pada saat startup.
+          </li>
+          <li class="wysiwyg-indent3">
+           Tutup Manajer Tugas dan Konfigurasi Sistem.
+          </li>
+          <li class="wysiwyg-indent3">
+           Mulai ulang komputer.
+          </li>
+         </ol>
+        </li>
+       </ol>
+      </li>
+     </ol>
+     <p class="wysiwyg-indent2">
+      Lakukan langkah-langkah ini untuk memastikan tidak ada perangkat lunak lain yang mengganggu Roblox sehingga bisa berjalan lancar tanpa mengalami crash.
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h2 class="wysiwyg-indent1" id="h_01HR7QB40CZC2VPGZXD8KG2G4N">
+      <strong>
+       Tipe Crash
+      </strong>
+      : (OBS) Open Broadcaster Software
+     </h2>
+     <h3 class="wysiwyg-indent1" id="h_01HR7QB7QQ4KHA6NBD1DT96ECD">
+      <strong>
+       Pesan Pengguna
+      </strong>
+      : OBS in-game capture is known to have issues with Roblox. (Perekam dalam-game OBS diketahui mengalami masalah saat digunakan dengan Roblox.) Gunakan perekam jendela atau desktop.
+     </h3>
+     <p class="wysiwyg-indent2">
+      <strong>
+       Langkah-Langkah Pemecahan Masalah
+      </strong>
+      :
+     </p>
+     <p class="wysiwyg-indent2">
+      Jika menemui pesan, "OBS in-game capture is known to have issues with Roblox" (Perekam dalam-game OBS diketahui mengalami masalah saat digunakan dengan Roblox.), itu artinya Roblox tidak mendukung fitur perekam dalam-game dari Open Broadcaster Software (OBS). Untuk melakukan streaming atau merekam Roblox, kamu perlu menggunakan mode perekam jendela atau desktop.
+      <a href="https://obsproject.com/kb/display-capture-sources">
+       Ikuti instruksi berikut untuk menyiapkan perekam desktop
+      </a>
+      :
+     </p>
+     <ol>
+      <li style="list-style-type: none;">
+       <ol>
+        <li style="list-style-type: none;">
+         <ol>
+          <li class="wysiwyg-indent3">
+           Buka Open Broadcaster Software (OBS).
+          </li>
+          <li class="wysiwyg-indent3">
+           Di bagian "Sources" (Sumber), klik ikon "+".
+          </li>
+          <li class="wysiwyg-indent3">
+           Pilih "Display Capture" (Perekaman Layar) dari menu.
+          </li>
+          <li class="wysiwyg-indent3">
+           Pilih layar yang ingin direkam (biasanya monitor utama).
+          </li>
+          <li class="wysiwyg-indent3">
+           Sesuaikan pengaturan, seperti resolusi dan frame rate sesuai kebutuhan.
+          </li>
+          <li class="wysiwyg-indent3">
+           Klik "OK" untuk mengonfirmasi sumber perekaman layar.
+          </li>
+          <li class="wysiwyg-indent3">
+           Atur sumber perekaman layar sesuai yang diinginkan di adegan OBS kamu.
+          </li>
+          <li class="wysiwyg-indent3">
+           Mulai streaming atau rekaman seperti biasa.
+          </li>
+         </ol>
+        </li>
+       </ol>
+      </li>
+     </ol>
+     <p class="wysiwyg-indent2">
+      Dengan mode perekaman desktop, kamu bisa secara efektif melakukan streaming atau merekam Roblox tanpa mengalami masalah kompatibilitas dengan fitur perekaman dalam-game OBS.
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h2 class="wysiwyg-indent1" id="h_01HR7QBERF7JCBBGEZP6BBRJPH">
+      <strong>
+       Tipe Crash
+      </strong>
+      : Interaksi perangkat lunak pihak ketiga
+     </h2>
+     <h3 class="wysiwyg-indent1" id="h_01HR7QBJCZ754JGR9VK8Z1HCFF">
+      <strong>
+       Pesan Pengguna
+      </strong>
+      : Roblox has crashed due to third-party software. Please perform a Windows clean boot. (Roblox mengalami crash karena perangkat lunak pihak ketiga. Lakukan clean boot di Windows.)
+     </h3>
+     <p class="wysiwyg-indent2">
+      <strong>
+       Langkah-Langkah Pemecahan Masalah
+      </strong>
+      :
+     </p>
+     <p class="wysiwyg-indent2">
+      Jika menemui pesan "Roblox has crashed due to third-party software." (Roblox mengalami crash karena perangkat lunak pihak ketiga.), itu artinya perangkat lunak lain di komputermu menyebabkan masalah saat dijalankan bersamaan dengan Roblox. Untuk memecahkan masalah ini, kamu perlu mematikan perangkat lunak lain pada saat Roblox digunakan. Cara yang paling efektif adalah dengan melakukan clean boot di Windows untuk memastikan hanya perangkat lunak penting saja yang berjalan di sistem.
+      <a href="https://support.microsoft.com/id-id/topic/cara-melakukan-boot-bersih-di-windows-da2f9573-6eec-00ad-2f8a-a97a1807f3dd">
+       Berikut cara melakukan clean boot sesuai rekomendasi Windows
+      </a>
+      :
+     </p>
+     <ol>
+      <li style="list-style-type: none;">
+       <ol>
+        <li style="list-style-type: none;">
+         <ol>
+          <li class="wysiwyg-indent3">
+           Tekan "tombol Windows + R" untuk membuka dialog Jalankan.
+          </li>
+          <li class="wysiwyg-indent3">
+           Ketik "msconfig", lalu tekan tombol Enter.
+          </li>
+          <li class="wysiwyg-indent3">
+           Di jendela Konfigurasi Sistem, buka tab "Layanan".
+          </li>
+          <li class="wysiwyg-indent3">
+           Centang kotak berlabel "Sembunyikan semua layanan Microsoft".
+          </li>
+          <li class="wysiwyg-indent3">
+           Klik "Nonaktifkan semua".
+          </li>
+          <li class="wysiwyg-indent3">
+           Pindah ke tab "Startup".
+          </li>
+          <li class="wysiwyg-indent3">
+           Klik "Buka Manajer Tugas".
+          </li>
+          <li class="wysiwyg-indent3">
+           Nonaktifkan semua item yang berjalan pada saat startup.
+          </li>
+          <li class="wysiwyg-indent3">
+           Tutup Manajer Tugas dan Konfigurasi Sistem.
+          </li>
+          <li class="wysiwyg-indent3">
+           Mulai ulang komputer.
+          </li>
+         </ol>
+        </li>
+       </ol>
+      </li>
+     </ol>
+     <p class="wysiwyg-indent2">
+      Lakukan langkah-langkah ini untuk memastikan tidak ada perangkat lunak lain yang mengganggu Roblox sehingga bisa berjalan lancar tanpa mengalami crash.
+     </p>
+    </div>
+    <!--           Add content tags to articles and posts -->
+   </div>
