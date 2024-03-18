@@ -18,3 +18,4 @@ Name|URL
 [Cosa fare se l'antivirus ha segnalato Roblox](./Cosa fare se l'antivirus ha segnalato Roblox.html) |https://en.help.roblox.com/hc/it/articles/203313030-Cosa-fare-se-l-antivirus-ha-segnalato-Roblox
 [Reimpostazione dell'orologio o impossibile ottenere l'URL: Httpsendrequest failed,err=0x2f05](./Reimpostazione dell'orologio o impossibile ottenere l'URL- Httpsendrequest failed,err=0x2f05.html) |https://en.help.roblox.com/hc/it/articles/203312830-Reimpostazione-dell-orologio-o-impossibile-ottenere-l-URL-Httpsendrequest-failed-err-0x2f05
 [Risoluzione dei problemi relativi alle reti educative](./Risoluzione dei problemi relativi alle reti educative.html) |https://en.help.roblox.com/hc/it/articles/115005744663-Risoluzione-dei-problemi-relativi-alle-reti-educative
+[Messaggi Hyperion](./Messaggi Hyperion.html) |https://en.help.roblox.com/hc/it/articles/24275616578708-Messaggi-Hyperion
