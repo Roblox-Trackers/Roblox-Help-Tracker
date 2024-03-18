@@ -1,0 +1,488 @@
+   <h1 class="article-title" id="article-title" title="Hyperion 消息">
+    Hyperion 消息
+   </h1>
+   <div class="article-content">
+    <div class="article-body">
+     <p>
+      本文包含可能出现的 Hyperion 反作弊崩溃消息，以及帮助您解决问题的相应故障排除步骤。
+     </p>
+     <p>
+     </p>
+     <h2 class="wysiwyg-indent1" id="h_01HR7Q6Y429QJPVSDNM9BY2QP3">
+      <strong>
+       崩溃类型
+      </strong>
+      ：超时故障
+     </h2>
+     <h3 class="wysiwyg-indent1" id="h_01HR7Q72Y67HCW3M8PPY787328">
+      <strong>
+       用户消息
+      </strong>
+      ：Roblox 已超时。 请重启您的客户端。
+     </h3>
+     <p class="wysiwyg-indent2">
+      <strong>
+       故障排除步骤
+      </strong>
+      ：
+     </p>
+     <p class="wysiwyg-indent2">
+      如果遇到消息“Roblox 已超时。 请重启您的客户端”，即表示您的 Roblox 客户端需要重启。 在正常使用期间，如果重启客户端后问题仍然存在，请
+      <a href="https://www.roblox.com/support">
+       联系我们的支持团队
+      </a>
+      寻求进一步帮助。
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h2 class="wysiwyg-indent1" id="h_01HR7Q7B6F08C2K2SZE6MF77J7">
+      <strong>
+       崩溃类型
+      </strong>
+      ：检测到虚拟机
+     </h2>
+     <h3 class="wysiwyg-indent1" id="h_01HR7Q7G1ASX5S4T2H3936ZADK">
+      <strong>
+       用户消息
+      </strong>
+      ：Roblox 无法在虚拟机中运行。
+     </h3>
+     <p class="wysiwyg-indent2">
+      <strong>
+       故障排除步骤
+      </strong>
+      ：
+     </p>
+     <p class="wysiwyg-indent2">
+      如果看到消息“检测到虚拟机”，即表示 Roblox 不支持您的虚拟机 (VM)。 Roblox 需要 GPU 直通才能在 VM 中正常运行。 GPU 直通允许 VM 绕过虚拟机管理程序层直接访问物理 GPU。 以下是启用 GPU 直通的方法：
+     </p>
+     <ol>
+      <li style="list-style-type: none;">
+       <ol>
+        <li style="list-style-type: none;">
+         <ol>
+          <li class="wysiwyg-indent3">
+           确认您的硬件支持 GPU 直通。
+          </li>
+          <li class="wysiwyg-indent3">
+           更新 BIOS/UEFI 设置以启用虚拟化扩展（例如 Intel VT-x 或 AMD-V）。
+          </li>
+          <li class="wysiwyg-indent3">
+           在 VM 软件中配置 GPU 直通。
+          </li>
+         </ol>
+        </li>
+       </ol>
+      </li>
+     </ol>
+     <p class="wysiwyg-indent2">
+      遵循这些步骤可确保 Roblox 在虚拟化环境中流畅运行，从而实现对 GPU 资源的必要访问。
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h2 class="wysiwyg-indent1" id="h_01HR7Q9M59KQNDFCZBCSB4WDSW">
+      <strong>
+       崩溃类型
+      </strong>
+      ：检测到流氓软件
+     </h2>
+     <h3 class="wysiwyg-indent1" id="h_01HR7Q9QHMBZEMSP5Y8VSPWZ3G">
+      <strong>
+       用户消息
+      </strong>
+      ：软件不兼容导致 Roblox 崩溃：&lt;违规软件的路径&gt;
+     </h3>
+     <p class="wysiwyg-indent2">
+      <strong>
+       故障排除步骤
+      </strong>
+      ：
+     </p>
+     <p class="wysiwyg-indent2">
+      如果看到消息“软件不兼容导致 Roblox 崩溃：”，并且后面跟着违规软件的路径，即表示显示的文件路径中提到的软件正在导致 Roblox 出现问题。 要解决此问题，您需要阻止该软件在使用 Roblox 时运行。 您可以手动关闭软件，或在 Windows 中执行干净启动。 此方法可确保系统上只运行必要的软件，最大限度地减少冲突。
+      <a href="https://support.microsoft.com/zh-cn/topic/%E5%A6%82%E4%BD%95%E5%9C%A8-windows-%E4%B8%AD%E6%89%A7%E8%A1%8C%E5%B9%B2%E5%87%80%E5%90%AF%E5%8A%A8-da2f9573-6eec-00ad-2f8a-a97a1807f3dd">
+       以下是 Windows 推荐的干净启动方法
+      </a>
+      ：
+     </p>
+     <ol>
+      <li style="list-style-type: none;">
+       <ol>
+        <li style="list-style-type: none;">
+         <ol>
+          <li class="wysiwyg-indent3">
+           按“Windows 键 + R”，打开“运行”对话框。
+          </li>
+          <li class="wysiwyg-indent3">
+           输入 "msconfig"，然后按“回车”键。
+          </li>
+          <li class="wysiwyg-indent3">
+           在“系统配置”窗口中，转到“服务”选项卡。
+          </li>
+          <li class="wysiwyg-indent3">
+           选中“隐藏所有 Microsoft 服务”复选框。
+          </li>
+          <li class="wysiwyg-indent3">
+           单击“全部禁用”。
+          </li>
+          <li class="wysiwyg-indent3">
+           切换到“启动”选项卡。
+          </li>
+          <li class="wysiwyg-indent3">
+           单击“打开任务管理器”。
+          </li>
+          <li class="wysiwyg-indent3">
+           禁用所有启动项。
+          </li>
+          <li class="wysiwyg-indent3">
+           关闭“任务管理器”和“系统配置”。
+          </li>
+          <li class="wysiwyg-indent3">
+           重启电脑。
+          </li>
+         </ol>
+        </li>
+       </ol>
+      </li>
+     </ol>
+     <p class="wysiwyg-indent2">
+      完成这些步骤将有助于确保没有其他软件干扰 Roblox，使其能够流畅运行而不会崩溃。
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h2 class="wysiwyg-indent1" id="h_01HR7QA19GFZP5ZQ04A89JH1Z0">
+      <strong>
+       崩溃类型
+      </strong>
+      ：进程暂停
+     </h2>
+     <h3 class="wysiwyg-indent1" id="h_01HR7QA4YG4NQXDWGER9YEZPQQ">
+      <strong>
+       用户消息
+      </strong>
+      ：Roblox 已停止。 请确保第三方软件不会干扰 Roblox。
+     </h3>
+     <p class="wysiwyg-indent2">
+      <strong>
+       故障排除步骤
+      </strong>
+      ：
+     </p>
+     <p class="wysiwyg-indent2">
+      如果遇到消息“Roblox 已停止。 请确保第三方软件不会干扰 Roblox。”，即表示电脑上的某些其他软件正在导致 Roblox 出现问题。 要解决此问题，需要在使用 Roblox 时关闭所有其他软件。 执行此操作的最佳方法是在 Windows 中执行干净启动，这可确保系统上仅运行必要的软件。
+      <a href="https://support.microsoft.com/zh-cn/topic/%E5%A6%82%E4%BD%95%E5%9C%A8-windows-%E4%B8%AD%E6%89%A7%E8%A1%8C%E5%B9%B2%E5%87%80%E5%90%AF%E5%8A%A8-da2f9573-6eec-00ad-2f8a-a97a1807f3dd">
+       以下是 Windows 推荐的干净启动方法
+      </a>
+      ：
+     </p>
+     <ol>
+      <li style="list-style-type: none;">
+       <ol>
+        <li style="list-style-type: none;">
+         <ol>
+          <li class="wysiwyg-indent3">
+           按“Windows 键 + R”，打开“运行”对话框。
+          </li>
+          <li class="wysiwyg-indent3">
+           输入 "msconfig"，然后按“回车”键。
+          </li>
+          <li class="wysiwyg-indent3">
+           在“系统配置”窗口中，转到“服务”选项卡。
+          </li>
+          <li class="wysiwyg-indent3">
+           选中“隐藏所有 Microsoft 服务”复选框。
+          </li>
+          <li class="wysiwyg-indent3">
+           单击“全部禁用”。
+          </li>
+          <li class="wysiwyg-indent3">
+           切换到“启动”选项卡。
+          </li>
+          <li class="wysiwyg-indent3">
+           单击“打开任务管理器”。
+          </li>
+          <li class="wysiwyg-indent3">
+           禁用所有启动项。
+          </li>
+          <li class="wysiwyg-indent3">
+           关闭“任务管理器”和“系统配置”。
+          </li>
+          <li class="wysiwyg-indent3">
+           重启电脑。
+          </li>
+         </ol>
+        </li>
+       </ol>
+      </li>
+     </ol>
+     <p class="wysiwyg-indent2">
+      完成这些步骤将有助于确保没有其他软件干扰 Roblox，使其能够流畅运行而不会崩溃。
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h2 class="wysiwyg-indent1" id="h_01HR7QAA4FGHCHMV9NRXW8KEC1">
+      <strong>
+       崩溃类型
+      </strong>
+      ：启动完整性受损
+     </h2>
+     <h3 class="wysiwyg-indent1" id="h_01HR7QAFSVBEKMFZK1KA7ADYBQ">
+      <strong>
+       用户消息
+      </strong>
+      ：关键系统文件已损坏。 Roblox 无法运行。 请修复或重置您的 Windows 安装。
+     </h3>
+     <p class="wysiwyg-indent2">
+      <strong>
+       故障排除步骤
+      </strong>
+      ：
+     </p>
+     <p class="wysiwyg-indent2">
+      当 Windows 设置为调试模式时，Roblox 无法正常运行。 要使用 Roblox，请确保 Windows 正常运行。
+      <a href="https://learn.microsoft.com/zh-cn/troubleshoot/windows-server/performance/enable-debug-mode-causes-hang">
+       按照以下步骤验证并禁用 Windows 的调试模式
+      </a>
+      。
+     </p>
+     <ol>
+      <li style="list-style-type: none;">
+       <ol>
+        <li style="list-style-type: none;">
+         <ol>
+          <li class="wysiwyg-indent3">
+           按“Windows 键 + R”，打开“运行”对话框。
+          </li>
+          <li class="wysiwyg-indent3">
+           输入 "msconfig"，然后按“回车”键。
+          </li>
+          <li class="wysiwyg-indent3">
+           选择“启动”选项卡，然后选择“高级”选项。
+          </li>
+          <li class="wysiwyg-indent3">
+           取消选中“调试”复选框。
+          </li>
+          <li class="wysiwyg-indent3">
+           选择“确定”。
+          </li>
+          <li class="wysiwyg-indent3">
+           选择“应用”，然后选择“确定”。
+          </li>
+          <li class="wysiwyg-indent3">
+           重启电脑。
+          </li>
+         </ol>
+        </li>
+       </ol>
+      </li>
+     </ol>
+     <p class="wysiwyg-indent2">
+      这些步骤将确保 Windows 不会在调试模式下运行，让您可以顺利使用 Roblox。
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h2 class="wysiwyg-indent1" id="h_01HR7QAVGYQS5Z9Q96JP0TGV17">
+      <strong>
+       崩溃类型
+      </strong>
+      ：图片被屏蔽
+     </h2>
+     <h3 class="wysiwyg-indent1" id="h_01HR7QAZ73VEFD9CRD1D2TJZYN">
+      <strong>
+       用户消息
+      </strong>
+      ：软件不兼容导致 Roblox 崩溃：&lt;违规软件的路径&gt;
+     </h3>
+     <p class="wysiwyg-indent2">
+      <strong>
+       故障排除步骤
+      </strong>
+      ：
+     </p>
+     <p class="wysiwyg-indent2">
+      如果看到消息“软件不兼容导致 Roblox 崩溃”，并且后面跟着违规软件的路径，即表示显示的文件路径中提到的软件正在导致 Roblox 出现问题。 要解决此问题，您需要阻止该软件在使用 Roblox 时运行。 您可以手动关闭软件，或在 Windows 中执行干净启动。 此方法可确保系统上只运行必要的软件，最大限度地减少冲突。
+      <a href="https://support.microsoft.com/zh-cn/topic/%E5%A6%82%E4%BD%95%E5%9C%A8-windows-%E4%B8%AD%E6%89%A7%E8%A1%8C%E5%B9%B2%E5%87%80%E5%90%AF%E5%8A%A8-da2f9573-6eec-00ad-2f8a-a97a1807f3dd">
+       以下是 Windows 推荐的干净启动方法
+      </a>
+      ：
+     </p>
+     <ol>
+      <li style="list-style-type: none;">
+       <ol>
+        <li style="list-style-type: none;">
+         <ol>
+          <li class="wysiwyg-indent3">
+           按“Windows 键 + R”，打开“运行”对话框。
+          </li>
+          <li class="wysiwyg-indent3">
+           输入 "msconfig"，然后按“回车”键。
+          </li>
+          <li class="wysiwyg-indent3">
+           在“系统配置”窗口中，转到“服务”选项卡。
+          </li>
+          <li class="wysiwyg-indent3">
+           选中“隐藏所有 Microsoft 服务”复选框。
+          </li>
+          <li class="wysiwyg-indent3">
+           单击“全部禁用”。
+          </li>
+          <li class="wysiwyg-indent3">
+           切换到“启动”选项卡。
+          </li>
+          <li class="wysiwyg-indent3">
+           单击“打开任务管理器”。
+          </li>
+          <li class="wysiwyg-indent3">
+           禁用所有启动项。
+          </li>
+          <li class="wysiwyg-indent3">
+           关闭“任务管理器”和“系统配置”。
+          </li>
+          <li class="wysiwyg-indent3">
+           重启电脑。
+          </li>
+         </ol>
+        </li>
+       </ol>
+      </li>
+     </ol>
+     <p class="wysiwyg-indent2">
+      完成这些步骤将有助于确保没有其他软件干扰 Roblox，使其能够流畅运行而不会崩溃。
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h2 class="wysiwyg-indent1" id="h_01HR7QB40CZC2VPGZXD8KG2G4N">
+      <strong>
+       崩溃类型
+      </strong>
+      ：(OBS) Open Broadcaster Software
+     </h2>
+     <h3 class="wysiwyg-indent1" id="h_01HR7QB7QQ4KHA6NBD1DT96ECD">
+      <strong>
+       用户消息
+      </strong>
+      ：已知 OBS 游戏内捕获与 Roblox 之间存在问题。 请改用窗口或桌面捕获。
+     </h3>
+     <p class="wysiwyg-indent2">
+      <strong>
+       故障排除步骤
+      </strong>
+      ：
+     </p>
+     <p class="wysiwyg-indent2">
+      如果收到消息“已知 OBS 游戏内捕获与 Roblox 之间存在问题”，即表示 Roblox 不支持 Open Broadcaster Software (OBS) 的游戏内捕获功能。 要串流或录制 Roblox，需要改用窗口或桌面捕获模式。
+      <a href="https://obsproject.com/zh-cn/kb/display-capture-sources">
+       按照以下说明设置桌面捕获
+      </a>
+      ：
+     </p>
+     <ol>
+      <li style="list-style-type: none;">
+       <ol>
+        <li style="list-style-type: none;">
+         <ol>
+          <li class="wysiwyg-indent3">
+           打开 Open Broadcaster Software (OBS)。
+          </li>
+          <li class="wysiwyg-indent3">
+           在“来源”部分，单击“+”图标。
+          </li>
+          <li class="wysiwyg-indent3">
+           从菜单中选择“显示捕获”。
+          </li>
+          <li class="wysiwyg-indent3">
+           选择要捕获的显示器（通常是主显示器）。
+          </li>
+          <li class="wysiwyg-indent3">
+           根据需要调整分辨率和帧率等设置。
+          </li>
+          <li class="wysiwyg-indent3">
+           单击“确定”确认显示器捕获源。
+          </li>
+          <li class="wysiwyg-indent3">
+           根据需要在 OBS 场景中排列显示器捕获源。
+          </li>
+          <li class="wysiwyg-indent3">
+           像往常一样开始串流或录制。
+          </li>
+         </ol>
+        </li>
+       </ol>
+      </li>
+     </ol>
+     <p class="wysiwyg-indent2">
+      通过使用桌面捕获模式，可以高效串流或录制 Roblox，避免了 OBS 游戏内捕获功能的兼容性问题。
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h2 class="wysiwyg-indent1" id="h_01HR7QBERF7JCBBGEZP6BBRJPH">
+      <strong>
+       崩溃类型
+      </strong>
+      ：第三方软件交互
+     </h2>
+     <h3 class="wysiwyg-indent1" id="h_01HR7QBJCZ754JGR9VK8Z1HCFF">
+      <strong>
+       用户消息
+      </strong>
+      ：第三方软件导致 Roblox 崩溃。 请执行 Windows 干净启动。
+     </h3>
+     <p class="wysiwyg-indent2">
+      <strong>
+       故障排除步骤
+      </strong>
+      ：
+     </p>
+     <p class="wysiwyg-indent2">
+      如果遇到消息“第三方软件导致 Roblox 崩溃”，即表示电脑上的某些其他软件正在导致 Roblox 出现问题。 要解决此问题，需要在使用 Roblox 时关闭所有其他软件。 执行此操作的最佳方法是在 Windows 中执行干净启动，这可确保系统上仅运行必要的软件。
+      <a href="https://support.microsoft.com/zh-cn/topic/%E5%A6%82%E4%BD%95%E5%9C%A8-windows-%E4%B8%AD%E6%89%A7%E8%A1%8C%E5%B9%B2%E5%87%80%E5%90%AF%E5%8A%A8-da2f9573-6eec-00ad-2f8a-a97a1807f3dd">
+       以下是 Windows 推荐的干净启动方法
+      </a>
+      ：
+     </p>
+     <ol>
+      <li style="list-style-type: none;">
+       <ol>
+        <li style="list-style-type: none;">
+         <ol>
+          <li class="wysiwyg-indent3">
+           按“Windows 键 + R”，打开“运行”对话框。
+          </li>
+          <li class="wysiwyg-indent3">
+           输入 "msconfig"，然后按“回车”键。
+          </li>
+          <li class="wysiwyg-indent3">
+           在“系统配置”窗口中，转到“服务”选项卡。
+          </li>
+          <li class="wysiwyg-indent3">
+           选中“隐藏所有 Microsoft 服务”复选框。
+          </li>
+          <li class="wysiwyg-indent3">
+           单击“全部禁用”。
+          </li>
+          <li class="wysiwyg-indent3">
+           切换到“启动”选项卡。
+          </li>
+          <li class="wysiwyg-indent3">
+           单击“打开任务管理器”。
+          </li>
+          <li class="wysiwyg-indent3">
+           禁用所有启动项。
+          </li>
+          <li class="wysiwyg-indent3">
+           关闭“任务管理器”和“系统配置”。
+          </li>
+          <li class="wysiwyg-indent3">
+           重启电脑。
+          </li>
+         </ol>
+        </li>
+       </ol>
+      </li>
+     </ol>
+     <p class="wysiwyg-indent2">
+      完成这些步骤将有助于确保没有其他软件干扰 Roblox，使其能够流畅运行而不会崩溃。
+     </p>
+    </div>
+    <!--           Add content tags to articles and posts -->
+   </div>
