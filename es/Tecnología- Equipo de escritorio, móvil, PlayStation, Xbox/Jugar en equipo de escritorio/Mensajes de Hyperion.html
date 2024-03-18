@@ -1,0 +1,488 @@
+   <h1 class="article-title" id="article-title" title="Mensajes de Hyperion">
+    Mensajes de Hyperion
+   </h1>
+   <div class="article-content">
+    <div class="article-body">
+     <p>
+      Este artículo contiene potenciales mensajes de fallos antitrampas de Hyperion que podrías encontrar, seguidos de los pasos de solución de errores correspondientes para ayudarte a resolverlos.
+     </p>
+     <p>
+     </p>
+     <h2 class="wysiwyg-indent1" id="h_01HR7Q6Y429QJPVSDNM9BY2QP3">
+      <strong>
+       Tipo de fallo
+      </strong>
+      : Fallo de límite de tiempo
+     </h2>
+     <h3 class="wysiwyg-indent1" id="h_01HR7Q72Y67HCW3M8PPY787328">
+      <strong>
+       Mensaje de usuario
+      </strong>
+      : La sesión de Roblox expiró. Reinicia tu cliente.
+     </h3>
+     <p class="wysiwyg-indent2">
+      <strong>
+       Pasos de solución de errores
+      </strong>
+      :
+     </p>
+     <p class="wysiwyg-indent2">
+      Si te encuentras con un mensaje que dice "La sesión de Roblox expiró. Reinicia tu cliente", significa que necesitas reiniciar tu cliente de Roblox. Si el problema persiste a pesar de reiniciar el cliente durante el uso regular,
+      <a href="https://www.roblox.com/support">
+       contacta con nuestro equipo de soporte
+      </a>
+      para obtener más ayuda.
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h2 class="wysiwyg-indent1" id="h_01HR7Q7B6F08C2K2SZE6MF77J7">
+      <strong>
+       Tipo de fallo
+      </strong>
+      : Máquina virtual detectada
+     </h2>
+     <h3 class="wysiwyg-indent1" id="h_01HR7Q7G1ASX5S4T2H3936ZADK">
+      <strong>
+       Mensaje de usuario
+      </strong>
+      : Roblox no se puede ejecutar en una máquina virtual.
+     </h3>
+     <p class="wysiwyg-indent2">
+      <strong>
+       Pasos de solución de errores
+      </strong>
+      :
+     </p>
+     <p class="wysiwyg-indent2">
+      Si ves el mensaje "Máquina virtual detectada", significa que tu máquina virtual (o VM, por sus siglas en inglés) no es compatible con Roblox. Roblox requiere transferencia de GPU para funcionar adecuadamente en una VM. La transferencia de GPU otorga acceso directo a la VM a la GPU física, omitiendo la capa de hipervisor. Sigue estos pasos para activar la transferencia de GPU:
+     </p>
+     <ol>
+      <li style="list-style-type: none;">
+       <ol>
+        <li style="list-style-type: none;">
+         <ol>
+          <li class="wysiwyg-indent3">
+           Confirma que tu hardware es compatible con la transferencia de GPU.
+          </li>
+          <li class="wysiwyg-indent3">
+           Actualiza tus ajustes de BIOS/UEFI para habilitar las extensiones de virtualización (p. ej., Intel VT-x o AMD-V).
+          </li>
+          <li class="wysiwyg-indent3">
+           Configura la transferencia de GPU en tu software de VM.
+          </li>
+         </ol>
+        </li>
+       </ol>
+      </li>
+     </ol>
+     <p class="wysiwyg-indent2">
+      Seguir estos pasos asegura que Roblox funcione correctamente en un entorno virtual, otorgando el acceso necesario a los recursos de GPU.
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h2 class="wysiwyg-indent1" id="h_01HR7Q9M59KQNDFCZBCSB4WDSW">
+      <strong>
+       Tipo de fallo
+      </strong>
+      : Badware detectado
+     </h2>
+     <h3 class="wysiwyg-indent1" id="h_01HR7Q9QHMBZEMSP5Y8VSPWZ3G">
+      <strong>
+       Mensaje de usuario
+      </strong>
+      : Roblox falló debido a software incompatible: &lt;ruta al software infractor&gt;
+     </h3>
+     <p class="wysiwyg-indent2">
+      <strong>
+       Pasos de solución de errores
+      </strong>
+      :
+     </p>
+     <p class="wysiwyg-indent2">
+      Si ves un mensaje que dice "Roblox falló debido a software incompatible:" seguido de una ruta al software infractor, significa que el software mencionado en la ruta del archivo mostrado está causando problemas con Roblox. Para arreglar esto, necesitarás prevenir que el software se ejecute mientras usas Roblox. Puedes hacer esto manualmente al cerrar el software, o puedes realizar un arranque limpio en Windows. Este método asegura que solo el software necesario esté activo en tu sistema, minimizando los conflictos.
+      <a href="https://support.microsoft.com/es-es/topic/c%C3%B3mo-realizar-un-inicio-limpio-en-windows-da2f9573-6eec-00ad-2f8a-a97a1807f3dd">
+       Sigue estos pasos para completar el inicio limpio como lo recomienda Windows
+      </a>
+      :
+     </p>
+     <ol>
+      <li style="list-style-type: none;">
+       <ol>
+        <li style="list-style-type: none;">
+         <ol>
+          <li class="wysiwyg-indent3">
+           Presiona la "tecla Windows + R" para abrir el diálogo Ejecutar.
+          </li>
+          <li class="wysiwyg-indent3">
+           Escribe "msconfig" y presiona Intro.
+          </li>
+          <li class="wysiwyg-indent3">
+           En la ventana Configuración del sistema, ve a la pestaña "Servicios".
+          </li>
+          <li class="wysiwyg-indent3">
+           Marca la casilla etiquetada con "Ocultar todos los servicios de Microsoft".
+          </li>
+          <li class="wysiwyg-indent3">
+           Haz clic en "Deshabilitar todos".
+          </li>
+          <li class="wysiwyg-indent3">
+           Cambia a la pestaña "Inicio de Windows".
+          </li>
+          <li class="wysiwyg-indent3">
+           Haz clic en "Abrir el Administrador de tareas".
+          </li>
+          <li class="wysiwyg-indent3">
+           Deshabilita todos los elementos de inicio.
+          </li>
+          <li class="wysiwyg-indent3">
+           Cierra el administrador de tareas y la configuración del sistema.
+          </li>
+          <li class="wysiwyg-indent3">
+           Reinicia tu computadora.
+          </li>
+         </ol>
+        </li>
+       </ol>
+      </li>
+     </ol>
+     <p class="wysiwyg-indent2">
+      Completar estos pasos te ayudará a asegurarte de que ningún otro software interfiera con Roblox, lo que le permitirá funcionar sin fallos.
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h2 class="wysiwyg-indent1" id="h_01HR7QA19GFZP5ZQ04A89JH1Z0">
+      <strong>
+       Tipo de fallo
+      </strong>
+      : Proceso suspendido
+     </h2>
+     <h3 class="wysiwyg-indent1" id="h_01HR7QA4YG4NQXDWGER9YEZPQQ">
+      <strong>
+       Mensaje de usuario
+      </strong>
+      : Roblox se detuvo. Asegúrate de que el software de un tercero no interfiera con Roblox.
+     </h3>
+     <p class="wysiwyg-indent2">
+      <strong>
+       Pasos de solución de errores
+      </strong>
+      :
+     </p>
+     <p class="wysiwyg-indent2">
+      Si te encuentras con un mensaje que dice "Roblox se detuvo. Asegúrate de que el software de un tercero no interfiera con Roblox", significa que algún otro software en tu computadora está causando problemas con Roblox. Para resolver este fallo, necesitas cerrar cualquier otro software mientras usas Roblox. La mejor forma de hacer esto es realizar un inicio limpio en Windows, lo que asegura que solo se esté ejecutando software esencial en tu sistema.
+      <a href="https://support.microsoft.com/es-es/topic/c%C3%B3mo-realizar-un-inicio-limpio-en-windows-da2f9573-6eec-00ad-2f8a-a97a1807f3dd">
+       Sigue estos pasos para completar el inicio limpio como lo recomienda Windows
+      </a>
+      :
+     </p>
+     <ol>
+      <li style="list-style-type: none;">
+       <ol>
+        <li style="list-style-type: none;">
+         <ol>
+          <li class="wysiwyg-indent3">
+           Presiona la "tecla Windows + R" para abrir el diálogo Ejecutar.
+          </li>
+          <li class="wysiwyg-indent3">
+           Escribe "msconfig" y presiona Intro.
+          </li>
+          <li class="wysiwyg-indent3">
+           En la ventana Configuración del sistema, ve a la pestaña "Servicios".
+          </li>
+          <li class="wysiwyg-indent3">
+           Marca la casilla etiquetada con "Ocultar todos los servicios de Microsoft".
+          </li>
+          <li class="wysiwyg-indent3">
+           Haz clic en "Deshabilitar todos".
+          </li>
+          <li class="wysiwyg-indent3">
+           Cambia a la pestaña "Inicio de Windows".
+          </li>
+          <li class="wysiwyg-indent3">
+           Haz clic en "Abrir el Administrador de tareas".
+          </li>
+          <li class="wysiwyg-indent3">
+           Deshabilita todos los elementos de inicio.
+          </li>
+          <li class="wysiwyg-indent3">
+           Cierra el administrador de tareas y la configuración del sistema.
+          </li>
+          <li class="wysiwyg-indent3">
+           Reinicia tu computadora.
+          </li>
+         </ol>
+        </li>
+       </ol>
+      </li>
+     </ol>
+     <p class="wysiwyg-indent2">
+      Completar estos pasos te ayudará a asegurarte de que ningún otro software interfiera con Roblox, lo que le permitirá funcionar sin fallos.
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h2 class="wysiwyg-indent1" id="h_01HR7QAA4FGHCHMV9NRXW8KEC1">
+      <strong>
+       Tipo de fallo
+      </strong>
+      : Integridad de arranque comprometida
+     </h2>
+     <h3 class="wysiwyg-indent1" id="h_01HR7QAFSVBEKMFZK1KA7ADYBQ">
+      <strong>
+       Mensaje de usuario
+      </strong>
+      : Los archivos críticos del sistema están corruptos. Roblox no se puede ejecutar. Repara o reinicia tu instalación de Windows.
+     </h3>
+     <p class="wysiwyg-indent2">
+      <strong>
+       Pasos de solución de errores
+      </strong>
+      :
+     </p>
+     <p class="wysiwyg-indent2">
+      Roblox no funciona adecuadamente cuando Windows está configurado en el modo de depuración. Para usar Roblox, asegúrate de que Windows funciona con normalidad.
+      <a href="https://learn.microsoft.com/es-mx/troubleshoot/windows-server/performance/enable-debug-mode-causes-hang">
+       Sigue estos pasos para verificar y deshabilitar el modo de depuración en Windows
+      </a>
+      .
+     </p>
+     <ol>
+      <li style="list-style-type: none;">
+       <ol>
+        <li style="list-style-type: none;">
+         <ol>
+          <li class="wysiwyg-indent3">
+           Presiona la "tecla Windows+R" para abrir el recuadro Ejecutar.
+          </li>
+          <li class="wysiwyg-indent3">
+           Escribe "msconfig" y presiona Intro.
+          </li>
+          <li class="wysiwyg-indent3">
+           Selecciona la "pestaña de Arranque" y selecciona las Opciones avanzadas.
+          </li>
+          <li class="wysiwyg-indent3">
+           Desmarca la casilla Depurar.
+          </li>
+          <li class="wysiwyg-indent3">
+           Selecciona "Aceptar".
+          </li>
+          <li class="wysiwyg-indent3">
+           Selecciona Aplicar y después "Aceptar".
+          </li>
+          <li class="wysiwyg-indent3">
+           Reinicia la computadora.
+          </li>
+         </ol>
+        </li>
+       </ol>
+      </li>
+     </ol>
+     <p class="wysiwyg-indent2">
+      Estos pasos asegurarán que Windows no se ejecute en el modo de depuración, lo que te permitirá usar Roblox sin fallos.
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h2 class="wysiwyg-indent1" id="h_01HR7QAVGYQS5Z9Q96JP0TGV17">
+      <strong>
+       Tipo de fallo
+      </strong>
+      : Imagen bloqueada
+     </h2>
+     <h3 class="wysiwyg-indent1" id="h_01HR7QAZ73VEFD9CRD1D2TJZYN">
+      <strong>
+       Mensaje de usuario
+      </strong>
+      : Roblox falló debido a software incompatible: &lt;ruta al software infractor&gt;
+     </h3>
+     <p class="wysiwyg-indent2">
+      <strong>
+       Pasos de solución de errores
+      </strong>
+      :
+     </p>
+     <p class="wysiwyg-indent2">
+      Si ves un mensaje que dice "Roblox falló debido a software incompatible:" seguido de una ruta al software infractor, significa que el software mencionado en la ruta del archivo mostrado está causando problemas con Roblox. Para arreglar esto, necesitarás prevenir que el software se ejecute mientras usas Roblox. Puedes hacer esto manualmente al cerrar el software, o puedes realizar un arranque limpio en Windows. Este método asegura que solo el software necesario esté activo en tu sistema, minimizando los conflictos.
+      <a href="https://support.microsoft.com/es-es/topic/c%C3%B3mo-realizar-un-inicio-limpio-en-windows-da2f9573-6eec-00ad-2f8a-a97a1807f3dd">
+       Sigue estos pasos para completar el inicio limpio como lo recomienda Windows
+      </a>
+      :
+     </p>
+     <ol>
+      <li style="list-style-type: none;">
+       <ol>
+        <li style="list-style-type: none;">
+         <ol>
+          <li class="wysiwyg-indent3">
+           Presiona la "tecla Windows + R" para abrir el diálogo Ejecutar.
+          </li>
+          <li class="wysiwyg-indent3">
+           Escribe "msconfig" y presiona Intro.
+          </li>
+          <li class="wysiwyg-indent3">
+           En la ventana Configuración del sistema, ve a la pestaña "Servicios".
+          </li>
+          <li class="wysiwyg-indent3">
+           Marca la casilla etiquetada con "Ocultar todos los servicios de Microsoft".
+          </li>
+          <li class="wysiwyg-indent3">
+           Haz clic en "Deshabilitar todos".
+          </li>
+          <li class="wysiwyg-indent3">
+           Cambia a la pestaña "Inicio de Windows".
+          </li>
+          <li class="wysiwyg-indent3">
+           Haz clic en "Abrir el Administrador de tareas".
+          </li>
+          <li class="wysiwyg-indent3">
+           Deshabilita todos los elementos de inicio.
+          </li>
+          <li class="wysiwyg-indent3">
+           Cierra el administrador de tareas y la configuración del sistema.
+          </li>
+          <li class="wysiwyg-indent3">
+           Reinicia tu computadora.
+          </li>
+         </ol>
+        </li>
+       </ol>
+      </li>
+     </ol>
+     <p class="wysiwyg-indent2">
+      Completar estos pasos te ayudará a asegurarte de que ningún otro software interfiera con Roblox, lo que le permitirá funcionar sin fallos.
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h2 class="wysiwyg-indent1" id="h_01HR7QB40CZC2VPGZXD8KG2G4N">
+      <strong>
+       Tipo de fallo
+      </strong>
+      : Open Broadcaster Software (OBS)
+     </h2>
+     <h3 class="wysiwyg-indent1" id="h_01HR7QB7QQ4KHA6NBD1DT96ECD">
+      <strong>
+       Mensaje de usuario
+      </strong>
+      : La captura de juego de OBS suele presentar fallos con Roblox. En su lugar, usa la captura de ventana o escritorio.
+     </h3>
+     <p class="wysiwyg-indent2">
+      <strong>
+       Pasos de solución de errores
+      </strong>
+      :
+     </p>
+     <p class="wysiwyg-indent2">
+      Si recibes un mensaje que dice "La captura de juego de OBS suele presentar fallos con Roblox", significa que Roblox no es compatible con la función de captura de juego de Open Broadcaster Software (OBS). Para transmitir o grabar Roblox, en su lugar, necesitarás usar el modo de captura de ventana o escritorio.
+      <a href="https://obsproject.com/es/kb/display-capture-sources">
+       Sigue estas instrucciones para configurar la captura de escritorio
+      </a>
+      :
+     </p>
+     <ol>
+      <li style="list-style-type: none;">
+       <ol>
+        <li style="list-style-type: none;">
+         <ol>
+          <li class="wysiwyg-indent3">
+           Abre Open Broadcaster Software (OBS).
+          </li>
+          <li class="wysiwyg-indent3">
+           En la sección "Fuentes", haz clic en el ícono "+".
+          </li>
+          <li class="wysiwyg-indent3">
+           Selecciona "Captura de pantalla" desde el menú.
+          </li>
+          <li class="wysiwyg-indent3">
+           Elige la pantalla que quieres capturar (por lo general, tu monitor principal).
+          </li>
+          <li class="wysiwyg-indent3">
+           Configura los ajustes como resolución y cuadros por segundo conforme lo necesites.
+          </li>
+          <li class="wysiwyg-indent3">
+           Haz clic en "Aceptar" para confirmar la fuente de captura de pantalla.
+          </li>
+          <li class="wysiwyg-indent3">
+           Arregla la fuente de captura de pantalla como lo desees en tu escena de OBS.
+          </li>
+          <li class="wysiwyg-indent3">
+           Comienza a transmitir o grabar de forma usual.
+          </li>
+         </ol>
+        </li>
+       </ol>
+      </li>
+     </ol>
+     <p class="wysiwyg-indent2">
+      Al usar el modo de captura de escritorio, puedes transmitir o grabar Roblox sin los fallos de compatibilidad relacionados con la función de captura de juego de OBS.
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h2 class="wysiwyg-indent1" id="h_01HR7QBERF7JCBBGEZP6BBRJPH">
+      <strong>
+       Tipo de fallo
+      </strong>
+      : Interacción con software de un tercero
+     </h2>
+     <h3 class="wysiwyg-indent1" id="h_01HR7QBJCZ754JGR9VK8Z1HCFF">
+      <strong>
+       Mensaje de usuario
+      </strong>
+      : Roblox falló debido a software de un tercero. Realiza un inicio limpio de Windows.
+     </h3>
+     <p class="wysiwyg-indent2">
+      <strong>
+       Pasos de solución de errores
+      </strong>
+      :
+     </p>
+     <p class="wysiwyg-indent2">
+      Si encuentras un mensaje que dice "Roblox falló debido a software de un tercero", significa que algún otro software en tu computadora está causando fallos con Roblox. Para resolver este fallo, necesitas cerrar cualquier otro software mientras usas Roblox. La mejor forma de hacer esto es realizar un inicio limpio en Windows, lo que asegura que solo se esté ejecutando software esencial en tu sistema.
+      <a href="https://support.microsoft.com/es-es/topic/c%C3%B3mo-realizar-un-inicio-limpio-en-windows-da2f9573-6eec-00ad-2f8a-a97a1807f3dd">
+       Sigue estos pasos para completar el inicio limpio como lo recomienda Windows
+      </a>
+      :
+     </p>
+     <ol>
+      <li style="list-style-type: none;">
+       <ol>
+        <li style="list-style-type: none;">
+         <ol>
+          <li class="wysiwyg-indent3">
+           Presiona la "tecla Windows + R" para abrir el diálogo Ejecutar.
+          </li>
+          <li class="wysiwyg-indent3">
+           Escribe "msconfig" y presiona Intro.
+          </li>
+          <li class="wysiwyg-indent3">
+           En la ventana Configuración del sistema, ve a la pestaña "Servicios".
+          </li>
+          <li class="wysiwyg-indent3">
+           Marca la casilla etiquetada con "Ocultar todos los servicios de Microsoft".
+          </li>
+          <li class="wysiwyg-indent3">
+           Haz clic en "Deshabilitar todos".
+          </li>
+          <li class="wysiwyg-indent3">
+           Cambia a la pestaña "Inicio de Windows".
+          </li>
+          <li class="wysiwyg-indent3">
+           Haz clic en "Abrir el Administrador de tareas".
+          </li>
+          <li class="wysiwyg-indent3">
+           Deshabilita todos los elementos de inicio.
+          </li>
+          <li class="wysiwyg-indent3">
+           Cierra el administrador de tareas y la configuración del sistema.
+          </li>
+          <li class="wysiwyg-indent3">
+           Reinicia tu computadora.
+          </li>
+         </ol>
+        </li>
+       </ol>
+      </li>
+     </ol>
+     <p class="wysiwyg-indent2">
+      Completar estos pasos te ayudará a asegurarte de que ningún otro software interfiera con Roblox, lo que le permitirá funcionar sin fallos.
+     </p>
+    </div>
+    <!--           Add content tags to articles and posts -->
+   </div>
