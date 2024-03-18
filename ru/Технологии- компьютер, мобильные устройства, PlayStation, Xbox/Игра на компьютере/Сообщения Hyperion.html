@@ -1,0 +1,488 @@
+   <h1 class="article-title" id="article-title" title="Сообщения Hyperion">
+    Сообщения Hyperion
+   </h1>
+   <div class="article-content">
+    <div class="article-body">
+     <p>
+      В этой статье приведены возможные сообщения о сбоях в работе античит-системы Hyperion, а также соответствующие шаги по устранению неполадок, которые помогут вам решить эти проблемы.
+     </p>
+     <p>
+     </p>
+     <h2 class="wysiwyg-indent1" id="h_01HR7Q6Y429QJPVSDNM9BY2QP3">
+      <strong>
+       Тип ошибки
+      </strong>
+      : сбой тайм-аута
+     </h2>
+     <h3 class="wysiwyg-indent1" id="h_01HR7Q72Y67HCW3M8PPY787328">
+      <strong>
+       Сообщение пользователю
+      </strong>
+      : «Roblox прекратил работу. Перезапустите игру».
+     </h3>
+     <p class="wysiwyg-indent2">
+      <strong>
+       Шаги по устранению неполадки
+      </strong>
+      :
+     </p>
+     <p class="wysiwyg-indent2">
+      Если вы увидели сообщение: «Roblox прекратил работу. Перезапустите игру», значит, необходимо перезапустить клиент Roblox. Если проблема остается, несмотря на перезапуск клиента,
+      <a href="https://www.roblox.com/support">
+       свяжитесь с нашей поддержкой
+      </a>
+      для дальнейшей помощи.
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h2 class="wysiwyg-indent1" id="h_01HR7Q7B6F08C2K2SZE6MF77J7">
+      <strong>
+       Тип ошибки
+      </strong>
+      : обнаружена виртуальная машина
+     </h2>
+     <h3 class="wysiwyg-indent1" id="h_01HR7Q7G1ASX5S4T2H3936ZADK">
+      <strong>
+       Сообщение пользователю
+      </strong>
+      : «Roblox не может работать на виртуальной машине».
+     </h3>
+     <p class="wysiwyg-indent2">
+      <strong>
+       Шаги по устранению неполадки
+      </strong>
+      :
+     </p>
+     <p class="wysiwyg-indent2">
+      Если вы видите сообщение: «Обнаружена виртуальная машина», это означает, что ваша виртуальная машина (ВМ) не поддерживается Roblox. Для правильной работы Roblox на виртуальной машине требуется режим проброса видеокарты. Проброс видеокарты предоставляет ВМ прямой доступ к физическому GPU, минуя уровень гипервизора. Вот как включить проброс видеокарты:
+     </p>
+     <ol>
+      <li style="list-style-type: none;">
+       <ol>
+        <li style="list-style-type: none;">
+         <ol>
+          <li class="wysiwyg-indent3">
+           Убедитесь, что ваше устройство поддерживает проброс видеокарты.
+          </li>
+          <li class="wysiwyg-indent3">
+           Включите расширения виртуализации (например, Intel VT-x или AMD-V) в настройках BIOS/UEFI.
+          </li>
+          <li class="wysiwyg-indent3">
+           Настройте проброс видеокарты в программном обеспечении виртуальной машины.
+          </li>
+         </ol>
+        </li>
+       </ol>
+      </li>
+     </ol>
+     <p class="wysiwyg-indent2">
+      Выполнение этих шагов обеспечит бесперебойную работу Roblox в виртуальной среде благодаря предоставлению доступа к ресурсам GPU.
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h2 class="wysiwyg-indent1" id="h_01HR7Q9M59KQNDFCZBCSB4WDSW">
+      <strong>
+       Тип ошибки
+      </strong>
+      : обнаружено вредоносное ПО
+     </h2>
+     <h3 class="wysiwyg-indent1" id="h_01HR7Q9QHMBZEMSP5Y8VSPWZ3G">
+      <strong>
+       Сообщение пользователю
+      </strong>
+      : «Roblox прекратил работу из-за несовместимого программного обеспечения: &lt;путь к конфликтующему ПО&gt;».
+     </h3>
+     <p class="wysiwyg-indent2">
+      <strong>
+       Шаги по устранению неполадки
+      </strong>
+      :
+     </p>
+     <p class="wysiwyg-indent2">
+      Если вы видите сообщение: «Roblox прекратил работу из-за несовместимого программного обеспечения:», за которым следует путь к программе, это означает, что программное обеспечение, указанное в пути к файлу, вызывает проблемы с Roblox. Чтобы исправить ситуацию, вам нужно запретить этой программе работать одновременно с Roblox. Это можно сделать вручную, выключив программу, или выполнить «чистую» загрузку в Windows. Этот метод гарантирует, что в системе будет активно только необходимое программное обеспечение, и сведет вероятность конфликтов к минимуму.
+      <a href="https://support.microsoft.com/ru-ru/topic/%D0%BA%D0%B0%D0%BA-%D0%B2%D1%8B%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D1%8C-%D1%87%D0%B8%D1%81%D1%82%D1%83%D1%8E-%D0%B7%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D1%83-%D0%B2-windows-da2f9573-6eec-00ad-2f8a-a97a1807f3dd">
+       Вот как осуществить «чистую» загрузку в соответствии с рекомендациями Windows
+      </a>
+      :
+     </p>
+     <ol>
+      <li style="list-style-type: none;">
+       <ol>
+        <li style="list-style-type: none;">
+         <ol>
+          <li class="wysiwyg-indent3">
+           Нажмите клавиши «Windows + R», чтобы открыть окно «Выполнить».
+          </li>
+          <li class="wysiwyg-indent3">
+           Введите «msconfig» и нажмите Enter.
+          </li>
+          <li class="wysiwyg-indent3">
+           В окне «Конфигурация системы» перейдите на вкладку «Службы».
+          </li>
+          <li class="wysiwyg-indent3">
+           Установите галочку «Не отображать службы Майкрософт».
+          </li>
+          <li class="wysiwyg-indent3">
+           Нажмите «Отключить все».
+          </li>
+          <li class="wysiwyg-indent3">
+           Перейдите в меню «Пуск».
+          </li>
+          <li class="wysiwyg-indent3">
+           Нажмите «Открыть диспетчер задач».
+          </li>
+          <li class="wysiwyg-indent3">
+           Отключите все элементы автозагрузки.
+          </li>
+          <li class="wysiwyg-indent3">
+           Закройте «Диспетчер задач» и «Конфигурацию системы».
+          </li>
+          <li class="wysiwyg-indent3">
+           Перезапустите компьютер.
+          </li>
+         </ol>
+        </li>
+       </ol>
+      </li>
+     </ol>
+     <p class="wysiwyg-indent2">
+      Выполнение этих шагов приведет к тому, что никакое другое программное обеспечение не будет мешать процессам Roblox, позволяя ему работать плавно и без сбоев.
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h2 class="wysiwyg-indent1" id="h_01HR7QA19GFZP5ZQ04A89JH1Z0">
+      <strong>
+       Тип ошибки
+      </strong>
+      : процесс приостановлен
+     </h2>
+     <h3 class="wysiwyg-indent1" id="h_01HR7QA4YG4NQXDWGER9YEZPQQ">
+      <strong>
+       Сообщение пользователю
+      </strong>
+      : «Roblox прекратил работу. Убедитесь, что сторонние программы не мешают работе Roblox».
+     </h3>
+     <p class="wysiwyg-indent2">
+      <strong>
+       Шаги по устранению неполадки
+      </strong>
+      :
+     </p>
+     <p class="wysiwyg-indent2">
+      Если вы увидели сообщение: «Roblox прекратил работу. Убедитесь, что сторонние программы не мешают работе Roblox», значит, стороннее программное обеспечение на вашем компьютере вызывает проблемы в работе Roblox. Чтобы решить эту проблему, необходимо отключить все другие программы во время работы Roblox. Лучший способ сделать это — выполнить «чистую» загрузку в Windows, которая гарантирует, что в системе будет запущено только необходимое программное обеспечение.
+      <a href="https://support.microsoft.com/ru-ru/topic/%D0%BA%D0%B0%D0%BA-%D0%B2%D1%8B%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D1%8C-%D1%87%D0%B8%D1%81%D1%82%D1%83%D1%8E-%D0%B7%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D1%83-%D0%B2-windows-da2f9573-6eec-00ad-2f8a-a97a1807f3dd">
+       Вот как осуществить «чистую» загрузку в соответствии с рекомендациями Windows
+      </a>
+      :
+     </p>
+     <ol>
+      <li style="list-style-type: none;">
+       <ol>
+        <li style="list-style-type: none;">
+         <ol>
+          <li class="wysiwyg-indent3">
+           Нажмите клавиши «Windows + R», чтобы открыть окно «Выполнить».
+          </li>
+          <li class="wysiwyg-indent3">
+           Введите «msconfig» и нажмите Enter.
+          </li>
+          <li class="wysiwyg-indent3">
+           В окне «Конфигурация системы» перейдите на вкладку «Службы».
+          </li>
+          <li class="wysiwyg-indent3">
+           Установите галочку «Не отображать службы Майкрософт».
+          </li>
+          <li class="wysiwyg-indent3">
+           Нажмите «Отключить все».
+          </li>
+          <li class="wysiwyg-indent3">
+           Перейдите в меню «Пуск».
+          </li>
+          <li class="wysiwyg-indent3">
+           Нажмите «Открыть диспетчер задач».
+          </li>
+          <li class="wysiwyg-indent3">
+           Отключите все элементы автозагрузки.
+          </li>
+          <li class="wysiwyg-indent3">
+           Закройте «Диспетчер задач» и «Конфигурацию системы».
+          </li>
+          <li class="wysiwyg-indent3">
+           Перезапустите компьютер.
+          </li>
+         </ol>
+        </li>
+       </ol>
+      </li>
+     </ol>
+     <p class="wysiwyg-indent2">
+      Выполнение этих шагов приведет к тому, что никакое другое программное обеспечение не будет мешать процессам Roblox, позволяя ему работать плавно и без сбоев.
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h2 class="wysiwyg-indent1" id="h_01HR7QAA4FGHCHMV9NRXW8KEC1">
+      <strong>
+       Тип ошибки
+      </strong>
+      : нарушена целостность загрузки
+     </h2>
+     <h3 class="wysiwyg-indent1" id="h_01HR7QAFSVBEKMFZK1KA7ADYBQ">
+      <strong>
+       Сообщение пользователю
+      </strong>
+      : «Критически важные системные файлы повреждены. Roblox не может быть запущен. Восстановите или переустановите Windows».
+     </h3>
+     <p class="wysiwyg-indent2">
+      <strong>
+       Шаги по устранению неполадки
+      </strong>
+      :
+     </p>
+     <p class="wysiwyg-indent2">
+      Roblox не может корректно функционировать, если Windows находится в режиме отладки. Перед включением Roblox убедитесь, что Windows работает в обычном режиме.
+      <a href="https://learn.microsoft.com/ru-ru/troubleshoot/windows-server/performance/enable-debug-mode-causes-hang">
+       Вот как отключить режим отладки в Windows
+      </a>
+      :
+     </p>
+     <ol>
+      <li style="list-style-type: none;">
+       <ol>
+        <li style="list-style-type: none;">
+         <ol>
+          <li class="wysiwyg-indent3">
+           Нажмите клавиши «Windows + R», чтобы открыть окно «Выполнить».
+          </li>
+          <li class="wysiwyg-indent3">
+           Введите «msconfig» и нажмите Enter.
+          </li>
+          <li class="wysiwyg-indent3">
+           Выберите вкладку «Загрузка», а затем «Дополнительные параметры».
+          </li>
+          <li class="wysiwyg-indent3">
+           Снимите галочку напротив надписи «Отладка».
+          </li>
+          <li class="wysiwyg-indent3">
+           Нажмите «ОК».
+          </li>
+          <li class="wysiwyg-indent3">
+           Нажмите «Применить», а затем «ОК».
+          </li>
+          <li class="wysiwyg-indent3">
+           Перезапустите компьютер.
+          </li>
+         </ol>
+        </li>
+       </ol>
+      </li>
+     </ol>
+     <p class="wysiwyg-indent2">
+      Эти шаги гарантируют, что Windows не работает в режиме отладки, что позволит вам использовать Roblox без каких-либо проблем.
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h2 class="wysiwyg-indent1" id="h_01HR7QAVGYQS5Z9Q96JP0TGV17">
+      <strong>
+       Тип ошибки
+      </strong>
+      : заблокированное изображение
+     </h2>
+     <h3 class="wysiwyg-indent1" id="h_01HR7QAZ73VEFD9CRD1D2TJZYN">
+      <strong>
+       Сообщение пользователю
+      </strong>
+      : «Roblox прекратил работу из-за несовместимого программного обеспечения: &lt;путь к конфликтующему ПО&gt;».
+     </h3>
+     <p class="wysiwyg-indent2">
+      <strong>
+       Шаги по устранению неполадки
+      </strong>
+      :
+     </p>
+     <p class="wysiwyg-indent2">
+      Если вы видите сообщение: «Roblox прекратил работу из-за несовместимого программного обеспечения:», за которым следует путь к программе, это означает, что программное обеспечение, указанное в пути к файлу, вызывает проблемы с Roblox. Чтобы исправить ситуацию, вам нужно запретить этой программе работать одновременно с Roblox. Это можно сделать вручную, выключив программу, или выполнить «чистую» загрузку в Windows. Этот метод гарантирует, что в системе будет активно только необходимое программное обеспечение, и сведет вероятность конфликтов к минимуму.
+      <a href="https://support.microsoft.com/ru-ru/topic/%D0%BA%D0%B0%D0%BA-%D0%B2%D1%8B%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D1%8C-%D1%87%D0%B8%D1%81%D1%82%D1%83%D1%8E-%D0%B7%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D1%83-%D0%B2-windows-da2f9573-6eec-00ad-2f8a-a97a1807f3dd">
+       Вот как осуществить «чистую» загрузку в соответствии с рекомендациями Windows
+      </a>
+      :
+     </p>
+     <ol>
+      <li style="list-style-type: none;">
+       <ol>
+        <li style="list-style-type: none;">
+         <ol>
+          <li class="wysiwyg-indent3">
+           Нажмите клавиши «Windows + R», чтобы открыть окно «Выполнить».
+          </li>
+          <li class="wysiwyg-indent3">
+           Введите «msconfig» и нажмите Enter.
+          </li>
+          <li class="wysiwyg-indent3">
+           В окне «Конфигурация системы» перейдите на вкладку «Службы».
+          </li>
+          <li class="wysiwyg-indent3">
+           Установите галочку «Не отображать службы Майкрософт».
+          </li>
+          <li class="wysiwyg-indent3">
+           Нажмите «Отключить все».
+          </li>
+          <li class="wysiwyg-indent3">
+           Перейдите в меню «Пуск».
+          </li>
+          <li class="wysiwyg-indent3">
+           Нажмите «Открыть диспетчер задач».
+          </li>
+          <li class="wysiwyg-indent3">
+           Отключите все элементы автозагрузки.
+          </li>
+          <li class="wysiwyg-indent3">
+           Закройте «Диспетчер задач» и «Конфигурацию системы».
+          </li>
+          <li class="wysiwyg-indent3">
+           Перезапустите компьютер.
+          </li>
+         </ol>
+        </li>
+       </ol>
+      </li>
+     </ol>
+     <p class="wysiwyg-indent2">
+      Выполнение этих шагов приведет к тому, что никакое другое программное обеспечение не будет мешать процессам Roblox, позволяя ему работать плавно и без сбоев.
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h2 class="wysiwyg-indent1" id="h_01HR7QB40CZC2VPGZXD8KG2G4N">
+      <strong>
+       Тип ошибки
+      </strong>
+      : (OBS) Open Broadcaster Software
+     </h2>
+     <h3 class="wysiwyg-indent1" id="h_01HR7QB7QQ4KHA6NBD1DT96ECD">
+      <strong>
+       Сообщение пользователю
+      </strong>
+      : «Внутриигровой захват OBS может вызывать проблемы в работе Roblox. Вместо этого используйте захват окна или рабочего стола».
+     </h3>
+     <p class="wysiwyg-indent2">
+      <strong>
+       Шаги по устранению неполадки
+      </strong>
+      :
+     </p>
+     <p class="wysiwyg-indent2">
+      Если вы видите сообщение: «Внутриигровой захват OBS может вызывать проблемы в работе Roblox», значит, Roblox не поддерживает функцию внутриигрового захвата Open Broadcaster Software (OBS). Чтобы транслировать или записывать Roblox, вам придется использовать режим захвата окна или рабочего стола.
+      <a href="https://obsproject.com/ru/kb/display-capture-sources">
+       Вот как включить захват рабочего стола
+      </a>
+      :
+     </p>
+     <ol>
+      <li style="list-style-type: none;">
+       <ol>
+        <li style="list-style-type: none;">
+         <ol>
+          <li class="wysiwyg-indent3">
+           Откройте Open Broadcaster Software (OBS).
+          </li>
+          <li class="wysiwyg-indent3">
+           В разделе «Источники» нажмите на значок «+».
+          </li>
+          <li class="wysiwyg-indent3">
+           Выберите в меню пункт «Захват экрана».
+          </li>
+          <li class="wysiwyg-indent3">
+           Выберите экран для захвата (как правило, это ваш основной монитор).
+          </li>
+          <li class="wysiwyg-indent3">
+           При необходимости настройте такие параметры, как разрешение и частота кадров.
+          </li>
+          <li class="wysiwyg-indent3">
+           Нажмите «OK», чтобы подтвердить выбор источника захвата экрана.
+          </li>
+          <li class="wysiwyg-indent3">
+           Расположите источник захвата экрана в сцене OBS нужным образом.
+          </li>
+          <li class="wysiwyg-indent3">
+           Начните трансляцию или запись, как обычно.
+          </li>
+         </ol>
+        </li>
+       </ol>
+      </li>
+     </ol>
+     <p class="wysiwyg-indent2">
+      Используя режим захвата рабочего стола вы сможете эффективно транслировать или записывать Roblox, не сталкиваясь с проблемами совместимости с внутриигровой функцией захвата OBS.
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h2 class="wysiwyg-indent1" id="h_01HR7QBERF7JCBBGEZP6BBRJPH">
+      <strong>
+       Тип ошибки
+      </strong>
+      : взаимодействие со сторонним ПО
+     </h2>
+     <h3 class="wysiwyg-indent1" id="h_01HR7QBJCZ754JGR9VK8Z1HCFF">
+      <strong>
+       Сообщение пользователю
+      </strong>
+      : «Roblox прекратил работу из-за стороннего программного обеспечения Выполните "чистую" загрузку Windows».
+     </h3>
+     <p class="wysiwyg-indent2">
+      <strong>
+       Шаги по устранению неполадки
+      </strong>
+      :
+     </p>
+     <p class="wysiwyg-indent2">
+      Если вы видите сообщение: «Roblox прекратил работу из-за стороннего программного обеспечения», значит, какое-то другое программное обеспечение на вашем компьютере вызывает проблемы в работе Roblox. Чтобы решить эту проблему, необходимо отключить все другие программы во время работы Roblox. Лучший способ сделать это — выполнить «чистую» загрузку в Windows, которая гарантирует, что в системе будет запущено только необходимое программное обеспечение.
+      <a href="https://support.microsoft.com/ru-ru/topic/%D0%BA%D0%B0%D0%BA-%D0%B2%D1%8B%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D1%8C-%D1%87%D0%B8%D1%81%D1%82%D1%83%D1%8E-%D0%B7%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D1%83-%D0%B2-windows-da2f9573-6eec-00ad-2f8a-a97a1807f3dd">
+       Вот как осуществить «чистую» загрузку в соответствии с рекомендациями Windows
+      </a>
+      :
+     </p>
+     <ol>
+      <li style="list-style-type: none;">
+       <ol>
+        <li style="list-style-type: none;">
+         <ol>
+          <li class="wysiwyg-indent3">
+           Нажмите клавиши «Windows + R», чтобы открыть окно «Выполнить».
+          </li>
+          <li class="wysiwyg-indent3">
+           Введите «msconfig» и нажмите Enter.
+          </li>
+          <li class="wysiwyg-indent3">
+           В окне «Конфигурация системы» перейдите на вкладку «Службы».
+          </li>
+          <li class="wysiwyg-indent3">
+           Установите галочку «Не отображать службы Майкрософт».
+          </li>
+          <li class="wysiwyg-indent3">
+           Нажмите «Отключить все».
+          </li>
+          <li class="wysiwyg-indent3">
+           Перейдите в меню «Пуск».
+          </li>
+          <li class="wysiwyg-indent3">
+           Нажмите «Открыть диспетчер задач».
+          </li>
+          <li class="wysiwyg-indent3">
+           Отключите все элементы автозагрузки.
+          </li>
+          <li class="wysiwyg-indent3">
+           Закройте «Диспетчер задач» и «Конфигурацию системы».
+          </li>
+          <li class="wysiwyg-indent3">
+           Перезапустите компьютер.
+          </li>
+         </ol>
+        </li>
+       </ol>
+      </li>
+     </ol>
+     <p class="wysiwyg-indent2">
+      Выполнение этих шагов приведет к тому, что никакое другое программное обеспечение не будет мешать процессам Roblox, позволяя ему работать плавно и без сбоев.
+     </p>
+    </div>
+    <!--           Add content tags to articles and posts -->
+   </div>
