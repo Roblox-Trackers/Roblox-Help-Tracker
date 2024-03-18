@@ -1,0 +1,488 @@
+   <h1 class="article-title" id="article-title" title="Hyperion 訊息">
+    Hyperion 訊息
+   </h1>
+   <div class="article-content">
+    <div class="article-body">
+     <p>
+      本文章包含您可能看到的 Hyperion 反作弊崩潰訊息以及對應的疑難排解步驟，以協助您解決這些問題。
+     </p>
+     <p>
+     </p>
+     <h2 class="wysiwyg-indent1" id="h_01HR7Q6Y429QJPVSDNM9BY2QP3">
+      <strong>
+       崩潰類型
+      </strong>
+      ：逾時失敗
+     </h2>
+     <h3 class="wysiwyg-indent1" id="h_01HR7Q72Y67HCW3M8PPY787328">
+      <strong>
+       使用者訊息
+      </strong>
+      ：Roblox 逾時。 請重新啟動用戶端。
+     </h3>
+     <p class="wysiwyg-indent2">
+      <strong>
+       疑難排解步驟
+      </strong>
+      ：
+     </p>
+     <p class="wysiwyg-indent2">
+      如果您遇到訊息顯示：「Roblox 逾時。 請重新啟動用戶端。」表示您的 Roblox 用戶端需要重新啟動。 若重新啟動用戶端並在正常使用下仍發生此問題，
+      <a href="https://www.roblox.com/support">
+       請聯絡支援團隊
+      </a>
+      取得進一步協助。
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h2 class="wysiwyg-indent1" id="h_01HR7Q7B6F08C2K2SZE6MF77J7">
+      <strong>
+       崩潰類型
+      </strong>
+      ：偵測到虛擬機器
+     </h2>
+     <h3 class="wysiwyg-indent1" id="h_01HR7Q7G1ASX5S4T2H3936ZADK">
+      <strong>
+       使用者訊息
+      </strong>
+      ：Roblox 無法在虛擬機器內執行。
+     </h3>
+     <p class="wysiwyg-indent2">
+      <strong>
+       疑難排解步驟
+      </strong>
+      ：
+     </p>
+     <p class="wysiwyg-indent2">
+      如果您看到訊息顯示「偵測到虛擬機器」，表示您的虛擬機器 (VM) 不支援 Roblox。 Roblox 需要顯示卡直通 (GPU passthrough) 才能在 VM 中正常運作。 顯示卡直通能讓 VM 繞過虛擬機管理程式層，直接存取實體顯示卡。 以下是啟用顯示卡直通的方法：
+     </p>
+     <ol>
+      <li style="list-style-type: none;">
+       <ol>
+        <li style="list-style-type: none;">
+         <ol>
+          <li class="wysiwyg-indent3">
+           確認您的硬體支援顯示卡直通。
+          </li>
+          <li class="wysiwyg-indent3">
+           更新 BIOS/UEFI 設定以啟用虛擬擴充（例如 Intel VT-x 或 AMD-V）。
+          </li>
+          <li class="wysiwyg-indent3">
+           在 VM 軟體中設定顯示卡直通。
+          </li>
+         </ol>
+        </li>
+       </ol>
+      </li>
+     </ol>
+     <p class="wysiwyg-indent2">
+      遵循以上步驟提供必要的顯示卡資源存取權限，確保 Roblox 能在虛擬化環境中順暢運作。
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h2 class="wysiwyg-indent1" id="h_01HR7Q9M59KQNDFCZBCSB4WDSW">
+      <strong>
+       崩潰類型
+      </strong>
+      ：偵測到惡意軟體
+     </h2>
+     <h3 class="wysiwyg-indent1" id="h_01HR7Q9QHMBZEMSP5Y8VSPWZ3G">
+      <strong>
+       使用者訊息
+      </strong>
+      ：Roblox 因為不相容的軟體崩潰：&lt;違規軟體路徑&gt;
+     </h3>
+     <p class="wysiwyg-indent2">
+      <strong>
+       疑難排解步驟
+      </strong>
+      ：
+     </p>
+     <p class="wysiwyg-indent2">
+      如果您看到訊息顯示「Roblox 因為不相容的軟體崩潰：」且後續接著違規軟體的路徑。表示顯示檔案路徑中提到的軟體會對 Roblox 造成問題。 若要修正，您需要在使用 Roblox 時避免使用該軟體。 您可以手動關閉該軟體，或是執行 Windows 乾淨啟動。 此方法能確保系統上僅執行必要的軟體，盡可能減少衝突。
+      <a href="https://support.microsoft.com/zh-tw/topic/%E5%A6%82%E4%BD%95%E5%9C%A8-windows-%E4%B8%AD%E5%9F%B7%E8%A1%8C%E5%88%9D%E5%A7%8B%E7%8B%80%E6%85%8B%E9%96%8B%E6%A9%9F-da2f9573-6eec-00ad-2f8a-a97a1807f3dd">
+       以下是按照 Windows 建議，完成乾淨啟動的方式
+      </a>
+      ：
+     </p>
+     <ol>
+      <li style="list-style-type: none;">
+       <ol>
+        <li style="list-style-type: none;">
+         <ol>
+          <li class="wysiwyg-indent3">
+           按下「Windows 鍵 + R」以開啟「執行」對話方塊。
+          </li>
+          <li class="wysiwyg-indent3">
+           輸入「msconfig」並按下 Enter 鍵。
+          </li>
+          <li class="wysiwyg-indent3">
+           在「系統設定」視窗中，前往「服務」索引標籤。
+          </li>
+          <li class="wysiwyg-indent3">
+           勾選標示為「隱藏所有 Microsoft 服務」的方塊。
+          </li>
+          <li class="wysiwyg-indent3">
+           按一下「全部停用」。
+          </li>
+          <li class="wysiwyg-indent3">
+           切換到「啟動」索引標籤。
+          </li>
+          <li class="wysiwyg-indent3">
+           按一下「開啟工作管理員」。
+          </li>
+          <li class="wysiwyg-indent3">
+           停用所有啟動項目。
+          </li>
+          <li class="wysiwyg-indent3">
+           關閉工作管理員和系統設定。
+          </li>
+          <li class="wysiwyg-indent3">
+           重新啟動電腦。
+          </li>
+         </ol>
+        </li>
+       </ol>
+      </li>
+     </ol>
+     <p class="wysiwyg-indent2">
+      完成這些步驟可確保沒有其他軟體干擾 Roblox，使其順暢運作不會崩潰。
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h2 class="wysiwyg-indent1" id="h_01HR7QA19GFZP5ZQ04A89JH1Z0">
+      <strong>
+       崩潰類型
+      </strong>
+      ：處理序停用
+     </h2>
+     <h3 class="wysiwyg-indent1" id="h_01HR7QA4YG4NQXDWGER9YEZPQQ">
+      <strong>
+       使用者訊息
+      </strong>
+      ：Roblox 已停止運作。 請確保沒有第三方軟體干擾 Roblox 運作。
+     </h3>
+     <p class="wysiwyg-indent2">
+      <strong>
+       疑難排解步驟
+      </strong>
+      ：
+     </p>
+     <p class="wysiwyg-indent2">
+      如果您遇到訊息顯示：「Roblox 已停止運作。 請確保沒有第三方軟體干擾 Roblox 運作。」代表您電腦上的某些其他軟體對 Roblox 造成問題。 若要解決此問題，請在使用 Roblox 時關閉所有其他軟體。 最佳作法是執行 Windows 乾淨啟動，以確保系統上僅執行必要的軟體。
+      <a href="https://support.microsoft.com/zh-tw/topic/%E5%A6%82%E4%BD%95%E5%9C%A8-windows-%E4%B8%AD%E5%9F%B7%E8%A1%8C%E5%88%9D%E5%A7%8B%E7%8B%80%E6%85%8B%E9%96%8B%E6%A9%9F-da2f9573-6eec-00ad-2f8a-a97a1807f3dd">
+       以下是按照 Windows 建議，完成乾淨啟動的方式
+      </a>
+      ：
+     </p>
+     <ol>
+      <li style="list-style-type: none;">
+       <ol>
+        <li style="list-style-type: none;">
+         <ol>
+          <li class="wysiwyg-indent3">
+           按下「Windows 鍵 + R」以開啟「執行」對話方塊。
+          </li>
+          <li class="wysiwyg-indent3">
+           輸入「msconfig」並按下 Enter 鍵。
+          </li>
+          <li class="wysiwyg-indent3">
+           在「系統設定」視窗中，前往「服務」索引標籤。
+          </li>
+          <li class="wysiwyg-indent3">
+           勾選標示為「隱藏所有 Microsoft 服務」的方塊。
+          </li>
+          <li class="wysiwyg-indent3">
+           按一下「全部停用」。
+          </li>
+          <li class="wysiwyg-indent3">
+           切換到「啟動」索引標籤。
+          </li>
+          <li class="wysiwyg-indent3">
+           按一下「開啟工作管理員」。
+          </li>
+          <li class="wysiwyg-indent3">
+           停用所有啟動項目。
+          </li>
+          <li class="wysiwyg-indent3">
+           關閉工作管理員和系統設定。
+          </li>
+          <li class="wysiwyg-indent3">
+           重新啟動電腦。
+          </li>
+         </ol>
+        </li>
+       </ol>
+      </li>
+     </ol>
+     <p class="wysiwyg-indent2">
+      完成這些步驟可確保沒有其他軟體干擾 Roblox，使其順暢運作不會崩潰。
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h2 class="wysiwyg-indent1" id="h_01HR7QAA4FGHCHMV9NRXW8KEC1">
+      <strong>
+       崩潰類型
+      </strong>
+      ：啟動完整性遭破壞
+     </h2>
+     <h3 class="wysiwyg-indent1" id="h_01HR7QAFSVBEKMFZK1KA7ADYBQ">
+      <strong>
+       使用者訊息
+      </strong>
+      ：重要系統檔案已損毀。 無法執行 Roblox。 請修復或重置 Windows 安裝。
+     </h3>
+     <p class="wysiwyg-indent2">
+      <strong>
+       疑難排解步驟
+      </strong>
+      ：
+     </p>
+     <p class="wysiwyg-indent2">
+      Roblox 在 Windows 設為偵錯模式時無法正常運作。 若要使用 Roblox，請確保 Windows 以正常方式運作。
+      <a href="https://learn.microsoft.com/zh-tw/troubleshoot/windows-server/performance/enable-debug-mode-causes-hang">
+       遵循以下步驟以確認並停用 Windows 的偵錯模式
+      </a>
+      。
+     </p>
+     <ol>
+      <li style="list-style-type: none;">
+       <ol>
+        <li style="list-style-type: none;">
+         <ol>
+          <li class="wysiwyg-indent3">
+           按下「Windows 鍵 + R」以開啟「執行」方塊。
+          </li>
+          <li class="wysiwyg-indent3">
+           輸入「msconfig」並按下 Enter 鍵。
+          </li>
+          <li class="wysiwyg-indent3">
+           選擇「開機」索引標籤，然後選擇「進階選項」。
+          </li>
+          <li class="wysiwyg-indent3">
+           取消勾選「偵錯」核取方塊。
+          </li>
+          <li class="wysiwyg-indent3">
+           選擇「確定」。
+          </li>
+          <li class="wysiwyg-indent3">
+           選擇「套用」然後「確定」。
+          </li>
+          <li class="wysiwyg-indent3">
+           重新啟動電腦。
+          </li>
+         </ol>
+        </li>
+       </ol>
+      </li>
+     </ol>
+     <p class="wysiwyg-indent2">
+      這些步驟可確保 Windows 並未執行偵錯模式，讓您順暢無礙使用 Roblox。
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h2 class="wysiwyg-indent1" id="h_01HR7QAVGYQS5Z9Q96JP0TGV17">
+      <strong>
+       崩潰類型
+      </strong>
+      ：已封鎖映像檔
+     </h2>
+     <h3 class="wysiwyg-indent1" id="h_01HR7QAZ73VEFD9CRD1D2TJZYN">
+      <strong>
+       使用者訊息
+      </strong>
+      ：Roblox 因為不相容的軟體崩潰：&lt;違規軟體路徑&gt;
+     </h3>
+     <p class="wysiwyg-indent2">
+      <strong>
+       疑難排解步驟
+      </strong>
+      ：
+     </p>
+     <p class="wysiwyg-indent2">
+      如果您看到訊息顯示「Roblox 因為不相容的軟體崩潰：」且後續接著違規軟體的路徑，表示顯示檔案路徑中提到的軟體會對 Roblox 造成問題。 若要修正，您需要在使用 Roblox 時避免使用該軟體。 您可以手動關閉該軟體，或是執行 Windows 乾淨啟動。 此方法能確保系統上僅執行必要的軟體，盡可能減少衝突。
+      <a href="https://support.microsoft.com/zh-tw/topic/%E5%A6%82%E4%BD%95%E5%9C%A8-windows-%E4%B8%AD%E5%9F%B7%E8%A1%8C%E5%88%9D%E5%A7%8B%E7%8B%80%E6%85%8B%E9%96%8B%E6%A9%9F-da2f9573-6eec-00ad-2f8a-a97a1807f3dd">
+       以下是按照 Windows 建議，完成乾淨啟動的方式
+      </a>
+      ：
+     </p>
+     <ol>
+      <li style="list-style-type: none;">
+       <ol>
+        <li style="list-style-type: none;">
+         <ol>
+          <li class="wysiwyg-indent3">
+           按下「Windows 鍵 + R」以開啟「執行」對話方塊。
+          </li>
+          <li class="wysiwyg-indent3">
+           輸入「msconfig」並按下 Enter 鍵。
+          </li>
+          <li class="wysiwyg-indent3">
+           在「系統設定」視窗中，前往「服務」索引標籤。
+          </li>
+          <li class="wysiwyg-indent3">
+           勾選標示為「隱藏所有 Microsoft 服務」的方塊。
+          </li>
+          <li class="wysiwyg-indent3">
+           按一下「全部停用」。
+          </li>
+          <li class="wysiwyg-indent3">
+           切換到「啟動」索引標籤。
+          </li>
+          <li class="wysiwyg-indent3">
+           按一下「開啟工作管理員」。
+          </li>
+          <li class="wysiwyg-indent3">
+           停用所有啟動項目。
+          </li>
+          <li class="wysiwyg-indent3">
+           關閉工作管理員和系統設定。
+          </li>
+          <li class="wysiwyg-indent3">
+           重新啟動電腦。
+          </li>
+         </ol>
+        </li>
+       </ol>
+      </li>
+     </ol>
+     <p class="wysiwyg-indent2">
+      完成這些步驟可確保沒有其他軟體干擾 Roblox，使其順暢運作不會崩潰。
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h2 class="wysiwyg-indent1" id="h_01HR7QB40CZC2VPGZXD8KG2G4N">
+      <strong>
+       崩潰類型
+      </strong>
+      ：(OBS) Open Broadcaster Software
+     </h2>
+     <h3 class="wysiwyg-indent1" id="h_01HR7QB7QQ4KHA6NBD1DT96ECD">
+      <strong>
+       使用者訊息
+      </strong>
+      ：OBS 遊戲內擷取已知會與 Roblox 發生問題。 請改為使用視窗或桌面擷取。
+     </h3>
+     <p class="wysiwyg-indent2">
+      <strong>
+       疑難排解步驟
+      </strong>
+      ：
+     </p>
+     <p class="wysiwyg-indent2">
+      如果您看到訊息顯示：「OBS 遊戲內擷取已知會與 Roblox 發生問題。」表示 Roblox 不支援 Open Broadcaster Software (OBS) 的遊戲內擷取功能。 若要串流或錄製 Roblox，您需要改用視窗或桌面擷取模式。
+      <a href="https://obsproject.com/kb/display-capture-sources">
+       遵循以下指示以設定桌面擷取
+      </a>
+      ：
+     </p>
+     <ol>
+      <li style="list-style-type: none;">
+       <ol>
+        <li style="list-style-type: none;">
+         <ol>
+          <li class="wysiwyg-indent3">
+           開啟 Open Broadcaster Software (OBS)。
+          </li>
+          <li class="wysiwyg-indent3">
+           在「來源」區塊，按一下「+」圖示。
+          </li>
+          <li class="wysiwyg-indent3">
+           在選單中選擇「顯示器擷取」。
+          </li>
+          <li class="wysiwyg-indent3">
+           選擇您要擷取的顯示器（通常是您的主螢幕）。
+          </li>
+          <li class="wysiwyg-indent3">
+           根據需要調整如解析度和畫格速率。
+          </li>
+          <li class="wysiwyg-indent3">
+           按一下「確定」以確認顯示器擷取來源。
+          </li>
+          <li class="wysiwyg-indent3">
+           在 OBS 場景中視需要調整顯示器擷取來源。
+          </li>
+          <li class="wysiwyg-indent3">
+           照以往方式開始串流或錄製。
+          </li>
+         </ol>
+        </li>
+       </ol>
+      </li>
+     </ol>
+     <p class="wysiwyg-indent2">
+      使用桌面擷取模式，您可以有效地串流或錄製 Roblox，而不會遇到 OBS 遊戲內擷取功能的相容性問題。
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h2 class="wysiwyg-indent1" id="h_01HR7QBERF7JCBBGEZP6BBRJPH">
+      <strong>
+       崩潰類型
+      </strong>
+      ：第三方軟體互動
+     </h2>
+     <h3 class="wysiwyg-indent1" id="h_01HR7QBJCZ754JGR9VK8Z1HCFF">
+      <strong>
+       使用者訊息
+      </strong>
+      ：Roblox 因為第三方軟體崩潰。 請執行 Windows 乾淨啟動。
+     </h3>
+     <p class="wysiwyg-indent2">
+      <strong>
+       疑難排解步驟
+      </strong>
+      ：
+     </p>
+     <p class="wysiwyg-indent2">
+      如果您看到訊息顯示「Roblox 因為第三方軟體崩潰。」代表您電腦上的某些其他軟體對 Roblox 造成問題。 若要解決此問題，請在使用 Roblox 時關閉所有其他軟體。 最佳作法是執行 Windows 乾淨啟動，以確保系統上僅執行必要的軟體。
+      <a href="https://support.microsoft.com/zh-tw/topic/%E5%A6%82%E4%BD%95%E5%9C%A8-windows-%E4%B8%AD%E5%9F%B7%E8%A1%8C%E5%88%9D%E5%A7%8B%E7%8B%80%E6%85%8B%E9%96%8B%E6%A9%9F-da2f9573-6eec-00ad-2f8a-a97a1807f3dd">
+       以下是按照 Windows 建議，完成乾淨啟動的方式
+      </a>
+      ：
+     </p>
+     <ol>
+      <li style="list-style-type: none;">
+       <ol>
+        <li style="list-style-type: none;">
+         <ol>
+          <li class="wysiwyg-indent3">
+           按下「Windows 鍵 + R」以開啟「執行」對話方塊。
+          </li>
+          <li class="wysiwyg-indent3">
+           輸入「msconfig」並按下 Enter 鍵。
+          </li>
+          <li class="wysiwyg-indent3">
+           在「系統設定」視窗中，前往「服務」索引標籤。
+          </li>
+          <li class="wysiwyg-indent3">
+           勾選標示為「隱藏所有 Microsoft 服務」的方塊。
+          </li>
+          <li class="wysiwyg-indent3">
+           按一下「全部停用」。
+          </li>
+          <li class="wysiwyg-indent3">
+           切換到「啟動」索引標籤。
+          </li>
+          <li class="wysiwyg-indent3">
+           按一下「開啟工作管理員」。
+          </li>
+          <li class="wysiwyg-indent3">
+           停用所有啟動項目。
+          </li>
+          <li class="wysiwyg-indent3">
+           關閉工作管理員和系統設定。
+          </li>
+          <li class="wysiwyg-indent3">
+           重新啟動電腦。
+          </li>
+         </ol>
+        </li>
+       </ol>
+      </li>
+     </ol>
+     <p class="wysiwyg-indent2">
+      完成這些步驟可確保沒有其他軟體干擾 Roblox，使其順暢運作不會崩潰。
+     </p>
+    </div>
+    <!--           Add content tags to articles and posts -->
+   </div>
