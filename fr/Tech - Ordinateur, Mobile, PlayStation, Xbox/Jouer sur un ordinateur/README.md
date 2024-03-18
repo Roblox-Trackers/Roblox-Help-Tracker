@@ -16,3 +16,4 @@ Name|URL
 [Que faire si votre antivirus a signalé Roblox](./Que faire si votre antivirus a signalé Roblox.html) |https://en.help.roblox.com/hc/fr/articles/203313030-Que-faire-si-votre-antivirus-a-signal%C3%A9-Roblox
 [Réinitialisation de l'horloge ou Échec de l'obtention de l'URL : Échec de la requête Httpsendrequest, err=0x2f05](./Réinitialisation de l'horloge ou Échec de l'obtention de l'URL - Échec de la requête Httpsendrequest, err=0x2f05.html) |https://en.help.roblox.com/hc/fr/articles/203312830-R%C3%A9initialisation-de-l-horloge-ou-%C3%89chec-de-l-obtention-de-l-URL-%C3%89chec-de-la-requ%C3%AAte-Httpsendrequest-err-0x2f05
 [Dépannage des Réseaux éducatifs](./Dépannage des Réseaux éducatifs.html) |https://en.help.roblox.com/hc/fr/articles/115005744663-D%C3%A9pannage-des-R%C3%A9seaux-%C3%A9ducatifs
+[Messages Hyperion](./Messages Hyperion.html) |https://en.help.roblox.com/hc/fr/articles/24275616578708-Messages-Hyperion
