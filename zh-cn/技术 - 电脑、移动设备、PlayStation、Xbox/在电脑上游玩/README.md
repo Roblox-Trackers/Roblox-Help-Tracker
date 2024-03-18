@@ -18,3 +18,4 @@ Name|URL
 [如果你的防病毒软件标记了 Roblox，该怎么办](./如果你的防病毒软件标记了 Roblox，该怎么办.html) |https://en.help.roblox.com/hc/zh-cn/articles/203313030-%E5%A6%82%E6%9E%9C%E4%BD%A0%E7%9A%84%E9%98%B2%E7%97%85%E6%AF%92%E8%BD%AF%E4%BB%B6%E6%A0%87%E8%AE%B0%E4%BA%86-Roblox-%E8%AF%A5%E6%80%8E%E4%B9%88%E5%8A%9E
 [重置时钟或获取 URL 失败：Httpsendrequest failed,err=0x2f05](./重置时钟或获取 URL 失败：Httpsendrequest failed,err=0x2f05.html) |https://en.help.roblox.com/hc/zh-cn/articles/203312830-%E9%87%8D%E7%BD%AE%E6%97%B6%E9%92%9F%E6%88%96%E8%8E%B7%E5%8F%96-URL-%E5%A4%B1%E8%B4%A5-Httpsendrequest-failed-err-0x2f05
 [教育网络故障排除](./教育网络故障排除.html) |https://en.help.roblox.com/hc/zh-cn/articles/115005744663-%E6%95%99%E8%82%B2%E7%BD%91%E7%BB%9C%E6%95%85%E9%9A%9C%E6%8E%92%E9%99%A4
+[Hyperion 消息](./Hyperion 消息.html) |https://en.help.roblox.com/hc/zh-cn/articles/24275616578708-Hyperion-%E6%B6%88%E6%81%AF
