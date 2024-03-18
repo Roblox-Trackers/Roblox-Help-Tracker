@@ -1,0 +1,488 @@
+   <h1 class="article-title" id="article-title" title="Mensagens de Hyperion">
+    Mensagens de Hyperion
+   </h1>
+   <div class="article-content">
+    <div class="article-body">
+     <p>
+      O artigo contém possíveis mensagens de travamento antitrapaça com que você pode se deparar, seguidas pelas etapas para solucionar os problemas respectivos.
+     </p>
+     <p>
+     </p>
+     <h2 class="wysiwyg-indent1" id="h_01HR7Q6Y429QJPVSDNM9BY2QP3">
+      <strong>
+       Tipo de travamento
+      </strong>
+      : Falha por tempo esgotado
+     </h2>
+     <h3 class="wysiwyg-indent1" id="h_01HR7Q72Y67HCW3M8PPY787328">
+      <strong>
+       Mensagem ao usuário
+      </strong>
+      : Tempo esgotado no Roblox. Reinicie o cliente.
+     </h3>
+     <p class="wysiwyg-indent2">
+      <strong>
+       Etapas para solução de problemas
+      </strong>
+      :
+     </p>
+     <p class="wysiwyg-indent2">
+      Se encontrar a mensagem "Tempo esgotado no Roblox. Reinicie o cliente", é preciso reiniciar o cliente do Roblox. Se o problema persistir mesmo após reiniciar o cliente durante um uso regular,
+      <a href="https://www.roblox.com/support">
+       contate a nossa equipe de suporte
+      </a>
+      para receber assistência.
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h2 class="wysiwyg-indent1" id="h_01HR7Q7B6F08C2K2SZE6MF77J7">
+      <strong>
+       Tipo de travamento
+      </strong>
+      : Máquina virtual detectada
+     </h2>
+     <h3 class="wysiwyg-indent1" id="h_01HR7Q7G1ASX5S4T2H3936ZADK">
+      <strong>
+       Mensagem ao usuário
+      </strong>
+      : Roblox não roda em máquina virtual.
+     </h3>
+     <p class="wysiwyg-indent2">
+      <strong>
+       Etapas para solução de problemas
+      </strong>
+      :
+     </p>
+     <p class="wysiwyg-indent2">
+      Se encontrar a mensagem "Máquina virtual detectada", significa que a sua máquina virtual (VM) não é suportada por Roblox. Roblox requer passagem pela placa de vídeo para rodar direito dentro de uma VM. Passagem pela placa de vídeo dá à VM acesso direto à placa física, contornando a camada do hipervisor. Veja como habilitar a passagem pela placa de vídeo:
+     </p>
+     <ol>
+      <li style="list-style-type: none;">
+       <ol>
+        <li style="list-style-type: none;">
+         <ol>
+          <li class="wysiwyg-indent3">
+           Confirme que seu hardware tem suporte a passagem (GPU passthrough, em inglês)
+          </li>
+          <li class="wysiwyg-indent3">
+           Atualize as configurações da BIO/UEFI para habilitar extensões de virtualização (por ex., Intel VT-x ou AMD-V).
+          </li>
+          <li class="wysiwyg-indent3">
+           Configure a passagem pela placa de vídeo no software da VM.
+          </li>
+         </ol>
+        </li>
+       </ol>
+      </li>
+     </ol>
+     <p class="wysiwyg-indent2">
+      Siga as etapas para garantir que o Roblox rode direito num ambiente virtualizado, fornecendo o acesso necessário aos recursos da GPU.
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h2 class="wysiwyg-indent1" id="h_01HR7Q9M59KQNDFCZBCSB4WDSW">
+      <strong>
+       Tipo de travamento
+      </strong>
+      : Badware detectado
+     </h2>
+     <h3 class="wysiwyg-indent1" id="h_01HR7Q9QHMBZEMSP5Y8VSPWZ3G">
+      <strong>
+       Mensagem ao usuário
+      </strong>
+      : Roblox travou devido a software incompatível: &lt;caminho do software infrator&gt;
+     </h3>
+     <p class="wysiwyg-indent2">
+      <strong>
+       Etapas para solução de problemas
+      </strong>
+      :
+     </p>
+     <p class="wysiwyg-indent2">
+      Se encontrar a mensagem "Roblox travou devido a software incompatível:", seguido pelo caminho do software infrator, quer dizer que o software mencionado no caminho exibido está causando problemas com o Roblox. Para corrigir o problema, evite que o software rode enquanto você usa Roblox. Para isso, você pode desativar manualmente o software ou reiniciar o Windows. O método garante que apenas softwares necessários estejam ativos no sistema, minimizando conflitos.
+      <a href="https://support.microsoft.com/pt-BR/topic/como-executar-uma-inicializa%C3%A7%C3%A3o-simples-no-windows-da2f9573-6eec-00ad-2f8a-a97a1807f3dd">
+       Confira como realizar um reinício "simples", como recomendado pelo Windows
+      </a>
+      :
+     </p>
+     <ol>
+      <li style="list-style-type: none;">
+       <ol>
+        <li style="list-style-type: none;">
+         <ol>
+          <li class="wysiwyg-indent3">
+           Aperte "tecla Windows + R" para abrir o Executar.
+          </li>
+          <li class="wysiwyg-indent3">
+           Digite "msconfig" e aperte Enter.
+          </li>
+          <li class="wysiwyg-indent3">
+           Na janela de Configurações do Sistema, acesse a aba "Serviços".
+          </li>
+          <li class="wysiwyg-indent3">
+           Clique na caixa "Ocultar todos os serviços Microsoft".
+          </li>
+          <li class="wysiwyg-indent3">
+           Clique em "Desativar tudo."
+          </li>
+          <li class="wysiwyg-indent3">
+           Vá para a aba "Inicialização de Programas".
+          </li>
+          <li class="wysiwyg-indent3">
+           Clique em "Abrir Gerenciador de Tarefas."
+          </li>
+          <li class="wysiwyg-indent3">
+           Desabilite todos os itens de inicialização.
+          </li>
+          <li class="wysiwyg-indent3">
+           Feche o Gerenciador de Tarefas e a Configurações do Sistema.
+          </li>
+          <li class="wysiwyg-indent3">
+           Reinicie o computador.
+          </li>
+         </ol>
+        </li>
+       </ol>
+      </li>
+     </ol>
+     <p class="wysiwyg-indent2">
+      Concluir as etapas garantirá que nenhum software interaja com o Roblox, possibilitando que ele rode sem travar.
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h2 class="wysiwyg-indent1" id="h_01HR7QA19GFZP5ZQ04A89JH1Z0">
+      <strong>
+       Tipo de travamento
+      </strong>
+      : Processo suspenso
+     </h2>
+     <h3 class="wysiwyg-indent1" id="h_01HR7QA4YG4NQXDWGER9YEZPQQ">
+      <strong>
+       Mensagem ao usuário
+      </strong>
+      : Roblox parou. Certifique-se de que não há software externo interferindo com Roblox.
+     </h3>
+     <p class="wysiwyg-indent2">
+      <strong>
+       Etapas para solução de problemas
+      </strong>
+      :
+     </p>
+     <p class="wysiwyg-indent2">
+      Se encontrar a mensagem "Roblox parou. Certifique-se de que não há software externo interferindo com Roblox.", quer dizer que outro software no computador está causando conflitos com Roblox. Para resolver a questão, desligue todos os outros programas enquanto usa Roblox. O melhor jeito é executar um reinício limpo do Windows, que garante que apenas softwares essenciais estejam rodando no sistema.
+      <a href="https://support.microsoft.com/pt-BR/topic/como-executar-uma-inicializa%C3%A7%C3%A3o-simples-no-windows-da2f9573-6eec-00ad-2f8a-a97a1807f3dd">
+       Confira como realizar um reinício "simples", como recomendado pelo Windows
+      </a>
+      :
+     </p>
+     <ol>
+      <li style="list-style-type: none;">
+       <ol>
+        <li style="list-style-type: none;">
+         <ol>
+          <li class="wysiwyg-indent3">
+           Aperte "tecla Windows + R" para abrir o Executar.
+          </li>
+          <li class="wysiwyg-indent3">
+           Digite "msconfig" e aperte Enter.
+          </li>
+          <li class="wysiwyg-indent3">
+           Na janela de Configurações do Sistema, acesse a aba "Serviços".
+          </li>
+          <li class="wysiwyg-indent3">
+           Clique na caixa "Ocultar todos os serviços Microsoft".
+          </li>
+          <li class="wysiwyg-indent3">
+           Clique em "Desativar tudo."
+          </li>
+          <li class="wysiwyg-indent3">
+           Vá para a aba "Inicialização de Programas".
+          </li>
+          <li class="wysiwyg-indent3">
+           Clique em "Abrir Gerenciador de Tarefas."
+          </li>
+          <li class="wysiwyg-indent3">
+           Desabilite todos os itens de inicialização.
+          </li>
+          <li class="wysiwyg-indent3">
+           Feche o Gerenciador de Tarefas e a Configurações do Sistema.
+          </li>
+          <li class="wysiwyg-indent3">
+           Reinicie o computador.
+          </li>
+         </ol>
+        </li>
+       </ol>
+      </li>
+     </ol>
+     <p class="wysiwyg-indent2">
+      Concluir as etapas garantirá que nenhum software interaja com o Roblox, possibilitando que ele rode sem travar.
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h2 class="wysiwyg-indent1" id="h_01HR7QAA4FGHCHMV9NRXW8KEC1">
+      <strong>
+       Tipo de travamento
+      </strong>
+      : Integridade da inicialização comprometida
+     </h2>
+     <h3 class="wysiwyg-indent1" id="h_01HR7QAFSVBEKMFZK1KA7ADYBQ">
+      <strong>
+       Mensagem ao usuário
+      </strong>
+      : Arquivos críticos do sistema estão corrompidos. Roblox não pode rodar. Repare ou redefina a sua instalação do Windows.
+     </h3>
+     <p class="wysiwyg-indent2">
+      <strong>
+       Etapas para solução de problemas
+      </strong>
+      :
+     </p>
+     <p class="wysiwyg-indent2">
+      Roblox não funciona direito quando o Windows está no modo de depuração. Para usar Roblox, certifique-se de que o Windows esteja rodando normalmente.
+      <a href="https://learn.microsoft.com/pt-br/troubleshoot/windows-server/performance/enable-debug-mode-causes-hang">
+       Siga estes passos para verificar e desabilitar o modo de depuração no Windows
+      </a>
+      .
+     </p>
+     <ol>
+      <li style="list-style-type: none;">
+       <ol>
+        <li style="list-style-type: none;">
+         <ol>
+          <li class="wysiwyg-indent3">
+           Aperte "tecla Windows + R" para abrir o Executar.
+          </li>
+          <li class="wysiwyg-indent3">
+           Digite "msconfig" e aperte Enter.
+          </li>
+          <li class="wysiwyg-indent3">
+           Selecione a aba "Inicialização do Sistema" e então "Opções avançadas".
+          </li>
+          <li class="wysiwyg-indent3">
+           Desmarque a caixa "Depurar".
+          </li>
+          <li class="wysiwyg-indent3">
+           Selecione "OK."
+          </li>
+          <li class="wysiwyg-indent3">
+           Selecione "Aplicar" e então "OK".
+          </li>
+          <li class="wysiwyg-indent3">
+           Reinicie o computador.
+          </li>
+         </ol>
+        </li>
+       </ol>
+      </li>
+     </ol>
+     <p class="wysiwyg-indent2">
+      As etapas garantirão que o Windows não está rodando no modo de depuração, possibilitando usar Roblox sem problemas.
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h2 class="wysiwyg-indent1" id="h_01HR7QAVGYQS5Z9Q96JP0TGV17">
+      <strong>
+       Tipo de travamento
+      </strong>
+      : Imagem bloqueada
+     </h2>
+     <h3 class="wysiwyg-indent1" id="h_01HR7QAZ73VEFD9CRD1D2TJZYN">
+      <strong>
+       Mensagem ao usuário
+      </strong>
+      : Roblox travou devido a software incompatível: &lt;caminho do software infrator&gt;
+     </h3>
+     <p class="wysiwyg-indent2">
+      <strong>
+       Etapas para solução de problemas
+      </strong>
+      :
+     </p>
+     <p class="wysiwyg-indent2">
+      Se encontrar a mensagem "Roblox travou devido a software incompatível:", seguido pelo caminho do software infrator, quer dizer que o software mencionado no caminho exibido está causando problemas com o Roblox. Para corrigir o problema, evite que o software rode enquanto você usa Roblox. Para isso, você pode desativar manualmente o software ou reiniciar o Windows. O método garante que apenas softwares necessários estejam ativos no sistema, minimizando conflitos.
+      <a href="https://support.microsoft.com/en-us/topic/how-to-perform-a-clean-boot-in-windows-da2f9573-6eec-00ad-2f8a-a97a1807f3dd">
+       Confira como realizar um reinício "simples", como recomendado pelo Windows
+      </a>
+      :
+     </p>
+     <ol>
+      <li style="list-style-type: none;">
+       <ol>
+        <li style="list-style-type: none;">
+         <ol>
+          <li class="wysiwyg-indent3">
+           Aperte "tecla Windows + R" para abrir o Executar.
+          </li>
+          <li class="wysiwyg-indent3">
+           Digite "msconfig" e aperte Enter.
+          </li>
+          <li class="wysiwyg-indent3">
+           Na janela de Configurações do Sistema, acesse a aba "Serviços".
+          </li>
+          <li class="wysiwyg-indent3">
+           Clique na caixa "Ocultar todos os serviços Microsoft".
+          </li>
+          <li class="wysiwyg-indent3">
+           Clique em "Desativar tudo."
+          </li>
+          <li class="wysiwyg-indent3">
+           Vá para a aba "Inicialização de Programas".
+          </li>
+          <li class="wysiwyg-indent3">
+           Clique em "Abrir Gerenciador de Tarefas."
+          </li>
+          <li class="wysiwyg-indent3">
+           Desabilite todos os itens de inicialização.
+          </li>
+          <li class="wysiwyg-indent3">
+           Feche o Gerenciador de Tarefas e a Configurações do Sistema.
+          </li>
+          <li class="wysiwyg-indent3">
+           Reinicie o computador.
+          </li>
+         </ol>
+        </li>
+       </ol>
+      </li>
+     </ol>
+     <p class="wysiwyg-indent2">
+      Concluir as etapas garantirá que nenhum software interaja com o Roblox, possibilitando que ele rode sem travar.
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h2 class="wysiwyg-indent1" id="h_01HR7QB40CZC2VPGZXD8KG2G4N">
+      <strong>
+       Tipo de travamento
+      </strong>
+      : (OBS) Open Broadcaster Software
+     </h2>
+     <h3 class="wysiwyg-indent1" id="h_01HR7QB7QQ4KHA6NBD1DT96ECD">
+      <strong>
+       Mensagem do sistema
+      </strong>
+      : A captura no jogo de OBS costuma dar erros com Roblox. Use captura de janela ou de área de trabalho em vez disso.
+     </h3>
+     <p class="wysiwyg-indent2">
+      <strong>
+       Etapas para solução de problemas
+      </strong>
+      :
+     </p>
+     <p class="wysiwyg-indent2">
+      Se encontrar a mensagem "A captura no jogo de OBS costuma dar erros com Roblox", significa que Roblox não suporta a funcionalidade de captura no jogo do Open Broadcaster Software (OBS). Para transmitir ou gravar Roblox, você terá que usar captura de janela ou de área de trabalho em vez disso.
+      <a href="https://obsproject.com/pt-br/kb/display-capture-sources">
+       Siga as instruções para configurar captura de área de trabalho
+      </a>
+      :
+     </p>
+     <ol>
+      <li style="list-style-type: none;">
+       <ol>
+        <li style="list-style-type: none;">
+         <ol>
+          <li class="wysiwyg-indent3">
+           Abra o Open Broadcaster Software (OBS).
+          </li>
+          <li class="wysiwyg-indent3">
+           Na seção "Sources", clique no ícone "+".
+          </li>
+          <li class="wysiwyg-indent3">
+           Selecione "Display Capture" do menu.
+          </li>
+          <li class="wysiwyg-indent3">
+           Escolha a tela que deseja capturar (em geral, seu monitor primário).
+          </li>
+          <li class="wysiwyg-indent3">
+           Ajuste as configurações, como resolução e taxa de quadros, conforme necessário.
+          </li>
+          <li class="wysiwyg-indent3">
+           Clique em "OK" para confirmar a fonte de captura da exibição.
+          </li>
+          <li class="wysiwyg-indent3">
+           Configure a fonte de captura de exibição conforme desejado na sua cena do OBS.
+          </li>
+          <li class="wysiwyg-indent3">
+           Comece a transmitir ou gravar como de costume.
+          </li>
+         </ol>
+        </li>
+       </ol>
+      </li>
+     </ol>
+     <p class="wysiwyg-indent2">
+      Usando o modo de captura de área de trabalho, dá para transmitir ou gravar Roblox sem se deparar com erros de compatibilidade com a funcionalidade de captura no jogo do OBS.
+     </p>
+     <p class="wysiwyg-indent2">
+     </p>
+     <h2 class="wysiwyg-indent1" id="h_01HR7QBERF7JCBBGEZP6BBRJPH">
+      <strong>
+       Tipo de travamento
+      </strong>
+      : Interação com software externo
+     </h2>
+     <h3 class="wysiwyg-indent1" id="h_01HR7QBJCZ754JGR9VK8Z1HCFF">
+      <strong>
+       Mensagem ao usuário
+      </strong>
+      : Roblox travou devido a um software externo. Realize um reinício limpo do Windows.
+     </h3>
+     <p class="wysiwyg-indent2">
+      <strong>
+       Etapas para solução de problemas
+      </strong>
+      :
+     </p>
+     <p class="wysiwyg-indent2">
+      Se encontrar a mensagem "Roblox travou devido a um software externo", quer dizer que outro software no computador está causando conflitos com Roblox. Para resolver a questão, desligue todos os outros programas enquanto usa Roblox. O melhor jeito é executar um reinício limpo do Windows, que garante que apenas softwares essenciais estejam rodando no sistema.
+      <a href="https://support.microsoft.com/pt-BR/topic/como-executar-uma-inicializa%C3%A7%C3%A3o-simples-no-windows-da2f9573-6eec-00ad-2f8a-a97a1807f3dd">
+       Confira como realizar um reinício "simples", como recomendado pelo Windows
+      </a>
+      :
+     </p>
+     <ol>
+      <li style="list-style-type: none;">
+       <ol>
+        <li style="list-style-type: none;">
+         <ol>
+          <li class="wysiwyg-indent3">
+           Aperte "tecla Windows + R" para abrir o Executar.
+          </li>
+          <li class="wysiwyg-indent3">
+           Digite "msconfig" e aperte Enter.
+          </li>
+          <li class="wysiwyg-indent3">
+           Na janela de Configurações do Sistema, acesse a aba "Serviços".
+          </li>
+          <li class="wysiwyg-indent3">
+           Clique na caixa "Ocultar todos os serviços Microsoft".
+          </li>
+          <li class="wysiwyg-indent3">
+           Clique em "Desativar tudo."
+          </li>
+          <li class="wysiwyg-indent3">
+           Vá para a aba "Inicialização de Programas".
+          </li>
+          <li class="wysiwyg-indent3">
+           Clique em "Abrir Gerenciador de Tarefas."
+          </li>
+          <li class="wysiwyg-indent3">
+           Desabilite todos os itens de inicialização.
+          </li>
+          <li class="wysiwyg-indent3">
+           Feche o Gerenciador de Tarefas e a Configurações do Sistema.
+          </li>
+          <li class="wysiwyg-indent3">
+           Reinicie o computador.
+          </li>
+         </ol>
+        </li>
+       </ol>
+      </li>
+     </ol>
+     <p class="wysiwyg-indent2">
+      Concluir as etapas garantirá que nenhum software interaja com o Roblox, possibilitando que ele rode sem travar.
+     </p>
+    </div>
+    <!--           Add content tags to articles and posts -->
+   </div>
