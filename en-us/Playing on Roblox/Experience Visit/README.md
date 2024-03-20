@@ -14,6 +14,7 @@ Name|URL
 [How to Follow or Join Another Player In Experiences](./How to Follow or Join Another Player In Experiences.html) |https://en.help.roblox.com/hc/en-us/articles/203314220-How-to-Follow-or-Join-Another-Player-In-Experiences
 [How to Favorite a Place](./How to Favorite a Place.html) |https://en.help.roblox.com/hc/en-us/articles/203313670-How-to-Favorite-a-Place
 [In-Experience Leaderboards and Notifications](./In-Experience Leaderboards and Notifications.html) |https://en.help.roblox.com/hc/en-us/articles/204343250-In-Experience-Leaderboards-and-Notifications
+[Out of Experience Notifications](./Out of Experience Notifications.html) |https://en.help.roblox.com/hc/en-us/articles/24769602332692-Out-of-Experience-Notifications
 [How Do I Change the Color of My Name in an Experience?](./How Do I Change the Color of My Name in an Experience-.html) |https://en.help.roblox.com/hc/en-us/articles/203314200-How-Do-I-Change-the-Color-of-My-Name-in-an-Experience
 [How do I Purchase and Configure Private/VIP Servers?](./How do I Purchase and Configure Private-VIP Servers-.html) |https://en.help.roblox.com/hc/en-us/articles/205345050-How-do-I-Purchase-and-Configure-Private-VIP-Servers
 [The Test Servers](./The Test Servers.html) |https://en.help.roblox.com/hc/en-us/articles/203314170-The-Test-Servers
