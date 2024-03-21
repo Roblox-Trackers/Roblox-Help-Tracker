@@ -14,6 +14,7 @@ Name|URL
 [Cómo seguir o unirse a otro Jugador en una experiencia](./Cómo seguir o unirse a otro Jugador en una experiencia.html) |https://en.help.roblox.com/hc/es/articles/203314220-C%C3%B3mo-seguir-o-unirse-a-otro-Jugador-en-una-experiencia
 [Como Marcar un Lugar como Favorito](./Como Marcar un Lugar como Favorito.html) |https://en.help.roblox.com/hc/es/articles/203313670-Como-Marcar-un-Lugar-como-Favorito
 [Tablas de clasificación y notificaciones en la experiencia](./Tablas de clasificación y notificaciones en la experiencia.html) |https://en.help.roblox.com/hc/es/articles/204343250-Tablas-de-clasificaci%C3%B3n-y-notificaciones-en-la-experiencia
+[Notificaciones Fuera de Experiencia](./Notificaciones Fuera de Experiencia.html) |https://en.help.roblox.com/hc/es/articles/24769602332692-Notificaciones-Fuera-de-Experiencia
 [¿Cómo cambio el color de mi nombre en una experiencia?](./¿Cómo cambio el color de mi nombre en una experiencia-.html) |https://en.help.roblox.com/hc/es/articles/203314200--C%C3%B3mo-cambio-el-color-de-mi-nombre-en-una-experiencia
 [Como puedo comprar y configurar servidores Privados/VIP](./Como puedo comprar y configurar servidores Privados-VIP.html) |https://en.help.roblox.com/hc/es/articles/205345050-Como-puedo-comprar-y-configurar-servidores-Privados-VIP
 [Los Servidores de Prueba](./Los Servidores de Prueba.html) |https://en.help.roblox.com/hc/es/articles/203314170-Los-Servidores-de-Prueba
