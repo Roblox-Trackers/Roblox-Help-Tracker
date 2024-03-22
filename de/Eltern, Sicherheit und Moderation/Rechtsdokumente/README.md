@@ -15,11 +15,12 @@ Name|URL
 [Roblox-Werbebedingungen](./Roblox-Werbebedingungen.html) |https://en.help.roblox.com/hc/de/articles/15494846263060-Roblox-Werbebedingungen
 [Werbestandards](./Werbestandards.html) |https://en.help.roblox.com/hc/de/articles/13722260778260-Werbestandards
 [Nutzungsbedingungen für UGC-Abonnements](./Nutzungsbedingungen für UGC-Abonnements.html) |https://en.help.roblox.com/hc/de/articles/19694609252884-Nutzungsbedingungen-f%C3%BCr-UGC-Abonnements
-[Zusatzbedingungen für Assistent und Haftungsausschluss](./Zusatzbedingungen für Assistent und Haftungsausschluss.html) |https://en.help.roblox.com/hc/de/articles/20121392440212-Zusatzbedingungen-f%C3%BCr-Assistent-und-Haftungsausschluss
+[Ergänzende Bestimmungen und Haftungsausschluss für KI-basierte Tools](./Ergänzende Bestimmungen und Haftungsausschluss für KI-basierte Tools.html) |https://en.help.roblox.com/hc/de/articles/20121392440212-Erg%C3%A4nzende-Bestimmungen-und-Haftungsausschluss-f%C3%BCr-KI-basierte-Tools
 [Integrität der Roblox-Bewertungen](./Integrität der Roblox-Bewertungen.html) |https://en.help.roblox.com/hc/de/articles/7235818866964-Integrit%C3%A4t-der-Roblox-Bewertungen
 [Roblox-Datenschutzhinweis zur Gesichtsanimation](./Roblox-Datenschutzhinweis zur Gesichtsanimation.html) |https://en.help.roblox.com/hc/de/articles/8064749848980-Roblox-Datenschutzhinweis-zur-Gesichtsanimation
 [Roblox SMS-Nutzungsbedingungen](./Roblox SMS-Nutzungsbedingungen.html) |https://en.help.roblox.com/hc/de/articles/9483830673556-Roblox-SMS-Nutzungsbedingungen
 [Nutzungsbedingungen für den Rechte-Manager](./Nutzungsbedingungen für den Rechte-Manager.html) |https://en.help.roblox.com/hc/de/articles/21857240911380-Nutzungsbedingungen-f%C3%BCr-den-Rechte-Manager
+[Lizenzvereinbarung für das Hochladen von Audio-Inhalten](./Lizenzvereinbarung für das Hochladen von Audio-Inhalten.html) |https://en.help.roblox.com/hc/de/articles/23359485439124-Lizenzvereinbarung-f%C3%BCr-das-Hochladen-von-Audio-Inhalten
 [Inhaltsmoderation auf Roblox](./Inhaltsmoderation auf Roblox.html) |https://en.help.roblox.com/hc/de/articles/21416271342868-Inhaltsmoderation-auf-Roblox
 [CPRA-Datenschutzrichtlinie](./CPRA-Datenschutzrichtlinie.html) |https://en.help.roblox.com/hc/de/articles/4402871541140-CPRA-Datenschutzrichtlinie
 [Bedingungen für Entwickleranwendungen von Drittanbietern](./Bedingungen für Entwickleranwendungen von Drittanbietern.html) |https://en.help.roblox.com/hc/de/articles/15887203369620-Bedingungen-f%C3%BCr-Entwickleranwendungen-von-Drittanbietern
@@ -31,4 +32,3 @@ Name|URL
 [Promo-Codes auf Roblox](./Promo-Codes auf Roblox.html) |https://en.help.roblox.com/hc/de/articles/10549651908244-Promo-Codes-auf-Roblox
 [Empfehlungen und Ranking auf Roblox](./Empfehlungen und Ranking auf Roblox.html) |https://en.help.roblox.com/hc/de/articles/21416941036564-Empfehlungen-und-Ranking-auf-Roblox
 [Help-Center-FAQs für Strafverfolgungsbehörden](./Help-Center-FAQs für Strafverfolgungsbehörden.html) |https://en.help.roblox.com/hc/de/articles/11219680442260-Help-Center-FAQs-f%C3%BCr-Strafverfolgungsbeh%C3%B6rden
-[Verwendung von lizenzierter Musik in Videos](./Verwendung von lizenzierter Musik in Videos.html) |https://en.help.roblox.com/hc/de/articles/360038525351-Verwendung-von-lizenzierter-Musik-in-Videos
