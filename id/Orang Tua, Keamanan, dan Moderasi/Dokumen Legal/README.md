@@ -15,11 +15,12 @@ Name|URL
 [Ketentuan Periklanan Roblox](./Ketentuan Periklanan Roblox.html) |https://en.help.roblox.com/hc/id/articles/15494846263060-Ketentuan-Periklanan-Roblox
 [Standar Periklanan](./Standar Periklanan.html) |https://en.help.roblox.com/hc/id/articles/13722260778260-Standar-Periklanan
 [Ketentuan Penggunaan Subscription UGC](./Ketentuan Penggunaan Subscription UGC.html) |https://en.help.roblox.com/hc/id/articles/19694609252884-Ketentuan-Penggunaan-Subscription-UGC
-[Ketentuan dan Penafian Tambahan Assistant](./Ketentuan dan Penafian Tambahan Assistant.html) |https://en.help.roblox.com/hc/id/articles/20121392440212-Ketentuan-dan-Penafian-Tambahan-Assistant
+[Ketentuan Tambahan dan Penafian untuk Alat Berbasis AI](./Ketentuan Tambahan dan Penafian untuk Alat Berbasis AI.html) |https://en.help.roblox.com/hc/id/articles/20121392440212-Ketentuan-Tambahan-dan-Penafian-untuk-Alat-Berbasis-AI
 [Integritas Rating Roblox](./Integritas Rating Roblox.html) |https://en.help.roblox.com/hc/id/articles/7235818866964-Integritas-Rating-Roblox
 [Pemberitahuan Privasi Animasi Wajah Roblox](./Pemberitahuan Privasi Animasi Wajah Roblox.html) |https://en.help.roblox.com/hc/id/articles/8064749848980-Pemberitahuan-Privasi-Animasi-Wajah-Roblox
 [Ketentuan Layanan SMS Roblox](./Ketentuan Layanan SMS Roblox.html) |https://en.help.roblox.com/hc/id/articles/9483830673556-Ketentuan-Layanan-SMS-Roblox
 [Ketentuan Penggunaan Pengelola Hak](./Ketentuan Penggunaan Pengelola Hak.html) |https://en.help.roblox.com/hc/id/articles/21857240911380-Ketentuan-Penggunaan-Pengelola-Hak
+[Perjanjian Lisensi Unggahan Audio](./Perjanjian Lisensi Unggahan Audio.html) |https://en.help.roblox.com/hc/id/articles/23359485439124-Perjanjian-Lisensi-Unggahan-Audio
 [Moderasi Konten di Roblox](./Moderasi Konten di Roblox.html) |https://en.help.roblox.com/hc/id/articles/21416271342868-Moderasi-Konten-di-Roblox
 [Kebijakan Privasi CPRA](./Kebijakan Privasi CPRA.html) |https://en.help.roblox.com/hc/id/articles/4402871541140-Kebijakan-Privasi-CPRA
 [Ketentuan Aplikasi Pihak Ketiga Kreator](./Ketentuan Aplikasi Pihak Ketiga Kreator.html) |https://en.help.roblox.com/hc/id/articles/15887203369620-Ketentuan-Aplikasi-Pihak-Ketiga-Kreator
@@ -31,4 +32,3 @@ Name|URL
 [Rekomendasi dan Peringkat di Roblox](./Rekomendasi dan Peringkat di Roblox.html) |https://en.help.roblox.com/hc/id/articles/21416941036564-Rekomendasi-dan-Peringkat-di-Roblox
 [Pusat Bantuan untuk Penegak Hukum](./Pusat Bantuan untuk Penegak Hukum.html) |https://en.help.roblox.com/hc/id/articles/11219680442260-Pusat-Bantuan-untuk-Penegak-Hukum
 [Menggunakan Musik Berlisensi di Video](./Menggunakan Musik Berlisensi di Video.html) |https://en.help.roblox.com/hc/id/articles/360038525351-Menggunakan-Musik-Berlisensi-di-Video
-[Pelaporan Konten Ilegal di Uni Eropa](./Pelaporan Konten Ilegal di Uni Eropa.html) |https://en.help.roblox.com/hc/id/articles/23607654421524-Pelaporan-Konten-Ilegal-di-Uni-Eropa
