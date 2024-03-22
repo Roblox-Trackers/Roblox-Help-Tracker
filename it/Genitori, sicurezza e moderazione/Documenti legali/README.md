@@ -15,11 +15,12 @@ Name|URL
 [Condizioni per la pubblicità su Roblox](./Condizioni per la pubblicità su Roblox.html) |https://en.help.roblox.com/hc/it/articles/15494846263060-Condizioni-per-la-pubblicit%C3%A0-su-Roblox
 [Norme sulla pubblicità](./Norme sulla pubblicità.html) |https://en.help.roblox.com/hc/it/articles/13722260778260-Norme-sulla-pubblicit%C3%A0
 [Termini di utilizzo dell'abbonamento UGC](./Termini di utilizzo dell'abbonamento UGC.html) |https://en.help.roblox.com/hc/it/articles/19694609252884-Termini-di-utilizzo-dell-abbonamento-UGC
-[Condizioni e clausola di esclusione di responsabilità](./Condizioni e clausola di esclusione di responsabilità.html) |https://en.help.roblox.com/hc/it/articles/20121392440212-Condizioni-e-clausola-di-esclusione-di-responsabilit%C3%A0
+[Condizioni supplementari riguardanti gli strumenti basati sull'intelligenza artificiale ed esclusione di responsabilità](./Condizioni supplementari riguardanti gli strumenti basati sull'intelligenza artificiale ed esclusione di responsabilità.html) |https://en.help.roblox.com/hc/it/articles/20121392440212-Condizioni-supplementari-riguardanti-gli-strumenti-basati-sull-intelligenza-artificiale-ed-esclusione-di-responsabilit%C3%A0
 [Integrità della valutazione Roblox](./Integrità della valutazione Roblox.html) |https://en.help.roblox.com/hc/it/articles/7235818866964-Integrit%C3%A0-della-valutazione-Roblox
 [Informativa sulla privacy per l'animazione facciale di Roblox](./Informativa sulla privacy per l'animazione facciale di Roblox.html) |https://en.help.roblox.com/hc/it/articles/8064749848980-Informativa-sulla-privacy-per-l-animazione-facciale-di-Roblox
 [Termini di servizio SMS di Roblox](./Termini di servizio SMS di Roblox.html) |https://en.help.roblox.com/hc/it/articles/9483830673556-Termini-di-servizio-SMS-di-Roblox
 [Termini di Servizio di Gestore diritti](./Termini di Servizio di Gestore diritti.html) |https://en.help.roblox.com/hc/it/articles/21857240911380-Termini-di-Servizio-di-Gestore-diritti
+[Contratto di licenza per il caricamento di audio](./Contratto di licenza per il caricamento di audio.html) |https://en.help.roblox.com/hc/it/articles/23359485439124-Contratto-di-licenza-per-il-caricamento-di-audio
 [Moderazione dei contenuti su Roblox](./Moderazione dei contenuti su Roblox.html) |https://en.help.roblox.com/hc/it/articles/21416271342868-Moderazione-dei-contenuti-su-Roblox
 [Politica sulla riservatezza CPRA](./Politica sulla riservatezza CPRA.html) |https://en.help.roblox.com/hc/it/articles/4402871541140-Politica-sulla-riservatezza-CPRA
 [Condizioni per app di Creatori terzi](./Condizioni per app di Creatori terzi.html) |https://en.help.roblox.com/hc/it/articles/15887203369620-Condizioni-per-app-di-Creatori-terzi
@@ -31,4 +32,3 @@ Name|URL
 [Suggerimenti e posizionamento su Roblox](./Suggerimenti e posizionamento su Roblox.html) |https://en.help.roblox.com/hc/it/articles/21416941036564-Suggerimenti-e-posizionamento-su-Roblox
 [Domande frequenti sul Centro assistenza per le forze dell'ordine](./Domande frequenti sul Centro assistenza per le forze dell'ordine.html) |https://en.help.roblox.com/hc/it/articles/11219680442260-Domande-frequenti-sul-Centro-assistenza-per-le-forze-dell-ordine
 [Utilizzo di musica con licenza su Roblox](./Utilizzo di musica con licenza su Roblox.html) |https://en.help.roblox.com/hc/it/articles/360038525351-Utilizzo-di-musica-con-licenza-su-Roblox
-[Denuncia di contenuti illegali nell'Unione Europea](./Denuncia di contenuti illegali nell'Unione Europea.html) |https://en.help.roblox.com/hc/it/articles/23607654421524-Denuncia-di-contenuti-illegali-nell-Unione-Europea
