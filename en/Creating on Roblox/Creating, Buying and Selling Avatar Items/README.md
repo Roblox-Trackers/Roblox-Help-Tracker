@@ -8,7 +8,7 @@ Name|URL
 [What is Virtual Gear?](./What is Virtual Gear-.html) |https://en.help.roblox.com/hc/en-us/articles/203313630-What-is-Virtual-Gear
 [The Marketplace](./The Marketplace.html) |https://en.help.roblox.com/hc/en-us/articles/203313300-The-Marketplace
 [How to Sell Items](./How to Sell Items.html) |https://en.help.roblox.com/hc/en-us/articles/203313260-How-to-Sell-Items
-[Creating and Selling Clothing](./Creating and Selling Clothing.html) |https://en.help.roblox.com/hc/en-us/articles/203313180-Creating-and-Selling-Clothing
+[Creating and Selling Avatar Items](./Creating and Selling Avatar Items.html) |https://en.help.roblox.com/hc/en-us/articles/203313180-Creating-and-Selling-Avatar-Items
 [Trading System](./Trading System.html) |https://en.help.roblox.com/hc/en-us/articles/203313310-Trading-System
 [All About Gift Items](./All About Gift Items.html) |https://en.help.roblox.com/hc/en-us/articles/205630374-All-About-Gift-Items
 [How Do I Get Promotional or Contest Items?](./How Do I Get Promotional or Contest Items-.html) |https://en.help.roblox.com/hc/en-us/articles/203313270-How-Do-I-Get-Promotional-or-Contest-Items
